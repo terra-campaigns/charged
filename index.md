@@ -26,9 +26,8 @@ footer_content:
 
 ### novels & films
 
+{% comment %} Session text
 
-
----
 ## Open Table
 
 **GM:** efsa (Estêvão)  
@@ -45,7 +44,6 @@ footer_content:
 **Notes**:  
 Downtime and some light conversations with characters may be done through PbP.
 
-{% comment %} Session text
 
 **unsettled** | Cairn 2e [Open Table]
 
