@@ -15,7 +15,13 @@ footer_content:
 
 ---
 
-![](../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)
+{% comment %} Inspiration modules
+
+- Ultraviolet Grasslands
+- Electric Bastionland for some of the initial backgrounds
+
+{% endcomment %}
+
 
 You have failed as citizens of your castes in the Hegemony's capital.
 Since then, you have accumulated enormous debts with one of the capital's factions.
@@ -25,25 +31,14 @@ This pioneer issued a permit to export you to the Violet City in the northern st
 Upon arriving in the Violet City, you can still acquire an import permit to return to the Hegemony.
 But this will cost £3,500.
 
-***Versão em Português***
+### Versão em Português
 {: .text-right}
 
 Vocês falharam como cidadãos das suas castas, na capital da Hegemonia. Desde então, vocês acumularam débitos altíssimos com uma das facções da capital. 
 
 Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emitiu uma permissão para exportar você para a Cidade Violeta nas estepes do norte. Ao chegarem na Cidade Violeta, vocês ainda podem adquirir uma permissão de importação, para voltarem para a Hegemonia. Mas isso vai custar £ 3.500.
 
----
-## Appendix N
-
-### art board
-
-<iframe style="border-radius:12px" src="https://petracoding.github.io/pinterest/board.html?link=estevaoseco/charged/&hideHeader=1&hideFooter=1&transparent=1" width="100%" height="652" frameBorder="0" style="color-scheme: site" allowfullscreen=""></iframe>
-
-### playlist
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3sTCMlmuKBhgN1OSUWzxGd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+![](../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)
 
 ---
 ## System

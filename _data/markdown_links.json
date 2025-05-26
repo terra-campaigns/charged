@@ -81,6 +81,36 @@
                 "favicon": "https://kettlewright.com/favicon.ico"
             }
         ],
+        "_site/README.md": [
+            {
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            },
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "Dark Super Pastels",
+                "url": "https://www.pastelcolorpalettes.com/dark-super-pastels",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.pastelcolorpalettes.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
         "campaigns/FailedExports/ep_001.md": [
             {
                 "text": "Leonti Vites",
