@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Aubrey&family=Geist+Mono:wght@100..900&family=Glass+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body{
-  font-family: 'Geist Mono';
+  font-family: 'Ubuntu Mono';
   font-weight: 400;
-  font-size: 0.9rem;
+  font-size: 1.0rem;
 }
 
 h1, h2, h3, h4 {
-  font-family: "Glass Antiqua";
+  font-family: "Megrim";
   font-weight: 700;
   font-style: normal;
 }
@@ -40,7 +40,7 @@ tbody tr:last-of-type td{
 }
 
 .nav-list .nav-list-item .nav-list-link {
-font-size: 0.8rem;
+font-size: 0.9rem;
 }
 
 /* Calendar */

@@ -81,34 +81,96 @@
                 "favicon": "https://kettlewright.com/favicon.ico"
             }
         ],
-        "_site/README.md": [
+        "campaigns/FailedExports/ep_001.md": [
             {
-                "text": "Testing your GitHub Pages site locally with Jekyll",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
-                "is_internal": false,
+                "text": "Leonti Vites",
+                "url": "campaigns/FailedExports/directory/VioletCity/LeontiVites.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico"
+                "favicon": null
             },
             {
-                "text": "instructions for macOS",
-                "url": "https://jekyllrb.com/docs/installation/macos/",
-                "is_internal": false,
+                "text": "Ferno",
+                "url": "campaigns/FailedExports/directory/Caravan1/Ferno.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://jekyllrb.com/favicon.ico"
+                "favicon": null
             },
             {
-                "text": "Dark Super Pastels",
-                "url": "https://www.pastelcolorpalettes.com/dark-super-pastels",
-                "is_internal": false,
+                "text": "Juao",
+                "url": "campaigns/FailedExports/directory/Caravan1/Juao.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://www.pastelcolorpalettes.com/favicon.ico"
+                "favicon": null
             },
             {
-                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
-                "is_internal": false,
+                "text": "Piero",
+                "url": "campaigns/FailedExports/directory/Caravan1/Piero.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico"
+                "favicon": null
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/FailedExports/directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/FailedExports/directory/VioletCity/LastChairSaloon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/FailedExports/directory/VioletCity/LeontiVites.md": [
+            {
+                "text": "Leonti Vites",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/Caravan1/Ferno.md": [
+            {
+                "text": "Ferno",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/Caravan1/Juao.md": [
+            {
+                "text": "Juao",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/Caravan1/Piero.md": [
+            {
+                "text": "Piero",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/VioletCity/index.md": [
+            {
+                "text": "Violet City",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/directory/VioletCity/LastChairSaloon.md": [
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "systems/index.md": [
