@@ -32,6 +32,13 @@
         ],
         "index.md": [
             {
+                "text": "Ultraviolet Grasslands",
+                "url": "https://wizardthieffighter.itch.io/uvg-2e",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
+            },
+            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,
@@ -39,8 +46,8 @@
                 "favicon": "https://www.thearcanelibrary.com/favicon.ico"
             },
             {
-                "text": "Campaign website",
-                "url": "https://terra-campaigns.github.io/unsettled/campaigns/Book_01/",
+                "text": "***charged*** website",
+                "url": "https://terra-campaigns.github.io/charged/",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
@@ -100,48 +107,48 @@
         "campaigns/FailedExports/ep_001.md": [
             {
                 "text": "Leonti Vites",
-                "url": "campaigns/FailedExports/directory/VioletCity/LeontiVites.md",
+                "url": "directory/VioletCity/LeontiVites.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Ferno",
-                "url": "campaigns/FailedExports/directory/Caravan1/Ferno.md",
+                "url": "directory/Caravan1/Ferno.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Juao",
-                "url": "campaigns/FailedExports/directory/Caravan1/Juao.md",
+                "url": "directory/Caravan1/Juao.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Piero",
-                "url": "campaigns/FailedExports/directory/Caravan1/Piero.md",
+                "url": "directory/Caravan1/Piero.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Violet City",
-                "url": "campaigns/FailedExports/directory/VioletCity/index.md",
+                "url": "directory/VioletCity/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Last Chair Saloon",
-                "url": "campaigns/FailedExports/directory/VioletCity/LastChairSaloon.md",
+                "url": "directory/VioletCity/LastChairSaloon.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             }
         ],
-        "campaigns/FailedExports/directory/VioletCity/LeontiVites.md": [
+        "directory/VioletCity/LeontiVites.md": [
             {
                 "text": "Leonti Vites",
                 "url": "campaigns/FailedExports/ep_001.md",
@@ -149,7 +156,7 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/FailedExports/directory/Caravan1/Ferno.md": [
+        "directory/Caravan1/Ferno.md": [
             {
                 "text": "Ferno",
                 "url": "campaigns/FailedExports/ep_001.md",
@@ -157,7 +164,7 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/FailedExports/directory/Caravan1/Juao.md": [
+        "directory/Caravan1/Juao.md": [
             {
                 "text": "Juao",
                 "url": "campaigns/FailedExports/ep_001.md",
@@ -165,7 +172,7 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/FailedExports/directory/Caravan1/Piero.md": [
+        "directory/Caravan1/Piero.md": [
             {
                 "text": "Piero",
                 "url": "campaigns/FailedExports/ep_001.md",
@@ -173,7 +180,7 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/FailedExports/directory/VioletCity/index.md": [
+        "directory/VioletCity/index.md": [
             {
                 "text": "Violet City",
                 "url": "campaigns/FailedExports/ep_001.md",
@@ -181,7 +188,7 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/FailedExports/directory/VioletCity/LastChairSaloon.md": [
+        "directory/VioletCity/LastChairSaloon.md": [
             {
                 "text": "Last Chair Saloon",
                 "url": "campaigns/FailedExports/ep_001.md",
