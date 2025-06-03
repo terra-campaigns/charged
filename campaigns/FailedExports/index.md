@@ -11,16 +11,9 @@ footer_content:
 
 ---
 
-{% include header_directories.md %}
+# {{ page.title }}
 
-{% comment %} Inspiration modules
-
-- Ultraviolet Grasslands
-- Electric Bastionland for some of the initial backgrounds
-
-{% endcomment %}
-
----
+![](../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)
 
 You have failed as citizens of your castes in the Hegemony's capital.
 Since then, you have accumulated enormous debts with one of the capital's factions.
@@ -37,10 +30,10 @@ Vocês falharam como cidadãos das suas castas, na capital da Hegemonia. Desde e
 
 Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emitiu uma permissão para exportar você para a Cidade Violeta nas estepes do norte. Ao chegarem na Cidade Violeta, vocês ainda podem adquirir uma permissão de importação, para voltarem para a Hegemonia. Mas isso vai custar £ 3.500.
 
-![](../../imgs/gallery/e67928ac699fa366c598382ee730c936.jpg)
+{% include connected_to.html %}
 
 ---
-## System
+# System
 
 ***Failed Exports*** is a **Cairn 2e** campaign, using alternative backgrounds.  
 **Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
@@ -59,7 +52,7 @@ Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emiti
 </div>
 </details>
 
-### Travel procedures
+## Travel procedures
 
 Cairn travel procedures are replaced with UVG's.  
 For tables that go to 20+, PCs may roll an additional d6 if they have a relevant background.

@@ -7,7 +7,6 @@ has_children: true
 has_toc: false
 
 parent: Directory
-grand_parent: Failed Exports
 title: 1 Violet City
 role: 
 status: 

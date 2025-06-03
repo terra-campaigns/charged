@@ -39,46 +39,32 @@
                 "favicon": "https://www.thearcanelibrary.com/favicon.ico"
             },
             {
-                "text": "Cairn 2e",
-                "url": "https://cairnrpg.com/second-edition/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://cairnrpg.com/favicon.ico"
-            },
-            {
                 "text": "Campaign website",
-                "url": "https://terra-campaigns.github.io/unsettled/",
+                "url": "https://terra-campaigns.github.io/unsettled/campaigns/Book_01/",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "Latest events",
-                "url": "https://terra-campaigns.github.io/unsettled/#timeline-of-events",
+                "text": "TTRPG system & chargen",
+                "url": "https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "Create a character",
-                "url": "https://terra-campaigns.github.io/unsettled/systems/#character-generation",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Campaign hexmap",
-                "url": "https://www.owlbear.rodeo/room/yxcSrOn0eZ_r/Unsettled",
+                "text": "Owlbear Rodeo",
+                "url": "https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://www.owlbear.rodeo/favicon.ico"
             },
             {
-                "text": "Kettlewright",
-                "url": "https://kettlewright.com/",
+                "text": "Inventory Management",
+                "url": "https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://kettlewright.com/favicon.ico"
+                "favicon": "https://docs.google.com/favicon.ico"
             }
         ],
         "_site/README.md": [
