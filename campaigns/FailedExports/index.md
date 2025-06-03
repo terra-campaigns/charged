@@ -13,8 +13,6 @@ footer_content:
 
 {% include header_directories.md %}
 
----
-
 {% comment %} Inspiration modules
 
 - Ultraviolet Grasslands
@@ -22,6 +20,7 @@ footer_content:
 
 {% endcomment %}
 
+---
 
 You have failed as citizens of your castes in the Hegemony's capital.
 Since then, you have accumulated enormous debts with one of the capital's factions.
