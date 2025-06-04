@@ -46,7 +46,7 @@
                 "favicon": "https://www.thearcanelibrary.com/favicon.ico"
             },
             {
-                "text": "***charged*** website",
+                "text": "***charged*** art, music, inspiration",
                 "url": "https://terra-campaigns.github.io/charged/",
                 "is_internal": false,
                 "direction": "outbound",
@@ -54,21 +54,21 @@
             },
             {
                 "text": "TTRPG system & chargen",
-                "url": "https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system",
+                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
                 "text": "Owlbear Rodeo",
-                "url": "https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled",
+                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://www.owlbear.rodeo/favicon.ico"
             },
             {
-                "text": "Inventory Management",
-                "url": "https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0",
+                "text": "Caravan Management",
+                "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.google.com/favicon.ico"

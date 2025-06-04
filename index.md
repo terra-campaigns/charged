@@ -30,20 +30,20 @@ footer_content:
 
 **GMs:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Fortnightly on Thursdays?  
-**Time & Duration**: 1900 UTC for 2.5h?  
+**Frequency**:
+- Thursdays, every 3 weeks, from <t:1749060900:t> to <t:1749068100:t>
+- Sundays, every 5 weeks, from <t:1749065400:t> to <t:1749072600:t>
 **Sign-up**: First come, first served;  2-5 players  
 **Genre**: Science Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
 **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, oppression, drugs  
 **Useful links**:  
-[***charged*** website](https://terra-campaigns.github.io/charged/)  
-
-[UVG+24XX campaign](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/)    
-[TTRPG system & chargen](https://terra-campaigns.github.io/unsettled/campaigns/Book_01/#system)  
-[Owlbear Rodeo](https://www.owlbear.rodeo/room/c0ZVXgEpQqLd/usettled)
-[Inventory Management](https://docs.google.com/spreadsheets/d/1NtuCQ-6oy5MD8iUA65_5N1TAezPsuV546jgH2-wI-BM/edit?gid=0#gid=0)
+- [***charged*** art, music, inspiration](https://terra-campaigns.github.io/charged/)  
+- [UVG+24XX campaign](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/)    
+- [TTRPG system & chargen](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system)  
+- [Owlbear Rodeo](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
+- [Caravan Management](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
 **Notes**:  
 Downtime and some light conversations with characters can be conducted through PBP.
 
