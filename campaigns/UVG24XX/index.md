@@ -36,9 +36,8 @@ It almost warms my bones.”
 ---
 # System
 
-***Failed Exports*** is a **24XX** campaign.  
 **24XX**'s <a href="https://jasontocci.itch.io/24xx" target="_blank">SRD</a> is available for free.  
-The required rules are self-contained on this page.
+The required rules are self-contained on this page, and are inspired in Luka Rejec's UVG.
 
 <details close markdown="block">
   <summary id="index">
@@ -75,6 +74,49 @@ Take the highest die.
 
 If success can’t get you what you want (you make the shot, but it’s bulletproof!), you’ll at least get useful info or set up an advantage.
 
+### Incomplete list of skills
+
+**Apothecary** — Mix poisons, potions, and medicines.  
+**Archaeology** —  Discover lost artefacts, climb, jump, dodge boulders.   
+**Big Game Hunting** — Shoot big guns, order slaves around, ride on an elephant, chomp cigars, talk turkey.  
+**Biomechanics** — Modify living organisms with body-horror magic.  
+**Cat Grooming** — Make cats happy and receive their love.  
+**Chemistry** — Make explosives, cook drugs. Ok, won’t detail all of them.  
+**Coffee Making** — Make coffee, grow coffee, run a plantation or bar.  
+**Comedy** — Bring joy, laughter, and inappropriate sounds.  
+**Contortionist** — Squeeze into small places. Put on circus shows.  
+**Crystal Healing** — Use placebo effects to your advantage. Focus magics.  
+**Dice Maker** — Make dice. Carve small things. Cheat at dice.  
+**Fishing** —  Catch fish. Also, hooks, boats, nets, and things.  
+**Foraging** — Know and find your berries, nuts and mushrooms.  
+**Gun Running** —  Shoot guns, hide things, sell illegal goods.  
+**Hallucination** — Travel in your dreams. Talk to spirits and chairs.  
+**Legume Farming** — Grow beans. Wake up early. Till fields. Work long hours. Pay onerous taxes. Sell legumes.  
+**Marketing** — Sell magic legumes.  
+**Masonry** —  Build buildings. Shape stones. Understand dungeons.  
+**Mule-whispering** — Get pack animals to get along. Have animal friends. Keep them happy.  
+**Narco-herbalism** — Know and find and smoke and dry and preserve your inappropriate berries and herbs.  
+**Navigation** — Find your way by stars and winds, and waypoints.  
+**Necromancy** — Talk to the dead. Sometimes walk them, too.  
+**Nomad Raiding** — Ride like lightning. Steal cattle. Shoot guns and bows. Skirmish. Guerrilla tactics.  
+**Oldtech** — Use Long Long Ago technomagic. Understand emoji.  
+**Packing** — Know how to pack stuff effectively.  
+**Phytomancy** — Talking to plants and making them move for you.  
+**Profiteering** — Also known as business administration.  
+**Project Management** — Consummate middle managerial skills, organising time sheets, setting KPIs.  
+**Protocol** — Coffee ceremonies, modes of address, titles and such.  
+**Puppet Theatre** — Theatre. But with puppets.  
+**Safe Driving** — Rally, drifting, stunt driving, and crashing safely.  
+**Showfighting** — Swords, halberds, whirly blades! Dancing!  
+**Soul Juicing** — Reading people’s intentions and possessing their bodies.  
+**Spelunking** — Venture into deep places. Climbing, rappelling, diving.  
+**Storytelling** — Telling good stories with satisfying endings.  
+**Surgery** — Medicine with a focus on knives and sewing needles.  
+**Tactics** — Find and use strategic advantages for war or business.  
+**The Business** — The corporations, banks, and self-help associations that lubricate the world. Shaking up recalcitrants.  
+**The War** — History. Using ancient war machines.  
+**Vome Tech** — Adapting and using vomish implants. Managing their side effects. Enslaving vomes.  
+
 ### Advancement
 When the highest die rolls max, you may turn it into a **1** to increase a **skill** (d6→d8→d10→d12).
 
@@ -87,9 +129,23 @@ Injuries take time and/or medical attention to heal.
 If killed, make a new character to be introduced ASAP.
 Favour inclusion over realism.
 
-## This week the caravan is...
+## Caravaning
 
-For tables that go to 20+, you may add your **skill** die.
+### Sacks
+
+Inventory is abstracted in **Sacks**.
+A **Sack** is:
+
+- All your adventuring and professional gear. If in doubt whether something is available in your **Sack**, roll your skill die.
+- A **Sack** of supplies is enough food, water and toilet paper to survive a week.
+- One unconscious human.
+- A unit of trade goods.
+
+### This week the caravan is...
+
+The flowchart below establishes the rules for running caravans.
+Roll a d20 in most of the tables.
+For those who go to 20+, you may add your **skill** die to the roll.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
 
