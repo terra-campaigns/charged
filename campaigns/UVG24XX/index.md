@@ -41,10 +41,9 @@ The required rules are self-contained on this page, and are inspired in Luka Rej
 
 <details close markdown="block">
   <summary id="index">
-    <b>Click to create a character</b><br> 
+    <b>EXPAND TO GENERATE A CHARACTER</b>
   </summary>
----
-<div style="height:25vh; width:110%;">
+<div style="height:35vh; width:110%;">
   <iframe
     src="https://null.perchance.org/chargedrpg-uvg"
     style="border:none; width:90%; height:100%;"
@@ -53,28 +52,10 @@ The required rules are self-contained on this page, and are inspired in Luka Rej
 </div>
 </details>
 
-## Play
-
-Players describe what they do.
-The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk.
-Players can revise plans before committing to change goal/stakes.
-Only roll to avoid risk.
-
-## Rolling
-
-Roll a ***skill*** die — d6 by default, higher with a relevant ***skill***, or d4 if hindered by injury or circumstances.
-If helped by circumstances, roll an extra d6; if aided by an ally, they roll their ***skill*** die and share the risk.
-Take the highest die.
-
-|         |                                                                                                          |
-| ------- | -------------------------------------------------------------------------------------------------------- |
-| **1-2** | **Disaster**. Suffer the full risk. <br>GM decides if you succeed at all.<br>If you risk death, you die. |
-| **3-4** | **Setback**. A lesser consequence or partial success.<br>If you risk death, you’re injured.              |
-| **5+**  | **Success**. The higher the roll, the better.                                                            |
-
-If success can’t get you what you want (you make the shot, but it’s bulletproof!), you’ll at least get useful info or set up an advantage.
-
-### Incomplete list of skills
+<details close markdown="block">
+  <summary id="index">
+    <b>EXPAND FOR INCOMPLETE LIST OF SKILLS</b>
+  </summary>
 
 **Apothecary** — Mix poisons, potions, and medicines.  
 **Archaeology** —  Discover lost artefacts, climb, jump, dodge boulders.   
@@ -116,6 +97,30 @@ If success can’t get you what you want (you make the shot, but it’s bulletpr
 **The Business** — The corporations, banks, and self-help associations that lubricate the world. Shaking up recalcitrants.  
 **The War** — History. Using ancient war machines.  
 **Vome Tech** — Adapting and using vomish implants. Managing their side effects. Enslaving vomes.  
+
+</details>
+
+
+## Play
+
+Players describe what they do.
+The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk.
+Players can revise plans before committing to change goal/stakes.
+Only roll to avoid risk.
+
+## Rolling
+
+Roll a ***skill*** die — d6 by default, higher with a relevant ***skill***, or d4 if hindered by injury or circumstances.
+If helped by circumstances, roll an extra d6; if aided by an ally, they roll their ***skill*** die and share the risk.
+Take the highest die.
+
+|         |                                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------------- |
+| **1-2** | **Disaster**. Suffer the full risk. <br>GM decides if you succeed at all.<br>If you risk death, you die. |
+| **3-4** | **Setback**. A lesser consequence or partial success.<br>If you risk death, you’re injured.              |
+| **5+**  | **Success**. The higher the roll, the better.                                                            |
+
+If success can’t get you what you want (you make the shot, but it’s bulletproof!), you’ll at least get useful info or set up an advantage.
 
 ### Advancement
 When the highest die rolls max, you may turn it into a **1** to increase a **skill** (d6→d8→d10→d12).
