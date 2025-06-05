@@ -36,11 +36,12 @@ Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emiti
 # System
 
 ***Failed Exports*** is a **Cairn 2e** campaign, using alternative backgrounds.  
-**Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.
+**Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.  
+**UVG**'s <a href="https://wizardthieffighter.itch.io/uvg-free-player-guide" target="_blank">Player Guide</a> is also available for free.  
 
 <details close markdown="block">
   <summary id="index">
-    <b>Click to create a character</b><br> 
+    <b>EXPAND TO CREATE A CHARACTER</b><br> 
   </summary>
 ---
 <div style="height:60vh; width:110%;">

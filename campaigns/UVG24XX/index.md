@@ -36,8 +36,8 @@ It almost warms my bones.”
 ---
 # System
 
-**24XX**'s <a href="https://jasontocci.itch.io/24xx" target="_blank">SRD</a> is available for free.  
-The required rules are self-contained on this page, and are inspired in Luka Rejec's UVG.
+**24XX**'s <a href="https://jasontocci.itch.io/24xx" target="_blank">SRD</a> and **UVG**'s <a href="https://wizardthieffighter.itch.io/uvg-free-player-guide" target="_blank">Player Guide</a> are available for free.  
+The required rules are self-contained on this page.
 
 <details close markdown="block">
   <summary id="index">
@@ -51,6 +51,7 @@ The required rules are self-contained on this page, and are inspired in Luka Rej
   ></iframe>
 </div>
 </details>
+
 
 <details close markdown="block">
   <summary id="index">
@@ -163,3 +164,9 @@ Present dilemmas you don’t know how to solve.
 Move the spotlight to give all the time to shine.
 Test as needed for bad luck (e.g., run out of ammo, or into guards) — roll a die to check for (**1-2**) trouble or (**3-4**) signs of it.
 Improvise rulings to cover gaps in rules; on a break, revise unsatisfactory rulings as a group.
+
+{% comment %} BETA RULES
+
+
+
+{% endcomment %}
