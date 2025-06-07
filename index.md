@@ -22,7 +22,8 @@ footer_content:
 
 ## In$p1rA&i0n
 
-[Ultraviolet Grasslands](https://wizardthieffighter.itch.io/uvg-2e) by Luka Rejec   
+[Ultraviolet Grasslands](https://wizardthieffighter.itch.io/uvg-2e) by [Luka Rejec   
+2400](https://jasontocci.itch.io/2400) by Jason Tocci
 
 {% comment %} 
 

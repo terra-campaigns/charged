@@ -146,6 +146,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "O Caminho Baixo e O Alto",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/VioletCity/LeontiVites.md": [
@@ -186,6 +193,12 @@
                 "url": "campaigns/FailedExports/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/Anthology/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/VioletCity/LastChairSaloon.md": [
@@ -194,6 +207,36 @@
                 "url": "campaigns/FailedExports/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/index.md": [
+            {
+                "text": "O Caminho Baixo e O Alto",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/Anthology/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/Anthology/ep_001.md": [
+            {
+                "text": "Violet City",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "systems/index.md": [

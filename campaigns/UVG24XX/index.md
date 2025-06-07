@@ -128,7 +128,7 @@ When the highest die rolls max, you may turn it into a **1** to increase a **ski
 
 ### Defence & harm
 
-Say how one of your items breaks to turn a hit into a brief hindrance.
+Say how your armour or weapon breaks to turn a hit into a brief hindrance.
 A broken gear is useless until it is repaired.
 
 Injuries take time and/or medical attention to heal.
@@ -159,7 +159,7 @@ For those who go to 20+, you may add your **skill** die to the roll.
 
 Describe characters in terms of behaviours, risks, and obstacles, not skill dice.
 Lead the group in setting lines not to cross in play.
-Fast-forward, pause, or rewind/redo for pacing and safety; invite players to do likewise.
+Fast-forward, zoom in or pause for pacing and safety; invite players to do likewise.
 Present dilemmas you don’t know how to solve.
 Move the spotlight to give all the time to shine.
 Test as needed for bad luck (e.g., run out of ammo, or into guards) — roll a die to check for (**1-2**) trouble or (**3-4**) signs of it.
@@ -167,6 +167,14 @@ Improvise rulings to cover gaps in rules; on a break, revise unsatisfactory ruli
 
 {% comment %} BETA RULES
 
+Risk levels
 
+- Brief: hindered for one roll
+- Minutes to hours: hindered until able to catch your breath
+- Days to weeks
+- Permanent
+- Death
+
+Steps: how many successes are required.
 
 {% endcomment %}
