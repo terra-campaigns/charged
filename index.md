@@ -29,10 +29,10 @@ footer_content:
 
 **UVG+24XX** [Open Table]
 
-**GMs:** Efsa (Estêvão)  
+**GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
 **Frequency**:
-- Thursdays, every 3 weeks, from <t:1749060900:t> to <t:1749068100:t>
+- Thursdays, every 3 weeks, from <t:17550012200:t> to <t:1750019400:t>
 - Sundays, every 5 weeks, from <t:1749065400:t> to <t:1749072600:t>
 **Sign-up**: First come, first served;  2-5 players  
 **Genre**: Science Fantasy  
