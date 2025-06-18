@@ -155,6 +155,12 @@ For those who go to 20+, you may add your **skill** die to the roll.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
 
+### West marches caravaning
+
+Your Financiers run a large caravan.
+Its location on the map is updated after every session and taken as the starting point for the next one.
+It is assumed that staying within the large caravan (i.e. missing a session) has no costs or profit, as you work on menial tasks for the Financiers.
+
 ## GM
 
 Describe characters in terms of behaviours, risks, and obstacles, not skill dice.
@@ -167,14 +173,19 @@ Improvise rulings to cover gaps in rules; on a break, revise unsatisfactory ruli
 
 {% comment %} BETA RULES
 
-Risk levels
+### Effect
 
-- Brief: hindered for one roll
-- Minutes to hours: hindered until able to catch your breath
-- Days to weeks
-- Permanent
-- Death
+The narrative should define the effect a **Roll** can achieve and/or is exposed to.
+After the GM exposes it, you can change your approach to increase or decrease the **Effect**.
 
-Steps: how many successes are required.
+|                |                                                 |
+| -------------- | ----------------------------------------------- |
+| **Weak**       | Moments, within reach, a closet's area.         |
+| **Mediocre**   | Minutes, a dozen paces, a small room.           |
+| **Strong**     | Hours, a stone's throw, a large house.          |
+| **Powerful**   | Weeks, down the road, several rooms.            |
+| **Definitive** | Forever, several blocks away, a small building. |
+
+Steps: How many successes are required?
 
 {% endcomment %}
