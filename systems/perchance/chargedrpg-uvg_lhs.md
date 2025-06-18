@@ -288,60 +288,60 @@ name
   Winterbird
 
 quirk
-  <b>What is your biomantic omen?</b> Chromophoric map on their skin <i>(use d8 when relevant)</i>.
-  <b>What is your biomantic omen?</b> Oldtech access key in their cells <i>(use d8 when relevant)</i>.
-  <b>What is your biomantic omen?</b> Prone to hair growth in moonlight <i>(use d8 when relevant)</i>.
-  <b>What is your biomantic omen?</b> Ages unusually slowly <i>(use d8 when relevant)</i>.
-  <b>What is your biomantic omen?</b> Synthetic anti-viral factories in extra-organ <i>(use d8 when relevant)</i>.
-  <b>What is your biomantic omen?</b> Recessive bio-optics display HUD information <i>(use d8 when relevant)</i>.
-  <b>What is your affinity-bonded pet?</b> Unusually intelligent dog <i>(it follows you)</i>.
-  <b>What is your affinity-bonded pet?</b> Giant striped flying squirrel <i>(it follows you)</i>.
-  <b>What is your affinity-bonded pet?</b> Void-adapted golden feathered serpent <i>(it follows you)</i>.
-  <b>What is your affinity-bonded pet?</b> Aggressively upgraded dodo <i>(it follows you)</i>.
-  <b>What is your affinity-bonded pet?</b> Telepathic goldfish in a closed-ecosystem bowl <i>(it follows you)</i>.
-  <b>What is your affinity-bonded pet?</b> Telekinetic semi-aware intestinal bacterial colony <i>(it follows you)</i>.
+  <b>What is your biomantic omen?</b> Chromophoric map on their skin.
+  <b>What is your biomantic omen?</b> Oldtech access key in their cells.
+  <b>What is your biomantic omen?</b> Prone to hair growth in moonlight.
+  <b>What is your biomantic omen?</b> Ages unusually slowly.
+  <b>What is your biomantic omen?</b> Synthetic anti-viral factories in extra-organ.
+  <b>What is your biomantic omen?</b> Recessive bio-optics display HUD information.
+  <b>What is your affinity-bonded pet?</b> Unusually intelligent dog.
+  <b>What is your affinity-bonded pet?</b> Giant striped flying squirrel.
+  <b>What is your affinity-bonded pet?</b> Void-adapted golden feathered serpent.
+  <b>What is your affinity-bonded pet?</b> Aggressively upgraded dodo.
+  <b>What is your affinity-bonded pet?</b> Telepathic goldfish in a closed-ecosystem bowl.
+  <b>What is your affinity-bonded pet?</b> Telekinetic semi-aware intestinal bacterial colony.
   <b>You have an odd family connexion:</b> Relative executed for treason. Was it just?
   <b>You have an odd family connexion:</b> Famous explorer, lost now for several years
   <b>You have an odd family connexion:</b> Ominous local tyrant, left far behind?
   <b>You have an odd family connexion:</b> Wizard disappeared through a silent gate
   <b>You have an odd family connexion:</b> Meddling ancestor brain in a golem body
   <b>You have an odd family connexion:</b> Giant desert worm dreaming of a golden path
-  <b>You have a sign of the Fast Stars:</b> Captain. A seal ring of an unknown material <i>(use d8 when relevant)</i>.
-  <b>You have a sign of the Fast Stars:</b> Manual. Recites controls in a lost tongue <i>(use d8 when relevant)</i>.
-  <b>You have a sign of the Fast Stars:</b> Joker. Lost comedies from the void <i>(use d8 when relevant)</i>.
-  <b>You have a sign of the Fast Stars:</b> Voidskiff. A silver ship in the heart <i>(use d8 when relevant)</i>.
-  <b>You have a sign of the Fast Stars:</b> Shield. Glows when exposed to radiation <i>(use d8 when relevant)</i>.
-  <b>You have a sign of the Fast Stars:</b> Chosen. An override jewel in their head <i>(use d8 when relevant)</i>.
+  <b>You have a sign of the Fast Stars:</b> Captain. A seal ring of an unknown material.
+  <b>You have a sign of the Fast Stars:</b> Manual. Recites controls in a lost tongue.
+  <b>You have a sign of the Fast Stars:</b> Joker. Lost comedies from the void.
+  <b>You have a sign of the Fast Stars:</b> Voidskiff. A silver ship in the heart.
+  <b>You have a sign of the Fast Stars:</b> Shield. Glows when exposed to radiation.
+  <b>You have a sign of the Fast Stars:</b> Chosen. An override jewel in their head.
   <b>Who is your loyal old friend?</b> Magic butler. Knows many domestic magics. 
   <b>Who is your loyal old friend?</b> Cowardly layabout. Uncovers unexpected clues.
   <b>Who is your loyal old friend?</b> Taciturn mechanic. Fixes nearly anything. 
   <b>Who is your loyal old friend?</b> Odd stoner. Seems immune to side effects. 
   <b>Who is your loyal old friend?</b> Absent-minded professor. A humanoid library. 
   <b>Who is your loyal old friend?</b> Lucky warrior. Not skilled, but has never died yet. 
-  <b>Who is your nemesis since childhood?</b> Now a successful banker. Never forgets a slight <i>(name a skill they taught you, and increase it to d8 when relevant)</i>.
-  <b>Who is your nemesis since childhood?</b> A very talented musician. An absolute ass <i>(name a skill they taught you, and increase it to d8 when relevant)</i>.
-  <b>Who is your nemesis since childhood?</b> Upwardly mobile military commander. Incompetent? <i>(name a skill they taught you, and increase it to d8 when relevant)</i>.
-  <b>Who is your nemesis since childhood?</b> Mad genius or just a misunderstood nerd? <i>(name a skill they taught you, and increase it to d8 when relevant)</i>.
-  <b>Who is your nemesis since childhood?</b> Charismatic public speaker. Seems ... cultish? <i>(name a skill they taught you, and increase it to d8 when relevant)</i>.
-  <b>Who is your nemesis since childhood?</b> Elegant, suave, accomplished person of leisure <i>(name a skill they taught you, and increase it to d8 when relevant)</i>.
-  <b>You have an additional experience:</b> Outcast. An illegal on society’s edge <i>(name a skill and increase it to d8 when relevant)</i>.
-  <b>You have an additional experience:</b> Hereditary serf. Bought, sold, told ... fled <i>(name a skill and increase it to d8 when relevant)</i>.
-  <b>You have an additional experience:</b> Rural freeperson. The old ways <i>(name a skill and increase it to d8 when relevant)</i>.
-  <b>You have an additional experience:</b> Urban prole. Cog in the social machine <i>(name a skill and increase it to d8 when relevant)</i>.
-  <b>You have an additional experience:</b> Professional citizen. High expectations <i>(name a skill and increase it to d8 when relevant)</i>.
-  <b>You have an additional experience:</b> Aristo. Engineered at source for their role <i>(name a skill and increase it to d8 when relevant)</i>.
-  <b>You have a machine interface:</b> Sheltered by a luddite cult <i>(use d8 when relevant)</i>.
-  <b>You have a machine interface:</b> Infected with microplastic synthetic animalcules <i>(use d8 when relevant)</i>.
-  <b>You have a machine interface:</b> Autofac’s human familiar mechanic <i>(use d8 when relevant)</i>.
-  <b>You have a machine interface:</b> Hacker subverting the surviving golem routines <i>(use d8 when relevant)</i>.
-  <b>You have a machine interface:</b> Wizard decoding the Long Ago machine magic <i>(use d8 when relevant)</i>.
-  <b>You have a machine interface:</b> Actually, a synthetic human themselves <i>(use d8 when relevant)</i>.
-  <b>What disaster have you survived?</b> Earthquake caused by giant subterrene autominer <i>(name a skill it taught you, and increase it to d8 when relevant)</i>.
-  <b>What disaster have you survived?</b> Voidspawned electromagical kaiju <i>(name a skill it taught you, and increase it to d8 when relevant)</i>.
-  <b>What disaster have you survived?</b> Flooding after golem dam collapse <i>(name a skill it taught you, and increase it to d8 when relevant)</i>.
-  <b>What disaster have you survived?</b> Vome assimilation plague <i>(name a skill it taught you, and increase it to d8 when relevant)</i>.
-  <b>What disaster have you survived?</b> Decade-long military pacification campaign <i>(name a skill it taught you, and increase it to d8 when relevant)</i>.
-  <b>What disaster have you survived?</b> Spatial distortion horizon caused by gate eruption <i>(name a skill it taught you, and increase it to d8 when relevant)</i>.
+  <b>Who is your nemesis since childhood?</b> Now a successful banker. Never forgets a slight.
+  <b>Who is your nemesis since childhood?</b> A very talented musician. An absolute ass.
+  <b>Who is your nemesis since childhood?</b> Upwardly mobile military commander. Incompetent?.
+  <b>Who is your nemesis since childhood?</b> Mad genius or just a misunderstood nerd?.
+  <b>Who is your nemesis since childhood?</b> Charismatic public speaker. Seems ... cultish?.
+  <b>Who is your nemesis since childhood?</b> Elegant, suave, accomplished person of leisure.
+  <b>You have an additional experience:</b> Outcast. An illegal on society’s edge.
+  <b>You have an additional experience:</b> Hereditary serf. Bought, sold, told ... fled.
+  <b>You have an additional experience:</b> Rural freeperson. The old ways.
+  <b>You have an additional experience:</b> Urban prole. Cog in the social machine.
+  <b>You have an additional experience:</b> Professional citizen. High expectations.
+  <b>You have an additional experience:</b> Aristo. Engineered at source for their role.
+  <b>You have a machine interface:</b> Sheltered by a luddite cult.
+  <b>You have a machine interface:</b> Infected with microplastic synthetic animalcules.
+  <b>You have a machine interface:</b> Autofac’s human familiar mechanic.
+  <b>You have a machine interface:</b> Hacker subverting the surviving golem routines.
+  <b>You have a machine interface:</b> Wizard decoding the Long Ago machine magic.
+  <b>You have a machine interface:</b> Actually, a synthetic human themselves.
+  <b>What disaster have you survived?</b> Earthquake caused by giant subterrene autominer.
+  <b>What disaster have you survived?</b> Voidspawned electromagical kaiju.
+  <b>What disaster have you survived?</b> Flooding after golem dam collapse.
+  <b>What disaster have you survived?</b> Vome assimilation plague.
+  <b>What disaster have you survived?</b> Decade-long military pacification campaign.
+  <b>What disaster have you survived?</b> Spatial distortion horizon caused by gate eruption.
 
 caravan
   <b>Poor prospector</b><br>2 mules<br>3 sacks (cheap rations), 1 sack (prospector kit)<br>€ 804 left

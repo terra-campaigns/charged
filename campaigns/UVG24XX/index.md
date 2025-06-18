@@ -39,10 +39,12 @@ It almost warms my bones.”
 **24XX**'s <a href="https://jasontocci.itch.io/24xx" target="_blank">SRD</a> and **UVG**'s <a href="https://wizardthieffighter.itch.io/uvg-free-player-guide" target="_blank">Player Guide</a> are available for free.  
 The required rules are self-contained on this page.
 
-<details close markdown="block">
-  <summary id="index">
-    <b>EXPAND TO GENERATE A CHARACTER</b>
-  </summary>
+## Character generation
+
+You can use the character generator provided below.  
+Alternatively, you can manually create characters from <a href="https://jasontocci.itch.io/2400" target="_blank">2400 Games</a>.  
+Paste a copy of your character and introduce them to <a href="https://discord.com/channels/1060840338777964565/1379919664867708988" target="_blank">Who is this hero?</a> channel.  
+
 <div style="height:35vh; width:110%;">
   <iframe
     src="https://null.perchance.org/chargedrpg-uvg"
@@ -50,13 +52,8 @@ The required rules are self-contained on this page.
     allowfullscreen
   ></iframe>
 </div>
-</details>
 
-
-<details close markdown="block">
-  <summary id="index">
-    <b>EXPAND FOR INCOMPLETE LIST OF SKILLS</b>
-  </summary>
+### Incomplete list of skills
 
 **Apothecary** — Mix poisons, potions, and medicines.  
 **Archaeology** —  Discover lost artefacts, climb, jump, dodge boulders.   
@@ -98,9 +95,6 @@ The required rules are self-contained on this page.
 **The Business** — The corporations, banks, and self-help associations that lubricate the world. Shaking up recalcitrants.  
 **The War** — History. Using ancient war machines.  
 **Vome Tech** — Adapting and using vomish implants. Managing their side effects. Enslaving vomes.  
-
-</details>
-
 
 ## Play
 
