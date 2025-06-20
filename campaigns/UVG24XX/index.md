@@ -45,7 +45,7 @@ You can use the character generator provided below.
 Alternatively, you can manually create characters from <a href="https://jasontocci.itch.io/2400" target="_blank">2400 Games</a>.  
 Paste a copy of your character and introduce them to <a href="https://discord.com/channels/1060840338777964565/1379919664867708988" target="_blank">Who is this hero?</a> channel.  
 
-<div style="height:35vh; width:110%;">
+<div style="height:45vh; width:110%;">
   <iframe
     src="https://null.perchance.org/chargedrpg-uvg"
     style="border:none; width:90%; height:100%;"
@@ -117,9 +117,6 @@ Take the highest die.
 
 If success can’t get you what you want (you make the shot, but it’s bulletproof!), you’ll at least get useful info or set up an advantage.
 
-### Advancement
-When the highest die rolls max, you may turn it into a **1** to increase a **skill** (d6→d8→d10→d12).
-
 ### Defence & harm
 
 Say how your armour or weapon breaks to turn a hit into a brief hindrance.
@@ -148,6 +145,12 @@ Roll a d20 in most of the tables.
 For those who go to 20+, you may add your **skill** die to the roll.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
+
+#### Study
+
+You may spend a week studying to improve a ***skill***.
+Roll your ***skill*** die.
+If you roll it to its maximum, your ***skill*** increases (d6→d8→d10→d12).
 
 ### West marches caravaning
 

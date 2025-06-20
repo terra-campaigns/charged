@@ -104,6 +104,161 @@
                 "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
+        "campaigns/UVG24XX/ep_001.md": [
+            {
+                "text": "Atles Dello Citranella",
+                "url": "directory/Atles/Atles.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Violet City",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilik",
+                "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ski",
+                "url": "directory/Atles/Ski.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Morgoth",
+                "url": "directory/Atles/Morgoth.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Xulio",
+                "url": "directory/Atles/Xulio.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Last Chair Saloon",
+                "url": "directory/VioletCity/LastChairSaloon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reckless red cultists",
+                "url": "directory/LowRoadHigh/RRR.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Atles/Atles.md": [
+            {
+                "text": "Atles Dello Citranella",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/VioletCity/index.md": [
+            {
+                "text": "Violet City",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/Anthology/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Pilik.md": [
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Kur.md": [
+            {
+                "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Ski.md": [
+            {
+                "text": "Ski",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Morgoth.md": [
+            {
+                "text": "Morgoth",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Xulio.md": [
+            {
+                "text": "Xulio",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/VioletCity/LastChairSaloon.md": [
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/RRR.md": [
+            {
+                "text": "reckless red cultists",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/FailedExports/ep_001.md": [
             {
                 "text": "Leonti Vites",
@@ -182,28 +337,6 @@
         "directory/Caravan1/Piero.md": [
             {
                 "text": "Piero",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/VioletCity/index.md": [
-            {
-                "text": "Violet City",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Violet City",
-                "url": "campaigns/Anthology/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/VioletCity/LastChairSaloon.md": [
-            {
-                "text": "Last Chair Saloon",
                 "url": "campaigns/FailedExports/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
