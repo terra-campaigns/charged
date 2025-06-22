@@ -127,8 +127,8 @@
                 "favicon": null
             },
             {
-                "text": "Kur",
-                "url": "directory/Atles/Kur.md",
+                "text": "Xulio",
+                "url": "directory/Atles/Xulio.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -148,8 +148,8 @@
                 "favicon": null
             },
             {
-                "text": "Xulio",
-                "url": "directory/Atles/Xulio.md",
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -205,9 +205,9 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Atles/Kur.md": [
+        "directory/Atles/Xulio.md": [
             {
-                "text": "Kur",
+                "text": "Xulio",
                 "url": "campaigns/UVG24XX/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -229,9 +229,9 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Atles/Xulio.md": [
+        "directory/Atles/Kur.md": [
             {
-                "text": "Xulio",
+                "text": "Kur",
                 "url": "campaigns/UVG24XX/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"

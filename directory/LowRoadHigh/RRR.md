@@ -12,7 +12,7 @@ role: Reckless Red Ritualists
 status: 
 
 images: 
-- ../../im/Pasted%20image%2020250620111714.png
+- ../../imgs/gallery/Pasted%20image%2020250620111714.png
 ---
 
 {% include header_directories.md %}
