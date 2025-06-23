@@ -167,6 +167,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/Atles/Atles.md": [
@@ -259,6 +266,111 @@
                 "direction": "inbound"
             }
         ],
+        "directory/LowRoadHigh/index.md": [
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "O Caminho Baixo e O Alto",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/Anthology/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/FailedExports/ep_002.md": [
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Juao",
+                "url": "directory/Caravan1/Juao.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Piero",
+                "url": "directory/Caravan1/Piero.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Porcelain Citadel",
+                "url": "directory/PorcelainCitadel/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Juao",
+                "url": "directory/Caravan1/Juao.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Caravan1/Juao.md": [
+            {
+                "text": "Juao",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Juao",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Juao",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Caravan1/Piero.md": [
+            {
+                "text": "Piero",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Piero",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/PorcelainCitadel/index.md": [
+            {
+                "text": "Porcelain Citadel",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/FailedExports/ep_001.md": [
             {
                 "text": "Leonti Vites",
@@ -322,36 +434,6 @@
             {
                 "text": "Ferno",
                 "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Caravan1/Juao.md": [
-            {
-                "text": "Juao",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Caravan1/Piero.md": [
-            {
-                "text": "Piero",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/index.md": [
-            {
-                "text": "O Caminho Baixo e O Alto",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "The Low Road and The High",
-                "url": "campaigns/Anthology/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

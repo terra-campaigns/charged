@@ -21,3 +21,6 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+The Violet City is a place of trade, luxury, magic and poverty. The
+thralls of the cat lords keep a veneer of order, barely hiding the feline
+sneers at the rules of Metropolitan bean counters and inquisitors.

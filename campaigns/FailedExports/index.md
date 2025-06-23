@@ -23,13 +23,6 @@ This pioneer issued a permit to export you to the Violet City in the northern st
 Upon arriving in the Violet City, you can still acquire an import permit to return to the Hegemony.
 But this will cost £3,500.
 
-### Versão em Português
-{: .text-right}
-
-Vocês falharam como cidadãos das suas castas, na capital da Hegemonia. Desde então, vocês acumularam débitos altíssimos com uma das facções da capital. 
-
-Mas seus débitos foram coletados por um Financier do Norte. Esse pioneiro emitiu uma permissão para exportar você para a Cidade Violeta nas estepes do norte. Ao chegarem na Cidade Violeta, vocês ainda podem adquirir uma permissão de importação, para voltarem para a Hegemonia. Mas isso vai custar £ 3.500.
-
 {% include connected_to.html %}
 
 ---

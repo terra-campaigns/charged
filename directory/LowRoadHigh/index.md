@@ -12,7 +12,7 @@ role:
 status: 
 
 images: 
-
+- ../../imgs/gallery/Pasted%20image%2020250623074102.png
 ---
 
 {% include header_directories.md %}
@@ -20,3 +20,9 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+The cratered viaduct of the High Road runs on crumbling pylons
+of dying dryland coral across the pallid grasses. Beneath the
+half-passable testament to the follies of the Long-Long-Ago, the
+Low Road winds, smeared threads of soil and loam and oil and
+blood ground into a hard surface by the pounding feet, hooves,
+wheels, and treads of pilgrims, nomads, caravans, and vechs.
