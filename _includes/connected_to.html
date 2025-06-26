@@ -12,10 +12,7 @@
 
 {% else %}
 
-{% assign parts = page.path | split: "/" %}
-{% assign campaign_path = parts[1] | append: "/directory/" %}
-
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains campaign_path" | where_exp:"item", "item.nav_exclude != true" %}
+{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" | where_exp:"item", "item.nav_exclude != true" %}
 
 {% endif %}
 
@@ -48,7 +45,19 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 {: .text-delta }
 {% endif %}
 
+{% assign count = all_references | size %}
+{% if page.hooks %} 
+  {% for hook in page.hooks %}
+  <p>
+  {{ hook }}
+  </p>
+  {: .fs-3 }
+  {% endfor %}
+{% elsif count > 0 %}
+
 ---
+
+{% endif %}
 
 {% assign count = all_references | where: 'type', 'people' | size %}
 {% if count > 0 %}
@@ -186,5 +195,5 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 {% endif %}
 
 {% comment %}
-connected_to v0.6.0
+connected_to v0.6.1
 {% endcomment %}

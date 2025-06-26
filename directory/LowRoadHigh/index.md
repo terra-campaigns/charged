@@ -8,8 +8,12 @@ has_toc: false
 
 parent: Directory
 title: 2 The Low Road and The High
-role: 
+role: Village for retired caravaners
 status: 
+hooks:
+- The Rusted Hand of Victory. None went inside.
+- Crystal Spire. None visited.
+- Motor outcrops. None visited.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250623074102.png
@@ -26,3 +30,18 @@ half-passable testament to the follies of the Long-Long-Ago, the
 Low Road winds, smeared threads of soil and loam and oil and
 blood ground into a hard surface by the pounding feet, hooves,
 wheels, and treads of pilgrims, nomads, caravans, and vechs.
+
+## The Rusted Hand of Victory
+A victorious hand rises from the ground, covered in graffiti. Near
+the road, it is a popular picnic place.
+They become afraid of a pack of monkeys that seems to take over the area.
+
+## Crystal Spire
+A voluptuously whorled crystal pylon lies on its side in a heavily
+eroded crater.
+They don't visit the location, although it is close by.
+
+## Motor outcrops
+2 days southeast.
+A gorgeous, striated ridge, left over from some incredibly aesthetic
+geological process

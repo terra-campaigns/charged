@@ -10,6 +10,7 @@ parent: 2 The Low Road and The High
 title: RRR
 role: Reckless Red Ritualists
 status: 
+hooks: What was the RRR summoning?
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250620111714.png

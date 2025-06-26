@@ -25,7 +25,7 @@ But this will cost £3,500.
 
 {% include connected_to.html %}
 
----
+{% include hooks.md %}
 # System
 
 ***Failed Exports*** is a **Cairn 2e** campaign, using alternative backgrounds.  

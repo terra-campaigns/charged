@@ -33,7 +33,8 @@ It almost warms my bones.”
 
 {% include connected_to.html %}
 
----
+{% include hooks.md %}
+
 # System
 
 **24XX**'s <a href="https://jasontocci.itch.io/24xx" target="_blank">SRD</a> and **UVG**'s <a href="https://wizardthieffighter.itch.io/uvg-free-player-guide" target="_blank">Player Guide</a> are available for free.  
@@ -169,20 +170,5 @@ Test as needed for bad luck (e.g., run out of ammo, or into guards) — roll a d
 Improvise rulings to cover gaps in rules; on a break, revise unsatisfactory rulings as a group.
 
 {% comment %} BETA RULES
-
-### Effect
-
-The narrative should define the effect a **Roll** can achieve and/or is exposed to.
-After the GM exposes it, you can change your approach to increase or decrease the **Effect**.
-
-|                |                                                 |
-| -------------- | ----------------------------------------------- |
-| **Weak**       | Moments, within reach, a closet's area.         |
-| **Mediocre**   | Minutes, a dozen paces, a small room.           |
-| **Strong**     | Hours, a stone's throw, a large house.          |
-| **Powerful**   | Weeks, down the road, several rooms.            |
-| **Definitive** | Forever, several blocks away, a small building. |
-
-Steps: How many successes are required?
 
 {% endcomment %}

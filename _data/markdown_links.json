@@ -39,6 +39,13 @@
                 "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
             },
             {
+                "text": "Worlds Without Numbers",
+                "url": "https://www.drivethrurpg.com/en/product/348791/worlds-without-number",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.drivethrurpg.com/favicon.ico"
+            },
+            {
                 "text": "Open Table",
                 "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
                 "is_internal": false,
@@ -452,15 +459,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "systems/index.md": [
-            {
-                "text": "Dramatis Personae",
-                "url": "https://discord.com/channels/1060840338777964565/1340382334674927647",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://discord.com/favicon.ico"
             }
         ]
     }
