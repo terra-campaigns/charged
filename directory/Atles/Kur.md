@@ -10,6 +10,7 @@ role: Wildfolk Wizard
 status: 
 
 images: 
+- ../../imgs/gallery/Kur_Wildfolk_Wizard_Ubik_01.png
 
 
 ---
