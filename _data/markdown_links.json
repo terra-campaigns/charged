@@ -39,6 +39,13 @@
                 "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
             },
             {
+                "text": "2400",
+                "url": "https://jasontocci.itch.io/2400",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jasontocci.itch.io/favicon.ico"
+            },
+            {
                 "text": "Worlds Without Numbers",
                 "url": "https://www.drivethrurpg.com/en/product/348791/worlds-without-number",
                 "is_internal": false,
@@ -81,6 +88,119 @@
                 "favicon": "https://docs.google.com/favicon.ico"
             }
         ],
+        "directory/LowRoadHigh/index.md": [
+            {
+                "text": "Violet City",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "O Caminho Baixo e O Alto",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "campaigns/Anthology/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/VioletCity/index.md": [
+            {
+                "text": "Violet City",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
+                "url": "campaigns/Anthology/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Barista.md": [
+            {
+                "text": "Wizard",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Their aged clone",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kur (or the barista version of Kur)",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Kur.md": [
+            {
+                "text": "Wizard",
+                "url": "directory/Atles/Barista.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Their aged clone",
+                "url": "directory/Atles/Barista.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "_site/README.md": [
             {
                 "text": "Testing your GitHub Pages site locally with Jekyll",
@@ -109,6 +229,110 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "campaigns/UVG24XX/ep_002.md": [
+            {
+                "text": "Atles",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilik",
+                "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tifixa",
+                "url": "directory/Atles/Tifixa.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "CrystalPylon",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur (or the barista version of Kur)",
+                "url": "directory/Atles/Barista.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "iridescent globes",
+                "url": "directory/LowRoadHigh/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Atles/index.md": [
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Pilik.md": [
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Tifixa.md": [
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/CrystalPylon.md": [
+            {
+                "text": "CrystalPylon",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/IridescentGlobes.md": [
+            {
+                "text": "iridescent globes",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/UVG24XX/ep_001.md": [
@@ -191,34 +415,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/VioletCity/index.md": [
-            {
-                "text": "Violet City",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Violet City",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Violet City",
-                "url": "campaigns/Anthology/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Pilik.md": [
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Atles/Xulio.md": [
             {
                 "text": "Xulio",
@@ -243,14 +439,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Atles/Kur.md": [
-            {
-                "text": "Kur",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/VioletCity/LastChairSaloon.md": [
             {
                 "text": "Last Chair Saloon",
@@ -269,32 +457,6 @@
             {
                 "text": "reckless red cultists",
                 "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/index.md": [
-            {
-                "text": "The Low Road and The High",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "The Low Road and The High",
-                "url": "campaigns/FailedExports/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "O Caminho Baixo e O Alto",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "The Low Road and The High",
-                "url": "campaigns/Anthology/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -331,6 +493,13 @@
             {
                 "text": "Juao",
                 "url": "directory/Caravan1/Juao.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**The Rusted Hand of Victory**",
+                "url": "directory/LowRoadHigh/RHV.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -373,6 +542,14 @@
         "directory/PorcelainCitadel/index.md": [
             {
                 "text": "Porcelain Citadel",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/RHV.md": [
+            {
+                "text": "**The Rusted Hand of Victory**",
                 "url": "campaigns/FailedExports/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"

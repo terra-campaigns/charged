@@ -9,6 +9,8 @@ title: Vorgo
 role: Morphine-drugged patient
 status: 
 
+hooks: The man was stabbed by a silver knife in Violet City. In the bar, people mentioned a dog cage.
+
 images: 
 
 ---

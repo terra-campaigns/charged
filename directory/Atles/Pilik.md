@@ -3,11 +3,15 @@ layout: default
 template: 0.4
 type: people
 nav_exclude: false
+nav_order: 3025-05-15
 
 parent: Atles' Catlord Caravan
 title: Pilik Bagato
 role: Decapolitan navigator
 status: 
+
+hooks:
+- Sprained ankle on metal debris.
 
 images: 
 
@@ -19,7 +23,11 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
-What do you always carry with you? Cabochon ruby with a regal hologram inside.
-Who is your nemesis since childhood? Now a successful banker. Never forgets a slight (name a skill they taught you, and increase it to d8 when relevant).
-You have a machine interface: Hacker subverting the surviving golem routines (use d8 when relevant).
-Why are you on the road? Possessed by a demon in childhood (choose an item or name and increase a skill).
+**What do you always carry with you?** Cabochon ruby with a regal hologram inside.  
+**Who is your nemesis since childhood?** Now, a successful banker. Never forgets a slight (name a skill they taught you, and increase it to d8 when relevant).  
+**You have a machine interface:** Hacker subverting the surviving golem routines (use d8 when relevant).  
+**Why are you on the road?** Possessed by a demon in childhood (choose an item or name and increase a skill).  
+
+Wants to make a fortune.
+Grumpy has not made a fortune yet.
+Handsome jerk, who thinks he is the protagonist.
