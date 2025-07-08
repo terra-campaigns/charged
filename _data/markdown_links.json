@@ -67,6 +67,13 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
+                "text": "Session reports & open hooks",
+                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
                 "text": "TTRPG system & chargen",
                 "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system",
                 "is_internal": false,
@@ -81,7 +88,7 @@
                 "favicon": "https://www.owlbear.rodeo/favicon.ico"
             },
             {
-                "text": "Caravan Management",
+                "text": "Location, goods and prices",
                 "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
                 "is_internal": false,
                 "direction": "outbound",
@@ -268,7 +275,7 @@
                 "favicon": null
             },
             {
-                "text": "CrystalPylon",
+                "text": "Crystal Pylon",
                 "url": "directory/LowRoadHigh/CrystalPylon.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -321,7 +328,7 @@
         ],
         "directory/LowRoadHigh/CrystalPylon.md": [
             {
-                "text": "CrystalPylon",
+                "text": "Crystal Pylon",
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
