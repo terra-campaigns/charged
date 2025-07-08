@@ -33,22 +33,23 @@ footer_content:
 **GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
 **Frequency**: Every other Thursday, from <t:1750530600:t> to <t:1750537800:t>
-**Sign-up**: First come, first served;  2-5 players  
+**Sign-up**: First come, first served;  2-4 players  
 **Genre**: Science Fantasy  
 **Language**: English  
 **Communication**: Discord voice (video is optional)  
 **Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, oppression, drugs, slavery  
+
 **Useful links**:  
-- [***charged*** art, music, inspiration](https://terra-campaigns.github.io/charged/)  
-- [UVG+24XX campaign](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/)    
-- [TTRPG system & chargen](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system)  
-- [Owlbear Rodeo](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
-- [Caravan Management](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
+[***charged*** art, music, inspiration](https://terra-campaigns.github.io/charged/)  
+[Session reports & open hooks](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/)    
+[TTRPG system & chargen](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system)  
+[Owlbear Rodeo](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
+[Location, goods and prices](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
+
 **Notes**:  
-Downtime and some light conversations with characters can be conducted through PBP.
+Players drive the campaign, discuss and decide what they will do ahead of the session.  
+Downtime and some light conversations with characters may be conducted through PBP.  
 
-2 hours and 30 minutes
-
-Dungeon full of monsters
+2 hours
 
 {% endcomment %}
