@@ -64,9 +64,10 @@ When **Impaired** roll ***d4***.
 When **Enhanced** roll ***d12***.
 From the highest dice rolled, subtract the opponent's **Armour** (up to ***3***).
 The remainder is subtracted from `GUARD`. 
-While `GUARD` is above ***0***, opponent evades **Wounds**.  
+If `GUARD` reaches ***0***, opponent is **Exposed**.
+Opponents may also be **Exposed** if they are unaware of a risk of harm.
 
-When **Wounded**, damage is subtracted from `STR`.  
+When **Exposed**, damage is subtracted from `STR`, wounding the opponent.  
 For **PCs**, a `STR` **Save** is required to avoid a **Critical Injury**, which disables and kills in an hour.  
 For **NPCs**, a `WIL` **Save** is required, once, to avoid being routed.
 
