@@ -28,27 +28,78 @@ But this will cost £3,500.
 {% include hooks.md %}
 # System
 
-***Failed Exports*** is a **Cairn 2e** campaign, using alternative backgrounds.  
-**Cairn 2e**'s <a href="https://cairnrpg.com/second-edition/" target="_blank">website version</a> and <a href="https://drive.google.com/file/d/1b8mFMxYSdlwrsfwhT0CNalPoW9gdl5uE/view?usp=drivesdk" target="_blank">PDF version</a> are available for free.  
-**UVG**'s <a href="https://wizardthieffighter.itch.io/uvg-free-player-guide" target="_blank">Player Guide</a> is also available for free.  
+***Failed Exports*** is a <a href="https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html" target="_blank">Mark of the Odd</a> campaign.
+**UVG**'s <a href="https://wizardthieffighter.itch.io/uvg-free-player-guide" target="_blank">Player Guide</a> is available for free.
+The required rules are self-contained on this page.
 
-<details close markdown="block">
-  <summary id="index">
-    <b>EXPAND TO CREATE A CHARACTER</b><br> 
-  </summary>
----
-<div style="height:60vh; width:110%;">
+## Character generator
+
+<div style="height:45vh; width:110%;">
   <iframe
     src="https://null.perchance.org/chargedrpg"
     style="border:none; width:90%; height:100%;"
     allowfullscreen
   ></iframe>
 </div>
-</details>
 
-## Travel procedures
+## Stats
 
-Cairn travel procedures are replaced with UVG's.  
-For tables that go to 20+, PCs may roll an additional d6 if they have a relevant background.
+`GUARD` Ability to avoid being wounded in combat.  
+`STR` Fortitude and physical power. If ***0***, character is **Dead**.  
+`DEX` Reflexes, poise and Initiative. If ***0***, character is **Paralysed**.  
+`WIL` Resolve, psyche and intellect. If ***0***, character is **Broken**.  
+
+## Play
+
+Players describe what they do.
+The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk.
+Players can revise plans before committing to change goal/stakes.
+
+## Risks & Violence
+
+A **Save** is a roll ***d20*** under `STR`, `DEX` or `WIL` to avoid danger from a risky situation.  
+
+Each side declares their actions before rolling **Damage** (***d6***, ***d8*** or ***d10***).
+When **Impaired** roll ***d4***.
+When **Enhanced** roll ***d12***.
+From the highest dice rolled, subtract the opponent's **Armour** (up to ***3***).
+The remainder is subtracted from `GUARD`. 
+While `GUARD` is above ***0***, opponent evades **Wounds**.  
+
+When **Wounded**, damage is subtracted from `STR`.  
+For **PCs**, a `STR` **Save** is required to avoid a **Critical Injury**, which disables and kills in an hour.  
+For **NPCs**, a `WIL` **Save** is required, once, to avoid being routed.
+
+**Blast Damage** rolls separately for everyone in the effect area.  
+
+## Recovery
+
+**Resting** for a few minutes, recovers all lost `GUARD`. It may waste time or attract danger.   
+
+**Healing** take at least a week. This restores all **Stats** and may recover **Wounds**.
+
+**Fatigue** is caused by extreme efforts.
+It takes a night's sleep to recover.
+Extreme effort when already **Fatigued** cause ***d6*** loss of `STR`, `DEX` or `WIL`.
+
+When lacking crucial needs, a **PC** is Deprived and cannot benefit from **Rest** or **Healing**.
+
+## Caravaning
+
+### Sacks
+
+Inventory is abstracted in **Sacks**.
+A **Sack** is:
+
+- All your adventuring and professional gear. If in doubt whether something is available in your **Sack**, roll your skill die.
+- A **Sack** of supplies is enough food, water and toilet paper to survive a week.
+- One unconscious human.
+- A unit of trade goods.
+
+### This week the caravan is...
+
+The flowchart below establishes the rules for running caravans.
+When required, roll ***d20***.
+You may add d6 if you have a relevant background.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
