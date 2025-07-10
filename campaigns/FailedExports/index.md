@@ -46,7 +46,7 @@ The required rules are self-contained on this page.
 
 `GUARD` Ability to avoid being wounded in combat.  
 `STR` Fortitude and physical power. If ***0***, character is **Dead**.  
-`DEX` Reflexes, poise and Initiative. If ***0***, character is **Paralysed**.  
+`DEX` Reflexes, poise and Initiative. If ***0***, character is **Exposed**.  
 `WIL` Resolve, psyche and intellect. If ***0***, character is **Broken**.  
 
 ## Play
@@ -57,33 +57,33 @@ Players can revise plans before committing to change goal/stakes.
 
 ## Risks & Violence
 
-A **Save** is a roll ***d20*** under `STR`, `DEX` or `WIL` to avoid danger from a risky situation.  
+A **Save** is a ***d20*** roll under `STR`, `DEX` or `WIL` to avoid danger from a risky situation.  
 
 Each side declares their actions before rolling **Damage** (***d6***, ***d8*** or ***d10***).
-When **Impaired** roll ***d4***.
+When **Impaired** rolls ***d4***.
 When **Enhanced** roll ***d12***.
 From the highest dice rolled, subtract the opponent's **Armour** (up to ***3***).
 The remainder is subtracted from `GUARD`. 
-If `GUARD` reaches ***0***, opponent is **Exposed**.
-Opponents may also be **Exposed** if they are unaware of a risk of harm.
+If `GUARD` reaches ***0***, the opponent is **Exposed**.
+Opponents may also be **Exposed** if they are unaware of the risk of harm.
 
-When **Exposed**, damage is subtracted from `STR`, wounding the opponent.  
-For **PCs**, a `STR` **Save** is required to avoid a **Critical Injury**, which disables and kills in an hour.  
-For **NPCs**, a `WIL` **Save** is required, once, to avoid being routed.
+When **Exposed**, (remaining) damage is subtracted from `STR`, wounding the opponent.  
+**PCs** make a `STR` **Save** to avoid a **Critical Injury**, which disables and kills in an hour.  
+**NPCs** make a `WIL` **Save** to avoid being routed.
 
 **Blast Damage** rolls separately for everyone in the effect area.  
 
 ## Recovery
 
-**Resting** for a few minutes, recovers all lost `GUARD`. It may waste time or attract danger.   
+**Resting** for a a brief moment recovers all lost `GUARD`. It may waste time or attract danger.   
 
 **Healing** take at least a week. This restores all **Stats** and may recover **Wounds**.
 
-**Fatigue** is caused by extreme efforts.
+**Fatigue** is caused by extreme effort.
 It takes a night's sleep to recover.
-Extreme effort when already **Fatigued** cause ***d6*** loss of `STR`, `DEX` or `WIL`.
+Extreme effort when already **Fatigued** causes ***d6*** loss of `STR`, `DEX` or `WIL`.
 
-When lacking crucial needs, a **PC** is Deprived and cannot benefit from **Rest** or **Healing**.
+When lacking crucial needs, a **PC** is **Deprived** and cannot benefit from **Rest** or **Healing**.
 
 ## Caravaning
 
@@ -101,6 +101,6 @@ A **Sack** is:
 
 The flowchart below establishes the rules for running caravans.
 When required, roll ***d20***.
-You may add d6 if you have a relevant background.
+You may add a d6 if you have a relevant background.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)
