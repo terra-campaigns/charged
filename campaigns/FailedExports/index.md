@@ -54,12 +54,13 @@ The required rules are self-contained on this page.
 Players describe what they do.
 The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk.
 Players can revise plans before committing to change goal/stakes.
+Only roll to avoid risk.
 
 ## Risks & Violence
 
 A **Save** is a ***d20*** roll under `STR`, `DEX` or `WIL` to avoid danger from a risky situation.  
 
-Each side declares their actions before rolling **Damage** (***d6***, ***d8*** or ***d10***).
+In **Combat**, each side declares their actions before rolling **Damage** (***d6***, ***d8*** or ***d10***).
 When **Impaired** rolls ***d4***.
 When **Enhanced** roll ***d12***.
 From the highest dice rolled, subtract the opponent's **Armour** (up to ***3***).
@@ -77,7 +78,8 @@ When **Exposed**, (remaining) damage is subtracted from `STR`, wounding the oppo
 
 **Resting** for a a brief moment recovers all lost `GUARD`. It may waste time or attract danger.   
 
-**Healing** take at least a week. This restores all **Stats** and may recover **Wounds**.
+**Healing** takes a week. This restores all **Stats** and may recover **Wounds**.
+Some injuries take time and/or medical attention to heal.
 
 **Fatigue** is caused by extreme effort.
 It takes a night's sleep to recover.
