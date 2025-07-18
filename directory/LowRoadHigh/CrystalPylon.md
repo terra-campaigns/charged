@@ -11,7 +11,11 @@ title: Crystal Pylon
 role: RRV
 status: 
 
-hooks: A cave system is connected to the pylon through a drawer that can be opened with a computer interface. In it, some liquid crystal spheres floated around a pool of water. Several corridors were not explored.
+hooks:
+- A person, wearing someone else's flesh, with iridescent eyes, lives there.
+- Documents were found about lab coat cultists building monsters.
+- A map of the Folded Below suggests that distant places are connected through magitech subspaces.
+
 nav_order: 3025-05-15
 
 images: 

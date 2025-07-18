@@ -61,16 +61,16 @@ Only roll to avoid risk.
 A **Save** is a ***d20*** roll under `STR`, `DEX` or `WIL` to avoid danger from a risky situation.  
 
 In **Combat**, each side declares their actions before rolling **Damage** (***d6***, ***d8*** or ***d10***).
-When **Impaired** rolls ***d4***.
+When **Impaired** roll ***d4***.
 When **Enhanced** roll ***d12***.
 From the highest dice rolled, subtract the opponent's **Armour** (up to ***3***).
 The remainder is subtracted from `GUARD`. 
 If `GUARD` reaches ***0***, the opponent is **Exposed**.
 Opponents may also be **Exposed** if they are unaware of the risk of harm.
 
-When **Exposed**, (remaining) damage is subtracted from `STR`, wounding the opponent.  
-**PCs** make a `STR` **Save** to avoid a **Critical Injury**, which disables and kills in an hour.  
-**NPCs** make a `WIL` **Save** to avoid being routed.
+When **Exposed**, (remaining) damage is subtracted from `STR`, wounding the opponent.
+**PCs** make a `STR` **Save** to avoid a **Critical Injury**, which is debilitating and kills in an hour.
+**NPCs** may need to pass a `WIL` **Save** to avoid being routed.
 
 **Blast Damage** rolls separately for everyone in the effect area.  
 
@@ -87,9 +87,7 @@ Extreme effort when already **Fatigued** causes ***d6*** loss of `STR`, `DEX` or
 
 When lacking crucial needs, a **PC** is **Deprived** and cannot benefit from **Rest** or **Healing**.
 
-## Caravaning
-
-### Sacks
+## Inventory
 
 Inventory is abstracted in **Sacks**.
 A **Sack** is:
@@ -99,10 +97,10 @@ A **Sack** is:
 - One unconscious human.
 - A unit of trade goods.
 
-### This week the caravan is...
+## Caravaning
 
 The flowchart below establishes the rules for running caravans.
 When required, roll ***d20***.
-You may add a d6 if you have a relevant background.
+You may add a ***d6*** if you have a relevant background.
 
 ![](../../imgs/Screenshot%202025-05-12%20at%2017.53.24.png)

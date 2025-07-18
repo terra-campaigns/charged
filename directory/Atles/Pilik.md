@@ -10,9 +10,6 @@ title: Pilik Bagato
 role: Decapolitan navigator
 status: 
 
-hooks:
-- Sprained ankle on metal debris.
-
 images: 
 
 
