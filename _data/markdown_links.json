@@ -398,7 +398,7 @@
                 "favicon": null
             },
             {
-                "text": "folded space map",
+                "text": "folded-space map",
                 "url": "directory/FoldedBelow/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -471,6 +471,12 @@
                 "url": "campaigns/UVG24XX/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Motor Outcrops",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/FallenUmber/index.md": [
@@ -511,7 +517,7 @@
         ],
         "directory/FoldedBelow/index.md": [
             {
-                "text": "folded space map",
+                "text": "folded-space map",
                 "url": "campaigns/UVG24XX/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -761,6 +767,13 @@
             {
                 "text": "Crystal Pylon",
                 "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Motor Outcrops",
+                "url": "directory/LowRoadHigh/MotorOutcrops.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
