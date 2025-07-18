@@ -14,7 +14,7 @@ status:
 hooks: 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250718085258.png
+- ../../imgs/gallery/Pasted%20image%2020250718085246.png
 ---
 
 {% include header_directories.md %}
