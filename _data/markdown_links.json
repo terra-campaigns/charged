@@ -105,6 +105,12 @@
             },
             {
                 "text": "The Low Road and The High",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -160,6 +166,47 @@
                 "direction": "inbound"
             }
         ],
+        "directory/FoldedBelow/Skinwearer.md": [
+            {
+                "text": "Iridescent Globes",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fleshy",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/IridescentGlobes.md": [
+            {
+                "text": "Iridescent Globes",
+                "url": "directory/FoldedBelow/Skinwearer.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Iridescent Globes",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Iridescent Globes",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "iridescent globes",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Atles/Barista.md": [
             {
                 "text": "Wizard",
@@ -194,6 +241,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
             },
             {
                 "text": "Kur",
@@ -236,6 +289,232 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://docs.github.com/favicon.ico"
+            }
+        ],
+        "campaigns/UVG24XX/ep_003.md": [
+            {
+                "text": "Atles",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tifixa",
+                "url": "directory/Atles/Tifixa.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cozarin",
+                "url": "directory/Atles/Cozarin.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Horto",
+                "url": "directory/Atles/Horto.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Iacum",
+                "url": "directory/Atles/Iacum.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Iridescent Globes",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Last Serai",
+                "url": "directory/LastSerai/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Motor Outcrops",
+                "url": "directory/LowRoadHigh/MotorOutcrops.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fallen Umber",
+                "url": "directory/FallenUmber/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Shaggy",
+                "url": "directory/FoldedBelow/ManEatingMolusc.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fleshy",
+                "url": "directory/FoldedBelow/Skinwearer.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Iridescent Globes",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "folded space map",
+                "url": "directory/FoldedBelow/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Atles/index.md": [
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Tifixa.md": [
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Cozarin.md": [
+            {
+                "text": "Cozarin",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Horto.md": [
+            {
+                "text": "Horto",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Iacum.md": [
+            {
+                "text": "Iacum",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LastSerai/index.md": [
+            {
+                "text": "The Last Serai",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/MotorOutcrops.md": [
+            {
+                "text": "Motor Outcrops",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FallenUmber/index.md": [
+            {
+                "text": "Fallen Umber",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/CrystalPylon.md": [
+            {
+                "text": "Crystal Pylon",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/ManEatingMolusc.md": [
+            {
+                "text": "Shaggy",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/index.md": [
+            {
+                "text": "folded space map",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/UVG24XX/ep_002.md": [
@@ -290,18 +569,10 @@
             },
             {
                 "text": "iridescent globes",
-                "url": "directory/LowRoadHigh/IridescentGlobes.md",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/index.md": [
-            {
-                "text": "Atles",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Atles/Pilik.md": [
@@ -314,30 +585,6 @@
             {
                 "text": "Pilik",
                 "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Tifixa.md": [
-            {
-                "text": "Tifixa",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/CrystalPylon.md": [
-            {
-                "text": "Crystal Pylon",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/IridescentGlobes.md": [
-            {
-                "text": "iridescent globes",
-                "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -507,6 +754,13 @@
             {
                 "text": "**The Rusted Hand of Victory**",
                 "url": "directory/LowRoadHigh/RHV.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
