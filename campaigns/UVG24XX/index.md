@@ -13,6 +13,17 @@ footer_content:
 
 # {{ page.title }}
 
+**Table of contents**
+{: .text-delta .text-right}
+
+Chapters  
+Open Hooks  
+Market Research  
+Character Generation  
+How to Play  
+West Marches Caravaning  
+{: .text-delta .text-right}
+
 ![](https://roningames.com.au/cdn/shop/products/EFP01000_1000x1000.webp?v=1646787736)
 
 The Hero put the cat coffee in the samovar and rubbed the sleep sand out of their eyes.
@@ -158,6 +169,10 @@ If you roll it to its maximum, your ***skill*** increases (d6→d8→d10→d12).
 Your Financiers run a large caravan.
 Its location on the map is updated after every session and taken as the starting point for the next one.
 It is assumed that staying within the large caravan (i.e. missing a session) has no costs or profit, as you work on menial tasks for the Financiers.
+
+A few days before each session, players declare one **Destination or Camp Action** they intend to perform during downtime.
+On the *discord channel for the session*, players roll `!r 1d20` if no skills apply, or `!r 1d20 + 1d8` - substituting `1d8` with the skill rate that applies to the action.
+The GM resolves downtime and informs the players before the session starts.
 
 ## GM
 
