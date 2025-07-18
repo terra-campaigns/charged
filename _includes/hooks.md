@@ -1,8 +1,16 @@
 <p id="hooks"><b>Open Hooks</b></p>
 {: .text-delta }
 
+{% assign navhooks = ''|split:'' %}
 {% for item in site.pages %}
 {% if item.hooks %}
+{% assign navhooks = navhooks | push:item %}
+{% endif %}
+{% endfor %}
+
+{% assign navhooks = navhooks | sort: "nav_order" | reverse %}
+
+{% for item in navhooks %}
 <p>
 <a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a>
 </p>
@@ -11,7 +19,6 @@
 > {{ hook }}
 {: .fs-4 }
 {% endfor %}
-{% endif %}
 {% endfor %}
 
 <p id="market"><b>Market Research</b></p>
