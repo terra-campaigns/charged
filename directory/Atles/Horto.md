@@ -13,7 +13,6 @@ hooks:
 nav_order: 3025-05-15
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250718091137.png
 
 ---
 
