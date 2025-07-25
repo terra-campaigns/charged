@@ -5,7 +5,7 @@ type: people
 nav_exclude: false
 
 parent: Atles' Catlord Caravan
-title: Morgoth
+title: Murdock
 role: Shaman
 status: 
 

@@ -123,6 +123,12 @@
             },
             {
                 "text": "The Low Road and The High",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
                 "url": "campaigns/FailedExports/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -257,6 +263,12 @@
             {
                 "text": "Kur",
                 "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -417,6 +429,12 @@
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Atles/Tifixa.md": [
@@ -497,6 +515,12 @@
             {
                 "text": "Crystal Pylon",
                 "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "CrystalPylon",
+                "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -632,8 +656,8 @@
                 "favicon": null
             },
             {
-                "text": "Morgoth",
-                "url": "directory/Atles/Morgoth.md",
+                "text": "Murdock",
+                "url": "directory/Atles/Murdock.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -689,12 +713,24 @@
                 "url": "campaigns/UVG24XX/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Ski",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
-        "directory/Atles/Morgoth.md": [
+        "directory/Atles/Murdock.md": [
             {
-                "text": "Morgoth",
+                "text": "Murdock",
                 "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murdock",
+                "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -717,6 +753,65 @@
             {
                 "text": "reckless red cultists",
                 "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/UVG24XX/ep_004.md": [
+            {
+                "text": "Atles",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ski",
+                "url": "directory/Atles/Ski.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murdock",
+                "url": "directory/Atles/Murdock.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "CrystalPylon",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vorgo",
+                "url": "directory/Atles/Vorgo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Atles/Vorgo.md": [
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

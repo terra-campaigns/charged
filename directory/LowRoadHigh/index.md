@@ -11,9 +11,12 @@ title: 2 The Low Road and The High
 role: Village for retired caravaners
 status: 
 hooks:
+- "'Is Gude' Guy arrives in a mule, with coloured eyes."
+- Someone needs to pay for the damage the werepug left.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250623074102.png
+
 ---
 
 {% include header_directories.md %}

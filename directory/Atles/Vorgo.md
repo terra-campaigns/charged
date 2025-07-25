@@ -12,6 +12,7 @@ status:
 hooks: The man was stabbed by a silver knife in Violet City. In the bar, people mentioned a dog cage.
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020250725133808.png
 
 ---
 

@@ -14,7 +14,6 @@ kanban-plugin: board
 
 ## Snoozed
 
-- [ ] Nov pagar 2000 cada
 
 
 ***
@@ -22,6 +21,7 @@ kanban-plugin: board
 ## Archive
 
 - [ ] nothing here
+- [ ] Nov pagar 2000 cada
 
 %% kanban:settings
 ```
