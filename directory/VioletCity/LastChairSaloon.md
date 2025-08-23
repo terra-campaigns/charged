@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: 1 Violet City
+parent: Violet City (1)
 title: Last Chair Saloon
 role: 
 status: 

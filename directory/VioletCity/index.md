@@ -7,7 +7,8 @@ has_children: true
 has_toc: false
 
 parent: Directory
-title: 1 Violet City
+title: Violet City (1)
+nav_order: 1001
 role: Last city of the Rainbowlands
 status: 
 hooks: Who would hurt Vorgo?

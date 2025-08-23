@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: 2 The Low Road and The High
+parent: Low Road and High (2)
 title: Crystal Pylon
 role: RRV
 status: 

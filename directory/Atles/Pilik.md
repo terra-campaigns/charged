@@ -10,8 +10,10 @@ title: Pilik Bagato
 role: Decapolitan navigator
 status: 
 
-images: 
+hooks:
+- Nemesis, old friend and successful banker, is a jerk.
 
+images: 
 
 ---
 
@@ -28,3 +30,4 @@ images:
 Wants to make a fortune.
 Grumpy has not made a fortune yet.
 Handsome jerk, who thinks he is the protagonist.
+Indiana Jones with less ethics.

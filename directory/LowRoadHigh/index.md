@@ -7,7 +7,8 @@ has_children: true
 has_toc: true
 
 parent: Directory
-title: 2 The Low Road and The High
+title: Low Road and High (2)
+nav_order: 1002
 role: Village for retired caravaners
 status: 
 hooks:

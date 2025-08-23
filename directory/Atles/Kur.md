@@ -11,12 +11,12 @@ role: Kur ‘Notcurrentlyineducationortraining, Wildfolk Wizard
 status: 
 
 hooks:
-- Hair turned blue after contact with the laser on the Crystal Pylon.
-- May of may not have a clone.
+- Hair turned blue after contact with the laser on the Crystal Pylon. Hair turned back to normal colour a month later.
+- May or may not have a clone.
+- Feels sick around the iridiscent globes, but very interested in them. Eyes turning violet.
 
 images: 
 - ../../imgs/gallery/Kur_Wildfolk_Wizard_Ubik_01.png
-
 
 ---
 
@@ -29,6 +29,8 @@ images:
 **You have an additional experience:** Professional citizen—high expectations (Chemistry increased to d8 when relevant).  
 **You have another experience:** Outcast—an illegal on society’s edge (Gun Running increased to d8 when relevant).  
 **Why are you on the road?** [Their aged clone](Barista.md) whispered prophecies (increased Oldtech).
+
+Used to cook drugs and make explosives before caravaning.
 
 Salt and pepper hair.
 Wears a face cover, a hat and a cloak on top of it all.

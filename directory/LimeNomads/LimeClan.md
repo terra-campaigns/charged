@@ -1,19 +1,18 @@
 ---
 layout: default
 template: 0.4
-type: location
+type: faction
 nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Directory
-title: The Last Serai (8)
-nav_order: 1008
+parent: Steppe of Lime Nomads (3)
+title: Lime Clan
 role: 
 status: 
 
 images: 
-
+- ../../imgs/gallery/Pasted%20image%2020250822120449.png
 ---
 
 {% include header_directories.md %}

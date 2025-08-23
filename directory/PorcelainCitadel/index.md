@@ -7,7 +7,8 @@ has_children: true
 has_toc: false
 
 parent: Directory
-title: 4 Porcelain Citadel
+title: Porcelain Citadel (4)
+nav_order: 1004
 role: 
 status: 
 

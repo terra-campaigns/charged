@@ -4,7 +4,7 @@ template: 0.4
 type: people
 nav_exclude: false
 
-parent: 1 Violet City
+parent: Violet City (1)
 title: Leonti Vites
 role: Financier from Banco de Aventuras
 status: 

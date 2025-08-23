@@ -117,6 +117,12 @@
             },
             {
                 "text": "The Low Road and The High",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
                 "url": "campaigns/UVG24XX/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -257,6 +263,12 @@
             {
                 "text": "Kur",
                 "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -432,6 +444,12 @@
             },
             {
                 "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles",
                 "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -447,6 +465,12 @@
             {
                 "text": "Tifixa",
                 "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -519,7 +543,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "CrystalPylon",
+                "text": "Crystal Pylon",
                 "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -614,7 +638,95 @@
             },
             {
                 "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
                 "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/UVG24XX/ep_005.md": [
+            {
+                "text": "Atles",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Steppe of the Lime Nomads",
+                "url": "directory/LimeNomads/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tifixa",
+                "url": "directory/Atles/Tifixa.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilik",
+                "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rise Ghost",
+                "url": "directory/Atles/RiseGhost.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "spring",
+                "url": "directory/LimeNomads/SpringYellow.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/LimeNomads/index.md": [
+            {
+                "text": "Steppe of the Lime Nomads",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/RiseGhost.md": [
+            {
+                "text": "Rise Ghost",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LimeNomads/SpringYellow.md": [
+            {
+                "text": "spring",
+                "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -665,6 +777,13 @@
             {
                 "text": "Kur",
                 "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "sunburnt man",
+                "url": "directory/Atles/Vorgo.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -735,6 +854,20 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Atles/Vorgo.md": [
+            {
+                "text": "sunburnt man",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/VioletCity/LastChairSaloon.md": [
             {
                 "text": "Last Chair Saloon",
@@ -794,7 +927,7 @@
                 "favicon": null
             },
             {
-                "text": "CrystalPylon",
+                "text": "Crystal Pylon",
                 "url": "directory/LowRoadHigh/CrystalPylon.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -806,14 +939,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/Vorgo.md": [
-            {
-                "text": "Vorgo",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/FailedExports/ep_002.md": [

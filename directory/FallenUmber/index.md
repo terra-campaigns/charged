@@ -7,7 +7,8 @@ has_children: true
 has_toc: false
 
 parent: Directory
-title: 12 Fallen Umber
+title: Fallen Umber (12)
+nav_order: 1012
 role: 
 status: 
 
