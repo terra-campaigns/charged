@@ -42,6 +42,14 @@ It almost warms my bones.”
 
 “We’ll all be warm soon,” rumbled Eater-of-the-Dead from its sleeping sack, “we’re nearly at the Violet City.”
 
+<details close markdown="block">
+  <summary>
+    <b>Click to open a map of the Grasslands</b><br> 
+  </summary>
+{: .text-delta}
+![](https://i.imgur.com/Kbfyc2s.png)
+</details>
+
 {% include connected_to.html %}
 
 {% include hooks.md %}
