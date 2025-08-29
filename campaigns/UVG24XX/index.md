@@ -47,7 +47,25 @@ It almost warms my bones.”
     <b>Click to open a map of the Grasslands</b><br> 
   </summary>
 {: .text-delta}
-![](https://i.imgur.com/Kbfyc2s.png)
+
+![](https://i.imgur.com/vu0HT90.png)
+
+---
+
+![](https://i.imgur.com/1lTx8U2.png)
+
+---
+
+![](https://i.imgur.com/KmX5ul9.png)
+
+---
+
+![](https://i.imgur.com/Voo6Fl7.png)
+
+---
+
+![](https://i.imgur.com/hP4Rgfe.png)
+
 </details>
 
 {% include connected_to.html %}
