@@ -19,3 +19,8 @@ images:
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
+
+A group of nomadic people from the [steppe](index.md).
+They follow ceremonial raves and are respectful with their rituals.
+They also consume a lot of vapours and powders to reach transcendence.
+When they need to return to a sensible state, they consume lots of limes.

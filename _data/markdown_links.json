@@ -219,6 +219,35 @@
                 "direction": "inbound"
             }
         ],
+        "directory/LimeNomads/LimeClan.md": [
+            {
+                "text": "steppe",
+                "url": "directory/LimeNomads/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lime clan",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LimeNomads/index.md": [
+            {
+                "text": "steppe",
+                "url": "directory/LimeNomads/LimeClan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Steppe of the Lime Nomads",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Atles/Barista.md": [
             {
                 "text": "Wizard",
@@ -714,14 +743,6 @@
                 "favicon": null
             }
         ],
-        "directory/LimeNomads/index.md": [
-            {
-                "text": "Steppe of the Lime Nomads",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "directory/Atles/RiseGhost.md": [
             {
                 "text": "Rise Ghost",
@@ -733,14 +754,6 @@
         "directory/LimeNomads/SpringYellow.md": [
             {
                 "text": "spring",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LimeNomads/LimeClan.md": [
-            {
-                "text": "Lime clan",
                 "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
