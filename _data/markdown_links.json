@@ -705,6 +705,13 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Lime clan",
+                "url": "directory/LimeNomads/LimeClan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             }
         ],
         "directory/LimeNomads/index.md": [
@@ -726,6 +733,14 @@
         "directory/LimeNomads/SpringYellow.md": [
             {
                 "text": "spring",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LimeNomads/LimeClan.md": [
+            {
+                "text": "Lime clan",
                 "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
