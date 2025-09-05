@@ -28,7 +28,7 @@ footer_content:
 
 {% comment %} 
 
-**UVG+24XX** [Open Table]
+**UVG** | 24XX [Open Table]
 
 **GM:** Efsa (Estêvão)  
 **Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
@@ -47,8 +47,8 @@ footer_content:
 [Location, goods and prices](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
 
 **Notes**:  
-Players drive the campaign, discuss and decide what they will do ahead of the session.  
-Downtime and some light conversations with characters may be conducted through PBP.  
+Players drive the campaign, deciding what they will do ahead of sessions.  
+Downtime is conducted through PBP.  
 
 2 hours
 
