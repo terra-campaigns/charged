@@ -11,7 +11,7 @@ status:
 
 hooks:
 - Has developed two eyes on her forearm.
-- Fascinated with the iridiscent globes.
+- Fascinated with the iridiscent globes. Also getting sick from them. Suffering from the Fleshy vomish infection.
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250707105542.png

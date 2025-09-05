@@ -11,7 +11,8 @@ status:
 
 images: 
 
-
+hooks:
+- Childhood nemesis is a charismatic public speaker who was taken in a cult.
 ---
 
 {% include header_directories.md %}
@@ -19,7 +20,6 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
-Why are you on the road? Queer unease after reading a metal book.
 What is your signature item? Red staff made of fused ancient pistols.
 Who is your nemesis since childhood? Mad genius or just a misunderstood nerd?.
 Who is your nemesis since childhood? Charismatic public speaker. Seems ... cultish?.

@@ -161,6 +161,12 @@
             },
             {
                 "text": "Violet City",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
                 "url": "campaigns/UVG24XX/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -191,6 +197,12 @@
                 "url": "campaigns/UVG24XX/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Fleshy",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/FoldedBelow/IridescentGlobes.md": [
@@ -214,6 +226,12 @@
             },
             {
                 "text": "iridescent globes",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "iridescent globes",
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -228,6 +246,12 @@
                 "favicon": null
             },
             {
+                "text": "lime",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Lime clan",
                 "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
@@ -238,6 +262,12 @@
             {
                 "text": "steppe",
                 "url": "directory/LimeNomads/LimeClan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "steppe",
+                "url": "campaigns/UVG24XX/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -466,6 +496,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Atles\u2019 Caravan",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Atles",
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
@@ -488,6 +524,12 @@
             {
                 "text": "Tifixa",
                 "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -600,6 +642,153 @@
                 "direction": "inbound"
             }
         ],
+        "campaigns/UVG24XX/ep_006.md": [
+            {
+                "text": "Tifixa",
+                "url": "directory/Atles/Tifixa.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "iridescent globes",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilik",
+                "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rise Ghost",
+                "url": "directory/Atles/RiseGhost.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vorgo",
+                "url": "directory/Atles/Vorgo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Violet City",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "steppe",
+                "url": "directory/LimeNomads/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Atles\u2019 Caravan",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "lime",
+                "url": "directory/LimeNomads/LimeClan.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fleshy",
+                "url": "directory/FoldedBelow/Skinwearer.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lavender Cliffs",
+                "url": "directory/LimeNomads/LavenderCliffs.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Atles/Pilik.md": [
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/RiseGhost.md": [
+            {
+                "text": "Rise Ghost",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rise Ghost",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Vorgo.md": [
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "sunburnt man",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LimeNomads/LavenderCliffs.md": [
+            {
+                "text": "Lavender Cliffs",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "campaigns/UVG24XX/ep_002.md": [
             {
                 "text": "Atles",
@@ -656,26 +845,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/Pilik.md": [
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/UVG24XX/ep_005.md": [
@@ -741,14 +910,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/RiseGhost.md": [
-            {
-                "text": "Rise Ghost",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/LimeNomads/SpringYellow.md": [
@@ -877,20 +1038,6 @@
             },
             {
                 "text": "Murdock",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Vorgo.md": [
-            {
-                "text": "sunburnt man",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vorgo",
                 "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
