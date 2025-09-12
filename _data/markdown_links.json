@@ -333,6 +333,12 @@
             },
             {
                 "text": "Kur",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Kur",
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -681,6 +687,20 @@
                 "favicon": null
             },
             {
+                "text": "Kur",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilik",
+                "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Atles' Caravan",
                 "url": "directory/Atles/index.md",
                 "is_internal": true,
@@ -721,6 +741,38 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "directory/Atles/Pilik.md": [
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/PorcelainCitadel/index.md": [
@@ -840,32 +892,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/Pilik.md": [
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Atles/RiseGhost.md": [
