@@ -161,6 +161,12 @@
             },
             {
                 "text": "Violet City",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Violet City",
                 "url": "campaigns/UVG24XX/ep_006.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -262,6 +268,12 @@
             {
                 "text": "steppe",
                 "url": "directory/LimeNomads/LimeClan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "steppe",
+                "url": "campaigns/UVG24XX/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -496,6 +508,12 @@
                 "direction": "inbound"
             },
             {
+                "text": "Atles' Caravan",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Atles\u2019 Caravan",
                 "url": "campaigns/UVG24XX/ep_006.md",
                 "is_internal": true,
@@ -524,6 +542,12 @@
             {
                 "text": "Tifixa",
                 "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_007.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -609,6 +633,12 @@
             },
             {
                 "text": "Crystal Pylon",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crystal Pylon",
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -638,6 +668,97 @@
             {
                 "text": "folded-space map",
                 "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/UVG24XX/ep_007.md": [
+            {
+                "text": "Tifixa",
+                "url": "directory/Atles/Tifixa.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Atles' Caravan",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "steppe",
+                "url": "directory/LimeNomads/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Porcelain Citadel",
+                "url": "directory/PorcelainCitadel/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Violet City",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vorgo",
+                "url": "directory/Atles/Vorgo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/PorcelainCitadel/index.md": [
+            {
+                "text": "Porcelain Citadel",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Porcelain Citadel",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Vorgo.md": [
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "sunburnt man",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -757,26 +878,6 @@
             {
                 "text": "Rise Ghost",
                 "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Vorgo.md": [
-            {
-                "text": "Vorgo",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "sunburnt man",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vorgo",
-                "url": "campaigns/UVG24XX/ep_004.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1204,14 +1305,6 @@
             {
                 "text": "Piero",
                 "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/PorcelainCitadel/index.md": [
-            {
-                "text": "Porcelain Citadel",
-                "url": "campaigns/FailedExports/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }

@@ -19,5 +19,8 @@ images:
 {% include header_directories.md %}
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
+
+Exiles from the Red Dragon Cult, from the Dragon Fort west of XII Fallen Umber. Notebook pg. 10A.
+
 {% endcomment %}
 

@@ -25,6 +25,8 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
+![](../../imgs/gallery/Pasted%20image%2020250905172811.png)
+
 **Why are you on the road?** Paintings of a gorgeous cyan seaside.
 **What is your signature item?** Rainbow unicorn horn.
 **You have a sign of the Fast Stars:** Chosen. An override jewel in their head.

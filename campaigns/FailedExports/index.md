@@ -74,16 +74,16 @@ When **Exposed**, (remaining) damage is subtracted from `STR`, wounding the oppo
 
 **Blast Damage** rolls separately for everyone in the effect area.  
 
+Extreme effort requires a **Save** to avoid ***d6*** loss of `STR`, `DEX` or `WIL`.
+
 ## Recovery
 
-**Resting** for a a brief moment recovers all lost `GUARD`. It may waste time or attract danger.   
+**Resting** for a a brief moment recovers all lost `GUARD`.
+It may waste time or attract danger.   
 
-**Healing** takes a week. This restores all **Stats** and may recover **Wounds**.
+**Healing** takes a week.
+This restores all **Stats** and may recover **Wounds**.
 Some injuries take time and/or medical attention to heal.
-
-**Fatigue** is caused by extreme effort.
-It takes a night's sleep to recover.
-Extreme effort when already **Fatigued** causes ***d6*** loss of `STR`, `DEX` or `WIL`.
 
 When lacking crucial needs, a **PC** is **Deprived** and cannot benefit from **Rest** or **Healing**.
 
