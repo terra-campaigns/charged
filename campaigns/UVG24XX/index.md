@@ -73,7 +73,7 @@ Say how your armour or weapon breaks to turn a hit into a *hindrance*.
 A broken gear is useless until it is repaired.
 Injuries take time and/or medical attention to heal.
 
-When you roll your **ability** die maximum, you can choose to turn the **Success** into a **Disaster**.
+Once per session, when you roll your **ability** die maximum, you can choose to turn the **Success** into a **Disaster**.
 If you do so, your **ability** die improves (**d6** → **d8** → **d10**).
 
 ## Uncertainty
