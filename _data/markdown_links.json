@@ -51,48 +51,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://www.drivethrurpg.com/favicon.ico"
-            },
-            {
-                "text": "Open Table",
-                "url": "https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.thearcanelibrary.com/favicon.ico"
-            },
-            {
-                "text": "***charged*** art, music, inspiration",
-                "url": "https://terra-campaigns.github.io/charged/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Session reports & open hooks",
-                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "TTRPG system & chargen",
-                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Owlbear Rodeo",
-                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.owlbear.rodeo/favicon.ico"
-            },
-            {
-                "text": "Location, goods and prices",
-                "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://docs.google.com/favicon.ico"
             }
         ],
         "directory/LowRoadHigh/index.md": [
@@ -972,6 +930,43 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/UVG24XX/index.md": [
+            {
+                "text": "Ultraviolet Grasslands map",
+                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
+            },
+            {
+                "text": "Location, goods and prices",
+                "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.google.com/favicon.ico"
+            },
+            {
+                "text": "Owlbear Rodeo",
+                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
+            },
+            {
+                "text": "Spotify playlist",
+                "url": "https://open.spotify.com/playlist/471z1wUAG1zxbQ2Dan3GWV?si=240d7014c79d433a",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://open.spotify.com/favicon.ico"
+            },
+            {
+                "text": "UVG free player guide",
+                "url": "https://wizardthieffighter.itch.io/uvg-free-player-guide",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
             }
         ],
         "campaigns/UVG24XX/ep_005.md": [

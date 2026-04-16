@@ -28,28 +28,4 @@ footer_content:
 
 {% comment %} 
 
-**UVG** | 24XX [Open Table]
-
-**GM:** Efsa (Estêvão)  
-**Format**: [Open Table](https://www.thearcanelibrary.com/blogs/shadowdark-blog/open-table-how-the-creators-of-d-d-ran-their-games?srsltid=AfmBOoqNYWIzVWFjQKEoyumD4NTcFvhdkiVGQgaluf5LKmkS3-ORyFI7), sandbox & episodic  
-**Frequency**: Every other Thursday, from <t:1750530600:t> to <t:1750537800:t>
-**Sign-up**: First come, first served;  2-4 players  
-**Genre**: Science Fantasy  
-**Language**: English  
-**Communication**: Discord voice (video is optional)  
-**Content warnings**: Violence, body horror, corruption, assimilation, psychological distress, oppression, drugs, slavery  
-
-**Useful links**:  
-[***charged*** art, music, inspiration](https://terra-campaigns.github.io/charged/)  
-[Session reports & open hooks](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/)    
-[TTRPG system & chargen](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/#system)  
-[Owlbear Rodeo](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
-[Location, goods and prices](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
-
-**Notes**:  
-Players drive the campaign, deciding what they will do ahead of sessions.  
-Downtime is conducted through PBP.  
-
-2 hours
-
 {% endcomment %}
