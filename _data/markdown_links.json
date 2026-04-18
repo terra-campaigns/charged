@@ -941,6 +941,13 @@
                 "favicon": "https://www.owlbear.rodeo/favicon.ico"
             },
             {
+                "text": "Rules & Chargen",
+                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
                 "text": "Location, goods and prices",
                 "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
                 "is_internal": false,

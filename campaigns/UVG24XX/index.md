@@ -37,17 +37,14 @@ Players can revise their plans before committing to a change in goals or stakes.
 
 Your Financiers run a large caravan.
 Its location on the map is updated on the [Ultraviolet Grasslands map](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged) after every session and taken as the starting point for the next one.
-It is assumed that staying within the large caravan (i.e. missing a session) has no costs or profit, as you work on menial tasks for the Financiers.
 
 ## Character Creation
-
-Paste a copy of your character and introduce them to <a href="https://discord.com/channels/1060840338777964565/1379919664867708988" target="_blank">Who is this hero?</a> channel.  
 
 <details close markdown="block">
   <summary id="index">
     <code>GET A CHARACTER FROM THE SACK</code>
   </summary>
-<div style="height:46vh; width:100%;">
+<div style="height:44vh; width:100%;">
   <iframe
     src="https://null.perchance.org/chargedrpg-uvg"
     style="border:none; width:100%; height:100%;"
@@ -55,6 +52,9 @@ Paste a copy of your character and introduce them to <a href="https://discord.co
   ></iframe>
 </div>
 </details>
+
+You get an extra ability die increase (**d6** → **d8** → **d10**).  
+Paste a copy of your character and introduce them to <a href="https://discord.com/channels/1060840338777964565/1379919664867708988" target="_blank">Who is this hero?</a> channel.  
 
 ## Rolling
 
