@@ -93,6 +93,12 @@
             },
             {
                 "text": "The Low Road and The High",
+                "url": "campaigns/FailedExports/ep_001_a.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Low Road and The High",
                 "url": "campaigns/FailedExports/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -100,12 +106,6 @@
             {
                 "text": "O Caminho Baixo e O Alto",
                 "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "The Low Road and The High",
-                "url": "campaigns/Anthology/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -137,13 +137,13 @@
             },
             {
                 "text": "Violet City",
-                "url": "campaigns/FailedExports/ep_001.md",
+                "url": "campaigns/FailedExports/ep_001_a.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
                 "text": "Violet City",
-                "url": "campaigns/Anthology/ep_001.md",
+                "url": "campaigns/FailedExports/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1245,6 +1245,22 @@
                 "favicon": null
             }
         ],
+        "campaigns/FailedExports/ep_001_a.md": [
+            {
+                "text": "Violet City",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Low Road and The High",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/FailedExports/ep_002.md": [
             {
                 "text": "The Low Road and The High",
@@ -1410,22 +1426,6 @@
                 "url": "campaigns/FailedExports/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "campaigns/Anthology/ep_001.md": [
-            {
-                "text": "Violet City",
-                "url": "directory/VioletCity/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "The Low Road and The High",
-                "url": "directory/LowRoadHigh/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
             }
         ]
     }

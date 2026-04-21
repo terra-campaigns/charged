@@ -10,29 +10,20 @@
             "campaigns/FailedExports/ep_001.md"
         ],
         "imgs/gallery/Pasted image 20250512113521.png": [
-            "campaigns/FailedExports/ep_001.md",
-            "campaigns/Anthology/ep_001.md"
+            "campaigns/FailedExports/ep_001_a.md",
+            "campaigns/FailedExports/ep_001.md"
         ],
         "imgs/gallery/Pasted image 20250512113900.png": [
             "directory/Atles/Atles.md",
-            "campaigns/FailedExports/ep_001.md",
-            "campaigns/Anthology/ep_001.md"
+            "campaigns/FailedExports/ep_001_a.md",
+            "campaigns/FailedExports/ep_001.md"
         ],
         "imgs/gallery/Pasted image 20250512113925.png": [
-            "campaigns/FailedExports/ep_001.md",
-            "campaigns/Anthology/ep_001.md"
+            "campaigns/FailedExports/ep_001_a.md",
+            "campaigns/FailedExports/ep_001.md"
         ],
         "imgs/gallery/Pasted image 20250513095525.png": [
             "campaigns/FailedExports/ep_001.md"
-        ],
-        "imgs/gallery/Pasted image 20250515225421.png": [
-            "campaigns/Anthology/SuperBloodHarvest.md"
-        ],
-        "imgs/gallery/Pasted image 20250515232118.png": [
-            "campaigns/Anthology/SuperBloodHarvest.md"
-        ],
-        "imgs/gallery/Pasted image 20250515232133.png": [
-            "campaigns/Anthology/SuperBloodHarvest.md"
         ],
         "imgs/gallery/Pasted image 20250620111714.png": [
             "directory/LowRoadHigh/RRR.md"
@@ -89,15 +80,6 @@
             "directory/FoldedBelow/index.md",
             "campaigns/UVG24XX/ep_003.md"
         ],
-        "imgs/gallery/Pasted image 20250718205632.png": [
-            "campaigns/Anthology/Fate.md"
-        ],
-        "imgs/gallery/Pasted image 20250718211417.png": [
-            "campaigns/Anthology/Fate.md"
-        ],
-        "imgs/gallery/Pasted image 20250718211430.png": [
-            "campaigns/Anthology/Fate.md"
-        ],
         "imgs/gallery/Pasted image 20250725133808.png": [
             "directory/Atles/Vorgo.md"
         ],
@@ -126,9 +108,6 @@
         "imgs/gallery/Pasted image 20250905172811.png": [
             "directory/Atles/RiseGhost.md"
         ],
-        "imgs/gallery/Screenshot 2025-07-18 at 20.37.26.png": [
-            "campaigns/Anthology/Fate.md"
-        ],
         "imgs/gallery/e67928ac699fa366c598382ee730c936.jpg": [
             "campaigns/FailedExports/index.md"
         ],
@@ -140,6 +119,13 @@
         "imgs/gallery/Pasted image 20250512160019.png": [],
         "imgs/gallery/Pasted image 20250513161035.png": [],
         "imgs/gallery/Pasted image 20250514205037.png": [],
+        "imgs/gallery/Pasted image 20250515225421.png": [],
+        "imgs/gallery/Pasted image 20250515232118.png": [],
+        "imgs/gallery/Pasted image 20250515232133.png": [],
+        "imgs/gallery/Pasted image 20250718205632.png": [],
+        "imgs/gallery/Pasted image 20250718211417.png": [],
+        "imgs/gallery/Pasted image 20250718211430.png": [],
+        "imgs/gallery/Screenshot 2025-07-18 at 20.37.26.png": [],
         "imgs/gallery/file_000000008b286243b907465cb97c4cff.png": []
     }
 }
