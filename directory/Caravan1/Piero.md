@@ -10,8 +10,7 @@ role: Liberal Engineer
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250512160019.png
-- ../../../../imgs/gallery/Pasted%20image%2020250512113704.png
+- ../../imgs/gallery/Pasted%20image%2020250512113704.png
 
 ---
 

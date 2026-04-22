@@ -53,7 +53,280 @@
                 "favicon": "https://www.drivethrurpg.com/favicon.ico"
             }
         ],
+        "directory/LowRoadHigh/RHV.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "**The Rusted Hand of Victory**",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "campaigns/UVG24XX/index.md": [
+            {
+                "text": "index",
+                "url": "directory/LowRoadHigh/RHV.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LowRoadHigh/RRR.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LowRoadHigh/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LowRoadHigh/MotorOutcrops.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/PorcelainCitadel/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/FallenUmber/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/FoldedBelow/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/FoldedBelow/Skinwearer.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/FoldedBelow/ManEatingMolusc.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LimeNomads/LimeClan.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LimeNomads/SpringYellow.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LimeNomads/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LimeNomads/LavenderCliffs.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Barista.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Xulio.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Tifixa.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Vorgo.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Ski.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Kur.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Iacum.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Cozarin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Horto.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Murdock.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/RiseGhost.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LastSerai/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/VioletCity/LeontiVites.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/VioletCity/LastChairSaloon.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/VioletCity/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ultraviolet Grasslands map",
+                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
+            },
+            {
+                "text": "Rules & Chargen",
+                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+            },
+            {
+                "text": "Location, goods and prices",
+                "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.google.com/favicon.ico"
+            },
+            {
+                "text": "Owlbear Rodeo",
+                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.owlbear.rodeo/favicon.ico"
+            },
+            {
+                "text": "Spotify playlist",
+                "url": "https://open.spotify.com/playlist/471z1wUAG1zxbQ2Dan3GWV?si=240d7014c79d433a",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://open.spotify.com/favicon.ico"
+            },
+            {
+                "text": "UVG free player guide",
+                "url": "https://wizardthieffighter.itch.io/uvg-free-player-guide",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
+            }
+        ],
+        "directory/LowRoadHigh/RRR.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "reckless red cultists",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/LowRoadHigh/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "Violet City",
                 "url": "directory/VioletCity/index.md",
@@ -118,6 +391,13 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "Violet City",
                 "url": "campaigns/UVG24XX/ep_007.md",
                 "is_internal": true,
@@ -148,28 +428,87 @@
                 "direction": "inbound"
             }
         ],
-        "directory/FoldedBelow/Skinwearer.md": [
+        "directory/LowRoadHigh/MotorOutcrops.md": [
             {
-                "text": "Iridescent Globes",
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Motor Outcrops",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Motor Outcrops",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LowRoadHigh/CrystalPylon.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "IridescentGlobes",
                 "url": "directory/FoldedBelow/IridescentGlobes.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
-                "text": "Fleshy",
+                "text": "Crystal Pylon",
                 "url": "campaigns/UVG24XX/ep_003.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Fleshy",
-                "url": "campaigns/UVG24XX/ep_006.md",
+                "text": "Crystal Pylon",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Crystal Pylon",
+                "url": "campaigns/FailedExports/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
         ],
         "directory/FoldedBelow/IridescentGlobes.md": [
+            {
+                "text": "IridescentGlobes",
+                "url": "directory/LowRoadHigh/CrystalPylon.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "Iridescent Globes",
                 "url": "directory/FoldedBelow/Skinwearer.md",
@@ -201,7 +540,108 @@
                 "direction": "inbound"
             }
         ],
+        "directory/PorcelainCitadel/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Porcelain Citadel",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Porcelain Citadel",
+                "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FallenUmber/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fallen Umber",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "folded-space map",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/Skinwearer.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Iridescent Globes",
+                "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fleshy",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fleshy",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/FoldedBelow/ManEatingMolusc.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Shaggy",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/LimeNomads/LimeClan.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "steppe",
                 "url": "directory/LimeNomads/index.md",
@@ -230,6 +670,13 @@
                 "direction": "inbound"
             },
             {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
                 "text": "steppe",
                 "url": "campaigns/UVG24XX/ep_007.md",
                 "is_internal": true,
@@ -248,7 +695,44 @@
                 "direction": "inbound"
             }
         ],
+        "directory/LimeNomads/SpringYellow.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "spring",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LimeNomads/LavenderCliffs.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Lavender Cliffs",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Atles/Barista.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
             {
                 "text": "Wizard",
                 "url": "directory/Atles/Kur.md",
@@ -275,6 +759,13 @@
                 "url": "directory/Atles/Barista.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
             },
             {
                 "text": "Their aged clone",
@@ -316,6 +807,342 @@
             {
                 "text": "Kur",
                 "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Xulio.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Xulio",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Tifixa.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Tifixa",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Pilik.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Pilik",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Vorgo.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "sunburnt man",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Vorgo",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles' Caravan",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles\u2019 Caravan",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles Dello Citranella",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Ski.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ski",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ski",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Iacum.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Iacum",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Cozarin.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cozarin",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Horto.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Horto",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Murdock.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Murdock",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Murdock",
+                "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/RiseGhost.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rise Ghost",
+                "url": "campaigns/UVG24XX/ep_006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rise Ghost",
+                "url": "campaigns/UVG24XX/ep_005.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LastSerai/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Last Serai",
+                "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/VioletCity/LeontiVites.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Leonti Vites",
+                "url": "campaigns/FailedExports/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/VioletCity/LastChairSaloon.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/UVG24XX/ep_001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Last Chair Saloon",
+                "url": "campaigns/FailedExports/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -464,178 +1291,6 @@
                 "favicon": null
             }
         ],
-        "directory/Atles/index.md": [
-            {
-                "text": "Atles",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Atles' Caravan",
-                "url": "campaigns/UVG24XX/ep_007.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Atles\u2019 Caravan",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Atles",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Atles",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Atles",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Tifixa.md": [
-            {
-                "text": "Tifixa",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Tifixa",
-                "url": "campaigns/UVG24XX/ep_007.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Tifixa",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Tifixa",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Tifixa",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Cozarin.md": [
-            {
-                "text": "Cozarin",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Horto.md": [
-            {
-                "text": "Horto",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Iacum.md": [
-            {
-                "text": "Iacum",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LastSerai/index.md": [
-            {
-                "text": "The Last Serai",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/MotorOutcrops.md": [
-            {
-                "text": "Motor Outcrops",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Motor Outcrops",
-                "url": "campaigns/FailedExports/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FallenUmber/index.md": [
-            {
-                "text": "Fallen Umber",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/CrystalPylon.md": [
-            {
-                "text": "Crystal Pylon",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Crystal Pylon",
-                "url": "campaigns/UVG24XX/ep_007.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Crystal Pylon",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Crystal Pylon",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Crystal Pylon",
-                "url": "campaigns/FailedExports/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/ManEatingMolusc.md": [
-            {
-                "text": "Shaggy",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/FoldedBelow/index.md": [
-            {
-                "text": "folded-space map",
-                "url": "campaigns/UVG24XX/ep_003.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/UVG24XX/ep_007.md": [
             {
                 "text": "Tifixa",
@@ -699,78 +1354,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/Pilik.md": [
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_007.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Pilik",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/PorcelainCitadel/index.md": [
-            {
-                "text": "Porcelain Citadel",
-                "url": "campaigns/UVG24XX/ep_007.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Porcelain Citadel",
-                "url": "campaigns/FailedExports/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Vorgo.md": [
-            {
-                "text": "Vorgo",
-                "url": "campaigns/UVG24XX/ep_007.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vorgo",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "sunburnt man",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Vorgo",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/UVG24XX/ep_006.md": [
@@ -852,28 +1435,6 @@
                 "favicon": null
             }
         ],
-        "directory/Atles/RiseGhost.md": [
-            {
-                "text": "Rise Ghost",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Rise Ghost",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LimeNomads/LavenderCliffs.md": [
-            {
-                "text": "Lavender Cliffs",
-                "url": "campaigns/UVG24XX/ep_006.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/UVG24XX/ep_002.md": [
             {
                 "text": "Atles",
@@ -930,50 +1491,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "campaigns/UVG24XX/index.md": [
-            {
-                "text": "Ultraviolet Grasslands map",
-                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.owlbear.rodeo/favicon.ico"
-            },
-            {
-                "text": "Rules & Chargen",
-                "url": "https://terra-campaigns.github.io/charged/campaigns/UVG24XX/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Location, goods and prices",
-                "url": "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://docs.google.com/favicon.ico"
-            },
-            {
-                "text": "Owlbear Rodeo",
-                "url": "https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.owlbear.rodeo/favicon.ico"
-            },
-            {
-                "text": "Spotify playlist",
-                "url": "https://open.spotify.com/playlist/471z1wUAG1zxbQ2Dan3GWV?si=240d7014c79d433a",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://open.spotify.com/favicon.ico"
-            },
-            {
-                "text": "UVG free player guide",
-                "url": "https://wizardthieffighter.itch.io/uvg-free-player-guide",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
             }
         ],
         "campaigns/UVG24XX/ep_005.md": [
@@ -1041,18 +1558,10 @@
                 "favicon": null
             }
         ],
-        "directory/LimeNomads/SpringYellow.md": [
-            {
-                "text": "spring",
-                "url": "campaigns/UVG24XX/ep_005.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/UVG24XX/ep_001.md": [
             {
                 "text": "Atles Dello Citranella",
-                "url": "directory/Atles/Atles.md",
+                "url": "directory/Atles/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1126,72 +1635,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/Atles/Atles.md": [
-            {
-                "text": "Atles Dello Citranella",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Xulio.md": [
-            {
-                "text": "Xulio",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Ski.md": [
-            {
-                "text": "Ski",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Ski",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/Atles/Murdock.md": [
-            {
-                "text": "Murdock",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Murdock",
-                "url": "campaigns/UVG24XX/ep_004.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/VioletCity/LastChairSaloon.md": [
-            {
-                "text": "Last Chair Saloon",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Last Chair Saloon",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/LowRoadHigh/RRR.md": [
-            {
-                "text": "reckless red cultists",
-                "url": "campaigns/UVG24XX/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/UVG24XX/ep_004.md": [
@@ -1353,14 +1796,6 @@
                 "direction": "inbound"
             }
         ],
-        "directory/LowRoadHigh/RHV.md": [
-            {
-                "text": "**The Rusted Hand of Victory**",
-                "url": "campaigns/FailedExports/ep_002.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
         "campaigns/FailedExports/ep_001.md": [
             {
                 "text": "Leonti Vites",
@@ -1410,14 +1845,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "directory/VioletCity/LeontiVites.md": [
-            {
-                "text": "Leonti Vites",
-                "url": "campaigns/FailedExports/ep_001.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "directory/Caravan1/Ferno.md": [

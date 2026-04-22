@@ -10,8 +10,7 @@ role: Contract Castaway
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250512155821.png
-- ../../../../imgs/gallery/Pasted%20image%2020250512113744.png
+- ../../imgs/gallery/Pasted%20image%2020250512155821.png
 
 ---
 

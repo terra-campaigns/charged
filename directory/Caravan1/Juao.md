@@ -10,9 +10,7 @@ role: Expelled Lamplighter
 status: 
 
 images: 
-- ../../../../imgs/gallery/Pasted%20image%2020250513161035.png
-- ../../../../imgs/gallery/Pasted%20image%2020250512151024.png
-- ../../../../imgs/gallery/Pasted%20image%2020250512113704.png
+- ../../imgs/gallery/Pasted%20image%2020250513161035.png
 
 ---
 

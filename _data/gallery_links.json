@@ -3,27 +3,29 @@
         "imgs/gallery/Kur_Wildfolk_Wizard_Ubik_01.png": [
             "directory/Atles/Kur.md"
         ],
-        "imgs/gallery/Pasted image 20250511100000.png": [
-            "campaigns/FailedExports/ep_001.md"
-        ],
         "imgs/gallery/Pasted image 20250512113445.png": [
             "campaigns/FailedExports/ep_001.md"
         ],
         "imgs/gallery/Pasted image 20250512113521.png": [
-            "campaigns/FailedExports/ep_001_a.md",
-            "campaigns/FailedExports/ep_001.md"
+            "directory/VioletCity/index.md"
+        ],
+        "imgs/gallery/Pasted image 20250512113704.png": [
+            "directory/Caravan1/Piero.md"
+        ],
+        "imgs/gallery/Pasted image 20250512113759.png": [
+            "directory/VioletCity/LastChairSaloon.md"
         ],
         "imgs/gallery/Pasted image 20250512113900.png": [
-            "directory/Atles/Atles.md",
-            "campaigns/FailedExports/ep_001_a.md",
-            "campaigns/FailedExports/ep_001.md"
+            "directory/Atles/index.md"
         ],
         "imgs/gallery/Pasted image 20250512113925.png": [
-            "campaigns/FailedExports/ep_001_a.md",
-            "campaigns/FailedExports/ep_001.md"
+            "campaigns/FailedExports/ep_001_a.md"
         ],
-        "imgs/gallery/Pasted image 20250513095525.png": [
-            "campaigns/FailedExports/ep_001.md"
+        "imgs/gallery/Pasted image 20250512155821.png": [
+            "directory/Caravan1/Ferno.md"
+        ],
+        "imgs/gallery/Pasted image 20250513161035.png": [
+            "directory/Caravan1/Juao.md"
         ],
         "imgs/gallery/Pasted image 20250620111714.png": [
             "directory/LowRoadHigh/RRR.md"
@@ -38,31 +40,20 @@
             "directory/LowRoadHigh/RHV.md",
             "directory/LowRoadHigh/index.md"
         ],
-        "imgs/gallery/Pasted image 20250623121314.png": [
-            "campaigns/FailedExports/ep_002.md"
-        ],
         "imgs/gallery/Pasted image 20250623135157.png": [
             "directory/PorcelainCitadel/index.md"
         ],
         "imgs/gallery/Pasted image 20250707083529.png": [
-            "directory/LowRoadHigh/CrystalPylon.md",
-            "campaigns/UVG24XX/ep_002.md"
+            "directory/LowRoadHigh/CrystalPylon.md"
         ],
         "imgs/gallery/Pasted image 20250707091609.png": [
-            "directory/LowRoadHigh/CrystalPylon.md",
-            "campaigns/UVG24XX/ep_003.md",
-            "campaigns/UVG24XX/ep_002.md",
-            "campaigns/UVG24XX/ep_004.md"
+            "directory/LowRoadHigh/CrystalPylon.md"
         ],
         "imgs/gallery/Pasted image 20250707091725.png": [
-            "campaigns/UVG24XX/ep_003.md",
-            "campaigns/UVG24XX/ep_002.md",
-            "campaigns/UVG24XX/ep_004.md"
+            "campaigns/UVG24XX/ep_002.md"
         ],
         "imgs/gallery/Pasted image 20250707093902.png": [
-            "directory/LowRoadHigh/CrystalPylon.md",
-            "directory/FoldedBelow/IridescentGlobes.md",
-            "campaigns/UVG24XX/ep_002.md"
+            "directory/FoldedBelow/IridescentGlobes.md"
         ],
         "imgs/gallery/Pasted image 20250707105542.png": [
             "directory/Atles/Tifixa.md"
@@ -99,10 +90,9 @@
             "directory/LimeNomads/LavenderCliffs.md"
         ],
         "imgs/gallery/Pasted image 20250905171811.png": [
-            "_site/campaigns/UVG24XX/ep_006_Ghost.md"
+            "campaigns/UVG24XX/ep_006.md"
         ],
         "imgs/gallery/Pasted image 20250905171821.png": [
-            "_site/campaigns/UVG24XX/ep_006_Ghost.md",
             "campaigns/UVG24XX/ep_006.md"
         ],
         "imgs/gallery/Pasted image 20250905172811.png": [
@@ -111,21 +101,6 @@
         "imgs/gallery/e67928ac699fa366c598382ee730c936.jpg": [
             "campaigns/FailedExports/index.md"
         ],
-        "imgs/gallery/Pasted image 20250512113704.png": [],
-        "imgs/gallery/Pasted image 20250512113744.png": [],
-        "imgs/gallery/Pasted image 20250512113759.png": [],
-        "imgs/gallery/Pasted image 20250512151024.png": [],
-        "imgs/gallery/Pasted image 20250512155821.png": [],
-        "imgs/gallery/Pasted image 20250512160019.png": [],
-        "imgs/gallery/Pasted image 20250513161035.png": [],
-        "imgs/gallery/Pasted image 20250514205037.png": [],
-        "imgs/gallery/Pasted image 20250515225421.png": [],
-        "imgs/gallery/Pasted image 20250515232118.png": [],
-        "imgs/gallery/Pasted image 20250515232133.png": [],
-        "imgs/gallery/Pasted image 20250718205632.png": [],
-        "imgs/gallery/Pasted image 20250718211417.png": [],
-        "imgs/gallery/Pasted image 20250718211430.png": [],
-        "imgs/gallery/Screenshot 2025-07-18 at 20.37.26.png": [],
         "imgs/gallery/file_000000008b286243b907465cb97c4cff.png": []
     }
 }
