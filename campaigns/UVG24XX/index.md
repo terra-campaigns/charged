@@ -126,8 +126,8 @@ You may add a **d6** if you have a relevant background.
 [Location, goods and prices](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
 [Spotify playlist](https://open.spotify.com/playlist/471z1wUAG1zxbQ2Dan3GWV?si=240d7014c79d433a)
-[UVG free player guide](https://wizardthieffighter.itch.io/uvg-free-player-guide)
-
+[UVG free player guide](https://wizardthieffighter.itch.io/uvg-free-player-guide)  
+[Vastlands free guide](https://www.patreon.com/file?h=110976074&m=346446213)
 **Notes**:  
 Players drive the campaign, deciding what they will do ahead of sessions.  
 Downtime is conducted through PBP (*optional*).  

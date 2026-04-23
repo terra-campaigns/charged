@@ -14,7 +14,7 @@ status:
 hooks: None went too close.
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250623074102.png
+- ../../imgs/gallery/Pasted%20image%2020260422205841.png
 ---
 
 {% include header_directories.md %}
