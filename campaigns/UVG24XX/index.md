@@ -77,6 +77,22 @@ Injuries take time and/or medical attention to heal.
 Once per session, when you roll your **ability** die maximum, you can choose to turn the **Success** into a **Disaster**.
 If you do so, your **ability** die improves (**d6** → **d8** → **d10**).
 
+## Charged Dice
+
+*Magitech* makes it easier to accomplish tasks.
+But it also risks psychedelic consequences, no matter what the outcome.
+When using *Magitech*, roll a ***charged*** die (**d6** by default) in addition to your ***ability*** die.
+Your ***charged*** die increases in size for each additional *Magitech* item you carry.
+
+When your ***charged*** die rolls higher than your ***ability*** die, consult the table.
+
+|           |                                                 |
+| --------- | ----------------------------------------------- |
+| **6-7**   | **Altered Effect**. Unintended twist on target. |
+| **8-9**   | **Miscasting**. Unintended twist to the caster. |
+| **10-11** | **Magitech Change**. The artefact is mutated.   |
+| **12+**   | **Caster Changed.** The caster is mutated.      |
+
 ## Uncertainty
 
 If something is uncertain and the rules do not support its resolution, **consider the odds and roll a die**.
