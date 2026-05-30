@@ -5,7 +5,7 @@ The site is published with Jekyll, the Just the Docs theme, and GitHub Pages.
 
 ## First Steps
 
-- Read `INSTRUCTIONS.md` if it exists before writing campaign prose.
+- Read `ai-content/INSTRUCTIONS.md` if it exists before writing campaign prose.
 - Search existing notes before inventing new lore, NPCs, factions, places, mechanics, or names.
 - Prefer local campaign files over memory.
 - Treat `campaigns/`, `directory/`, `systems/`, `creatures/`, `misc/`, and similar content folders as campaign source material.
