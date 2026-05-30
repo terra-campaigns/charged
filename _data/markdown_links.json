@@ -107,6 +107,12 @@
             },
             {
                 "text": "index",
+                "url": "directory/PorcelainCitadel/BoneKaolin.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "directory/FallenUmber/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -167,6 +173,12 @@
             },
             {
                 "text": "index",
+                "url": "directory/Atles/Minuit.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "directory/Atles/Xulio.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -210,6 +222,12 @@
             {
                 "text": "index",
                 "url": "directory/Atles/Iacum.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/TamHR.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -302,6 +320,13 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://wizardthieffighter.itch.io/favicon.ico"
+            },
+            {
+                "text": "Vastlands free guide",
+                "url": "https://www.patreon.com/file?h=110976074&m=346446213",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.patreon.com/favicon.ico"
             }
         ],
         "directory/LowRoadHigh/RRR.md": [
@@ -556,7 +581,28 @@
             },
             {
                 "text": "Porcelain Citadel",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Porcelain Citadel",
                 "url": "campaigns/FailedExports/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/PorcelainCitadel/BoneKaolin.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bone Kaolin",
+                "url": "campaigns/UVG24XX/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -811,6 +857,62 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Atles/Minuit.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tam HR",
+                "url": "directory/Atles/TamHR.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Minuit",
+                "url": "directory/Atles/TamHR.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Minuit",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/TamHR.md": [
+            {
+                "text": "Tam HR",
+                "url": "directory/Atles/Minuit.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Minuit",
+                "url": "directory/Atles/Minuit.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Tam 'HR",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Atles/Xulio.md": [
             {
                 "text": "index",
@@ -998,6 +1100,12 @@
             },
             {
                 "text": "Ski",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ski",
                 "url": "campaigns/UVG24XX/ep_001.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1091,6 +1199,12 @@
             },
             {
                 "text": "Rise Ghost",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Rise Ghost",
                 "url": "campaigns/UVG24XX/ep_005.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1107,6 +1221,12 @@
             {
                 "text": "The Last Serai",
                 "url": "campaigns/UVG24XX/ep_003.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Last Serai",
+                "url": "campaigns/UVG24XX/ep_008.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1354,6 +1474,12 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            },
+            {
+                "text": "Goodbye Party",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "campaigns/UVG24XX/ep_006.md": [
@@ -1488,6 +1614,64 @@
             {
                 "text": "iridescent globes",
                 "url": "directory/FoldedBelow/IridescentGlobes.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "campaigns/UVG24XX/ep_008.md": [
+            {
+                "text": "Tam 'HR",
+                "url": "directory/Atles/TamHR.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ski",
+                "url": "directory/Atles/Ski.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Minuit",
+                "url": "directory/Atles/Minuit.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Rise Ghost",
+                "url": "directory/Atles/RiseGhost.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Porcelain Citadel",
+                "url": "directory/PorcelainCitadel/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Goodbye Party",
+                "url": "campaigns/UVG24XX/ep_007.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Last Serai",
+                "url": "directory/LastSerai/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Bone Kaolin",
+                "url": "directory/PorcelainCitadel/BoneKaolin.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

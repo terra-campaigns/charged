@@ -32,12 +32,12 @@ Common folders:
 - For campaign prose, use one sentence per line when practical.
 - Keep practical procedures clear before making them stylish.
 - Do not over-explain in published notes.
-- When uncertainty exists, mark it instead of inventing continuity.
+- When uncertainty exists, mark it rather than invent continuity.
 
 ## Campaign Canon
 
 - Before adding or changing lore, search the repo with `rg`.
-- Existing local markdown is stronger canon than new suggestions.
+- Existing local markdown is a stronger canon than new suggestions.
 - If `INSTRUCTIONS.md` defines a tone, canon hierarchy, or campaign premise, follow it.
 - Do not treat external sources as canon unless the user explicitly asks.
 - When adding a new location, NPC, faction, creature, or rule, connect it to existing notes where appropriate.

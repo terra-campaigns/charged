@@ -1,19 +1,19 @@
 ---
 layout: default
-template: 0.4
-type: location
+type: people
 nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Directory
-title: Porcelain Citadel (4)
-nav_order: 1004
-role: 
+parent: Porcelain Citadel (4)
+title: Bone Kaolin
+role: 2-body Porcelain Prince
 status: 
+footer_content: 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250623135157.png
+- ../../imgs/gallery/Pasted%20image%2020260530114821.png
+- 
 ---
 
 {% include header_directories.md %}
@@ -26,12 +26,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [index](../../campaigns/UVG24XX/index.md)
 {% endcomment %}
 
-The unmarked white surface of the great citadel, uplifted like an
-imprecation against the fanciful gods serves as a reminder that not
-all that has fallen has died.
-
-## Houses of Many Colours
-
-Half-dugout Rainbowlander homes and workshops.
-The colour of the porcelain used indicates the state and city
-of origin.
+Decayed remnant of the Ascendant Church of Flesh, a death cult.
+Purchases single-use bodies.

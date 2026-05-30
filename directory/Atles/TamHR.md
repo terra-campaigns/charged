@@ -1,19 +1,18 @@
 ---
 layout: default
-template: 0.4
-type: location
+type: people
 nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Directory
-title: Porcelain Citadel (4)
-nav_order: 1004
-role: 
+parent: Atles' Catlord Caravan
+title: Tam ‘HR
+role: Old city tactician
 status: 
+footer_content: 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250623135157.png
+
 ---
 
 {% include header_directories.md %}
@@ -26,12 +25,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [index](../../campaigns/UVG24XX/index.md)
 {% endcomment %}
 
-The unmarked white surface of the great citadel, uplifted like an
-imprecation against the fanciful gods serves as a reminder that not
-all that has fallen has died.
+Why are you on the road? Their aged clone whispered prophecies.
+What is your affinity-bonded pet?: Aggressively upgraded Dodo called Vangogh (who might or might not be the Dodo called Vangogh, from [Minuit](Minuit.md))
+You have an odd family connexion: a relative executed for treason. Was it just?
 
-## Houses of Many Colours
-
-Half-dugout Rainbowlander homes and workshops.
-The colour of the porcelain used indicates the state and city
-of origin.
+You have to repay € 2000 to a Vintner lord’s butler by the end of the caravan season.
