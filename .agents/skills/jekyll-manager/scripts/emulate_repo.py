@@ -37,9 +37,9 @@ def main():
     repo_dir = Path(args.directory).resolve()
 
     extract_commands = [
-        ["python3", "gemini-scribe/Skills/jekyll-manager/scripts/extract_links.py", "."],
-        ["python3", "gemini-scribe/Skills/jekyll-manager/scripts/extract_lastmod.py", "."],
-        ["python3", "gemini-scribe/Skills/jekyll-manager/scripts/extract_images.py", "."],
+        ["python3", ".agents/skills/jekyll-manager/scripts/extract_links.py", "."],
+        ["python3", ".agents/skills/jekyll-manager/scripts/extract_lastmod.py", "."],
+        ["python3", ".agents/skills/jekyll-manager/scripts/extract_images.py", "."],
     ]
 
     for command in extract_commands:

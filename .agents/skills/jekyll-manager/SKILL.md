@@ -9,7 +9,7 @@ This skill contains automation scripts for regenerating site data and serving th
 
 ## Scripts
 
-All scripts are located in `gemini-scribe/Skills/jekyll-manager/scripts/`.
+All scripts are located in `.agents/skills/jekyll-manager/scripts/`.
 
 - `extract_links.py`: Regenerates `_data/markdown_links.json`.
 - `extract_images.py`: Regenerates `_data/gallery_links.json`.
@@ -19,4 +19,4 @@ All scripts are located in `gemini-scribe/Skills/jekyll-manager/scripts/`.
 ## Instructions
 
 - When asked to update the site data, run the `extract_*.py` scripts from the repository root using python3.
-- When asked to preview or emulate the repo, run `python3 gemini-scribe/Skills/jekyll-manager/scripts/emulate_repo.py --directory .` from the repository root.
+- When asked to preview or emulate the repo, run `python3 .agents/skills/jekyll-manager/scripts/emulate_repo.py --directory .` from the repository root.
