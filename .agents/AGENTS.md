@@ -101,28 +101,10 @@ Build the site:
 bundle exec jekyll build
 ```
 
-Serve locally:
+Serve locally (this also automatically runs all data extraction scripts in `_scripts/` upon rebuild):
 
 ```sh
-bundle exec jekyll serve
-```
-
-Regenerate local link data:
-
-```sh
-python3 gemini-scribe/Skills/jekyll-manager/scripts/extract_links.py .
-```
-
-Regenerate gallery image data:
-
-```sh
-python3 gemini-scribe/Skills/jekyll-manager/scripts/extract_images.py .
-```
-
-Regenerate last-modified data:
-
-```sh
-python3 gemini-scribe/Skills/jekyll-manager/scripts/extract_lastmod.py .
+bundle exec jekyll serve --trace
 ```
 
 ## Generated Files
