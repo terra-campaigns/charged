@@ -3,16 +3,9 @@
         "README.md": [
             {
                 "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico",
-                "is_internal": false,
-                "text": "Testing your GitHub Pages site locally with Jekyll",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll"
-            },
-            {
-                "direction": "outbound",
                 "favicon": "https://jekyllrb.com/favicon.ico",
                 "is_internal": false,
-                "text": "instructions for macOS",
+                "text": "Jekyll] and [Bundler] ([instructions for macOS",
                 "url": "https://jekyllrb.com/docs/installation/macos/"
             },
             {
@@ -33,16 +26,9 @@
         "_site/README.md": [
             {
                 "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico",
-                "is_internal": false,
-                "text": "Testing your GitHub Pages site locally with Jekyll",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll"
-            },
-            {
-                "direction": "outbound",
                 "favicon": "https://jekyllrb.com/favicon.ico",
                 "is_internal": false,
-                "text": "instructions for macOS",
+                "text": "Jekyll] and [Bundler] ([instructions for macOS",
                 "url": "https://jekyllrb.com/docs/installation/macos/"
             },
             {

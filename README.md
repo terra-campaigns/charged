@@ -66,39 +66,29 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
 
 ## Building and previewing your site locally
 
-See [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+If you want to localhost the website for testing purposes, you need to install [Jekyll] and [Bundler] ([instructions for macOS](https://jekyllrb.com/docs/installation/macos/)).
 
-### Deprecated
+After doing so, navigate to the repository folder and execute:
 
-If you want to localhost the website for testing purposes, you need to install jekyll ([instructions for macOS](https://jekyllrb.com/docs/installation/macos/)). After doing so, navigate to the repository folder and execute the following commands;
-
-```
-echo '3.1.3' >> .ruby-version
-gem install bundler jekyll
+```sh
 bundle install
 ```
 
-Assuming [Jekyll] and [Bundler] are installed on your computer:
+Once installed, serve the site locally by running:
 
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-and then browse to http://localhost:4000.
-
-## Connected to links (manual)
-
-Using the `Connected_to` feature requires running a script to map pages interlinks, and generate the `_data/markdown_links.json`file.
-To do so as a command line to run the script while building locally, making sure you update the links often.
-
+```sh
+bundle exec jekyll serve --trace
 ```
-python3 extract_links.py .
-bundle exec jekyll serve
-```
+
+The site will be available at `http://localhost:4000`.
+
+### Automated Data Extraction
+
+This repository uses a custom Jekyll plugin (`_plugins/extractor.rb`) to automatically extract site data (like backlinks, image galleries, and last-modified dates). 
+
+Whenever you run `bundle exec jekyll serve`, the plugin automatically executes the Python scripts found in the `_scripts/` directory before building the site, and actively re-runs them whenever a markdown file is changed. 
+
+You **do not** need to manually run any extraction scripts.
 
 ## Customization
 
