@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "search",
+    "text": "Find all mentions of the Porcelain Citadel across the UVG24XX campaign episodes"
+  },
+  {
+    "icon": "file-plus",
+    "text": "Summarise the key events and NPCs encountered in the Failed Exports campaign logs"
+  },
+  {
+    "icon": "sparkles",
+    "text": "Generate a new encounter for the Low Road High region involving the Crystal Pylon"
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Organise the entries in the Atles directory by their role or faction"
+  }
+]
