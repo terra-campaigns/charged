@@ -6,7 +6,7 @@ nav_exclude: false
 nav_order: 3025-05-15
 
 parent: Atles' Catlord Caravan
-title: Barista
+title: Kur (Barista)
 role: Kur ‘Notcurrentlyineducationortraining, Dessicated slaver barista
 status: 
 
@@ -29,7 +29,9 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [index](../../campaigns/UVG24XX/index.md)
 {% endcomment %}
 
-Why are you on the road? Nightly dreams of a lost world.  
-What is your signature item? One black metal vertebra.  
-You have an odd family connexion: [Wizard](Kur.md) disappeared through a silent gate.  
+**Why are you on the road?** Nightly dreams of a lost world.  
+**What is your signature item?** One black metal vertebra.  
+**You have an odd family connexion:** [Wizard](Kur.md) disappeared through a silent gate.  
 **What disaster have you survived?** Decade-long military pacification campaign.  
+
+You have to repay € 2000 to a Secret abmortalist by the end of the caravan season.

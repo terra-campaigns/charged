@@ -173,6 +173,12 @@
             },
             {
                 "text": "index",
+                "url": "directory/Atles/Pilixa.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "directory/Atles/Minuit.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -192,6 +198,12 @@
             {
                 "text": "index",
                 "url": "directory/Atles/Pilik.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Atles/Cianur.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -257,7 +269,19 @@
             },
             {
                 "text": "index",
+                "url": "directory/LastSerai/IgnoredTower.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "directory/LastSerai/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/LastSerai/Harmonium.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -797,6 +821,12 @@
                 "url": "campaigns/UVG24XX/ep_002.md",
                 "is_internal": true,
                 "direction": "inbound"
+            },
+            {
+                "text": "Kur Barista",
+                "url": "campaigns/UVG24XX/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ],
         "directory/Atles/Kur.md": [
@@ -853,6 +883,21 @@
             {
                 "text": "Kur",
                 "url": "campaigns/UVG24XX/ep_004.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Atles/Pilixa.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilixa",
+                "url": "campaigns/UVG24XX/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1006,6 +1051,21 @@
                 "direction": "inbound"
             }
         ],
+        "directory/Atles/Cianur.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cianur",
+                "url": "campaigns/UVG24XX/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/Atles/Vorgo.md": [
             {
                 "text": "index",
@@ -1068,6 +1128,18 @@
             {
                 "text": "Atles",
                 "url": "campaigns/UVG24XX/ep_002.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Atles Caravan",
+                "url": "campaigns/UVG24XX/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1210,6 +1282,21 @@
                 "direction": "inbound"
             }
         ],
+        "directory/LastSerai/IgnoredTower.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "metallic stepped tower",
+                "url": "campaigns/UVG24XX/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
         "directory/LastSerai/index.md": [
             {
                 "text": "index",
@@ -1225,8 +1312,29 @@
                 "direction": "inbound"
             },
             {
+                "text": "The Last Serai",
+                "url": "campaigns/UVG24XX/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "Last Serai",
                 "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/LastSerai/Harmonium.md": [
+            {
+                "text": "index",
+                "url": "campaigns/UVG24XX/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "it",
+                "url": "campaigns/UVG24XX/ep_009.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1619,7 +1727,78 @@
                 "favicon": null
             }
         ],
+        "campaigns/UVG24XX/ep_009.md": [
+            {
+                "text": "index",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Pilixa",
+                "url": "directory/Atles/Pilixa.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Kur Barista",
+                "url": "directory/Atles/Barista.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Cianur",
+                "url": "directory/Atles/Cianur.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Atles Caravan",
+                "url": "directory/Atles/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Last Serai",
+                "url": "directory/LastSerai/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "metallic stepped tower",
+                "url": "directory/LastSerai/IgnoredTower.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "exploding banana seller",
+                "url": "campaigns/UVG24XX/ep_008.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "it",
+                "url": "directory/LastSerai/Harmonium.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "campaigns/UVG24XX/ep_008.md": [
+            {
+                "text": "exploding banana seller",
+                "url": "campaigns/UVG24XX/ep_009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "Tam 'HR",
                 "url": "directory/Atles/TamHR.md",
