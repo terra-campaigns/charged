@@ -114,8 +114,14 @@ def save_images_to_json(images, output_file):
         sorted(images.items(), key=lambda item: (len(item[1]) == 0, item[0]))
     )
 
+    new_data = json.dumps({"file": ordered_images}, indent=4, sort_keys=True)
+    if os.path.exists(output_file):
+        with open(output_file, "r", encoding="utf-8") as file_handle:
+            if file_handle.read() == new_data:
+                return
+
     with open(output_file, "w", encoding="utf-8") as file_handle:
-        json.dump({"file": ordered_images}, file_handle, indent=4)
+        file_handle.write(new_data)
 
 
 if __name__ == "__main__":

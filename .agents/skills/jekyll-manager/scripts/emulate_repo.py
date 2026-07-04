@@ -36,14 +36,8 @@ def main():
     args = parser.parse_args()
     repo_dir = Path(args.directory).resolve()
 
-    extract_commands = [
-        ["python3", ".agents/skills/jekyll-manager/scripts/extract_links.py", "."],
-        ["python3", ".agents/skills/jekyll-manager/scripts/extract_lastmod.py", "."],
-        ["python3", ".agents/skills/jekyll-manager/scripts/extract_images.py", "."],
-    ]
-
-    for command in extract_commands:
-        run_command(command, repo_dir)
+    # The extraction scripts are now executed automatically via the Jekyll hook
+    # in _plugins/extractor.rb. We don't need to run them manually before serving.
 
     if args.skip_serve:
         print("Skipping bundle command.")
