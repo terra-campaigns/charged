@@ -14,6 +14,12 @@ aux_links:
 
 favicon_ico: "/imgs/favicon.ico"
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - color-functions
+    - import
+
 # External navigation links
 #nav_external_links:
 #  - title: Terra Odd SRD
