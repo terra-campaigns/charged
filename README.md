@@ -84,9 +84,9 @@ The site will be available at `http://localhost:4000`.
 
 ### Automated Data Extraction
 
-This repository uses a custom Jekyll plugin (`_plugins/extractor.rb`) to automatically extract site data (like backlinks, image galleries, and last-modified dates). 
+This repository uses a native Ruby Jekyll Generator plugin (`_plugins/data_extractor.rb`) to automatically extract site data (like backlinks, image galleries, and last-modified dates based on Git commit timestamps).
 
-Whenever you run `bundle exec jekyll serve`, the plugin automatically executes the Python scripts found in the `_scripts/` directory before building the site, and actively re-runs them whenever a markdown file is changed. 
+Whenever you run `bundle exec jekyll serve` or build the site, the plugin runs dynamically and parses the markdown files directly into Jekyll's in-memory data structures. There are no external scripts or physical `.json` data files generated on disk.
 
 You **do not** need to manually run any extraction scripts.
 
