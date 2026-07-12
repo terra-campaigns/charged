@@ -21,3 +21,8 @@ vendor/
 # OS files
 .DS_Store
 /.obsidian
+
+# Ignore generated data files
+_data/gallery_links.json
+_data/lastmod.json
+_data/markdown_links.json
