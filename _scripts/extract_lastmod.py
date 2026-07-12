@@ -20,8 +20,13 @@ def get_last_modified_dates(directory):
     return sorted_data
 
 def save_to_json(data, output_file):
+    new_data = json.dumps(data, indent=4, sort_keys=True)
+    if os.path.exists(output_file):
+        with open(output_file, 'r', encoding='utf-8') as f:
+            if f.read() == new_data:
+                return
     with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
+        f.write(new_data)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Get last modified dates of markdown files.")
