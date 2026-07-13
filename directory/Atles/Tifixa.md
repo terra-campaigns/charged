@@ -9,10 +9,6 @@ title: Tifixa Boscaneve
 role: Violet archaeologist
 status: 
 
-hooks:
-- Has developed two eyes on her forearm.
-- Fascinated with the iridiscent globes. Also getting sick from them. Suffering from the Fleshy vomish infection.
-
 images: 
 - ../../imgs/gallery/Pasted%20image%2020250707105542.png
 
@@ -38,3 +34,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 Enjoys ritualistic coffee drinking.
 Good with animals.
 Blue hair, of royal electricity.
+
+Has developed two eyes on her forearm.
+Fascinated with the iridiscent globes. Also getting sick from them. Suffering from the [Fleshy](../FoldedBelow/Skinwearer.md) vomish infection.

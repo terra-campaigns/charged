@@ -28,3 +28,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 Decayed remnant of the Ascendant Church of Flesh, a death cult.
 Purchases single-use bodies.
+
+Gave two miniature porcelain masks to [Rise Ghost](../Atles/RiseGhost.md) — and declared him their third body.
