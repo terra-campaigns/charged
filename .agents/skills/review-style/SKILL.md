@@ -54,8 +54,8 @@ The goal is **minimal surgical edits that maximise flavour** — not a rewrite.
    - Descriptions that lack texture (sensory detail, strangeness, or economy).
    - Sentences that are too long or too explanatory.
    - Mechanical text that is awkward but could be tightened without changing meaning.
-5. Produce a **diff** showing only the proposed changes. Present each change with a brief rationale.
-6. Wait for user approval before applying any edits. The user may accept all, accept some, or reject.
+5. Edit the file directly. The user will review changes line-by-line in the IDE.
+6. If the file is already well-voiced, say so and make no changes.
 
 ## Calibration examples
 
