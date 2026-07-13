@@ -1,20 +1,19 @@
 ---
 layout: default
-template: 0.4
-type: creature
+type: location
 nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Crystal Pylon
-title: Iridescent Globes
-role: Globes of shimmering visions
+parent: The Last Serai (8)
+title: Pit of Mould
+role: 
 status: 
 
 hooks: 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250707093902.png
+
 ---
 
 {% include header_directories.md %}
@@ -25,6 +24,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ```
 ---
 [index](../../campaigns/UVG24XX/index.md)
+
 {% endcomment %}
 
-Worth € 500, but up to 3x for the right magitech buyer.

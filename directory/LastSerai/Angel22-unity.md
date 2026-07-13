@@ -1,20 +1,18 @@
 ---
 layout: default
-template: 0.4
-type: creature
+type: people
 nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: Crystal Pylon
-title: Iridescent Globes
-role: Globes of shimmering visions
+parent: The Last Serai (8)
+title: Angel 22-unity
+role: 22-body Porcelain Prince
 status: 
-
-hooks: 
+footer_content: 
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250707093902.png
+
 ---
 
 {% include header_directories.md %}
@@ -25,6 +23,10 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ```
 ---
 [index](../../campaigns/UVG24XX/index.md)
+
 {% endcomment %}
 
-Worth € 500, but up to 3x for the right magitech buyer.
+Highest ranking Porcelain Prince in the [Last Serai](index.md).
+A polite, rich, militantly bigoted polibody in luxurious opal masks.
+
+Believes the Near Moon opens the way to bring the [Harmonium](Harmonium.md) to the [Porcelain Citadel](../PorcelainCitadel/index.md).

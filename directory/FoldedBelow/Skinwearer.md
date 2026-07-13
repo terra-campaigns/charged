@@ -6,7 +6,7 @@ nav_exclude: false
 has_children: true
 has_toc: false
 
-parent: 2 The Low Road and The High
+parent: Crystal Pylon
 title: Fleshy
 role: Skinwearer
 status: 
