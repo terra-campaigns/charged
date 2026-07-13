@@ -9,13 +9,42 @@ argument-hint: path to the markdown file to review (relative to repo root)
 Apply the Charged setting voice to a campaign content file.
 The goal is **minimal surgical edits that maximise flavour** — not a rewrite.
 
+## Before editing: ask two questions
+
+When invoked, **always ask the user these two questions** before doing any work. Use a multi-choice prompt.
+
+### 1. Depth
+
+> How deep should this review go?
+
+- **Quick** — Use `.agents/AGENTS.md` and nearby repo files only. Fast, good for routine polish.
+- **Deep** — Also read reference PDFs from the Google Drive campaign folder to calibrate tone and lore against source material. Slower, better for important or lore-heavy files.
+
+If **Deep** is selected, read the most relevant PDF(s) from:
+`/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/`
+
+Priority order for tone calibration:
+1. `UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf` — primary setting voice.
+2. `2400_Xot_v1.2_singles.pdf` — system and tone for the 24XX layer.
+3. `Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf` — mechanical voice.
+
+Read enough to absorb voice (first ~50 pages of UVG is usually sufficient). Treat PDF content as Tier 3 canon: influence for tone and texture, not automatic Charged canon.
+
+### 2. Scope
+
+> How broad should the review be?
+
+- **Single file** — Review only the target file.
+- **Vicinity** — Review the target file, then also review files it links to directly and sibling files in the same folder. Edit each file that needs it.
+- **Broad** — Review the target file's entire content area (e.g. all of `campaigns/UVG24XX/` or all of `directory/Atles/`). Edit each file that needs it.
+
 ## Files to read before editing
 
 **Always required to be in context:**
 - `.agents/AGENTS.md` — for the canonical style rules, tone, and aesthetics.
 - The target file itself.
 
-**Also read for cross-reference (do not edit):**
+**Also read for cross-reference (do not edit unless scope includes them):**
 - Nearby files in the same folder or parent folder, to absorb local naming conventions, existing tone, and linked content.
 
 ## What to change
@@ -47,15 +76,18 @@ The goal is **minimal surgical edits that maximise flavour** — not a rewrite.
 
 ## Procedure
 
-1. Read `.agents/AGENTS.md` for the full style and tone reference.
-2. Read the target file.
-3. Read 2–3 nearby files in the same folder (siblings or parent index) to calibrate local tone and naming.
-4. Identify passages where the prose is flat, generic, overly modern, or out-of-voice. Focus on:
+1. **Ask** the two questions (Depth and Scope).
+2. Read `.agents/AGENTS.md` for the full style and tone reference.
+3. If **Deep**: read reference PDFs as described above.
+4. Read the target file.
+5. Read 2–3 nearby files in the same folder (siblings or parent index) to calibrate local tone and naming.
+6. If **Vicinity** or **Broad** scope: identify the full set of files to review based on the selected scope.
+7. For each file in scope, identify passages where the prose is flat, generic, overly modern, or out-of-voice. Focus on:
    - Descriptions that lack texture (sensory detail, strangeness, or economy).
    - Sentences that are too long or too explanatory.
    - Mechanical text that is awkward but could be tightened without changing meaning.
-5. Edit the file directly. The user will review changes line-by-line in the IDE.
-6. If the file is already well-voiced, say so and make no changes.
+8. Edit each file directly. The user will review changes line-by-line in the IDE.
+9. If a file is already well-voiced, say so and skip it.
 
 ## Calibration examples
 
