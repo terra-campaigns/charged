@@ -23,6 +23,39 @@ module Jekyll
         ""
       end
     end
+
+    def dump_agents(input)
+      output = []
+      base_dir = Dir.pwd
+      
+      # Main AGENTS.md
+      agents_md = File.join(base_dir, ".agents", "AGENTS.md")
+      if File.exist?(agents_md)
+        output << "================================================================================"
+        output << "AGENT INSTRUCTIONS (AGENTS.md)"
+        output << "================================================================================"
+        output << File.read(agents_md, encoding: 'utf-8').strip
+        output << ""
+      end
+      
+      # Skills
+      skills_dir = File.join(base_dir, ".agents", "skills")
+      if Dir.exist?(skills_dir)
+        output << "================================================================================"
+        output << "AGENT SKILLS"
+        output << "================================================================================"
+        Dir.glob(File.join(skills_dir, "**", "SKILL.md")).sort.each do |skill_file|
+          skill_name = File.basename(File.dirname(skill_file))
+          output << "--------------------------------------------------------------------------------"
+          output << "SKILL: #{skill_name}"
+          output << "--------------------------------------------------------------------------------"
+          output << File.read(skill_file, encoding: 'utf-8').strip
+          output << ""
+        end
+      end
+      
+      output.join("\n")
+    end
   end
 end
 
