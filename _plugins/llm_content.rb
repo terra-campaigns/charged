@@ -31,9 +31,8 @@ module Jekyll
       # Main AGENTS.md
       agents_md = File.join(base_dir, ".agents", "AGENTS.md")
       if File.exist?(agents_md)
-        output << "================================================================================"
-        output << "AGENT INSTRUCTIONS (AGENTS.md)"
-        output << "================================================================================"
+        output << "<hr>"
+        output << "## AGENT INSTRUCTIONS (AGENTS.md)"
         output << File.read(agents_md, encoding: 'utf-8').strip
         output << ""
       end
@@ -41,14 +40,11 @@ module Jekyll
       # Skills
       skills_dir = File.join(base_dir, ".agents", "skills")
       if Dir.exist?(skills_dir)
-        output << "================================================================================"
-        output << "AGENT SKILLS"
-        output << "================================================================================"
+        output << "<hr>"
+        output << "## AGENT SKILLS"
         Dir.glob(File.join(skills_dir, "**", "SKILL.md")).sort.each do |skill_file|
           skill_name = File.basename(File.dirname(skill_file))
-          output << "--------------------------------------------------------------------------------"
-          output << "SKILL: #{skill_name}"
-          output << "--------------------------------------------------------------------------------"
+          output << "### SKILL: #{skill_name}"
           output << File.read(skill_file, encoding: 'utf-8').strip
           output << ""
         end
