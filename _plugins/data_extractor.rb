@@ -142,6 +142,8 @@ module Jekyll
           dir = File.dirname(file_path)
           clean_target = target.split('#').first
           next if clean_target.nil? || clean_target.empty?
+          
+          clean_target = clean_target.gsub('%20', ' ')
 
           resolved_path = Pathname.new(dir).join(clean_target).cleanpath.to_s
           
