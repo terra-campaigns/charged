@@ -77,6 +77,21 @@ Injuries take time and/or medical attention to heal.
 Once per session, when you roll your **ability** die maximum, you can choose to turn the **Success** into a **Disaster**.
 If you do so, your **ability** die improves (**d6** → **d8** → **d10**).
 
+### Active abilities: Doing things
+
+> **Charisma:** drive, fortune, will to dominate mind.  
+> **Strength:** vigor, energy, force to dominate matter. 
+
+### Dynamic abilities: Changing things
+
+> **Thought:** intellect, speed, wit to adapt mind.  
+> **Agility:** dexterity, speed, flexibility to adapt matter.
+    
+### Static abilities: Resisting things
+
+> **Aura:** spirit, courage, resolve to bear mind.  
+> **Endurance:** grit, pep, stamina to bear matter.
+
 ## Charged Dice
 
 *Magitech* makes it easier to accomplish tasks.
