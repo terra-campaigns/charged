@@ -34,6 +34,13 @@ Before creating the file:
 2. Search for related NPCs, locations, or factions in `directory/` to identify potential cross-links.
 3. Check the folder's `index.md` to confirm the exact `title:` value to use for `parent:`.
 
+### Entity Relationships & Cross-Linking
+
+When the user mentions or requests a connection between this character and another entity (PC, NPC, faction, or location):
+1. **Prompt for relationship type**: If the prompt does not specify the exact dynamic, ask the user for the nature or reason of the relationship (proposing fitting setting options or allowing write-ins) rather than inventing continuity.
+2. **Confirm link directionality**: Ask whether to update both character/entity files (bidirectional link) or only the newly created note.
+3. **Format cross-links**: Use relative markdown links with `.md` extensions (e.g. `[Kur (Barista)](Barista.md)`) embedded naturally within the background or flavour sentences.
+
 ## 3. Template & Front Matter
 
 Create the file in the designated subfolder (e.g. `directory/<Subfolder>/<ShortName>.md`).

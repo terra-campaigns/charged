@@ -125,6 +125,7 @@ There are no longer generated data files saved to `_data/`. The data for links, 
 - Prefer small, focused edits.
 - Preserve the dual use of the repo: it must remain pleasant in Obsidian and buildable as a website.
 - If a request touches prose and mechanics, maintain both flavour and table usability.
+- When connecting entities (PCs, NPCs, factions, or locations), always ask the user for the specific relationship type or reason and whether the link should be bidirectional, rather than assuming or inventing the nature of the connection.
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
 When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
