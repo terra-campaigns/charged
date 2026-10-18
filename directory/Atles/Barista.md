@@ -32,6 +32,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 **Why are you on the road?** Nightly dreams of a lost world.  
 **What is your signature item?** One black metal vertebra.  
 **You have an odd family connexion:** [Wizard](Kur.md) disappeared through a silent gate.  
-**What disaster have you survived?** Decade-long military pacification campaign.  
+**What disaster have you survived?** Decade-long military pacification campaign. Does not even remember [Settler En-Perla](Settler.md), who fought on the other side.  
 
 You have to repay € 2000 to a Secret abmortalist by the end of the caravan season.
