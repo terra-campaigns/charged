@@ -1,0 +1,76 @@
+Ref,Trade Good,Size,€,1 Violet City,2 Low R High,3 Steppe Lime,4 Porcelain C,5 Potsherd Cr,6 T Vomish Dr,,8 Last Serai
+TG01,Alchemical lubricants,Sack,,,"x2, ilegal",x1,x1,"x0.5, low demand",,,x0.5 low demand
+TG02,Beast egg masses,Sack,,,,,,,,,
+TG03,Bone-work,Sack,,,,,,,,,
+TG04,Chitin cap,Sack,100,,"x0, no market",,"x0.5, low market",,,,x3 market bubble!
+TG05,Common intoxicants,Sack,2000,,,,,,,,x1
+TG06,Cosmic scales,Sack,,,,,,,,,
+TG07,Dryland coral seeds,Sack,,,,,,,,,
+TG08,Gems and jewels,Sack,,,,,"x4, crisis demand",,,,x1
+TG09,Gold,Sack,,,,,,,,,
+TG10,Indigo ivories,Sack,,,,,,,,,
+TG11,Joy worms,Sack,500,,"x1, normal",,"x1, source",x0 taboo,,,"x2, popular & illegal"
+TG12,Karma dust,Sack,,,,,,,,,x0.5 low demand
+TG13,Last steel,Sack,,,,,,,,,
+TG14,Livingstone bricks,Sack,,,,,,,,,
+TG15,Marrow-beet,Sack,,,,,,,,,
+TG16,Medimagicals,Sack,,,,,,,,,x1 source
+TG17,,,,,,,,,,,
+TG18,Odd fruits,Sack,100,,x1,,x0.5 source,x0.5 low demand,,,"x0, taboo"
+TG19,Rediothermal fuel,Sack,,,,,,,,,
+TG20,Rainbow silks,Sack,500,,x1,,,,,,
+TG21,Rare drugs,Sack,10000,"x0, useless",,,,,,,
+TG22,Replacement bodies,Sack,,,,,,,,,
+TG23,Saffron,Sack,,,,,,,,,
+TG24,Sanguine porcelains,Sack,,,,,,,,,
+TG25,Silver,Sack,,,,,,,,,
+TG26,Soul-stones,Sack,,,,,,,,,
+TG27,Ultra jay needles,Sack,,,,,,,,,
+TG28,Vampire wines,Sack,,,,,,,,,
+TG29,Vidy crystals (Irridiscent globes),Sack,500,,x1,x0.5 low demand,"x1, D haggle, control trade","x0, no market",,,"x1, equivalent material sourced here"
+TG30,Weapons and armours,Sack,,,,,,,,,
+VM01,,Sack,,,x0.5. close,,,,,,
+VM02,Disposable slave,Sack,200,"x3, bubble",,,,,,,
+VM03,,Sack,,,,,,,,,
+VM04,,Sack,,,,,,,,,
+VM05,,Sack,,,,,,,,,
+VM06,,Sack,,,,,,,,,
+VM07,Mules,Sack,70,,"x0.25, old caravans","x2, high demand",x1,,,,x1
+VM08,Combat steed,Sack,200,,,,,,,,
+VM09,,Sack,,,,,,,,,
+VM10,,Sack,,,,,,,,,
+VM11,,Sack,,,,,,,,,
+VM12,,Sack,,,,,,,,,
+VM13,,Sack,,,,,,,,,
+VM14,,Sack,,,,,,,,,
+VM15,,Sack,,,,,,,,,
+VM16,,Sack,,,,,,,,,
+VM17,,Sack,,,,,,,,,
+VM18,Prismatic Walker,Sack,6000,,,,x1,,x1,,"x0.5, low demand"
+VM19,,Sack,,,,,,,,,
+VM20,,Sack,,,,,,,,,
+VM21,,Sack,,,,,,,,,
+VM22,,Sack,,,,,,,,,
+VM23,,Sack,,,,,,,,,
+TK01,,,,,,,,,,,
+TK02,,,,,,,,,,,
+TK03,,,,,,,,,,,
+TK04,,,,,,,,,,,
+TK05,,,,,,,,,,,
+TK06,,,,,,,,,,,
+TK07,,,,,,,,,,,
+TK08,,,,,,,,,,,
+TK09,,,,,,,,,,,
+TK10,,,,,,,,,,,
+TK11,,,,,,,,,,,
+TK12,Navigators suitcase,Sack,,,x2,,,,,,
+TK13,,,,,,,,,,,
+TK14,,,,,,,,,,,
+TK15,Prospector Kit,Sack,50,,,,"x1, normal demand",,,,
+TK16,,,,,,,,,,,
+TK17,,,,,,,,,,,
+TK18,,,,,,,,,,,
+TK19,Veterinarian Kit,Sack,100,,"x1, normal demand",,,,,,"x0, useless"
+TK20,,,,,,,,,,,
+,Fine tubers,Sack,100,"x1, normal demand","x1, normal demand","x1, normal demand","x3, market bubble",,,,
+,Crystal shards/spheres,Sack,100/400,,x0,"x2, high demand",x0.1,x0.1,,,"x1, normal demand"

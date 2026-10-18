@@ -13,6 +13,7 @@ include_paths:
   - directory/PorcelainCitadel
   - directory/VioletCity
   - systems
+  - trading
 
 exclude_paths:
   - campaigns/FailedExports

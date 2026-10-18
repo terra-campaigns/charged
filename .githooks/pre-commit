@@ -1,7 +1,15 @@
 #!/usr/bin/env sh
-# Automatically refresh and stage the Tier 1 semantic catalogue upon commit.
+# Automatically refresh and stage the Tier 1 semantic catalogue and trade goods upon commit.
 export PATH="/opt/homebrew/bin:/usr/bin:/bin:$PATH"
+
+# 1. Sync live trade goods from Google Sheet (falls back to local cache if offline)
+python3 .agents/scripts/sync_trade.py
+if [ -d trading ]; then
+  git add trading/ .agents/context/trade_sheet_cache.csv 2>/dev/null
+fi
+
+# 2. Refresh Tier 1 catalogue
 ruby --disable-gems _plugins/data_extractor.rb
 if [ -f .agents/context/catalog.json ]; then
-  git add .agents/context/catalog.json
+  git add .agents/context/catalog.json 2>/dev/null
 fi

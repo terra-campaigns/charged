@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T17:47:24+02:00",
+  "generated": "2026-10-18T21:01:34+02:00",
   "tier": 1,
-  "total_entries": 59,
+  "total_entries": 99,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -244,7 +244,46 @@
         "campaigns/UVG24XX/ep_002.md",
         "campaigns/UVG24XX/ep_003.md",
         "campaigns/UVG24XX/ep_004.md",
-        "campaigns/UVG24XX/ep_005.md"
+        "campaigns/UVG24XX/ep_005.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W16",
       "sha": "398ee897",
@@ -290,7 +329,46 @@
         "campaigns/UVG24XX/ep_008.md",
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
-        "directory/LastSerai/Angel22-unity.md"
+        "directory/LastSerai/Angel22-unity.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W21",
       "sha": "d08a01e8",
@@ -353,7 +431,46 @@
         "campaigns/UVG24XX/ep_005.md",
         "campaigns/UVG24XX/ep_006.md",
         "campaigns/UVG24XX/ep_007.md",
-        "directory/LimeNomads/LimeClan.md"
+        "directory/LimeNomads/LimeClan.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W16",
       "sha": "ea5f966a",
@@ -381,7 +498,46 @@
         "directory/Atles/Kalis.md",
         "directory/Atles/Pilixa.md",
         "directory/Atles/Settler.md",
-        "directory/LastSerai/Angel22-unity.md"
+        "directory/LastSerai/Angel22-unity.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W26",
       "sha": "0d8f6f26",
@@ -406,10 +562,897 @@
         "campaigns/UVG24XX/ep_001.md",
         "campaigns/UVG24XX/ep_006.md",
         "campaigns/UVG24XX/ep_007.md",
-        "directory/LowRoadHigh/index.md"
+        "directory/LowRoadHigh/index.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W16",
       "sha": "80c91bcb",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG01_Alchemical_lubricants.md",
+      "title": "Alchemical lubricants",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG01 | Trade Goods | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "fda28f89",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG02_Beast_egg_masses.md",
+      "title": "Beast egg masses",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG02 | Trade Goods | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "76aa9c6f",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG03_Bone_work.md",
+      "title": "Bone-work",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG03 | Trade Goods | Sack | €50 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "4f4b7653",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG04_Chitin_cap.md",
+      "title": "Chitin cap",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG04 | Trade Goods | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "9a3a653f",
+      "tier": 1
+    },
+    {
+      "path": "trading/VM08_Combat_steed.md",
+      "title": "Combat steed",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM08 | Vehicles & Mounts | Sack | €200 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "81a3ec97",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG05_Common_intoxicants.md",
+      "title": "Common intoxicants",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG05 | Trade Goods | Sack | €2000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "1f59dac4",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG06_Cosmic_scales.md",
+      "title": "Cosmic scales",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG06 | Trade Goods | Sack | €1000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "5398d1cd",
+      "tier": 1
+    },
+    {
+      "path": "trading/Crystal_shardsspheres.md",
+      "title": "Crystal shards/spheres",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | Custom / Local | Speciality Cargo | Sack | €100/400 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "d08b7ad5",
+      "tier": 1
+    },
+    {
+      "path": "trading/VM02_Disposable_slave.md",
+      "title": "Disposable slave",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM02 | Vehicles & Mounts | Sack | €200 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "6b1590d6",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG07_Dryland_coral_seeds.md",
+      "title": "Dryland coral seeds",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG07 | Trade Goods | Sack | €200 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "e015bf99",
+      "tier": 1
+    },
+    {
+      "path": "trading/Fine_tubers.md",
+      "title": "Fine tubers",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | Custom / Local | Speciality Cargo | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "378d86d0",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG08_Gems_and_jewels.md",
+      "title": "Gems and jewels",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG08 | Trade Goods | Sack | €1000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "a8a5ba1a",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG09_Gold.md",
+      "title": "Gold",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG09 | Trade Goods | Sack | €1000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "049f3a96",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG10_Indigo_ivories.md",
+      "title": "Indigo ivories",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG10 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "2a49e901",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG11_Joy_worms.md",
+      "title": "Joy worms",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG11 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "63284379",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG12_Karma_dust.md",
+      "title": "Karma dust",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €200 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "0e8883a1",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG13_Last_steel.md",
+      "title": "Last steel",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG13 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "19b3b132",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG14_Livingstone_bricks.md",
+      "title": "Livingstone bricks",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG14 | Trade Goods | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "8fffc93a",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG15_Marrow_beet.md",
+      "title": "Marrow-beet",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG15 | Trade Goods | Sack | €50 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "d858b726",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG16_Medimagicals.md",
+      "title": "Medimagicals",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG16 | Trade Goods | Sack | €1000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "0a49ccbf",
+      "tier": 1
+    },
+    {
+      "path": "trading/VM07_Mules.md",
+      "title": "Mules",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM07 | Vehicles & Mounts | Sack | €70 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "d9b847ce",
+      "tier": 1
+    },
+    {
+      "path": "trading/TK12_Navigators_suitcase.md",
+      "title": "Navigators suitcase",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TK12 | Toolkits | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "9733f5bb",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG18_Odd_fruits.md",
+      "title": "Odd fruits",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG18 | Trade Goods | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "6ddd12dd",
+      "tier": 1
+    },
+    {
+      "path": "trading/VM18_Prismatic_Walker.md",
+      "title": "Prismatic Walker",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM18 | Vehicles & Mounts | Sack | €6000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "45e6a3a9",
+      "tier": 1
+    },
+    {
+      "path": "trading/TK15_Prospector_Kit.md",
+      "title": "Prospector Kit",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TK15 | Toolkits | Sack | €50 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "4ce3e90e",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG20_Rainbow_silks.md",
+      "title": "Rainbow silks",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG20 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "9cacceb4",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG21_Rare_drugs.md",
+      "title": "Rare drugs",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG21 | Trade Goods | Sack | €10000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "46224a18",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG19_Rediothermal_fuel.md",
+      "title": "Rediothermal fuel",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG19 | Trade Goods | Sack | €50 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "053e43f5",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG22_Replacement_bodies.md",
+      "title": "Replacement bodies",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG22 | Trade Goods | Sack | €2000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "43735cce",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG23_Saffron.md",
+      "title": "Saffron",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG23 | Trade Goods | Sack | €1000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "db705b20",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG24_Sanguine_porcelains.md",
+      "title": "Sanguine porcelains",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG24 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "5a60a1ea",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG25_Silver.md",
+      "title": "Silver",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG25 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "c5aab34b",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG26_Soul_stones.md",
+      "title": "Soul-stones",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG26 | Trade Goods | Sack | €2000 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "aef743e1",
+      "tier": 1
+    },
+    {
+      "path": "trading/index.md",
+      "title": "Trading",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "40",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:18 of yesterday.",
+      "links_out": [
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "8dc723a3",
       "tier": 1
     },
     {
@@ -471,6 +1514,150 @@
       ],
       "lastmod": "2026-W40",
       "sha": "8fd5dad9",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG27_Ultra_jay_needles.md",
+      "title": "Ultra jay needles",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG27 | Trade Goods | Sack | €200 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "ebc398ae",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG28_Vampire_wines.md",
+      "title": "Vampire wines",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG28 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "e7ec5ae3",
+      "tier": 1
+    },
+    {
+      "path": "trading/VM01_Vehicle_Mount_VM01.md",
+      "title": "Vehicle / Mount VM01",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM01 | Vehicles & Mounts | Sack | — |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "4df74155",
+      "tier": 1
+    },
+    {
+      "path": "trading/TK19_Veterinarian_Kit.md",
+      "title": "Veterinarian Kit",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TK19 | Toolkits | Sack | €100 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "e438ca5e",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+      "title": "Vidy crystals (Irridiscent globes)",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG29 | Trade Goods | Sack | €500 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "5044d04c",
+      "tier": 1
+    },
+    {
+      "path": "trading/TG30_Weapons_and_armours.md",
+      "title": "Weapons and armours",
+      "type": "misc",
+      "parent": "Trading",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG30 | Trade Goods | Sack | €200 |",
+      "links_out": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "trading/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "28260877",
       "tier": 1
     },
     {
