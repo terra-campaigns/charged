@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-18T17:34:56+02:00",
+  "generated": "2026-10-18T20:41:25+02:00",
   "tier": 3,
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
-  "total_sources": 9,
+  "total_sources": 10,
   "sources": [
     {
       "slug": "uvg_2e_core",
@@ -175,6 +175,42 @@
           "level": 2,
           "heading": "Contents & Vignette Index",
           "line": 6
+        }
+      ]
+    },
+    {
+      "slug": "gene_wolfe_solar_cycle_analysis",
+      "title": "Stylistic Architecture, Epistemic Misdirection, and Palimpsest Worldbuilding in Gene Wolfe's Solar Cycle",
+      "category": "research_aesthetic",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/research/Gene Wolfe Solar Cycle Analysis.gdoc",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/gene_wolfe_solar_cycle_analysis.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Structural Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Tone & Linguistic Architecture",
+          "line": 14
+        },
+        {
+          "level": 2,
+          "heading": "Narrative Methods & Misdirection",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Setting Approaches & Metaphysics",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Practical Campaign Adaptation Toolkit",
+          "line": 59
         }
       ]
     }

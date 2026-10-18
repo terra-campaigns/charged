@@ -260,6 +260,85 @@ DIGESTS_DATA = {
 - **Trail Impressions [pp. 1–20]**: Twenty evocative art postcards capturing roadside shrines, dust storms, cat-caravans, and ancient ruins suitable for quick table handouts or sensory inspiration.
 """,
     },
+    "gene_wolfe_solar_cycle_analysis": {
+        "title": "Stylistic Architecture, Epistemic Misdirection, and Palimpsest Worldbuilding in Gene Wolfe's Solar Cycle",
+        "source_pdf": "research/Gene Wolfe Solar Cycle Analysis.gdoc",
+        "category": "research_aesthetic",
+        "content": """# Gene Wolfe Solar Cycle Analysis — Reference Digest
+
+> [!NOTE]
+> Tier 3 Canon (Influence & Reference Only). Source: Google Drive `research/Gene Wolfe Solar Cycle Analysis.gdoc` (Doc ID: `1EaU7EQQ9yjsfhxGxUNFV_a2d9im74cQKQQC8WGUMpsU`). Critical literary and mechanical analysis of Gene Wolfe's Solar Cycle (*The Book of the New Sun*, *Long Sun*, *Short Sun*) designed for science-fantasy setting craft, prose voice, and tabletop campaign adaptation.
+
+## Contents & Structural Map
+
+- **Pillar 1: Prose Style, Cadence, and Linguistic Method**: The pseudotranslation conceit, six-tier lexical taxonomy, clinical detachment, and defamiliarisation (*ostranenie*).
+- **Pillar 2: Convolution, Structural Puzzle-Boxes, and Epistemic Misdirection**: Three modes of unreliable narration, narrative ellipsis and slingshot endings, nested storytelling (*mise en abyme*), and porous identity models.
+- **Pillar 3: Metaphysics, History, and Broken Futurity**: Palimpsest strata and vertical temporal columns, the machine-as-spirit hierarchy, and Byzantine institutional decay.
+- **Pillar 4: Philosophical and Literary Influences**: Synthesising Borges (labyrinths, mnemonists), Proust (sensory memory literalised), Vance (Dying Earth picaresque and ornate irony), Gnosticism, and sacramental Catholicism.
+- **Pillar 5: Practical Campaign Adaptation Toolkit**: Four-phase naming protocol for oldtech, three d8/d6 campaign roll tables, and operational voice guidelines for session chronicles and dossiers.
+
+## Tone & Linguistic Architecture
+
+- **The Pseudotranslation Constraint**: Strict refusal of invented sci-fi jargon. Replace advanced technologies, alien fauna, and societal ranks with terrestrial historical, liturgical, and heraldic equivalents carrying deep etymological resonance.
+- **The Six Lexical Strategies**:
+  - *Archaic Military & Civic Substitution*: Using terms like *carnifex*, *peltast*, *cataphract*, *chiliarch*, and *thiasus* to mask high-tech warfare behind antique and medieval siegecraft.
+  - *Palaeontological & Resurrected Fauna*: Collapsing deep prehistoric time into post-historic ecology by populating roads with *arctothers*, *megatheres*, *smilodons*, and *barylambdas*.
+  - *Liturgical & Monastic Titles*: Ossified theocratic and caste terminology (*autarch*, *exultant*, *armiger*, *pelerine*, *caloyer*, *augur*) representing administrative and scientific castes.
+  - *Sensory & Material Obscurantism*: Tactile precision avoiding modern plastics (*fuligin*, *amadou*, *achroma*, *algedonic*, *nidorous*).
+  - *Mythological & Teratological Naming*: Transforming bio-weapons, androids, and alien invaders into figures of folklore (*cacogen*, *amphisbaena*, *alraune*, *abaia*, *ascian*, *talus*).
+  - *Dead-Language Stand-Ins & Catachresis*: Using Latin maxims for extinct tongues and drifted English terms (*Whorl*, *Mainframe*, *Lander*) for degraded orbital technologies.
+- **Cadence & Clinical Detachment**:
+  - *The Anchor-and-Veil Cadence*: Pairing visceral, gruesome details of violence or decay with cool, aristocratic composure, technical parenthetical clues, and detached philosophical aphorisms.
+  - *80/20 Clarity-to-Obscurity Ratio*: Maintain syntactic transparency. Use only one or two precise archaic nouns per sentence to avoid purple parody.
+
+## Narrative Methods & Misdirection
+
+- **Sensory Estrangement (*Ostranenie*) & Taxonomic Traps**:
+  - *Sensory Geometry*: Describing machines, spacecraft, and computers strictly by their exterior materials, geometric shapes, and degraded local folklore utility (e.g. an Apollo spacesuit as plate armour with a golden radiation visor; an interstellar rocket as a stone fortress tower).
+  - *Delayed Taxonomic Traps*: Introducing altered beasts or devices with familiar historical labels (*destrier*, *courier chough*), withholding their non-terrestrial divergence (claws, tusks, brass beaks, spun-glass spools) until several sessions later.
+- **Three Modes of Unreliable Narration**:
+  - *The Mnemonic Paradox (Severian)*: Infallible eidetic memory breeding passive complacency, delayed moral confession, and rationalised omissions.
+  - *Historiographical Reconstruction (Horn & Nettle)*: Hagiographical third-person biography filled with second-hand rumours, temporal compressions, and glaring eyewitness lacunae.
+  - *Traumatic Amnesia & Dissociation (Silkhorn)*: Broken composite identity writing in self-correcting diaries, suffering reciprocal denial over death and moral atrocities.
+- **Structural Puzzles & Storytelling**:
+  - *Narrative Ellipsis*: Placing decisive violent actions, character deaths, or quest shifts in the white space between chapters or within subordinate clauses, confirmed only by retrospection.
+  - *Slingshot Endings*: Abrupt schisms at the climax of an arc that violently project the characters into radically altered political or spatial circumstances.
+  - *Nested Storytelling (Mise en Abyme)*: Using in-world morality plays, ancient fables, and propaganda maxims (*Dr. Talos's Play*, *The Brown Book*, *The Just Man*) as encrypted cosmological manuals that accurately mirror the campaign's secret history.
+  - *Two Interlocking Mysteries*: Ensuring off-stage events are always paired with an ostensibly unrelated folk tale, dream, or performance so the subtext snaps into focus ("everything has to be true somehow").
+
+## Setting Approaches & Metaphysics
+
+- **Palimpsest Worldbuilding & Vertical Strata**:
+  - The world is geologically exhausted; all mines are ancient compacted rubble.
+  - Vertical architectural elevation corresponds directly to traversal across temporal eras (e.g. Master Ash's Last House whose top floor opens onto an airless, frozen terminal future; ruined Stone Towns exerting gravitic and temporal loops).
+- **The Machine-as-Spirit**:
+  - High-order computation and ancient trans-temporal engineering treated as angelology and demonology.
+  - *Mainframe & Digital Archons*: Shipboard AI personalities (*Pas*, *Scylla*, *Kypris*) worshipped as gods across flat-screen altars, possessing cybernetic or receptive human hosts.
+  - *Hierogrammates & Hierodules*: Beings engineered by ancient humanity who escaped a previous cosmic cycle, now travelling backwards through time to test and shape humanity.
+- **Institutional Rot & Byzantine Economy**:
+  - Decadence rooted in municipal bankruptcy, usurious debt contracts, calcified guild etiquette, and paperwork swaps in prison antechambers.
+  - Rulers moving in disguise among their own subjects, funding rebellions against their own thrones to force historical succession.
+- **Porous Identity & Merged Consciousness**:
+  - Chemical memory assimilation via analeptic predator extracts (the Alzabo effect) and consumption of brain tissue.
+  - Cloned iterations (*khaibits*), psychic projections (*aquastors/eidola*), and trans-species soul decanting into beastly companions.
+
+## Practical Campaign Adaptation Toolkit
+
+- **Four-Phase Oldtech Protocol**:
+  1. *Functional Deconstruction*: Reduce device to raw geometry, material behaviour, and secondary degraded usage.
+  2. *Lexical Substitution*: Apply an authentic archaic civic, liturgical, or heraldic term matching its social role.
+  3. *Sensory Estrangement*: Describe via baroque physical metaphors, hiding the engineering truth in a parenthetical aside.
+  4. *Delayed Taxonomic Trap*: Let players assume standard terrestrial nature for sessions before revealing anatomical or cybernetic strangeness.
+- **Campaign Roll Tables**:
+  - *Table A: Roadside Encounters in a Palimpsest World (d8)*: Picture-cleaner's wain with lenticular map, mystery troupe with predictive script, prisoner speaking in military maxims, vertical temporal spires, Alzabo orphans weeping with dead comrades' voices, undine brides of submarine leviathans, blind giants ridden by digital monarchs, and gravitic stone towns.
+  - *Table B: Cryptic Patrons and Trans-Temporal Manipulators (d6)*: Simian sub-curators dispensing predictive curios, masked Hierodule trios living backwards in time, sacred window goddess AIs seeking neural hosts, disguised Autarchs financing anti-crown rebels, ancient serpentine sibyls, and forest-dwelling Neighbour dryads.
+  - *Table C: Byzantine Debt Contracts and Guild Obligations (d6)*: Antechamber paper-swaps with forgotten hereditary convictions, municipal temple foreclosures, executioner guild oaths with cloned targets, staged riot compacts, algedonic memory-inheritance bonds, and leased talus automata powered by debtors' souls.
+- **Operationalising the Campaign Voice**:
+  - *The Naive Biographer Voice*: Over-explaining liturgical etiquette, attributing technical glitches to miracles, relying on tavern rumours.
+  - *The Callous Professional Voice*: Matter-of-fact surgical reporting of grotesque violence and machines, coupled with philosophical defensiveness.
+  - *The Composite Diarist Voice*: Self-interrupting journals with slipping pronouns and suppressed traumatic memories.
+""",
+    },
 }
 
 

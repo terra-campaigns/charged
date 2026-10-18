@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T21:01:34+02:00",
+  "generated": "2026-10-18T21:17:45+02:00",
   "tier": 1,
   "total_entries": 99,
   "entries": [
@@ -234,7 +234,46 @@
       "summary": "The cratered viaduct of the High Road runs on crumbling pylons of dying dryland coral across the pallid grasses. Beneath the half-passable testament to the follies of the Long-Long-Ago, the Low Road winds, smeared threads of soil and loam and oil and blood ground into a hard surface by the pounding feet, hooves, wheels, and treads of pilgrims, nomads, caravans, and vechs.",
       "links_out": [
         "campaigns/UVG24XX/index.md",
-        "directory/VioletCity/index.md"
+        "directory/VioletCity/index.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "links_in": [
         "campaigns/FailedExports/ep_001.md",
@@ -286,7 +325,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "398ee897",
+      "sha": "564aaa6f",
       "tier": 1
     },
     {
@@ -321,7 +360,46 @@
       "nav_order": "1004",
       "summary": "The unmarked white surface of the great citadel, uplifted like an imprecation against the fanciful gods serves as a reminder that not all that has fallen has died.",
       "links_out": [
-        "campaigns/UVG24XX/index.md"
+        "campaigns/UVG24XX/index.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "links_in": [
         "campaigns/FailedExports/ep_002.md",
@@ -371,7 +449,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W21",
-      "sha": "d08a01e8",
+      "sha": "7f9bd181",
       "tier": 1
     },
     {
@@ -425,7 +503,46 @@
       "nav_order": "1003",
       "summary": "The Limey Nomads’ lands are harsh and dry, forbidding to travellers. Odd remnants from the misty period referred to as the ‘Best-Forgotten’ Ages by the Saffron City’s Opiate Priests dot the plain. In spring, the Limeys graze west towards the Grass Colossus, returning east to the Circle Rim for winter.",
       "links_out": [
-        "campaigns/UVG24XX/index.md"
+        "campaigns/UVG24XX/index.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_005.md",
@@ -473,7 +590,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "ea5f966a",
+      "sha": "a52df30d",
       "tier": 1
     },
     {
@@ -487,7 +604,46 @@
       "nav_order": "1008",
       "summary": "Three days out, you sight it. A metallic stepped tower, glinting in the daylight, glowing a ghostly, coppery green by night. Two days out, you smell it. Soft and seductive like cocoa. A day out, you hear it. Drumming out a rhythmless, rumbling staccato.",
       "links_out": [
-        "campaigns/UVG24XX/index.md"
+        "campaigns/UVG24XX/index.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_003.md",
@@ -540,7 +696,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W26",
-      "sha": "0d8f6f26",
+      "sha": "1acb61dd",
       "tier": 1
     },
     {
@@ -554,7 +710,46 @@
       "nav_order": "1001",
       "summary": "The Violet City is a place of trade, luxury, magic and poverty. The thralls of the cat lords keep a veneer of order, barely hiding the feline sneers at the rules of Metropolitan bean counters and inquisitors.",
       "links_out": [
-        "campaigns/UVG24XX/index.md"
+        "campaigns/UVG24XX/index.md",
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
       ],
       "links_in": [
         "campaigns/FailedExports/ep_001.md",
@@ -604,7 +799,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "80c91bcb",
+      "sha": "8a164df4",
       "tier": 1
     },
     {
@@ -625,6 +820,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -649,6 +849,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -673,6 +878,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -697,6 +907,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -721,6 +936,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -745,6 +965,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -769,6 +994,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -793,6 +1023,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -817,6 +1052,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -841,6 +1081,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -865,6 +1110,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -889,6 +1139,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -913,6 +1168,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -937,6 +1197,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -961,6 +1226,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -985,6 +1255,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1009,6 +1284,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1033,6 +1313,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1057,6 +1342,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1081,6 +1371,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1105,6 +1400,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1129,6 +1429,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1153,6 +1458,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1177,6 +1487,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1201,6 +1516,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1225,6 +1545,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1249,6 +1574,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1273,6 +1603,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1297,6 +1632,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1321,6 +1661,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1345,6 +1690,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1369,6 +1719,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1393,6 +1748,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1534,6 +1894,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1558,6 +1923,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1582,6 +1952,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1606,6 +1981,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1630,6 +2010,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
@@ -1654,6 +2039,11 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md",
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
