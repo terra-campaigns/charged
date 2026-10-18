@@ -228,18 +228,37 @@ module Charged
           }
         end
 
+        out_dir = File.join(base_dir, ".agents/context")
+        catalog_file = File.join(out_dir, "catalog.json")
+
+        sorted_entries = catalog_entries.sort_by { |e| [e["type"] || "", e["title"] || ""] }
+
+        # Check existing catalog to avoid touching file when content has not changed
+        should_write = true
+        generated_time = Time.now.iso8601
+        if File.exist?(catalog_file)
+          begin
+            existing = JSON.parse(File.read(catalog_file))
+            if existing["entries"] == sorted_entries
+              should_write = false
+              generated_time = existing["generated"] || generated_time
+            end
+          rescue
+            should_write = true
+          end
+        end
+
         catalog_data = {
-          "generated" => Time.now.iso8601,
+          "generated" => generated_time,
           "tier" => 1,
-          "total_entries" => catalog_entries.length,
-          "entries" => catalog_entries.sort_by { |e| [e["type"] || "", e["title"] || ""] }
+          "total_entries" => sorted_entries.length,
+          "entries" => sorted_entries
         }
 
-        if write_catalog
-          out_dir = File.join(base_dir, ".agents/context")
+        if write_catalog && should_write
           FileUtils.mkdir_p(out_dir) unless Dir.exist?(out_dir)
           File.write(
-            File.join(out_dir, "catalog.json"),
+            catalog_file,
             JSON.pretty_generate(catalog_data)
           )
         end
