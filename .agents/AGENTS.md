@@ -128,6 +128,7 @@ There are no longer generated data files saved to `_data/`. The data for links, 
 - When connecting entities (PCs, NPCs, factions, or locations), always ask the user for the specific relationship type or reason and whether the link should be bidirectional, rather than assuming or inventing the nature of the connection.
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
+
 When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
 - **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
 - **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
