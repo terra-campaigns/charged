@@ -29,4 +29,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 **You have a machine interface:** Sheltered by a luddite cult.
 
+Arranged to meet his friend [Settler En-Perla](Settler.md) at [The Last Serai](../LastSerai/index.md).
+
 You have to repay € 2000 to a Magic black metal axe by the end of the caravan season.

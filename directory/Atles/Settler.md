@@ -29,4 +29,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 **What disaster have you survived?** Decade-long military pacification campaign. Fought on the opposite side to [Kur (Barista)](Barista.md) and still nurses a bitter grudge.
 
+Arranged to rendezvous with his friend [Kalis Decano](Kalis.md) at [The Last Serai](../LastSerai/index.md).
+
 You have to repay € 2000 to a D.W.A.R.F. industrialist by the end of the caravan season.

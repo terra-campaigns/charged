@@ -8,7 +8,7 @@ has_toc: false
 parent: The Last Serai (8)
 title: Iron Pot 6-body
 role: 6-body Porcelain Prince
-status: 
+status: 1 body remaining
 footer_content: 
 
 images: 
@@ -27,3 +27,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 Investigator, investigating the alleged revolutionary activities of [Angel 22-unity](Angel22-unity.md).
+
+Hunted through the outpost by slaves sent by an unknown party; five bodies have been ruined or slain, leaving only a single body operational ([ep_011](../../campaigns/UVG24XX/ep_011.md)).
