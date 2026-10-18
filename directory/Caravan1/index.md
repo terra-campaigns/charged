@@ -20,4 +20,4 @@ images:
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 {% endcomment %}
 
-**Financier**: Leonti Vites, from Banco de Aventuras
+**Financier**: [Leonti Vites](../VioletCity/LeontiVites.md), from Banco de Aventuras

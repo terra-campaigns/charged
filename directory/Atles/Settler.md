@@ -23,6 +23,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [campaign-relationship](../../campaigns/UVG24XX/index.md)
 {% endcomment %}
 
+An exiled Bluelander noble with a proud moustache, devoted to enforcing political apprehension.
+
 **Why are you on the road?** Cure for a plague that killed your child.
 
 **You have an additional experience:** Professional citizen. High expectations.
