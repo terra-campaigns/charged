@@ -80,23 +80,71 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 > [!NOTE]
 > The caravan link (e.g. `- [index](../../directory/Atles/index.md)`) inside the comment block ensures Jekyll's `_plugins/data_extractor.rb` builds bidirectional links connecting the caravan to this session.
 
-## 4. Prose Formatting & Voice
+## 4. Structure, Prose Formatting & Voice
 
-Structure the chapter body into 2–4 themed subsections using `## Heading`:
+Chapter writing must adhere to a semi-strict structural format:
 
-1. **One sentence per line**: Write narrative prose using one sentence per line where practical.
-2. **Heading cleanliness**: Always leave an empty blank line immediately following any Markdown heading (`#`, `##`, `###`).
-3. **Setting register**:
-   - British English spelling throughout.
+### Structural Rules (Semi-Strict Format)
+
+1. **2 to 4 Subheaders**:
+   - Structure the chapter body into 2 to 4 themed subsections using `## Heading`.
+   - Always leave an empty blank line immediately following any Markdown heading (`#`, `##`, `###`).
+
+2. **2 to 4 Paragraphs per Subheader**:
+   - Each subsection must contain between 2 and 4 distinct paragraphs.
+   - Separate distinct paragraphs with a blank line (skip line). Do not combine multiple paragraphs into a single block.
+
+3. **2 to 4 Sentences per Paragraph**:
+   - Each paragraph must consist of between 2 and 4 sentences.
+   - In Markdown, each sentence must be placed on its own line (one sentence per line).
+
+#### Structure Template Example
+
+```markdown
+## First Subheader
+
+First sentence of first paragraph.
+Second sentence of first paragraph.
+Third sentence of first paragraph.
+
+First sentence of second paragraph.
+Second sentence of second paragraph.
+
+## Second Subheader
+
+First sentence of first paragraph.
+Second sentence of first paragraph.
+Third sentence of first paragraph.
+Fourth sentence of first paragraph.
+
+First sentence of second paragraph.
+Second sentence of second paragraph.
+Third sentence of second paragraph.
+```
+
+### Voice & Register
+
+1. **British English**:
+   - Use British English spelling and conventions throughout (e.g. *favour*, *travelled*, *rumours*, *armour*).
+2. **Setting register**:
    - Later-earth retro psychedelic science fantasy (Moebius, Vance, Wolfe).
    - Tone: caravan survival, strange commerce, absurd debt, soft body horror, broken futurity, and beautiful ruins.
    - Avoid purple prose or over-flourishing; dry, matter-of-fact absurdity works best.
-4. **Factual fidelity**: Stay strictly faithful to the GM's play report. Do not invent plot developments, PC choices, or unearned successes.
+3. **Factual fidelity**:
+   - Stay strictly faithful to the GM's play report.
+   - Do not invent plot developments, PC choices, or unearned successes.
 
 ## 5. Verification Checklist
 
 After writing the file:
-1. Verify that all internal links resolve to existing files on disk.
-2. Confirm the sequential episode numbering and chronological date.
-3. Run `bundle exec jekyll build` to ensure the site compiles cleanly.
-4. Leave the created file unstaged in git for user review.
+
+1. Confirm structural compliance with the semi-strict format:
+   - 2 to 4 subheaders (`##`).
+   - 2 to 4 paragraphs per subheader (separated by a blank line).
+   - 2 to 4 sentences per paragraph (each sentence on its own line).
+   - Blank lines immediately following every Markdown heading.
+2. Verify that all internal links resolve to existing files on disk.
+3. Confirm the sequential episode numbering and chronological date.
+4. Run `bundle exec jekyll build` to ensure the site compiles cleanly.
+5. Leave the created file unstaged in git for user review.
+
