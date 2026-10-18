@@ -430,6 +430,98 @@ def generate_index_page(items: list[dict]) -> str:
     return "\n".join(lines)
 
 
+PUBLISHED_LOCATIONS = [
+    {"name": "Violet City", "file": REPO_ROOT / "directory/VioletCity/index.md"},
+    {"name": "Low Road / High Road", "file": REPO_ROOT / "directory/LowRoadHigh/index.md"},
+    {"name": "Steppe of Lime Nomads", "file": REPO_ROOT / "directory/LimeNomads/index.md"},
+    {"name": "Porcelain Citadel", "file": REPO_ROOT / "directory/PorcelainCitadel/index.md"},
+    {"name": "The Last Serai", "file": REPO_ROOT / "directory/LastSerai/index.md"},
+]
+
+
+def generate_location_trade_section(st_name: str, items: list[dict]) -> str:
+    lines = [
+        "## Trade & Commerce",
+        "",
+        f"Local market rates and profitable trade routes connecting through {st_name}.",
+        "",
+        "| | | | |",
+        "| :--- | :--- | :--- | :--- |",
+        "| **Ref** | **Item** | **Location Price** | **Most profitable trade** |",
+    ]
+
+    for it in items:
+        st_loc = next((l for l in it["locations"] if l["location"] == st_name), None)
+        local_price = st_loc["price_str"] if (st_loc and st_loc["has_data"]) else "—"
+
+        valid = [
+            l for l in it["locations"]
+            if l["has_data"] and l["multiplier"] is not None and l["multiplier"] > 0
+        ]
+        route_str = None
+
+        if st_loc and st_loc["has_data"] and st_loc["multiplier"] and st_loc["multiplier"] > 0:
+            st_m = st_loc["multiplier"]
+            other_valid = [l for l in valid if l["location"] != st_name]
+            if other_valid:
+                max_other = max(l["multiplier"] for l in other_valid)
+                min_other = min(l["multiplier"] for l in other_valid)
+                export_p = max_other - st_m
+                import_p = st_m - min_other
+
+                if max(export_p, import_p) > 0:
+                    if export_p >= import_p:
+                        # Left side (export)
+                        highs = [l for l in other_valid if l["multiplier"] == max_other]
+                        high_loc = next(
+                            (
+                                l
+                                for l in highs
+                                if any(k in l.get("condition", "").lower() for k in ["bubble", "demand", "crisis"])
+                            ),
+                            highs[0],
+                        )
+                        route_str = f"{st_name} ({st_loc['price_str']}) --> {high_loc['location']} ({high_loc['price_str']})"
+                    else:
+                        # Right side (import)
+                        lows = [l for l in other_valid if l["multiplier"] == min_other]
+                        low_loc = next(
+                            (l for l in lows if "source" in l.get("condition", "").lower()),
+                            lows[0],
+                        )
+                        route_str = f"{low_loc['location']} ({low_loc['price_str']}) --> {st_name} ({st_loc['price_str']})"
+
+        display_route = route_str if route_str else '<em style="color: #888;">No great trade identified.</em>'
+        ref = it["ref"] or "—"
+        item_link = f"**[{it['name']}](../../trading/{it['slug']}.md)**"
+        lines.append(f"| {ref} | {item_link} | {local_price} | {display_route} |")
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def update_location_pages(items: list[dict]) -> None:
+    for loc_info in PUBLISHED_LOCATIONS:
+        file_path = loc_info["file"]
+        if not file_path.exists():
+            continue
+
+        st_name = loc_info["name"]
+        content = file_path.read_text(encoding="utf-8")
+
+        # Strip any existing Trade & Commerce section
+        heading_match = re.search(r"\n## Trade & Commerce\b", content)
+        if heading_match:
+            base_content = content[: heading_match.start()].rstrip()
+        else:
+            base_content = content.rstrip()
+
+        section_md = generate_location_trade_section(st_name, items)
+        new_content = f"{base_content}\n\n{section_md}"
+        file_path.write_text(new_content, encoding="utf-8")
+        print(f"[LOCATION] Updated {file_path.relative_to(REPO_ROOT)} with trade table.")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Sync UVG trade sheet with website.")
     parser.add_argument("--offline", action="store_true", help="Use local cached CSV without web request.")
@@ -453,6 +545,9 @@ def main():
         written_count += 1
 
     print(f"[ITEMS] Synchronized {written_count} trade items into {TRADING_DIR.relative_to(REPO_ROOT)}/")
+
+    # Update published location pages
+    update_location_pages(items)
 
 
 if __name__ == "__main__":
