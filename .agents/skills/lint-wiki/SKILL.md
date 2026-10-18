@@ -1,6 +1,6 @@
 ---
 name: lint-wiki
-description: Health-check the campaign wiki for structural issues — orphan pages, dead links, empty stubs, unused images, stale hooks, and missing front matter. Use periodically (e.g. every few sessions) or after a batch of edits to keep the repo clean. No arguments needed.
+description: Health-check the campaign wiki for structural issues — orphan pages, dead links, empty stubs, unused images, deprecated hooks, and catalogue health. Use periodically (e.g. every few sessions) or after a batch of edits to keep the repo clean. No arguments needed.
 argument-hint: none (scans the full repo)
 ---
 
@@ -60,15 +60,18 @@ For every file in `imgs/` (recursively):
 - Check whether any markdown file references it (in front matter `image:`, `images:`, or inline `![]()`).
 - Report images that are never referenced. Exclude `imgs/gallery/` from this check (gallery images are surfaced by the gallery include).
 
-### 5. Open hooks
+### 5. Deprecated hooks
 
-Scan all YAML front matter for the `hooks:` field. For each hook:
-- Search session logs (`campaigns/`) for any mention of the hook text (case-insensitive substring match).
-- If no session log mentions it, report it as an open (unfollowed) hook, with the file it was declared in.
+Scan all YAML front matter for the deprecated `hooks:` field.
+- Report any file that still declares `hooks:`. Note that `hooks` is deprecated and should be migrated to body prose or removed.
 
-This is informational, not a fault — open hooks are good. But the GM should know which ones are still dangling.
+### 6. Catalogue & Semantic Layer Health
 
-### 6. Missing front matter
+- Verify that `.agents/context/catalog.json` exists and matches the current note count in `.agents/context/tier1_sources.yml`.
+- Verify that `summary` is not null for non-stub files.
+- Report any file whose content hash (`sha`) differs from `catalog.json`.
+
+### 7. Missing front matter
 
 Every content file in `campaigns/`, `directory/`, and `systems/` should have at minimum:
 - `title`
@@ -76,7 +79,7 @@ Every content file in `campaigns/`, `directory/`, and `systems/` should have at 
 
 Report files missing either field. Also flag files with `layout:` set to something other than `default` (which is the Just the Docs default and normally omitted), unless the file is `all-content.md`, `all-agent.md`, `index.md`, or a `404` page.
 
-### 7. Duplicate titles
+### 8. Duplicate titles
 
 Scan all `title:` values in front matter across the repo. Report any exact duplicates — two files with the same title will cause navigation confusion in Just the Docs.
 
@@ -85,11 +88,11 @@ Scan all `title:` values in front matter across the repo. Report any exact dupli
 1. Read `.agents/AGENTS.md` to refresh conventions.
 2. Use `find` or `ls` to enumerate all markdown files in content folders and all files in `imgs/`.
 3. For each markdown file, extract:
-   - YAML front matter fields (`title`, `parent`, `hooks`, `image`, `images`).
+   - YAML front matter fields (`title`, `parent`, `image`, `images`). Check if `hooks` is present (flag as deprecated).
    - All internal markdown links (outbound).
    - All image references.
    - Body line count (after front matter).
-4. Build the link graph (which files link to which).
+4. Build the link graph (which files link to which) or inspect `.agents/context/catalog.json`.
 5. Run each check from the list above.
 6. Write the report as an artifact.
 
@@ -106,8 +109,8 @@ Generated: [date]
 - X orphan pages
 - X stubs
 - X unused images
-- X open hooks
-- X front matter issues
+- X deprecated hooks
+- X catalogue / front matter issues
 - X duplicate titles
 
 ## Dead Links

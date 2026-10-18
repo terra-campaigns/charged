@@ -55,9 +55,18 @@ Later-earth retro psychedelic science fantasy.
 
 ### Canon hierarchy
 
-- Tier 1 canon is the campaign website available at https://terra-campaigns.github.io/charged/all-content/. These notes are strong cannon.
-- Tier 2 canon is Project Memory and visible conversation.
-- Tier 3 canon is material in the campaign folder available at https://drive.google.com/drive/folders/1M5DvDSEEjLsHTq4DmSjhNnbxUDQHMTAH?usp=drive_link - should be used as influence, not as automatic Charged canon.
+- **Tier 1 canon** is the published campaign notes (listed in `.agents/context/tier1_sources.yml` and indexed in `.agents/context/catalog.json`). These notes are strong canon.
+- **Tier 2 canon** is Project Memory, visible conversation, and confirmed GM rulings recorded in `.agents/context/decisions.md`.
+- **Tier 3 canon** is reference material in the Google Drive campaign folder (`cores/`, `modules/`, `suplements/`) and structured digests in `charged/_digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Charged canon.
+
+### Context & Token Optimisation Policy
+
+- Never read all markdown notes or large reference PDFs in bulk.
+- Use the `lookup-context` skill or consult `.agents/context/catalog.json` first to locate relevant entities, locations, and factions before reading files.
+- The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
+- For Tier 3 setting lore or procedures, consult `charged/_digests/*.md` via `.agents/context/references.json` before opening raw PDFs.
+- Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
+- Regenerate the Tier 1 catalogue manually with `ruby --disable-gems _plugins/data_extractor.rb` or automatically upon git commit.
 
 ## UVG+24XX Campaign Details
 

@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+# Automatically refresh and stage the Tier 1 semantic catalogue upon commit.
+export PATH="/opt/homebrew/bin:/usr/bin:/bin:$PATH"
+ruby --disable-gems _plugins/data_extractor.rb
+if [ -f .agents/context/catalog.json ]; then
+  git add .agents/context/catalog.json
+fi

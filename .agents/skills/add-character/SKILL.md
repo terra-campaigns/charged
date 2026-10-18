@@ -30,8 +30,8 @@ If the user's initial prompt does not supply all necessary details, ask clarifyi
 
 Before creating the file:
 
-1. Search existing files using `rg` for the character's proposed name to avoid duplicate titles or naming clashes.
-2. Search for related NPCs, locations, or factions in `directory/` to identify potential cross-links.
+1. Search `.agents/context/catalog.json` and existing files using `rg` for the character's proposed name to avoid duplicate titles or naming clashes.
+2. Search for related NPCs, locations, or factions in `catalog.json` or `directory/` to identify potential cross-links.
 3. Check the folder's `index.md` to confirm the exact `title:` value to use for `parent:`.
 
 ### Entity Relationships & Cross-Linking
@@ -123,4 +123,5 @@ After writing the file:
 1. Verify that all internal links resolve to existing files.
 2. Confirm the heading spacing rule (blank line after any markdown headings).
 3. Ensure British English spelling throughout.
-4. Leave the created file unstaged in git for user review.
+4. Refresh the Tier 1 catalogue: `ruby --disable-gems _plugins/data_extractor.rb`.
+5. Leave the created file unstaged in git for user review.

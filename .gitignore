@@ -26,3 +26,6 @@ vendor/
 _data/gallery_links.json
 _data/lastmod.json
 _data/markdown_links.json
+
+# Local agent venv
+.agents/venv/

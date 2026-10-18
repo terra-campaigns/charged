@@ -1,0 +1,1396 @@
+{
+  "generated": "2026-10-18T17:42:59+02:00",
+  "tier": 1,
+  "total_entries": 59,
+  "entries": [
+    {
+      "path": "directory/Atles/index.md",
+      "title": "Atles' Catlord Caravan",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_003.md",
+        "campaigns/UVG24XX/ep_004.md",
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_007.md",
+        "campaigns/UVG24XX/ep_009.md",
+        "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_011.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "1551d7f3",
+      "tier": 1
+    },
+    {
+      "path": "directory/LimeNomads/LimeClan.md",
+      "title": "Lime Clan",
+      "type": "faction",
+      "parent": "Steppe of Lime Nomads (3)",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "A group of nomadic people from the [steppe](index.md). They follow ceremonial raves and are respectful with their rituals. They also consume a lot of vapours and powders to reach transcendence. When they need to return to a sensible state, they consume lots of limes.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/LimeNomads/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_006.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "eb0d5e78",
+      "tier": 1
+    },
+    {
+      "path": "directory/LowRoadHigh/RRR.md",
+      "title": "RRR",
+      "type": "faction",
+      "parent": "Low Road and High (2)",
+      "role": "Reckless Red Ritualists",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "a209e6c1",
+      "tier": 1
+    },
+    {
+      "path": "directory/Caravan1/index.md",
+      "title": "Unnamed Caravan",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "**Financier**: [Leonti Vites](../VioletCity/LeontiVites.md), from Banco de Aventuras",
+      "links_out": [
+        "directory/VioletCity/LeontiVites.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "46cfa3b0",
+      "tier": 1
+    },
+    {
+      "path": "directory/LowRoadHigh/CrystalPylon.md",
+      "title": "Crystal Pylon",
+      "type": "location",
+      "parent": "Low Road and High (2)",
+      "role": "RRV",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "A voluptuously whorled crystal pylon lies on its side in a heavily eroded crater.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/FoldedBelow/IridescentGlobes.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_002.md",
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_003.md",
+        "campaigns/UVG24XX/ep_004.md",
+        "campaigns/UVG24XX/ep_007.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "4e50e89c",
+      "tier": 1
+    },
+    {
+      "path": "directory/FallenUmber/index.md",
+      "title": "Fallen Umber (12)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1012",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_003.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "d19056f1",
+      "tier": 1
+    },
+    {
+      "path": "directory/LastSerai/Harmonium.md",
+      "title": "Harmonium",
+      "type": "location",
+      "parent": "The Last Serai (8)",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_009.md",
+        "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/LastSerai/Angel22-unity.md"
+      ],
+      "lastmod": "2026-W26",
+      "sha": "30f335f3",
+      "tier": 1
+    },
+    {
+      "path": "directory/LastSerai/IgnoredTower.md",
+      "title": "Ignored Tower",
+      "type": "location",
+      "parent": "The Last Serai (8)",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_009.md",
+        "campaigns/UVG24XX/ep_011.md"
+      ],
+      "lastmod": "2026-W26",
+      "sha": "29a8e2aa",
+      "tier": 1
+    },
+    {
+      "path": "directory/VioletCity/LastChairSaloon.md",
+      "title": "Last Chair Saloon",
+      "type": "location",
+      "parent": "Violet City (1)",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "A day’s journey west of the Violet City, the coffee plantations give way to scrubby uplands. Marsa Vinoble operates the Last Chair Salon.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md",
+        "campaigns/UVG24XX/ep_001.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "566c3b51",
+      "tier": 1
+    },
+    {
+      "path": "directory/LimeNomads/LavenderCliffs.md",
+      "title": "Lavender Cliffs",
+      "type": "location",
+      "parent": "Steppe of Lime Nomads (3)",
+      "role": "Peaceful cliffs with communal villages",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "The cliffs begin inconspicuously; ridges, fractures in the plain. Then they fold and fold over again, rising above ever deeper arroyos, the pink and blue pillows of rock rising to the grooved plateau of the Blasted Field. In cliff hollows, protected by filigree lattices of living stone, spread the Cliff Villages of the Citrus Ecclesia, the broad church of the elders of the Steppelanders, bound in the circle of life and death. The common elders are spry and industrious, but eerily quiet and calm.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_006.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "9fd58925",
+      "tier": 1
+    },
+    {
+      "path": "directory/LowRoadHigh/index.md",
+      "title": "Low Road and High (2)",
+      "type": "location",
+      "parent": "Directory",
+      "role": "Village for retired caravaners",
+      "status": null,
+      "region": null,
+      "nav_order": "1002",
+      "summary": "The cratered viaduct of the High Road runs on crumbling pylons of dying dryland coral across the pallid grasses. Beneath the half-passable testament to the follies of the Long-Long-Ago, the Low Road winds, smeared threads of soil and loam and oil and blood ground into a hard surface by the pounding feet, hooves, wheels, and treads of pilgrims, nomads, caravans, and vechs.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md",
+        "campaigns/FailedExports/ep_001_a.md",
+        "campaigns/FailedExports/ep_002.md",
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_003.md",
+        "campaigns/UVG24XX/ep_004.md",
+        "campaigns/UVG24XX/ep_005.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "398ee897",
+      "tier": 1
+    },
+    {
+      "path": "directory/LowRoadHigh/MotorOutcrops.md",
+      "title": "Motor outcrops",
+      "type": "location",
+      "parent": "Low Road and High (2)",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "2 days southeast. A gorgeous, striated ridge, left over from some incredibly aesthetic geological process. Fragments of rare metal skeletons are embedded here, dangerous because of infected archaeologists.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_002.md",
+        "campaigns/UVG24XX/ep_003.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "95d416d6",
+      "tier": 1
+    },
+    {
+      "path": "directory/PorcelainCitadel/index.md",
+      "title": "Porcelain Citadel (4)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1004",
+      "summary": "The unmarked white surface of the great citadel, uplifted like an imprecation against the fanciful gods serves as a reminder that not all that has fallen has died.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_002.md",
+        "campaigns/UVG24XX/ep_007.md",
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/LastSerai/Angel22-unity.md"
+      ],
+      "lastmod": "2026-W21",
+      "sha": "d08a01e8",
+      "tier": 1
+    },
+    {
+      "path": "directory/LowRoadHigh/RHV.md",
+      "title": "Rusted Hand of Victory",
+      "type": "location",
+      "parent": "Low Road and High (2)",
+      "role": "RHV",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "A victorious hand rises from the ground, covered in graffiti. Near the road, it is a popular picnic place. They become afraid of a pack of monkeys that seems to take over the area.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_002.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "eb486df6",
+      "tier": 1
+    },
+    {
+      "path": "directory/LimeNomads/SpringYellow.md",
+      "title": "Spring of the yellow water",
+      "type": "location",
+      "parent": "Steppe of Lime Nomads (3)",
+      "role": "Public bottomless ceremonial spring",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "The Lime Clan hold this holy spring in great esteem, hidden in a narrow ravine littered with Long Long Ago skeuomorphic depictions of everyday life rituals. The yellow waters burble out of the sacred cleft and collect in a nearly bottomless pool.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_005.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "ff7ac5b1",
+      "tier": 1
+    },
+    {
+      "path": "directory/LimeNomads/index.md",
+      "title": "Steppe of Lime Nomads (3)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1003",
+      "summary": "The Limey Nomads’ lands are harsh and dry, forbidding to travellers. Odd remnants from the misty period referred to as the ‘Best-Forgotten’ Ages by the Saffron City’s Opiate Priests dot the plain. In spring, the Limeys graze west towards the Grass Colossus, returning east to the Circle Rim for winter.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_007.md",
+        "directory/LimeNomads/LimeClan.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "ea5f966a",
+      "tier": 1
+    },
+    {
+      "path": "directory/LastSerai/index.md",
+      "title": "The Last Serai (8)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1008",
+      "summary": "Three days out, you sight it. A metallic stepped tower, glinting in the daylight, glowing a ghostly, coppery green by night. Two days out, you smell it. Soft and seductive like cocoa. A day out, you hear it. Drumming out a rhythmless, rumbling staccato.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_003.md",
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/ep_009.md",
+        "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/Atles/Kalis.md",
+        "directory/Atles/Pilixa.md",
+        "directory/Atles/Settler.md",
+        "directory/LastSerai/Angel22-unity.md"
+      ],
+      "lastmod": "2026-W26",
+      "sha": "0d8f6f26",
+      "tier": 1
+    },
+    {
+      "path": "directory/VioletCity/index.md",
+      "title": "Violet City (1)",
+      "type": "location",
+      "parent": "Directory",
+      "role": "Last city of the Rainbowlands",
+      "status": null,
+      "region": null,
+      "nav_order": "1001",
+      "summary": "The Violet City is a place of trade, luxury, magic and poverty. The thralls of the cat lords keep a veneer of order, barely hiding the feline sneers at the rules of Metropolitan bean counters and inquisitors.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md",
+        "campaigns/FailedExports/ep_001_a.md",
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_007.md",
+        "directory/LowRoadHigh/index.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "80c91bcb",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/index.md",
+      "title": "UVG+24XX",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "7",
+      "summary": "<iframe width=\"100%\" height=\"500\" src=\"https://www.youtube.com/embed/loB0lDH8Vu4?si=PoCTmLZBMH9pjCNA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "links_out": [],
+      "links_in": [
+        "directory/Atles/Barista.md",
+        "directory/Atles/Cianur.md",
+        "directory/Atles/Cozarin.md",
+        "directory/Atles/Horto.md",
+        "directory/Atles/Iacum.md",
+        "directory/Atles/Kalis.md",
+        "directory/Atles/Kur.md",
+        "directory/Atles/Minuit.md",
+        "directory/Atles/Murdock.md",
+        "directory/Atles/Pilik.md",
+        "directory/Atles/Pilixa.md",
+        "directory/Atles/RiseGhost.md",
+        "directory/Atles/Settler.md",
+        "directory/Atles/Ski.md",
+        "directory/Atles/TamHR.md",
+        "directory/Atles/Tifixa.md",
+        "directory/Atles/Vorgo.md",
+        "directory/Atles/Xulio.md",
+        "directory/Atles/index.md",
+        "directory/FallenUmber/index.md",
+        "directory/FoldedBelow/IridescentGlobes.md",
+        "directory/FoldedBelow/ManEatingMolusc.md",
+        "directory/FoldedBelow/PitOfMould.md",
+        "directory/FoldedBelow/Skinwearer.md",
+        "directory/FoldedBelow/index.md",
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/IgnoredTower.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/LastSerai/index.md",
+        "directory/LimeNomads/LavenderCliffs.md",
+        "directory/LimeNomads/LimeClan.md",
+        "directory/LimeNomads/SpringYellow.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/CrystalPylon.md",
+        "directory/LowRoadHigh/MotorOutcrops.md",
+        "directory/LowRoadHigh/RHV.md",
+        "directory/LowRoadHigh/RRR.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/LastChairSaloon.md",
+        "directory/VioletCity/LeontiVites.md",
+        "directory/VioletCity/index.md"
+      ],
+      "lastmod": "2026-W40",
+      "sha": "8fd5dad9",
+      "tier": 1
+    },
+    {
+      "path": "systems/perchance/chargedrpg-uvg_lhs.md",
+      "title": "chargedrpg-uvg_lhs",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "output I am a [who1] [who2] that has a [thing] on the road because [why].",
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2025-W24",
+      "sha": "596076d7",
+      "tier": 1
+    },
+    {
+      "path": "systems/perchance/chargedrpg-uvg_rhs.md",
+      "title": "chargedrpg-uvg_rhs",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "<p align=\"left\" > <b>[name], [who1] [who2]</b> <br> -----------<br><br> <b>Why are you on the road?</b> [why]. <br> <b>What is your signature item?</b> [thing]. <br> [quirk] <br> [quirk] <br><br>",
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2025-W24",
+      "sha": "9b9c4743",
+      "tier": 1
+    },
+    {
+      "path": "systems/perchance/chargedrpg_lhs.md",
+      "title": "chargedrpg_lhs",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "chargedrpg_eb = {import:chargedrpg-eb} chargedrpg_uvg = {import:chargedrpg-uvg} chargedrpg_metamorphica = {import:chargedrpg-metamorphica}",
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2025-W25",
+      "sha": "8ede7ced",
+      "tier": 1
+    },
+    {
+      "path": "systems/perchance/chargedrpg_rhs.md",
+      "title": "chargedrpg_rhs",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "<p align=\"left\" > <b>[b = background.selectOne, b.name]</b> <br><br>",
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2025-W25",
+      "sha": "537b0e00",
+      "tier": 1
+    },
+    {
+      "path": "directory/LastSerai/Angel22-unity.md",
+      "title": "Angel 22-unity",
+      "type": "people",
+      "parent": "The Last Serai (8)",
+      "role": "22-body Porcelain Prince",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Highest ranking Porcelain Prince in the [Last Serai](index.md). A polite, rich, militantly bigoted polibody in luxurious opal masks.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_010.md",
+        "directory/LastSerai/IronPot6-body.md"
+      ],
+      "lastmod": "2026-W28",
+      "sha": "2e116c22",
+      "tier": 1
+    },
+    {
+      "path": "directory/PorcelainCitadel/BoneKaolin.md",
+      "title": "Bone Kaolin",
+      "type": "people",
+      "parent": "Porcelain Citadel (4)",
+      "role": "2-body Porcelain Prince",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Decayed remnant of the Ascendant Church of Flesh, a death cult. Purchases single-use bodies.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/RiseGhost.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_008.md"
+      ],
+      "lastmod": "2026-W28",
+      "sha": "f98ed375",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Cianur.md",
+      "title": "Cianur duc",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Wine vampire purple wizard",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "**Why are you on the road?** Experience of a tragic vomish outbreak. **You have a machine interface:** Actually, a synthetic human themselves. **You have a machine interface:** Hacker subverting the surviving golem routines.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_009.md"
+      ],
+      "lastmod": "2026-W26",
+      "sha": "348f127b",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Cozarin.md",
+      "title": "Cozarin s’Berberin",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Wine vampire industrialist",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "Corazin is on the road for sheer industrial greed. He is an (ex-)Aristo that has been engineered at source for his role as a wine vampire. His nemesis is another aristo who is (more) elegant, suave, accomplished person of leisure.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_003.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "ae13bb99",
+      "tier": 1
+    },
+    {
+      "path": "directory/Caravan1/Ferno.md",
+      "title": "Ferno",
+      "type": "people",
+      "parent": "Unnamed Caravan",
+      "role": "Contract Castaway",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Contract Castaway (28): You have failed in your career in the Hegemony Capital.",
+      "links_out": [],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "f4d4fd56",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Horto.md",
+      "title": "Horto ‘n Caravan",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Safranian merchant big game hunter",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "**Why are you on the road?** Determined to end a crippling disease.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_003.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "987c352e",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Iacum.md",
+      "title": "Iacum di Villa",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Wildfolk cult bio-mechanic",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "**What do you always carry with you?** Animated furry chitin kite.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_003.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "161d82ea",
+      "tier": 1
+    },
+    {
+      "path": "directory/LastSerai/IronPot6-body.md",
+      "title": "Iron Pot 6-body",
+      "type": "people",
+      "parent": "The Last Serai (8)",
+      "role": "6-body Porcelain Prince",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Investigator, investigating the alleged revolutionary activities of [Angel 22-unity](Angel22-unity.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/LastSerai/Angel22-unity.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_011.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "70276638",
+      "tier": 1
+    },
+    {
+      "path": "directory/Caravan1/Juao.md",
+      "title": "Juão",
+      "type": "people",
+      "parent": "Unnamed Caravan",
+      "role": "Expelled Lamplighter",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Expelled Lamplighter (40B): You have failed in your career in the Hegemony Capital.",
+      "links_out": [],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md",
+        "campaigns/FailedExports/ep_002.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "134e8287",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Kalis.md",
+      "title": "Kalis Decano",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Independent freehold travelling entertainer",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "**Why are you on the road?** Paintings of a gorgeous cyan seaside.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/Settler.md",
+        "directory/LastSerai/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/Atles/Settler.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "58818800",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Kur.md",
+      "title": "Kur",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Kur ‘Notcurrentlyineducationortraining, Wildfolk Wizard",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "**What do you always carry with you?** Copper star incised with naughty limericks. **You have an additional experience:** Professional citizen—high expectations (Chemistry increased to d8 when relevant). **You have another experience:** Outcast—an illegal on society’s edge (Gun Running increased to d8 when relevant). **Why are you on the road?** [Their aged clone](Barista.md) whispered prophecies (increased Oldtech).",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/Barista.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_003.md",
+        "campaigns/UVG24XX/ep_004.md",
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_007.md",
+        "directory/Atles/Barista.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "e85baaed",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Barista.md",
+      "title": "Kur (Barista)",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Kur ‘Notcurrentlyineducationortraining, Dessicated slaver barista",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "**Why are you on the road?** Nightly dreams of a lost world.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/Kur.md",
+        "directory/Atles/Settler.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_009.md",
+        "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/Atles/Kur.md",
+        "directory/Atles/Settler.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "d0e5c334",
+      "tier": 1
+    },
+    {
+      "path": "directory/VioletCity/LeontiVites.md",
+      "title": "Leonti Vites",
+      "type": "people",
+      "parent": "Violet City (1)",
+      "role": "Financier from Banco de Aventuras",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "A decapolitan summoner that wants to financially destroy his enemy - Severa D'Arange, a rich Satrap-Princes.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md",
+        "directory/Caravan1/index.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "f6c73402",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Minuit.md",
+      "title": "Minuit",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Ashen Liberal",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "What is your affinity-bonded pet?: Aggressively upgraded Dodo called Lucy (who might or might not be the Dodo called Vangogh, from [Tam HR](TamHR.md))",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/TamHR.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/Atles/TamHR.md"
+      ],
+      "lastmod": "2026-W21",
+      "sha": "c1996f1d",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Murdock.md",
+      "title": "Murdock",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Shaman",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "What is your signature item? Red staff made of fused ancient pistols. Who is your nemesis since childhood? Mad genius or just a misunderstood nerd?. Who is your nemesis since childhood? Charismatic public speaker. Seems ... cultish?.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_004.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "52d38364",
+      "tier": 1
+    },
+    {
+      "path": "directory/Caravan1/Piero.md",
+      "title": "Piero",
+      "type": "people",
+      "parent": "Unnamed Caravan",
+      "role": "Liberal Engineer",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Liberal Engineer (24): You have failed in your career in the Hegemony Capital.",
+      "links_out": [],
+      "links_in": [
+        "campaigns/FailedExports/ep_001.md",
+        "campaigns/FailedExports/ep_002.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "4fd4f178",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Pilik.md",
+      "title": "Pilik Bagato",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Decapolitan navigator",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "**What do you always carry with you?** Cabochon ruby with a regal hologram inside. **Who is your nemesis since childhood?** Now, a successful banker. Never forgets a slight (name a skill they taught you, and increase it to d8 when relevant). **You have a machine interface:** Hacker subverting the surviving golem routines (use d8 when relevant). **Why are you on the road?** Possessed by a demon in childhood (choose an item or name and increase a skill).",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_007.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "0117c3e8",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Pilixa.md",
+      "title": "Pilixa Navins Akolight",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Redland bourgeoise mendicant healer",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "An old apothecary with cracked skin who nurtures a living lavender plant cradled in a baby hammock.",
+      "links_out": [
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/LastSerai/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_009.md",
+        "campaigns/UVG24XX/ep_011.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "6b2cdefe",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/RiseGhost.md",
+      "title": "Rise Ghost",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Oranjetic wizard",
+      "status": null,
+      "region": null,
+      "nav_order": "3025-05-15",
+      "summary": "![](../../imgs/gallery/Pasted%20image%2020250905172811.png)",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/BoneKaolin.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "3c82a1e0",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Settler.md",
+      "title": "Settler En-Perla",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Exiled Bluelander noble industrialist",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "An exiled Bluelander noble with a proud moustache, devoted to enforcing political apprehension.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/Barista.md",
+        "directory/Atles/Kalis.md",
+        "directory/LastSerai/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/Atles/Barista.md",
+        "directory/Atles/Kalis.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "fad7eec4",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Ski.md",
+      "title": "Ski Senk-Karti",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Scrubland barbarian ruins scavenger",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "What do you always carry with you? Manual of the vechs, annotated with scribbles. You have a machine interface: Infected with microplastic synthetic animalcules (increased Vome Tech). You have a sign of the Fast Stars: Voidskiff. A silver ship in the heart (use d8 when relevant). Why are you on the road? Compulsion after meeting a seer (increased Hallucination).",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_004.md",
+        "campaigns/UVG24XX/ep_008.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "55c5aad7",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/TamHR.md",
+      "title": "Tam ‘HR",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Old city tactician",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Why are you on the road? Their aged clone whispered prophecies. What is your affinity-bonded pet?: Aggressively upgraded Dodo called Vangogh (who might or might not be the Dodo called Vangogh, from [Minuit](Minuit.md)) You have an odd family connexion: a relative executed for treason. Was it just?",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/Minuit.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/ep_010.md",
+        "directory/Atles/Minuit.md"
+      ],
+      "lastmod": "2026-W21",
+      "sha": "62f6392c",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Tifixa.md",
+      "title": "Tifixa Boscaneve",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Violet archaeologist",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "**What do you always carry with you?** Undying replacement organ. **You have an additional experience:** Aristo. Engineered at source for their role (name a skill and increase it to d8 when relevant). **You have an additional experience:** Professional citizen. High expectations (name a skill and increase it to d8 when relevant). **Why are you on the road?** The Mystic manual discussed a divine workshop (choose an item or name and increase a skill).",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/FoldedBelow/Skinwearer.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_002.md",
+        "campaigns/UVG24XX/ep_003.md",
+        "campaigns/UVG24XX/ep_005.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_007.md"
+      ],
+      "lastmod": "2026-W28",
+      "sha": "3b672d7b",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Vorgo.md",
+      "title": "Vorgo",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Morphine-drugged patient",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Owns a nice-looking key.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md",
+        "campaigns/UVG24XX/ep_004.md",
+        "campaigns/UVG24XX/ep_006.md",
+        "campaigns/UVG24XX/ep_007.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "ac87d37e",
+      "tier": 1
+    },
+    {
+      "path": "directory/Atles/Xulio.md",
+      "title": "Xulio Ueronesi",
+      "type": "people",
+      "parent": "Atles' Catlord Caravan",
+      "role": "Exiled Bluelander noble summoner",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "What do you always carry with you? Yellow cape of pure steel silk.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_001.md"
+      ],
+      "lastmod": "2026-W16",
+      "sha": "8e243911",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_008.md",
+      "title": "Banana seller",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Porcelain Citadel",
+      "nav_order": "3025-07-16",
+      "summary": "[Tam 'HR](../../directory/Atles/TamHR.md), [Ski](../../directory/Atles/Ski.md), [Minuit](../../directory/Atles/Minuit.md) and [Rise Ghost](../../directory/Atles/RiseGhost.md) are half a day away from the [Porcelain Citadel](../../directory/PorcelainCitadel/index.md) when night comes. They set up camp and see, from a distance, coloured lights and tinny music drifting from the citadel. They will miss the [Goodbye Party](ep_007.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_007.md",
+        "directory/Atles/Minuit.md",
+        "directory/Atles/RiseGhost.md",
+        "directory/Atles/Ski.md",
+        "directory/Atles/TamHR.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_009.md"
+      ],
+      "lastmod": "2026-W26",
+      "sha": "0db8cccb",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_010.md",
+      "title": "Doda now?",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Last Serai",
+      "nav_order": "3025-08-05",
+      "summary": "[Tam HR](../../directory/Atles/TamHR.md) takes the opportunity to offload the Chitin caps they picked up in the [Porcelain Citadel](../../directory/PorcelainCitadel/index.md). It is a good profit.",
+      "links_out": [
+        "directory/Atles/Barista.md",
+        "directory/Atles/TamHR.md",
+        "directory/Atles/index.md",
+        "directory/FoldedBelow/PitOfMould.md",
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W28",
+      "sha": "949f4ef1",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_007.md",
+      "title": "Goodbye party",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Northern steppes",
+      "nav_order": "3025-07-15",
+      "summary": "[Tifixa](../../directory/Atles/Tifixa.md)'s condition continues to deteriorate, while [Kur](../../directory/Atles/Kur.md) starts to show similar symptoms (milder for now).",
+      "links_out": [
+        "directory/Atles/Kur.md",
+        "directory/Atles/Pilik.md",
+        "directory/Atles/Tifixa.md",
+        "directory/Atles/Vorgo.md",
+        "directory/Atles/index.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/CrystalPylon.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_008.md"
+      ],
+      "lastmod": "2026-W21",
+      "sha": "3ad61f4b",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_004.md",
+      "title": "Men's best friend",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "The Low Road and The High",
+      "nav_order": "3025-05-30",
+      "summary": "[Atles](../../directory/Atles/index.md)' caravan is stationed on [The Low Road and The High](../../directory/LowRoadHigh/index.md).",
+      "links_out": [
+        "directory/Atles/Kur.md",
+        "directory/Atles/Murdock.md",
+        "directory/Atles/Ski.md",
+        "directory/Atles/Vorgo.md",
+        "directory/Atles/index.md",
+        "directory/LowRoadHigh/CrystalPylon.md",
+        "directory/LowRoadHigh/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W16",
+      "sha": "8736fc0f",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_011.md",
+      "title": "One Body Left",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Last Serai",
+      "nav_order": "3025-08-19",
+      "summary": "[Settler En-Perla](../../directory/Atles/Settler.md) and [Kalis Decano](../../directory/Atles/Kalis.md) arrive at [The Last Serai](../../directory/LastSerai/index.md), having previously agreed to meet here. Kalis, an independent travelling entertainer fascinated by paintings, arrives with his lucky, unkillable warrior companion. Settler, an exiled Bluelander with a proud moustache, busies himself enforcing political apprehension.",
+      "links_out": [
+        "campaigns/UVG24XX/ep_009.md",
+        "directory/Atles/Barista.md",
+        "directory/Atles/Kalis.md",
+        "directory/Atles/Pilixa.md",
+        "directory/Atles/Settler.md",
+        "directory/Atles/index.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/IgnoredTower.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "directory/Atles/Pilixa.md",
+        "directory/LastSerai/IronPot6-body.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "44030ef6",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_006.md",
+      "title": "Peaceful lands",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Steppe of the Lime Nomads",
+      "nav_order": "3025-06-25",
+      "summary": "After a week in the steppe, [Tifixa](../../directory/Atles/Tifixa.md) starts to feel very sick. She knows the [iridescent globes](../../directory/FoldedBelow/IridescentGlobes.md) are causing it.  Her eyes are all coloured and her skin's inside looks like a rainbow. Her flesh hurts, especially on its folds.",
+      "links_out": [
+        "directory/Atles/Pilik.md",
+        "directory/Atles/RiseGhost.md",
+        "directory/Atles/Tifixa.md",
+        "directory/Atles/Vorgo.md",
+        "directory/Atles/index.md",
+        "directory/FoldedBelow/IridescentGlobes.md",
+        "directory/FoldedBelow/Skinwearer.md",
+        "directory/LimeNomads/LavenderCliffs.md",
+        "directory/LimeNomads/LimeClan.md",
+        "directory/LimeNomads/index.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W16",
+      "sha": "e54824cd",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_001.md",
+      "title": "Potatoes",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Violet City",
+      "nav_order": "3025-05-03",
+      "summary": "The Catlord announces, through his director, [Atles Dello Citranella](../../directory/Atles/index.md), that their caravan is formed. They will leave [Violet City](../../directory/VioletCity/index.md) and travel west, and become rich.",
+      "links_out": [
+        "directory/Atles/Kur.md",
+        "directory/Atles/Murdock.md",
+        "directory/Atles/Pilik.md",
+        "directory/Atles/Ski.md",
+        "directory/Atles/Vorgo.md",
+        "directory/Atles/Xulio.md",
+        "directory/Atles/index.md",
+        "directory/LowRoadHigh/RRR.md",
+        "directory/LowRoadHigh/index.md",
+        "directory/VioletCity/LastChairSaloon.md",
+        "directory/VioletCity/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W26",
+      "sha": "de8da318",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_003.md",
+      "title": "Shaggy and Fleshy",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "The Low Road and The High",
+      "nav_order": "3025-05-15",
+      "summary": "[Atles](../../directory/Atles/index.md)' caravan is stationed on [The Low Road and The High](../../directory/LowRoadHigh/index.md).",
+      "links_out": [
+        "directory/Atles/Cozarin.md",
+        "directory/Atles/Horto.md",
+        "directory/Atles/Iacum.md",
+        "directory/Atles/Kur.md",
+        "directory/Atles/Tifixa.md",
+        "directory/Atles/index.md",
+        "directory/FallenUmber/index.md",
+        "directory/FoldedBelow/IridescentGlobes.md",
+        "directory/FoldedBelow/ManEatingMolusc.md",
+        "directory/FoldedBelow/Skinwearer.md",
+        "directory/FoldedBelow/index.md",
+        "directory/LastSerai/index.md",
+        "directory/LowRoadHigh/CrystalPylon.md",
+        "directory/LowRoadHigh/MotorOutcrops.md",
+        "directory/LowRoadHigh/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W40",
+      "sha": "66f13332",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_002.md",
+      "title": "To the Crystal Pylon",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "The Low Road and The High",
+      "nav_order": "3025-05-13",
+      "summary": "[Atles](../../directory/Atles/index.md)' caravan is stationed on [The Low Road and The High](../../directory/LowRoadHigh/index.md). The place is nothing more than a camp of retired caravanserais.",
+      "links_out": [
+        "directory/Atles/Barista.md",
+        "directory/Atles/Kur.md",
+        "directory/Atles/Pilik.md",
+        "directory/Atles/Tifixa.md",
+        "directory/Atles/index.md",
+        "directory/FoldedBelow/IridescentGlobes.md",
+        "directory/LowRoadHigh/CrystalPylon.md",
+        "directory/LowRoadHigh/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W28",
+      "sha": "febe0b8d",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_005.md",
+      "title": "Travel to the Lime Nomads",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Trail between The Low Road and The High and the Steppe of the Lime Nomads",
+      "nav_order": "3025-06-09",
+      "summary": "A clique of [Atles](../../directory/Atles/index.md)' caravan leaves [The Low Road and The High](../../directory/LowRoadHigh/index.md) and travels towards the [Steppe of the Lime Nomads](../../directory/LimeNomads/index.md). The travellers are [Tifixa](../../directory/Atles/Tifixa.md), [Kur](../../directory/Atles/Kur.md), [Pilik](../../directory/Atles/Pilik.md) and [Rise Ghost](../../directory/Atles/RiseGhost.md).",
+      "links_out": [
+        "directory/Atles/Kur.md",
+        "directory/Atles/Pilik.md",
+        "directory/Atles/RiseGhost.md",
+        "directory/Atles/Tifixa.md",
+        "directory/Atles/index.md",
+        "directory/LimeNomads/LimeClan.md",
+        "directory/LimeNomads/SpringYellow.md",
+        "directory/LimeNomads/index.md",
+        "directory/LowRoadHigh/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W16",
+      "sha": "153e6306",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_009.md",
+      "title": "Visas, energies and an anvil",
+      "type": "session",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": "Last Serai",
+      "nav_order": "3025-07-30",
+      "summary": "[Pilixa](../../directory/Atles/Pilixa.md), [Kur Barista](../../directory/Atles/Barista.md) and [Cianur](../../directory/Atles/Cianur.md) travel with the large [Atles Caravan](../../directory/Atles/index.md). Three days out from [The Last Serai](../../directory/LastSerai/index.md). They see a [metallic stepped tower](../../directory/LastSerai/IgnoredTower.md), glinting in the daylight, glowing a ghostly, coppery green by night. Two days out, they smell it: soft and seductive like cocoa.",
+      "links_out": [
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/Atles/Barista.md",
+        "directory/Atles/Cianur.md",
+        "directory/Atles/Pilixa.md",
+        "directory/Atles/index.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/IgnoredTower.md",
+        "directory/LastSerai/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_011.md"
+      ],
+      "lastmod": "2026-W26",
+      "sha": "96474bcc",
+      "tier": 1
+    }
+  ]
+}

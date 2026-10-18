@@ -1,0 +1,182 @@
+{
+  "generated": "2026-10-18T17:34:56+02:00",
+  "tier": 3,
+  "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
+  "total_sources": 9,
+  "sources": [
+    {
+      "slug": "uvg_2e_core",
+      "title": "Ultraviolet Grasslands and the Black City (UVG 2E Core)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_2e_core.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Locations & Trail Stations",
+          "line": 15
+        },
+        {
+          "level": 2,
+          "heading": "Factions & Notable Powers",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "Procedures & Rules Reference",
+          "line": 46
+        }
+      ]
+    },
+    {
+      "slug": "uvg_player_guide",
+      "title": "UVG Free Player Guide v2.0ii",
+      "category": "player_guide",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG_free_player_guide_v2.0ii.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_player_guide.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Key Rules & Tables",
+          "line": 13
+        }
+      ]
+    },
+    {
+      "slug": "2400_xot",
+      "title": "2400 Xot v1.2",
+      "category": "system_rules",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Xot_v1.2_singles.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_xot.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Key Mechanics Reference",
+          "line": 13
+        }
+      ]
+    },
+    {
+      "slug": "2400_exiles",
+      "title": "2400 Exiles v1.3",
+      "category": "system_rules",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Exiles_v1.3_singles.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_exiles.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "slug": "sdm_eternal_return_key",
+      "title": "Synthetic Dream Machine — Eternal Return Key (Bareghost Edition)",
+      "category": "system_rules",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/sdm_eternal_return_key.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Mechanical Summary",
+          "line": 12
+        }
+      ]
+    },
+    {
+      "slug": "the_alluring_trophy_gold",
+      "title": "The Alluring — A Trophy Gold Incursion",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/modules/The_Alluring_A_Trophy_Gold_Incursion.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/the_alluring_trophy_gold.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "slug": "metamorphica_revised",
+      "title": "The Metamorphica (Revised)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/suplements/Metamorphica-Revised.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/metamorphica_revised.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "slug": "uvg_maps",
+      "title": "UVG 2E Maps",
+      "category": "maps",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0 maps.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_maps.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Map Index",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "slug": "uvg_postcards",
+      "title": "UVG Postcards",
+      "category": "postcards",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG Postcards - Flattened.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_postcards.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Vignette Index",
+          "line": 6
+        }
+      ]
+    }
+  ]
+}

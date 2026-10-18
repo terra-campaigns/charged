@@ -1,0 +1,22 @@
+# Explicit configuration of directories and files included in Tier 1 Canon.
+# Only markdown notes matching include_paths and not matching exclude_paths
+# will be indexed into .agents/context/catalog.json.
+
+include_paths:
+  - campaigns/UVG24XX
+  - directory/Atles
+  - directory/Caravan1
+  - directory/FallenUmber
+  - directory/LastSerai
+  - directory/LimeNomads
+  - directory/LowRoadHigh
+  - directory/PorcelainCitadel
+  - directory/VioletCity
+  - systems
+
+exclude_paths:
+  - campaigns/FailedExports
+  - campaigns/Anthology
+  - directory/FoldedBelow
+  - _inklings.md
+  - _TODO.md

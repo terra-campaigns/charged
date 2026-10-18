@@ -18,26 +18,25 @@ Then begin.
 
 ## Files to read
 
-### Repo content (read all of these)
+### Repo content (use the Tier 1 catalogue)
 
 - `.agents/AGENTS.md` — setting rules, tone, canon hierarchy.
-- All markdown files in `campaigns/` — session logs and arc indices.
-- All markdown files in `directory/` — NPCs, locations, factions, creatures, objects.
-- All markdown files in `systems/` and `misc/` if they exist.
-- Pay special attention to YAML front matter fields: `hooks`, `role`, `status`, `type`, `region`.
+- `.agents/context/catalog.json` — inspect all entities, parents, types, and connection graphs (`links_in` / `links_out`).
+- `.agents/context/decisions.md` — active Tier 2 rulings.
+- Use targeted reads on specific notes in `campaigns/` and `directory/` as needed to inspect specific details.
 
-### Reference PDFs (Tier 3 canon — influence, not automatic canon)
+### Reference digests (Tier 3 canon — influence, not automatic canon)
 
-Read from: `/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/`
+Read from: `/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/`
+(Consult `.agents/context/references.json` to find relevant files and sections).
 
 Priority:
-1. `UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf` — primary setting, locations, factions, creatures.
-2. `2400_Xot_v1.2_singles.pdf` — system layer, tone.
-3. `Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf` — mechanical flavour.
+1. `uvg_2e_core.md` — primary setting, locations, factions, creatures, caravan rules.
+2. `2400_xot.md` & `2400_exiles.md` — system layer, salvage, mechanics.
+3. `sdm_eternal_return_key.md` — mechanical flavour, death, fantascience.
+4. `the_alluring_trophy_gold.md` & `metamorphica_revised.md` — coastal incursions, mutations.
 
-Also check `modules/` and `suplements/` for anything relevant.
-
-Read enough to understand the broader lore landscape (locations the caravan hasn't reached yet, factions not yet encountered, creatures and phenomena that could surface).
+Read the digest summaries to understand the broader lore landscape (locations the caravan hasn't reached yet, factions not yet encountered, creatures and phenomena that could surface). Only inspect raw PDFs if exact table text or art is needed.
 
 ## What to produce
 
@@ -46,18 +45,18 @@ Read enough to understand the broader lore landscape (locations the caravan hasn
 Each suggestion should be:
 
 - **Actionable** — something the GM can introduce in the next 1–3 sessions.
-- **Grounded** — rooted in content that already exists in the repo (characters, hooks, locations, objects) or in the reference PDFs.
+- **Grounded** — rooted in content that already exists in the repo or in the reference digests.
 - **Connective** — it ties together two or more things that are currently unlinked or underused. Preference order:
-  1. Connections between recent sessions and older published material (best: a thread from ep_001–003 that could resurface now).
-  2. Connections between published content and reference lore (e.g. a UVG location or faction that maps onto something the PCs have already encountered).
-  3. Hooks declared in front matter (`hooks:` field) that have never been followed up on.
-  4. NPCs or locations that exist in the directory but have not appeared in any session log.
+  1. Connections between recent sessions and older published material (best: an element from ep_001–003 that could resurface now).
+  2. Connections between published content and reference lore (e.g. an upcoming UVG location or faction that connects with the caravan's trajectory).
+  3. NPCs or locations that exist in the directory but have empty `links_in` (no session appearances).
+  4. Active PC situations and open contracts/debts.
 
 For each suggestion, provide:
 - **Title** — a short, evocative name for the thread.
 - **The connection** — what two (or more) existing elements it ties together, with file links.
 - **The hook** — how the GM could introduce it at the table. One or two sentences, in-voice.
-- **Source** — whether this draws from repo content, reference PDFs, or both.
+- **Source** — whether this draws from repo content, reference digests, or both.
 
 ### 2. Discovered tie-ins (optional)
 
@@ -68,15 +67,14 @@ Format link additions the same way existing links are formatted in the repo (rel
 ## Procedure
 
 1. Read `.agents/AGENTS.md`.
-2. Read all campaign session logs (`campaigns/`) in chronological order (by `nav_order`).
-3. Read all directory entries (`directory/`).
-4. Read reference PDFs — focus on the UVG 2E core for locations, factions, and creatures the campaign might encounter next based on caravan trajectory.
+2. Inspect `.agents/context/catalog.json` and `.agents/context/decisions.md`.
+3. Check recent session logs (`campaigns/UVG24XX/`) using line ranges for recent developments.
+4. Consult Tier 3 digests in `charged/_digests/` for locations, factions, and creatures matching the caravan's trajectory.
 5. Build a mental map of:
-   - Active PCs, their hooks, and unresolved situations.
-   - Locations visited vs. locations that exist in the directory but haven't appeared in session logs.
-   - Hooks declared in front matter that remain open.
-   - NPCs with no session appearances.
-   - Lore from the PDFs that resonates with published content.
+   - Active PCs, unresolved situations, and debt contracts.
+   - Locations visited vs. locations in the directory with no session appearances.
+   - NPCs with empty `links_in` in `catalog.json`.
+   - Lore from the digests that resonates with published content.
 6. Identify the strongest thread candidates. Rank by:
    - How naturally it could emerge from the current situation (recent sessions).
    - How far back it reaches (old threads resurfacing = high value).

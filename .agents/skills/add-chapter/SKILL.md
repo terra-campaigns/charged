@@ -26,7 +26,7 @@ If the user's prompt does not supply all required details, ask clarifying questi
 Before drafting the chapter prose:
 
 1. **Identify mentioned entities**: Scan the session notes for all PCs, NPCs, factions, locations, and creatures.
-2. **Search Directory**: Use `rg` to locate the exact filenames and paths in `directory/`.
+2. **Search Directory**: Consult `.agents/context/catalog.json` (or use `rg`) to locate the exact filenames and paths in `directory/`.
 3. **Format relative links**: Ensure every entity is linked on its first significant mention using relative paths (e.g. `[Kur (Barista)](../../directory/Atles/Barista.md)`, `[The Last Serai](../../directory/LastSerai/index.md)`).
 4. **Clarify new connections**: If a new relationship between characters or factions emerges during the session, prompt the user for the specific relationship dynamic and whether to document it bidirectionally.
 
@@ -145,6 +145,7 @@ After writing the file:
    - Blank lines immediately following every Markdown heading.
 2. Verify that all internal links resolve to existing files on disk.
 3. Confirm the sequential episode numbering and chronological date.
-4. Run `bundle exec jekyll build` to ensure the site compiles cleanly.
-5. Leave the created file unstaged in git for user review.
+4. Refresh the Tier 1 catalogue: `ruby --disable-gems _plugins/data_extractor.rb`.
+5. Run `bundle exec jekyll build` to ensure the site compiles cleanly.
+6. Leave the created file unstaged in git for user review.
 
