@@ -68,6 +68,7 @@ images:
 > - Do **not** include the `hooks:` field. It has been discontinued.
 > - `type:` must always be `people`.
 > - `parent:` must exactly match the parent page's front matter `title`.
+> - `status:` is reserved strictly for short symbols (such as `†` for deceased or a symbol when missing). Never put descriptive text or conditions here, as Jekyll prepends `status` directly to the character's name in galleries and headers. Document injuries and conditions in the markdown body instead.
 
 ### Scaffolding & Campaign Backlink
 

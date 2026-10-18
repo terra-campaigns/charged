@@ -8,7 +8,7 @@ has_toc: false
 parent: Atles' Catlord Caravan
 title: Pilixa Navins Akolight
 role: Redland bourgeoise mendicant healer
-status: Paraplegic
+status: 
 footer_content: 
 
 images: 

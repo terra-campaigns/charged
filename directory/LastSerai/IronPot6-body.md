@@ -8,7 +8,7 @@ has_toc: false
 parent: The Last Serai (8)
 title: Iron Pot 6-body
 role: 6-body Porcelain Prince
-status: 1 body remaining
+status: 
 footer_content: 
 
 images: 
