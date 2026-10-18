@@ -23,6 +23,7 @@ If the user's initial prompt does not supply all necessary details, ask clarifyi
    - This determines the relative backlink placed inside the `{% comment %}` block so that Jekyll's data extractor links the character to that campaign.
 6. **Key Details**:
    - **For PCs**: Background roll answers (Why are you on the road? Signature item? Machine interface or odd family connection? Disaster survived? Affinity pet?) and their debt contract (€ amount and creditor).
+     - *Ignore* game abilities, inventory, and starting caravan data if supplied.
    - **For NPCs**: Motivation, strange technology, soft body horror, debts/patrons, and relationships with existing characters or factions.
 
 ## 2. Canon & Collision Check
@@ -84,16 +85,23 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 ### For Player Characters (PCs)
 
-Format background traits in bold question-and-answer pairs, followed by a debt contract:
+Format background traits in bold question-and-answer pairs, separated by actual empty Markdown lines, followed by a debt contract:
 
 ```markdown
-**Why are you on the road?** [Evocative reason, portents, or prophecy].  
-**What is your signature item?** [Weird relic, odd machine, or chitinous oddity].  
-**[Background Trait / Machine Interface / Star Sign / Family Connexion]:** [Detail].  
-**What disaster have you survived?** [Historical war, pacification, or vomish outbreak].  
+**Why are you on the road?** [Evocative reason, portents, or prophecy].
+
+**What is your signature item?** [Weird relic, odd machine, or chitinous oddity].
+
+**[Background Trait / Machine Interface / Star Sign / Family Connexion]:** [Detail].
+
+**What disaster have you survived?** [Historical war, pacification, or vomish outbreak].
 
 You have to repay € [Amount] to [Creditor / Patron] by the end of the caravan season.
 ```
+
+> [!IMPORTANT]
+> - **Always leave an empty blank line** between each prompt item; otherwise, Markdown parser will collapse consecutive lines into a single sentence on the rendered HTML page.
+> - **Ignore abilities, inventory, and starting caravan** data when ingesting PCs. Do not include stat blocks, dice pools, rations, or mount lists.
 
 ### For Non-Player Characters (NPCs)
 
