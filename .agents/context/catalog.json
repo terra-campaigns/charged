@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T21:17:45+02:00",
+  "generated": "2026-10-19T00:52:45+02:00",
   "tier": 1,
   "total_entries": 99,
   "entries": [
@@ -324,7 +324,7 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W16",
+      "lastmod": "2026-W42",
       "sha": "564aaa6f",
       "tier": 1
     },
@@ -448,7 +448,7 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W21",
+      "lastmod": "2026-W42",
       "sha": "7f9bd181",
       "tier": 1
     },
@@ -589,7 +589,7 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W16",
+      "lastmod": "2026-W42",
       "sha": "a52df30d",
       "tier": 1
     },
@@ -695,7 +695,7 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W26",
+      "lastmod": "2026-W42",
       "sha": "1acb61dd",
       "tier": 1
     },
@@ -798,7 +798,7 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W16",
+      "lastmod": "2026-W42",
       "sha": "8a164df4",
       "tier": 1
     },
@@ -1768,7 +1768,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:18 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:19 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -1812,7 +1812,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "8dc723a3",
+      "sha": "76594cec",
       "tier": 1
     },
     {
