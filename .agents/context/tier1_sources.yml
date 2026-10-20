@@ -4,6 +4,7 @@
 
 include_paths:
   - campaigns/UVG24XX
+  - campaigns/UVG-solo
   - directory/Atles
   - directory/Caravan1
   - directory/FallenUmber

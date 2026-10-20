@@ -8,7 +8,7 @@ nav_order: 40
 
 # Ultraviolet Grasslands Commerce & Trade
 
-Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:19 of yesterday.
+Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:20 of yesterday.
 
 ## Trade Goods Summary
 
