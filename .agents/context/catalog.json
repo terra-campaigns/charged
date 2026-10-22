@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T00:00:13+02:00",
+  "generated": "2026-10-22T19:32:56+02:00",
   "tier": 1,
-  "total_entries": 101,
+  "total_entries": 102,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -154,6 +154,7 @@
         "campaigns/UVG24XX/ep_009.md",
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/ep_012.md",
         "directory/LastSerai/Angel22-unity.md"
       ],
       "lastmod": "2026-W26",
@@ -175,7 +176,8 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_009.md",
-        "campaigns/UVG24XX/ep_011.md"
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/ep_012.md"
       ],
       "lastmod": "2026-W26",
       "sha": "29a8e2aa",
@@ -651,6 +653,7 @@
         "campaigns/UVG24XX/ep_009.md",
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/ep_012.md",
         "directory/Atles/Kalis.md",
         "directory/Atles/Pilixa.md",
         "directory/Atles/Settler.md",
@@ -2170,6 +2173,7 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_012.md",
         "directory/LastSerai/IronPot6-body.md"
       ],
       "lastmod": "2026-W28",
@@ -2312,7 +2316,8 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
-        "campaigns/UVG24XX/ep_011.md"
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/ep_012.md"
       ],
       "lastmod": "2026-W42",
       "sha": "70276638",
@@ -2538,7 +2543,8 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_009.md",
-        "campaigns/UVG24XX/ep_011.md"
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/ep_012.md"
       ],
       "lastmod": "2026-W42",
       "sha": "6b2cdefe",
@@ -2585,6 +2591,7 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/ep_012.md",
         "directory/Atles/Barista.md",
         "directory/Atles/Kalis.md"
       ],
@@ -2631,6 +2638,7 @@
       "links_in": [
         "campaigns/UVG24XX/ep_008.md",
         "campaigns/UVG24XX/ep_010.md",
+        "campaigns/UVG24XX/ep_012.md",
         "directory/Atles/Minuit.md"
       ],
       "lastmod": "2026-W21",
@@ -2753,7 +2761,9 @@
         "directory/LastSerai/index.md",
         "directory/PorcelainCitadel/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "campaigns/UVG24XX/ep_012.md"
+      ],
       "lastmod": "2026-W28",
       "sha": "949f4ef1",
       "tier": 1
@@ -3005,6 +3015,33 @@
       ],
       "lastmod": "2026-W26",
       "sha": "96474bcc",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/UVG24XX/ep_012.md",
+      "title": "Prep: Ep 012 — In the Last Serai",
+      "type": "session_prep",
+      "parent": "UVG+24XX",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "**Date**: 26 August 3025 **Location**: [The Last Serai (8)](../../directory/LastSerai/index.md) **Campsite Conditions**: Lingering electrostatic charge, abrasive porcelain grit, ozone stench, unsettled wind.",
+      "links_out": [
+        "campaigns/UVG24XX/ep_010.md",
+        "directory/Atles/Pilixa.md",
+        "directory/Atles/Settler.md",
+        "directory/Atles/TamHR.md",
+        "directory/FoldedBelow/PitOfMould.md",
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/IgnoredTower.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/LastSerai/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "119e2482",
       "tier": 1
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-10-22T12:34:31+02:00",
+  "generated": "2026-10-22T12:51:51+02:00",
   "tier": 3,
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
-  "total_sources": 10,
+  "total_sources": 11,
   "sources": [
     {
       "slug": "uvg_2e_core",
@@ -271,6 +271,47 @@
           "level": 2,
           "heading": "Practical Campaign Adaptation Toolkit",
           "line": 59
+        }
+      ]
+    },
+    {
+      "slug": "electric_bastionland",
+      "title": "Electric Bastionland",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Electric_Bastionland_v2.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/electric_bastionland.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "System Engine & Core Procedures",
+          "line": 23
+        },
+        {
+          "level": 2,
+          "heading": "The 100 Failed Careers & Debt Economy",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "The Odd World: Bastion, Deep Country & The Underground",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Living Machines, Mockeries & Aliens",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "The Conductor's Toolkit & ICI Doctrine",
+          "line": 72
         }
       ]
     }

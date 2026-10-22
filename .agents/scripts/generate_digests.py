@@ -468,6 +468,93 @@ DIGESTS_DATA = {
   - *The Composite Diarist Voice*: Self-interrupting journals with slipping pronouns and suppressed traumatic memories.
 """,
     },
+    "electric_bastionland": {
+        "title": "Electric Bastionland",
+        "source_pdf": "cores/Electric_Bastionland_v2.pdf",
+        "category": "core_setting",
+        "content": """# Electric Bastionland — Reference Digest
+
+> [!NOTE]
+> Tier 3 Canon (Influence & Reference Only). Source: `cores/Electric_Bastionland_v2.pdf`. Nothing here is automatic Charged campaign canon unless formally adopted in Tier 1 notes or Tier 2 rulings.
+
+## Contents & Page Map
+
+- **Characters & Rules of Play** [pp. 6–11]: Three core ability scores (STR, DEX, CHA), Hit Protection (HP), d20 roll-under saves, direct damage combat, critical damage, and the £10,000 group debt.
+- **Equipment & Weapons Catalogue** [pp. 12–16]: Crude, Hand, Field, Noble, and Power Weapons; armour ratings, explosives, field gear, poisons, and real estate costs.
+- **The 100 Failed Careers** [pp. 17–236]: Complete d100 / highest-vs-lowest ability matrix assigning tragic pre-expedition professions, starting oddities, and predatory debt patrons.
+- **The Conductor's Guide** [pp. 237–248]: Expedition preparation, conducting the table, the ICI Doctrine (Information, Choice, Impact), decisive combat ethos, and dilemma traps.
+- **The Odd World of Bastionland** [pp. 249–290]:
+  - *Bastion* [pp. 249–258]: The electric metropolis, borough generators, civic spark tables, street hazards, transit networks, and nightlife.
+  - *Deep Country* [pp. 259–268]: Timeless rural hinterlands, stagnant manors, route hazards, route discovery, and forgotten hamlets.
+  - *The Underground* [pp. 269–281]: Labyrinthine subterranean tunnels, living machines, pipe conduits, and darkness encounters.
+  - *Mockeries* [pp. 282–283]: Sentient felt, wood, and string puppets possessing trivial mock-talents and mimicry instincts.
+  - *Living Machines* [pp. 284–285]: Autonomous industrial consciousnesses managing, maintaining, and altering subterranean reality.
+  - *Aliens* [pp. 286–287]: Visitors from beneath the living stars with incomprehensible motives, cosmic relics, and odd arts.
+  - *Monstrosities* [pp. 288–290]: Bio-mechanical abominations, man-monsters, and urban terrors.
+- **The Oddendum** [pp. 291–331]: Advanced commentary, foreground growth, dilemma design, secret unions, war-angels, alien martial arts, and urban spark procedures.
+- **Rules Summary** [p. 333]: One-page reference for ability saves, attack damage, and recovery.
+
+## System Engine & Core Procedures
+
+- **Ability Scores & Saves** [pp. 6, 8]:
+  - *Strength (STR)*: Power, physical resilience, and bodily stamina.
+  - *Dexterity (DEX)*: Speed, stealth, reflexes, and precision.
+  - *Charisma (CHA)*: Force of personality, charm, leadership, and mental resolve.
+  - *The Save*: Roll d20 equal to or under the appropriate score to avoid danger. Rolling a 1 is always a critical success; rolling a 20 is always a catastrophic failure.
+- **Hit Protection & Decisive Combat** [pp. 8–9]:
+  - *No Attack Rolls*: Attacks hit automatically. Attackers roll their weapon damage die (e.g. d6, d8) minus the target's Armour rating (1 to 3), subtracting the remainder from Hit Protection (HP).
+  - *Critical Damage*: When damage exhausts HP, remaining damage is deducted directly from STR. The victim must immediately pass a STR save or suffer Critical Damage (incapacitated and dying within an hour without medical intervention).
+  - *Ability Loss & Death*: Reducing STR to 0 results in death. Reducing DEX to 0 immobilises the character. Reducing CHA to 0 renders the character catatonic.
+- **The Group Debt Structure** [pp. 6, 8]:
+  - The entire party begins bound by a shared £10,000 debt contract owed to a predatory financier or patron determined by the youngest player's failed career.
+  - Replaces arbitrary level advancement with the constant economic urgency of servicing usurious debt instalments, directly mirroring the merchant pressures of the Ultraviolet Grasslands.
+
+## The 100 Failed Careers & Debt Economy
+
+- **The Career Matrix** [pp. 7, 9]:
+  - Characters discover their background by cross-referencing their highest and lowest ability scores on a grid, or by rolling d100.
+  - Every career provides specific starting oddities, specialised tools, weapons, and a designated debt holder who holds the contract on the party.
+- **Representative Archetypes**:
+  - *Gutter Minder* [p. 20]: Scraping the city's underbelly; debt owed to Associated Reanimators.
+  - *Academic Clerk* [p. 22]: Squinting over antique archives; debt owed to the Grand Registry.
+  - *Trench Veteran* [p. 24]: Survivor of horrific industrial siege warfare carrying unexploded ordnance.
+  - *Bounty Hunter & Guttersnipe* [pp. 26–30]: Hard-boiled urban scavengers armed with legal loopholes and cudgels.
+  - *Censor's Clerk* [p. 236]: Former bureaucratic official carrying redaction shears and confiscated propaganda.
+- **Debtor Hooks & Social Stigmas**:
+  - Each career provides immediate complications (e.g. chemical reanimation stench, cybernetic implants, legal warrants, or uncanny animal empathy) that serve as ready-made GM hooks.
+
+## The Odd World: Bastion, Deep Country & The Underground
+
+- **Bastion (The Electric Hub)** [pp. 249–258]:
+  - The only city that matters: an infinite, smoke-choked, electrically humming metropolis dominated by competing borough councils, steam trams, pneumatic tube messaging, and impossible skyscrapers.
+  - *Borough Generator*: Roll 2d20 to combine socio-economic flavour (e.g. High Society, Slums, Industrial Foundry, Bureaucratic Labyrinth) with distinctive architectural oddities.
+- **Deep Country (The Stagnant Hinterland)** [pp. 259–268]:
+  - The infinite rural expanse stretching beyond Bastion's railway lines where progress slows to a crawl, forgotten aristocrats decay in mouldering manors, and time behaves erratically.
+  - *Hinterland Hazards*: Stagnant mists, derailed trains, superstitious mob rule, and timeless hamlets.
+- **The Underground (The Subterranean Labyrinth)** [pp. 269–281]:
+  - Vast multi-layered tunnels beneath Bastion's pavements where forgotten infrastructure, living machinery, sewage rivers, and alien excavations undermine the reality of the streets above.
+
+## Living Machines, Mockeries & Aliens
+
+- **Living Machines** [pp. 284–285]:
+  - Sentient, industrial automatons embedded in Bastion's infrastructure. They do not obey human logic; they pursue systemic equilibrium, issue enigmatic demands, and treat citizens as biological components.
+- **Mockeries** [pp. 282–283]:
+  - Animate, living caricatures formed from felt, cloth, wood, porcelain, and taxidermy. Possess uncanny mock-talents (trivial abilities executed with perfection) and child-like malice.
+- **Aliens & Monstrosities** [pp. 286–290]:
+  - Visitors and stowaways from beneath the Living Stars, possessing strange geometry, psychic arts, and trans-dimensional physiology.
+
+## The Conductor's Toolkit & ICI Doctrine
+
+- **The ICI Doctrine (Information, Choice, Impact)** [pp. 242–244, 297]:
+  - *Information*: Always supply full, unvarnished sensory detail. Never hide essential danger behind perception rolls.
+  - *Choice*: Present players with clear, meaningful dilemmas where every option carries tangible trade-offs.
+  - *Impact*: Ensure player decisions produce decisive, irreversible consequences that reshape the fiction immediately.
+- **Dilemma Traps & Hazard Design** [pp. 244, 304]:
+  - Traps should be visible and obvious; the puzzle lies in how to bypass, disarm, or endure them with available gear rather than avoiding a hidden trigger.
+- **Foreground Growth** [p. 300]:
+  - Character progression arises through scar tissue, acquired relics, debts paid, strange companions, and cybernetic alterations rather than abstract numerical stat increases.
+""",
+    },
 }
 
 

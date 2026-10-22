@@ -37,6 +37,7 @@ Priority:
 2. `2400_xot.md` & `2400_exiles.md` — system layer, salvage, mechanics.
 3. `sdm_eternal_return_key.md` — mechanical flavour, death, fantascience.
 4. `the_alluring_trophy_gold.md` & `metamorphica_revised.md` — coastal incursions, mutations.
+5. `electric_bastionland.md` — urban boroughs, failed careers, living machines, dilemma traps.
 
 Read the digest summaries to understand the broader lore landscape (locations the caravan hasn't reached yet, factions not yet encountered, creatures and phenomena that could surface). Only inspect raw PDFs if exact table text or art is needed.
 
