@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T20:41:25+02:00",
+  "generated": "2026-10-22T12:34:31+02:00",
   "tier": 3,
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
   "total_sources": 10,
@@ -32,6 +32,31 @@
           "level": 2,
           "heading": "Procedures & Rules Reference",
           "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Bestiary & Grassland Lifeforms",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "100 Strange Relics & Oldtech Artefacts",
+          "line": 71
+        },
+        {
+          "level": 2,
+          "heading": "Travel Hazards & Misfortune Tables",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Financiers, Debts & Loan Contracts",
+          "line": 113
+        },
+        {
+          "level": 2,
+          "heading": "Biomagical Corruption & Radiation Effects",
+          "line": 124
         }
       ]
     },
@@ -74,6 +99,11 @@
           "level": 2,
           "heading": "Key Mechanics Reference",
           "line": 13
+        },
+        {
+          "level": 2,
+          "heading": "Xenotech Salvage & Alien Artefacts",
+          "line": 19
         }
       ]
     },
@@ -90,6 +120,16 @@
           "level": 2,
           "heading": "Contents & Page Map",
           "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Overland Transport & Survival Rules",
+          "line": 13
+        },
+        {
+          "level": 2,
+          "heading": "Wasteland Encounters & Hazard Prompts",
+          "line": 19
         }
       ]
     },
@@ -111,6 +151,16 @@
           "level": 2,
           "heading": "Mechanical Summary",
           "line": 12
+        },
+        {
+          "level": 2,
+          "heading": "Oldtech & Fantascience Powers Engine",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "Metaphysics of Death & Ghosthood",
+          "line": 27
         }
       ]
     },
@@ -143,6 +193,16 @@
           "level": 2,
           "heading": "Contents & Page Map",
           "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Mutation Generation Engine",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "The Ficto-Technica Generator",
+          "line": 30
         }
       ]
     },

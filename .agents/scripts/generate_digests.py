@@ -88,10 +88,90 @@ DIGESTS_DATA = {
 ## Procedures & Rules Reference
 
 - **Time, Inventory & Sacks** [pp. 174–177]: Core encumbrance units; tracking days of water, food, and petrol per human and beast.
-- **Misfortune & Encounter Tables** [pp. 177–179]: Daily travel hazards, mechanical breakdowns, navigation errors, and sudden storms.
 - **Trade, Goods & Price Discovery** [pp. 180–183]: Buying low in the east, enduring the road, and selling high in western settlements.
-- **Biomagical Corruption Tables** [p. 208]: Mutation tables for exposure to radiation, strange spells, and biomechanical contamination.
 - **Death & Ghosthood** [pp. 238–239]: Rules for characters perishing, wandering as disembodied ghosts, or being entombed in synthetic hulls.
+
+## Bestiary & Grassland Lifeforms
+
+- **Autofacs** [p. 210]: Boxy fusion of machine and flesh with front ingesters and rear commodipositors. Leaking menaces spewing fumes, producing random oddities, and shedding self-recreation infection spores when destroyed (€10,000 if reprogrammed docile).
+- **Cat Lords** [p. 211]: Telepathic and hypnotic sentient felines dominating the Violet City through doting human servants, opulent cushions, and bureaucratic sneers.
+- **Fetishes & Golems** [pp. 212–213]: Wicker, bone, porcelain, and metal automatons animated by bound machine-spirits, blood sacrifices, or wizard pacts. Porcelain variants serve as delicate bodyguards for the immortal aristocracy.
+- **Great Folk** [p. 214]: Towering sub-species descended from behemoth maintenance crews; massive physical endurance and slow, deliberate speech.
+- **Marmotfolk** [p. 215]: Burrowing subterranean engineers dwelling in the petrified planetary machinery of the Ribs of the Father; wary traders of ancient components.
+- **Polybody Collectives** [p. 216]: Multi-bodied hive individuals operating 2d6 bio-synthetic hulls through a single distributed sensorium.
+- **Porcelain Princes & Post-Mortals** [p. 217]: Immortal biomantic oligarchs encased in white kaolin shells; bankroll expeditions with usurious debt contracts and harvest biological tithes.
+- **Pugs & Werepugs** [p. 217]: Bred companion dogs capable of grotesque, comedic, or terrifying transformations under chromatic light.
+- **Quarterlings** [p. 218]: Diminutive nomadic pedlars, tinkerers, and caravan outriders with disputed origins among ancient human lineages.
+- **Spectrum Satraps** [p. 219]: Radiant, translucent aristocracy inhabiting chromatic palaces; wield focused light weaponry and laser illusions.
+- **Steppelanders & Lime Nomads** [p. 220]: Transhumant herders chewing psychoactive lime powders to anchor their minds against grassland temporal distortions.
+- **Ultras** [p. 221]: Ancient bodiless entities and spiritual intelligences possessing flesh bodies, machine chassis, or roadside statues.
+- **Vechs & Machine-Beasts** [p. 222]: Autonomous living vehicles, fossil-fuel constructs, and bio-mechanical draft engines requiring oil, grass, or blood to run.
+- **Vome Hiveminds** [p. 223]: Grotesque self-replicating mechanoid bio-viruses fusing flesh, cables, and chitin into autonomous predatory sentinels and signal towers.
+- **Water People (Cold Vomes)** [p. 224]: Sub-aquatic synthetic humanoids inhabiting the limpid depths of Three Sticks Lake; communicate via light pulses.
+- **Companion Beasts & Pets** [pp. 224–225]: Biomechanical hummingbirds, porcelain lizards, psychic hunting hounds, and miniature coffee-drinking baboons.
+
+## 100 Strange Relics & Oldtech Artefacts
+
+- **Psionic & Memetic Artefacts** [pp. 203–204]:
+  - *Memetic Face-Stealing Mask* (€7): Velvet and silver mesh that imprints and projects another's facial features.
+  - *Clockwork Brain Adjustment Worm* (€5): Brass neural crawler that alleviates psychological trauma at the expense of memories.
+  - *Porcelain Eye Full of Poems* (€5): Kaolin ocular implant that whispers archaic verse when exposed to starlight.
+  - *Fossil Skull with Blue God Iconographs* (€5): Radiates faint temporal chill; repels lesser predatory machines.
+- **Optic & Chromatic Devices** [pp. 203–204]:
+  - *Chroma Flashlight* (€10): Solar-charged lantern emitting ultraviolet and infrared spectrum beams.
+  - *Light-Focusing Crystal Assembly* (€35): Prismatic lens array capable of igniting dryland coral or decoding laser broadcasts.
+  - *Black Mirror of the Ancients* (€1): Obsidian screen showing distorted reflections of nearby electromagnetic fields.
+- **Medical & Biomantic Relics** [pp. 203–204]:
+  - *Ruby Scalpel* (€10): Monomolecular surgical blade capable of slicing synthetic hide without bleeding.
+  - *RLD Recording Pigeon* (€10): Mechanical avian with photographic memory lenses in its eye sockets.
+  - *Hypodermic Pen* (€10): Concealed injector for rapid stim delivery or toxin extraction.
+  - *Synthetic Skin Backpack* (€20): Self-repairing organic membrane luggage; repels moisture and radiation.
+- **Horological & Navigation Tools** [pp. 203–204]:
+  - *Ceramic Wristwatch with Silver Bands* (€10): Clockwork timepiece that ticks backwards near vomish signal towers.
+  - *Woodlander Water-Finding Cane* (€3): Flexible dowsing rod responding to underground aquifers and coolant conduits.
+  - *Collapsible Fishing Rod of the Half-There Isles* (€13): Ultra-light carbon-filament tackle for catching phantom lake-spawn.
+- **Luxuries & Stimulants** [pp. 203–204]:
+  - *Samovar of Fortified Cat Coffee* (€7): Brass pressure boiler brewing high-potency stimulant infusions.
+  - *Tar Candle with Emerald Flame* (€5): Burns petrochemical fumes that deter nocturnal grassland leeches.
+
+## Travel Hazards & Misfortune Tables
+
+- **The Luck of the Road (d20 Misfortune Table)** [pp. 176–177]:
+  - *1: Horribly Lost*: Navigation system failure or sensory mirage (-1 week).
+  - *2: Wasteland Rot*: Virulent biological fever (-3 ability points until cured).
+  - *3: Drought & Fodder Failure*: Pasture dried to toxic dust; requires 1 sack of supplies per beast or starvation sets in.
+  - *4: Vicious Food Poisoning*: Tainted rations or bad water (-1d6 Life, debilitating stomach cramps).
+  - *5: Flash Flood*: Toxic deluge obliterates trail infrastructure (-1d4 days travel).
+  - *6: Dryland Cough*: Persistent hacking cough attracting predators; requires specialized medimagicals.
+  - *7: Dust Tempest*: Fierce grit storm tears loose equipment and scouring documents (-1 item).
+  - *8: Weevil & Dust-Rat Infestation*: Storage sacks breached (-1 sack food supplies).
+  - *9: Stray Draft Animal*: Beast wanders into the night (-1 animal or spend 1 day tracking).
+  - *10–11: Mechanical Fatigue*: Axle fracture, tread tear, or boiler leak (inoperable until repaired in town).
+  - *12: Bleak Monotony*: Exhausting dust march; caravan morale wavers.
+  - *13: Risky Salvage Gamble*: Sighting roadside wreckage; spend 1d6 Life on a hazardous check to extract 1d4 supplies.
+  - *14–19: Arduous March*: Rough road, but skilled packing and vigilance avoid serious loss.
+  - *20: Road Fortune*: Abandoned cache, benevolent hermit, or clear weather (+1d4 supplies or shortcut).
+
+## Financiers, Debts & Loan Contracts
+
+- **Financier Syndicates** [pp. 183–184]:
+  - *The Porcelain Bank of the Violet City*: Demands 20–30% monthly compound interest; loans secured against biological collateral, retinas, or post-mortal servitude.
+  - *The Red Council Merchant Combine*: Offers commercial backing in exchange for exclusive trade rights, carrying illicit parcels, and political espionage.
+  - *The Cat Lord Factorage*: Erratic feline financiers requiring extravagant tributes of luxury goods, silk cushions, and complete legal immunity for their agents.
+- **Caravan Quests (Milk Runs)** [p. 185]:
+  - Speculative cargo runs transporting unstable vidy-crystals across temperature-sensitive zones.
+  - Recovery of overdue collateral from derelict caravans stranded in the Potsherd Crater or Fallen Umber.
+  - Escorting cloistered porcelain scions on pilgrimage to ancient western computational shrines.
+
+## Biomagical Corruption & Radiation Effects
+
+- **Exposure Vectors** [pp. 207–208]: Exposure to raw oldtech engines, vomish bio-signal transmitters, psychotropic gall grass, and deep wilderness ruins.
+- **Signature Mutations & Deformities**:
+  - *Kaolin Encrustation*: Skin hardens into brittle, gleaming white porcelain patches.
+  - *Compound Facet Eyes*: Irises divide into multi-spectrum lenses sensitive to polarized light.
+  - *Synthetic Organ Shift*: Second liver begins converting metabolic waste into combustible motor alcohol.
+  - *Radio Resonance*: Character's dental work or vocal cords intermittently broadcast ancient emergency transmissions.
+  - *Silk Desquamation*: Epidermis sloughs off periodically in sheets resembling dyed and printed fabric.
 """,
     },
     "uvg_player_guide": {
@@ -137,6 +217,15 @@ DIGESTS_DATA = {
 - **Skill Progression** [p. 1]: Untrained is d6; trained steps up to d8, d10, or d12.
 - **Hindered / Favoured Rolls** [p. 2]: Rolling with disadvantage (step down die) or advantage (step up die or add d6).
 - **Damage & Injury** [p. 2]: Severe damage breaks gear, inflicts lingering injuries, or takes a character out of action.
+
+## Xenotech Salvage & Alien Artefacts
+
+- **d20 Salvage Prompts** [p. 3]:
+  - *Phase-Shift Needle*: Bypasses non-organic barriers; dangerous feedback on metal armour.
+  - *Memory Prism*: Replays sensory experiences of extinct civilizations; addictive psionic haze.
+  - *Null-Gravity Canister*: Negates encumbrance of 5 sacks when activated; battery life 1d6 hours.
+  - *Bio-Coagulant Mist*: Instantly seals severe wounds with hardened amber resin.
+  - *Thermal Leech Rod*: Absorbs nearby heat sources, creating instant frost pockets.
 """,
     },
     "2400_exiles": {
@@ -154,6 +243,16 @@ DIGESTS_DATA = {
 - **Survival Rules** [p. 2]: Exposure, environmental hazards, rations, makeshift shelter, and vehicle maintenance.
 - **Vehicles & Mounts** [p. 3]: Rugged transport specs, overland speed, fuel consumption, and cargo capacities.
 - **Frontier Encounters** [p. 4]: Wasteland patrol encounters, abandoned checkpoints, scavengers, and environmental disasters.
+
+## Overland Transport & Survival Rules
+
+- **Vehicle Systems** [p. 3]:
+  - *Wasteland Rigs*: Sand-skiffs, six-wheel haulers, tracked crawlers; track speed modifier (d/wk) against terrain.
+  - *Fuel & Maintenance*: 1 fuel unit per week of travel; breakdown hazards on rough mountain or toxic swamp passes.
+
+## Wasteland Encounters & Hazard Prompts
+
+- **Frontier Hazards** [p. 4]: Abandoned military cordons, autonomous surveyor drones, radioactive dust devils, and rogue scavenger clans.
 """,
     },
     "sdm_eternal_return_key": {
@@ -179,6 +278,19 @@ DIGESTS_DATA = {
 - **Damage, Defeat & Morale** [pp. 21–24]: Non-lethal versus lethal consequences, retreat thresholds for monsters, and lingering trauma.
 - **Powers: Oldtech & Fantascience** [p. 18]: Metaphysics of manipulating reality, ancient power cells, and machine incantations.
 - **Rest & Recovery** [p. 20]: Short breathers versus long campsite rests.
+
+## Oldtech & Fantascience Powers Engine
+
+- **Fantascience Incantations** [p. 18]:
+  - Manipulating physical reality through residual Long-Long-Ago machine protocols; powered by chemical batteries or bio-electric sacrifice.
+  - Risks of machine-spirit backlash and systemic burnout.
+
+## Metaphysics of Death & Ghosthood
+
+- **Surviving Demise** [pp. 21–24, 29]:
+  - Physical death releases the traveller's vital anima into the grassland ether.
+  - Ghosts can haunt their previous possessions, anchor themselves to companions, or be transplanted into synthetic or porcelain host bodies.
+  - Hero dice can be burned at the moment of defeat to convert lethal destruction into a lingering physical or social complication.
 """,
     },
     "the_alluring_trophy_gold": {
@@ -227,6 +339,23 @@ DIGESTS_DATA = {
 - **After the Fall (Post-Apocalyptic Mutants)** [pp. 157–180]: Beastlings, uplifted species, and plant societies.
 - **The Ficto-Technica** [pp. 181–220]: Random generator tables for weird science gadgets, ancient artefacts, prefixes, and effects.
 - **Swords of the Chaos Lords** [pp. 231–257]: Infernal manifestations, corruption tables, and demonic summoning mishaps.
+
+## Mutation Generation Engine
+
+- **Categorical Roll Structure** [pp. 7–18]:
+  - *Body Form* [p. 8]: Exoskeletons, chitinous plating, elongated prehensile limbs, digitigrade claws, dorsal cooling vents, cranial crests.
+  - *Body Functions* [p. 10]: Thermal infrared vision, electromagnetic pulse discharge, radiation metabolism, acidic or venomous secretions.
+  - *Mind & Behaviour* [p. 12]: Compulsive collecting of copper circuitry, severe chronophobia, nocturnal wakefulness, echolalia.
+  - *Mind Cognition & Psionics* [pp. 13–14]: Telekinetic micro-twitches, passive surface empathy, language comprehension vertigo, precognitive migraines.
+  - *Supernatural & Planar Bleed* [p. 15]: Bioluminescent auras, shadows detaching in sunlight, static electrical discharge upon touch.
+
+## The Ficto-Technica Generator
+
+- **Random Weird Science Engine** [pp. 181–220]:
+  - *Prefix Table*: Chrono-, Vomo-, Bio-, Kaolino-, Siphon-, Phono-, Astra-, Pyro-, Necro-, Mechano-.
+  - *Core Component*: Prism, Coil, Resonator, Membrane, Piston, Needle, Reliquary, Valve, Filament, Gyroscope.
+  - *Output Effect*: Gravitic dampening, psychic broadcasting, organic hardening, combustion suppression, cellular regeneration.
+  - *Operational Glitch*: Emits loud operatic static, discharges ozone, requires daily lubrication with mammalian blood, leaks radioactive dye.
 """,
     },
     "uvg_maps": {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T00:28:01+02:00",
+  "generated": "2026-10-22T00:00:13+02:00",
   "tier": 1,
   "total_entries": 101,
   "entries": [
@@ -1770,7 +1770,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:20 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:22 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -1814,7 +1814,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "2ddb5da9",
+      "sha": "c829c8b3",
       "tier": 1
     },
     {
@@ -1831,7 +1831,7 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W40",
+      "lastmod": "2026-W42",
       "sha": "4d1e9c82",
       "tier": 1
     },
@@ -1849,7 +1849,7 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W40",
+      "lastmod": "2026-W42",
       "sha": "a1a272d7",
       "tier": 1
     },
