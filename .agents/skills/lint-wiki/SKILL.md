@@ -127,7 +127,7 @@ Generated: [date]
 ## Unused Images
 - `imgs/unused-image.png`
 
-## Open Hooks
+## Deprecated Hooks
 | Declared in | Hook text |
 |---|---|
 | ... | ... |
