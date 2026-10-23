@@ -118,6 +118,17 @@ Default metaphysics: the world is far after many old worlds and still full of ma
 - Campaign Hub Page: `[index](../../directory/Atles/index.md)`
 - Character Archetypes / Vocations: Redland bourgeoise mendicant healer, Wildfolk cult bio-mechanic, Financier from Banco de Aventuras, Caravaner, Porcelain agent.
 - Session Prep Mode: Caravan Expedition / Overland Trail / Trade Skews
+- VTT & Spatial Records: [Ultraviolet Grasslands Owlbear Rodeo map](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
+- Session Prep Sourcebook Tables:
+  - Hazards (Step 3): `uvg_2e_core.md` (*Luck of the Road* d20 table) + 24XX mechanics.
+  - Encounters (Step 4): Small Tables framework + *The Metamorphica (Revised)* (`*After The Fall*` mutants, pp. 157–180).
+  - Artefacts (Step 5): UVG relic tables + *The Metamorphica (Revised)* (`*Ficto-Technica*` generator, pp. 181–220) + Gene Wolfe four-phase naming protocol.
+- PC Background Questions (add-character):
+  1. `**Why are you on the road?**`
+  2. `**What is your signature item?**`
+  3. `**[Background Trait / Machine Interface / Star Sign / Family Connexion]:**`
+  4. `**What disaster have you survived?**`
+  5. Debt contract: `You have to repay € [Amount] to [Creditor / Patron] by the end of the caravan season.`
 
 ## Markdown And Obsidian Conventions
 
@@ -173,7 +184,7 @@ There are no longer generated data files saved to `_data/`. The data for links, 
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
 
-When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
+When creating raw context dumps (e.g., `all-content`) for LLM ingestion in a static site:
 - **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
 - **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
 - **Do not strip HTML**: Never strip HTML tags just to make a `.txt` file human-readable. LLMs rely on those tags for structure. The `.html` extension solves both problems by rendering the tags nicely in the browser while preserving them in the source code for the LLM.
