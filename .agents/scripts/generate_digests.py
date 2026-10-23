@@ -5,7 +5,7 @@ from pathlib import Path
 
 core_script = Path(__file__).resolve().parents[3] / "oude-mechanismen" / "scripts" / "generate_digests.py"
 if not core_script.exists():
-    core_script = Path("/Users/efsa/repos/oude-mechanismen/scripts/generate_digests.py")
+    core_script = Path("/Users/efsa/Repos/oude-mechanismen/scripts/generate_digests.py")
 
 if not core_script.exists():
     print(f"Error: {core_script} not found.", file=sys.stderr)
