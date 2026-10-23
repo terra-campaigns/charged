@@ -21,10 +21,24 @@ import sys
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 TRADING_DIR = REPO_ROOT / "trading"
 CACHE_FILE = REPO_ROOT / ".agents" / "context" / "trade_sheet_cache.csv"
+
+
+def write_if_changed(path: Path, new_content: str) -> bool:
+    """Write content to path only if the file does not exist or content differs."""
+    if path.exists():
+        try:
+            if path.read_text(encoding="utf-8") == new_content:
+                return False
+        except Exception:
+            pass
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(new_content, encoding="utf-8")
+    return True
 
 SPREADSHEET_CSV_URL = (
     "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/"
@@ -169,8 +183,7 @@ def fetch_csv(use_cache: bool = False) -> list[list[str]]:
             )
             with urllib.request.urlopen(req, timeout=10) as resp:
                 content = resp.read().decode("utf-8")
-                CACHE_FILE.parent.mkdir(parents=True, exist_ok=True)
-                CACHE_FILE.write_text(content, encoding="utf-8")
+                write_if_changed(CACHE_FILE, content)
                 reader = csv.reader(io.StringIO(content))
                 return list(reader)
         except Exception as e:
@@ -370,9 +383,20 @@ def generate_item_page(item: dict) -> str:
     return "\n".join(lines)
 
 
-def generate_index_page(items: list[dict]) -> str:
-    # Format month and day (MM:DD) so it appears in-world as a timestamp (e.g. 10:18 of yesterday)
-    time_sim_str = datetime.now(timezone.utc).astimezone().strftime("%m:%d")
+def generate_index_page(
+    items: list[dict],
+    existing_content: Optional[str] = None,
+    force_new_timestamp: bool = False,
+) -> str:
+    time_sim_str = None
+    if existing_content and not force_new_timestamp:
+        m = re.search(r"caravan ledger at ([0-9]{2}:[0-9]{2}) of yesterday", existing_content)
+        if m:
+            time_sim_str = m.group(1)
+
+    if not time_sim_str:
+        time_sim_str = datetime.now(timezone.utc).astimezone().strftime("%m:%d")
+
     lines = [
         "---",
         "layout: default",
@@ -500,7 +524,8 @@ def generate_location_trade_section(st_name: str, items: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def update_location_pages(items: list[dict]) -> None:
+def update_location_pages(items: list[dict]) -> int:
+    updated_count = 0
     for loc_info in PUBLISHED_LOCATIONS:
         file_path = loc_info["file"]
         if not file_path.exists():
@@ -518,8 +543,10 @@ def update_location_pages(items: list[dict]) -> None:
 
         section_md = generate_location_trade_section(st_name, items)
         new_content = f"{base_content}\n\n{section_md}"
-        file_path.write_text(new_content, encoding="utf-8")
-        print(f"[LOCATION] Updated {file_path.relative_to(REPO_ROOT)} with trade table.")
+        if write_if_changed(file_path, new_content):
+            print(f"[LOCATION] Updated {file_path.relative_to(REPO_ROOT)} with trade table.")
+            updated_count += 1
+    return updated_count
 
 
 def main():
@@ -531,23 +558,38 @@ def main():
     rows = fetch_csv(use_cache=args.offline)
     items = parse_trade_items(rows)
 
-    # Write trading/index.md
-    index_md = generate_index_page(items)
-    (TRADING_DIR / "index.md").write_text(index_md, encoding="utf-8")
-    print(f"[INDEX] Wrote {TRADING_DIR / 'index.md'}")
+    # 1. Update trading/index.md (preserve timestamp unless trade goods or prices changed)
+    index_file = TRADING_DIR / "index.md"
+    existing_index = index_file.read_text(encoding="utf-8") if index_file.exists() else None
 
-    # Write each item note
-    written_count = 0
+    candidate_index = generate_index_page(items, existing_content=existing_index)
+    if existing_index and candidate_index == existing_index:
+        final_index_md = existing_index
+    else:
+        final_index_md = generate_index_page(items, force_new_timestamp=True)
+
+    if write_if_changed(index_file, final_index_md):
+        print(f"[INDEX] Wrote {TRADING_DIR / 'index.md'}")
+    else:
+        print(f"[INDEX] {index_file.relative_to(REPO_ROOT)} is up to date.")
+
+    # 2. Update item notes
+    updated_items = 0
     for it in items:
         page_md = generate_item_page(it)
         out_file = TRADING_DIR / f"{it['slug']}.md"
-        out_file.write_text(page_md, encoding="utf-8")
-        written_count += 1
+        if write_if_changed(out_file, page_md):
+            updated_items += 1
 
-    print(f"[ITEMS] Synchronized {written_count} trade items into {TRADING_DIR.relative_to(REPO_ROOT)}/")
+    if updated_items > 0:
+        print(f"[ITEMS] Synchronised {updated_items} updated trade items into {TRADING_DIR.relative_to(REPO_ROOT)}/")
+    else:
+        print(f"[ITEMS] All {len(items)} trade items in {TRADING_DIR.relative_to(REPO_ROOT)}/ are up to date.")
 
-    # Update published location pages
-    update_location_pages(items)
+    # 3. Update published location pages
+    updated_locations = update_location_pages(items)
+    if updated_locations == 0:
+        print("[LOCATION] All published location trade tables are up to date.")
 
 
 if __name__ == "__main__":
