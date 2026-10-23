@@ -1,9 +1,212 @@
 {
-  "generated": "2026-10-22T12:51:51+02:00",
+  "generated": "2026-10-23T11:01:25+02:00",
   "tier": 3,
+  "campaign": "charged",
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
   "total_sources": 11,
   "sources": [
+    {
+      "slug": "2400_exiles",
+      "title": "2400 Exiles v1.3",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Exiles_v1.3_singles.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_exiles.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Overland Transport & Survival Rules",
+          "line": 13
+        },
+        {
+          "level": 2,
+          "heading": "Wasteland Encounters & Hazard Prompts",
+          "line": 19
+        }
+      ]
+    },
+    {
+      "slug": "2400_xot",
+      "title": "2400 Xot v1.2",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Xot_v1.2_singles.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_xot.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Key Mechanics Reference",
+          "line": 13
+        },
+        {
+          "level": 2,
+          "heading": "Xenotech Salvage & Alien Artefacts",
+          "line": 19
+        }
+      ]
+    },
+    {
+      "slug": "electric_bastionland",
+      "title": "Electric Bastionland",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Electric_Bastionland_v2.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/electric_bastionland.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "System Engine & Core Procedures",
+          "line": 23
+        },
+        {
+          "level": 2,
+          "heading": "The 100 Failed Careers & Debt Economy",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "The Odd World: Bastion, Deep Country & The Underground",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Living Machines, Mockeries & Aliens",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "The Conductor's Toolkit & ICI Doctrine",
+          "line": 72
+        }
+      ]
+    },
+    {
+      "slug": "gene_wolfe_solar_cycle_analysis",
+      "title": "Gene Wolfe Solar Cycle Analysis",
+      "category": "research_aesthetic",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/research/Gene Wolfe Solar Cycle Analysis.gdoc",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/gene_wolfe_solar_cycle_analysis.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Structural Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Tone & Linguistic Architecture",
+          "line": 14
+        },
+        {
+          "level": 2,
+          "heading": "Narrative Methods & Misdirection",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Setting Approaches & Metaphysics",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Practical Campaign Adaptation Toolkit",
+          "line": 59
+        }
+      ]
+    },
+    {
+      "slug": "metamorphica_revised",
+      "title": "The Metamorphica (Revised)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/suplements/Metamorphica-Revised.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/metamorphica_revised.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Mutation Generation Engine",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "The Ficto-Technica Generator",
+          "line": 30
+        }
+      ]
+    },
+    {
+      "slug": "sdm_eternal_return_key",
+      "title": "Synthetic Dream Machine — Eternal Return Key (Bareghost Edition)",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/sdm_eternal_return_key.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Mechanical Summary",
+          "line": 12
+        },
+        {
+          "level": 2,
+          "heading": "Oldtech & Fantascience Powers Engine",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "Metaphysics of Death & Ghosthood",
+          "line": 27
+        }
+      ]
+    },
+    {
+      "slug": "the_alluring_trophy_gold",
+      "title": "The Alluring — A Trophy Gold Incursion",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/modules/The_Alluring_A_Trophy_Gold_Incursion.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/the_alluring_trophy_gold.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        }
+      ]
+    },
     {
       "slug": "uvg_2e_core",
       "title": "Ultraviolet Grasslands and the Black City (UVG 2E Core)",
@@ -61,9 +264,25 @@
       ]
     },
     {
+      "slug": "uvg_maps",
+      "title": "UVG 2E Maps",
+      "category": "maps",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0 maps.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_maps.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Map Index",
+          "line": 6
+        }
+      ]
+    },
+    {
       "slug": "uvg_player_guide",
       "title": "UVG Free Player Guide v2.0ii",
-      "category": "player_guide",
+      "category": "module",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG_free_player_guide_v2.0ii.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_player_guide.md",
@@ -82,147 +301,6 @@
       ]
     },
     {
-      "slug": "2400_xot",
-      "title": "2400 Xot v1.2",
-      "category": "system_rules",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Xot_v1.2_singles.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_xot.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Key Mechanics Reference",
-          "line": 13
-        },
-        {
-          "level": 2,
-          "heading": "Xenotech Salvage & Alien Artefacts",
-          "line": 19
-        }
-      ]
-    },
-    {
-      "slug": "2400_exiles",
-      "title": "2400 Exiles v1.3",
-      "category": "system_rules",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Exiles_v1.3_singles.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_exiles.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Overland Transport & Survival Rules",
-          "line": 13
-        },
-        {
-          "level": 2,
-          "heading": "Wasteland Encounters & Hazard Prompts",
-          "line": 19
-        }
-      ]
-    },
-    {
-      "slug": "sdm_eternal_return_key",
-      "title": "Synthetic Dream Machine — Eternal Return Key (Bareghost Edition)",
-      "category": "system_rules",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/sdm_eternal_return_key.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Mechanical Summary",
-          "line": 12
-        },
-        {
-          "level": 2,
-          "heading": "Oldtech & Fantascience Powers Engine",
-          "line": 21
-        },
-        {
-          "level": 2,
-          "heading": "Metaphysics of Death & Ghosthood",
-          "line": 27
-        }
-      ]
-    },
-    {
-      "slug": "the_alluring_trophy_gold",
-      "title": "The Alluring — A Trophy Gold Incursion",
-      "category": "module",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/modules/The_Alluring_A_Trophy_Gold_Incursion.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/the_alluring_trophy_gold.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
-        }
-      ]
-    },
-    {
-      "slug": "metamorphica_revised",
-      "title": "The Metamorphica (Revised)",
-      "category": "supplement",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/suplements/Metamorphica-Revised.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/metamorphica_revised.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Mutation Generation Engine",
-          "line": 21
-        },
-        {
-          "level": 2,
-          "heading": "The Ficto-Technica Generator",
-          "line": 30
-        }
-      ]
-    },
-    {
-      "slug": "uvg_maps",
-      "title": "UVG 2E Maps",
-      "category": "maps",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0 maps.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_maps.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Map Index",
-          "line": 6
-        }
-      ]
-    },
-    {
       "slug": "uvg_postcards",
       "title": "UVG Postcards",
       "category": "postcards",
@@ -235,83 +313,6 @@
           "level": 2,
           "heading": "Contents & Vignette Index",
           "line": 6
-        }
-      ]
-    },
-    {
-      "slug": "gene_wolfe_solar_cycle_analysis",
-      "title": "Stylistic Architecture, Epistemic Misdirection, and Palimpsest Worldbuilding in Gene Wolfe's Solar Cycle",
-      "category": "research_aesthetic",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/research/Gene Wolfe Solar Cycle Analysis.gdoc",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/gene_wolfe_solar_cycle_analysis.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Structural Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Tone & Linguistic Architecture",
-          "line": 14
-        },
-        {
-          "level": 2,
-          "heading": "Narrative Methods & Misdirection",
-          "line": 28
-        },
-        {
-          "level": 2,
-          "heading": "Setting Approaches & Metaphysics",
-          "line": 43
-        },
-        {
-          "level": 2,
-          "heading": "Practical Campaign Adaptation Toolkit",
-          "line": 59
-        }
-      ]
-    },
-    {
-      "slug": "electric_bastionland",
-      "title": "Electric Bastionland",
-      "category": "core_setting",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Electric_Bastionland_v2.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/electric_bastionland.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "System Engine & Core Procedures",
-          "line": 23
-        },
-        {
-          "level": 2,
-          "heading": "The 100 Failed Careers & Debt Economy",
-          "line": 38
-        },
-        {
-          "level": 2,
-          "heading": "The Odd World: Bastion, Deep Country & The Underground",
-          "line": 52
-        },
-        {
-          "level": 2,
-          "heading": "Living Machines, Mockeries & Aliens",
-          "line": 63
-        },
-        {
-          "level": 2,
-          "heading": "The Conductor's Toolkit & ICI Doctrine",
-          "line": 72
         }
       ]
     }
