@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T14:50:23+02:00",
+  "generated": "2026-10-23T16:34:25+02:00",
   "tier": 1,
   "total_entries": 102,
   "entries": [
@@ -12,7 +12,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": null,
+      "summary": "The live expedition supplies, vehicles, sacks, personnel, and debt contracts for the caravan are tracked in the [UVG Atles Caravan Ledger](https://docs.google.com/spreadsheets/d/1TEx8ZmBq90Tyms3u5eVlM2OqpUIemsj6c04rmNXxg94/edit).",
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
@@ -29,7 +29,7 @@
         "campaigns/UVG24XX/ep_011.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "1551d7f3",
+      "sha": "9eaaaad4",
       "tier": 1
     },
     {

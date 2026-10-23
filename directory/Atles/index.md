@@ -17,6 +17,11 @@ images:
 ---
 
 {% include header_directories.md %}
+
+## Caravan Ledger & Inventory
+
+The live expedition supplies, vehicles, sacks, personnel, and debt contracts for the caravan are tracked in the [UVG Atles Caravan Ledger](https://docs.google.com/spreadsheets/d/1TEx8ZmBq90Tyms3u5eVlM2OqpUIemsj6c04rmNXxg94/edit).
+
 {% comment %}
 `=map(this.images, (x) => "![im|200](" + x + ")")`
 ```dataview
