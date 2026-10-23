@@ -1,0 +1,689 @@
+{
+  "stations": {
+    "Violet City (1)": {
+      "num": 1,
+      "aliases": [
+        "violet city",
+        "the violet city",
+        "violet city (1)"
+      ],
+      "dir_folder": "VioletCity",
+      "category": "starting_settlement"
+    },
+    "Low Road and High (2)": {
+      "num": 2,
+      "aliases": [
+        "low road and high",
+        "the low road and the high",
+        "low road / high road",
+        "low road and high (2)"
+      ],
+      "dir_folder": "LowRoadHigh",
+      "category": "road_corridor"
+    },
+    "Steppe of Lime Nomads (3)": {
+      "num": 3,
+      "aliases": [
+        "steppe of lime nomads",
+        "steppe of the lime nomads",
+        "lime nomads",
+        "steppe of lime nomads (3)"
+      ],
+      "dir_folder": "LimeNomads",
+      "category": "steppe_camp"
+    },
+    "Porcelain Citadel (4)": {
+      "num": 4,
+      "aliases": [
+        "porcelain citadel",
+        "porcelain citadel (4)"
+      ],
+      "dir_folder": "PorcelainCitadel",
+      "category": "citadel_oasis"
+    },
+    "Potsherd Crater (5)": {
+      "num": 5,
+      "aliases": [
+        "potsherd crater",
+        "potsherd crater (5)"
+      ],
+      "dir_folder": "PotsherdCrater",
+      "category": "depression_ruins"
+    },
+    "Trail of Vomish Dreams (6)": {
+      "num": 6,
+      "aliases": [
+        "trail of vomish dreams",
+        "vomish dreams",
+        "trail of vomish dreams (6)"
+      ],
+      "dir_folder": "VomishDreams",
+      "category": "biomechanical_trail"
+    },
+    "Grass Colossus (7)": {
+      "num": 7,
+      "aliases": [
+        "grass colossus",
+        "the grass colossus",
+        "grass colossus (7)"
+      ],
+      "dir_folder": "GrassColossus",
+      "category": "relic_landmark"
+    },
+    "The Last Serai (8)": {
+      "num": 8,
+      "aliases": [
+        "last serai",
+        "the last serai",
+        "the last serai (8)"
+      ],
+      "dir_folder": "LastSerai",
+      "category": "frontier_outpost"
+    },
+    "Way Stone Graveyard (9)": {
+      "num": 9,
+      "aliases": [
+        "way stone graveyard",
+        "way stone",
+        "the way stone",
+        "way stone graveyard (9)"
+      ],
+      "dir_folder": "WayStoneGraveyard",
+      "category": "megalith_field"
+    },
+    "Death-Facing Passage (10)": {
+      "num": 10,
+      "aliases": [
+        "death-facing passage",
+        "the death-facing passage",
+        "death facing passage",
+        "death-facing passage (10)"
+      ],
+      "dir_folder": "DeathFacingPassage",
+      "category": "mountain_pass"
+    },
+    "South-Facing Passage (11)": {
+      "num": 11,
+      "aliases": [
+        "south-facing passage",
+        "the south-facing passage",
+        "south facing passage",
+        "south-facing passage (11)"
+      ],
+      "dir_folder": "SouthFacingPassage",
+      "category": "mountain_pass"
+    },
+    "Fallen Umber (12)": {
+      "num": 12,
+      "aliases": [
+        "fallen umber",
+        "fallen umber (12)"
+      ],
+      "dir_folder": "FallenUmber",
+      "category": "desert_ruins"
+    },
+    "Long Ridge & Behemoth (13)": {
+      "num": 13,
+      "aliases": [
+        "long ridge",
+        "behemoth shell",
+        "long ridge & behemoth",
+        "long ridge (13)"
+      ],
+      "dir_folder": "LongRidge",
+      "category": "calcified_ridge"
+    },
+    "Moon-Facing Ford (14)": {
+      "num": 14,
+      "aliases": [
+        "moon-facing ford",
+        "moon river ford",
+        "moon-facing ford (14)"
+      ],
+      "dir_folder": "MoonFacingFord",
+      "category": "river_crossing"
+    },
+    "Glass Bridge (15)": {
+      "num": 15,
+      "aliases": [
+        "glass bridge",
+        "three sticks lake",
+        "glass bridge (15)"
+      ],
+      "dir_folder": "GlassBridge",
+      "category": "megastructure"
+    },
+    "The Gall Grass (16)": {
+      "num": 16,
+      "aliases": [
+        "the gall grass",
+        "gall grass",
+        "gall grass (16)"
+      ],
+      "dir_folder": "GallGrass",
+      "category": "psychoactive_steppe"
+    },
+    "Ribs of the Father (17)": {
+      "num": 17,
+      "aliases": [
+        "ribs of the father",
+        "the ribs",
+        "ribs of the father (17)"
+      ],
+      "dir_folder": "RibsOfTheFather",
+      "category": "subterranean_machinery"
+    },
+    "The Iron Road (18)": {
+      "num": 18,
+      "aliases": [
+        "the iron road",
+        "iron road",
+        "the iron road (18)"
+      ],
+      "dir_folder": "IronRoad",
+      "category": "calcified_railway"
+    },
+    "The Ivory Plain (19)": {
+      "num": 19,
+      "aliases": [
+        "the ivory plain",
+        "ivory plain",
+        "the ivory plain (19)"
+      ],
+      "dir_folder": "IvoryPlain",
+      "category": "bleached_flatlands"
+    },
+    "Dead Bridge (20)": {
+      "num": 20,
+      "aliases": [
+        "dead bridge",
+        "dead bridge (20)"
+      ],
+      "dir_folder": "DeadBridge",
+      "category": "collapsed_span"
+    },
+    "Dark Light Passage (21)": {
+      "num": 21,
+      "aliases": [
+        "dark light passage",
+        "dark light path",
+        "dark light passage (21)"
+      ],
+      "dir_folder": "DarkLightPassage",
+      "category": "chasm_canyon"
+    },
+    "The Endless Houses (22)": {
+      "num": 22,
+      "aliases": [
+        "the endless houses",
+        "endless houses",
+        "forest of meat",
+        "the endless houses (22)"
+      ],
+      "dir_folder": "EndlessHouses",
+      "category": "modular_ruinland"
+    },
+    "The Black City (23)": {
+      "num": 23,
+      "aliases": [
+        "the black city",
+        "black city",
+        "the black city (23)"
+      ],
+      "dir_folder": "BlackCity",
+      "category": "terminal_metropolis"
+    }
+  },
+  "connections": [
+    {
+      "origin": "Violet City (1)",
+      "destination": "Low Road and High (2)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "Violet City (1)",
+      "destination": "Steppe of Lime Nomads (3)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Low Road and High (2)",
+      "destination": "Steppe of Lime Nomads (3)",
+      "weeks": 1,
+      "direction": "North",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Low Road and High (2)",
+      "destination": "Porcelain Citadel (4)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "safe oasis"
+    },
+    {
+      "origin": "Low Road and High (2)",
+      "destination": "Potsherd Crater (5)",
+      "weeks": 2,
+      "direction": "South-West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Steppe of Lime Nomads (3)",
+      "destination": "Porcelain Citadel (4)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "safe oasis"
+    },
+    {
+      "origin": "Porcelain Citadel (4)",
+      "destination": "Potsherd Crater (5)",
+      "weeks": 1,
+      "direction": "South",
+      "terrain": "prospector trails"
+    },
+    {
+      "origin": "Porcelain Citadel (4)",
+      "destination": "The Last Serai (8)",
+      "weeks": 1,
+      "direction": "South-West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "Porcelain Citadel (4)",
+      "destination": "Trail of Vomish Dreams (6)",
+      "weeks": 1,
+      "direction": "North-West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "Potsherd Crater (5)",
+      "destination": "The Last Serai (8)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Trail of Vomish Dreams (6)",
+      "destination": "Grass Colossus (7)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "Grass Colossus (7)",
+      "destination": "Death-Facing Passage (10)",
+      "weeks": 2,
+      "direction": "South",
+      "terrain": "rough steppe"
+    },
+    {
+      "origin": "Grass Colossus (7)",
+      "destination": "South-Facing Passage (11)",
+      "weeks": 2,
+      "direction": "South-West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Grass Colossus (7)",
+      "destination": "Long Ridge & Behemoth (13)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "The Last Serai (8)",
+      "destination": "Way Stone Graveyard (9)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "The Last Serai (8)",
+      "destination": "Death-Facing Passage (10)",
+      "weeks": 2,
+      "direction": "North-West",
+      "terrain": "canyons"
+    },
+    {
+      "origin": "Way Stone Graveyard (9)",
+      "destination": "Death-Facing Passage (10)",
+      "weeks": 2,
+      "direction": "North",
+      "terrain": "rough steppe"
+    },
+    {
+      "origin": "Way Stone Graveyard (9)",
+      "destination": "South-Facing Passage (11)",
+      "weeks": 3,
+      "direction": "North-West",
+      "terrain": "rough steppe"
+    },
+    {
+      "origin": "Way Stone Graveyard (9)",
+      "destination": "Fallen Umber (12)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "Death-Facing Passage (10)",
+      "destination": "South-Facing Passage (11)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "South-Facing Passage (11)",
+      "destination": "Fallen Umber (12)",
+      "weeks": 1,
+      "direction": "South",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "South-Facing Passage (11)",
+      "destination": "Long Ridge & Behemoth (13)",
+      "weeks": 1,
+      "direction": "North",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Fallen Umber (12)",
+      "destination": "Moon-Facing Ford (14)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "trail"
+    },
+    {
+      "origin": "Long Ridge & Behemoth (13)",
+      "destination": "Moon-Facing Ford (14)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Moon-Facing Ford (14)",
+      "destination": "Glass Bridge (15)",
+      "weeks": 2,
+      "direction": "North-West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Glass Bridge (15)",
+      "destination": "The Gall Grass (16)",
+      "weeks": 1,
+      "direction": "North-West",
+      "terrain": "old road"
+    },
+    {
+      "origin": "The Gall Grass (16)",
+      "destination": "Ribs of the Father (17)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "lost road"
+    },
+    {
+      "origin": "Ribs of the Father (17)",
+      "destination": "The Iron Road (18)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "clear trail"
+    },
+    {
+      "origin": "The Iron Road (18)",
+      "destination": "The Ivory Plain (19)",
+      "weeks": 2,
+      "direction": "North",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "The Iron Road (18)",
+      "destination": "Dead Bridge (20)",
+      "weeks": 1,
+      "direction": "West",
+      "terrain": "clear trail"
+    },
+    {
+      "origin": "The Ivory Plain (19)",
+      "destination": "Dark Light Passage (21)",
+      "weeks": 1,
+      "direction": "North-West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "The Ivory Plain (19)",
+      "destination": "Dead Bridge (20)",
+      "weeks": 2,
+      "direction": "South-West",
+      "terrain": "steppe"
+    },
+    {
+      "origin": "Dead Bridge (20)",
+      "destination": "The Endless Houses (22)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "rubble trail"
+    },
+    {
+      "origin": "Dark Light Passage (21)",
+      "destination": "The Endless Houses (22)",
+      "weeks": 2,
+      "direction": "West",
+      "terrain": "roads"
+    },
+    {
+      "origin": "The Endless Houses (22)",
+      "destination": "The Black City (23)",
+      "weeks": 1,
+      "direction": "North-West",
+      "terrain": "decaying boulevards"
+    }
+  ],
+  "station_lore": {
+    "The Last Serai (8)": {
+      "canon_entities": [
+        {
+          "name": "Angel 22-unity",
+          "type": "character",
+          "role": "High-ranking Porcelain Prince factor"
+        },
+        {
+          "name": "Lacquer Stone 4-body",
+          "type": "character",
+          "role": "Dusty porcelain diplomat and courtier"
+        },
+        {
+          "name": "Black Helmet 60-plurality",
+          "type": "character",
+          "role": "Aggrieved polybody caravan master and labour unionist"
+        },
+        {
+          "name": "Pooki",
+          "type": "character",
+          "role": "Lazy, overpowered cat-lord chief of the Rainbow Serai"
+        },
+        {
+          "name": "Iron Pot 6-body",
+          "type": "character",
+          "role": "Porcelain investigator hunted across the serai alleys"
+        },
+        {
+          "name": "The Giving Cow",
+          "type": "faction",
+          "role": "Yellow-wood milk bar and quiet meeting place"
+        },
+        {
+          "name": "Buried Delicatessen",
+          "type": "location",
+          "role": "Subterranean dining speakeasy serving Long-Long-Ago preserves"
+        },
+        {
+          "name": "Deep-Coral Chambers",
+          "type": "location",
+          "role": "Submerged residential vaults beneath the static harmonic rods"
+        },
+        {
+          "name": "Chamber of Crystal Rebirth",
+          "type": "location",
+          "role": "Vault housing the dormant Rebuilder (L17 biomancer)"
+        }
+      ],
+      "road_hazards": [
+        "Porcelain dust storms",
+        "Choking toxic pollen",
+        "Static electrical discharge",
+        "Corporate body snatchers"
+      ]
+    },
+    "Way Stone Graveyard (9)": {
+      "canon_entities": [
+        {
+          "name": "The Way Stone",
+          "type": "location",
+          "role": "Massive black basalt navigational obelisk emitting radio hums"
+        },
+        {
+          "name": "Static Monolith Hermits",
+          "type": "faction",
+          "role": "Solitary ascetics bound to navigational beacons"
+        },
+        {
+          "name": "Ghost Signals",
+          "type": "creature",
+          "role": "Sentient radio transmissions mimicking lost travellers"
+        }
+      ],
+      "road_hazards": [
+        "Violent magnetic shears",
+        "Navigation compass inversion",
+        "Disembodied machine whispers"
+      ]
+    },
+    "Death-Facing Passage (10)": {
+      "canon_entities": [
+        {
+          "name": "The Face of Death",
+          "type": "location",
+          "role": "Gigantic petrified robotic visage carved into the mountain divide"
+        },
+        {
+          "name": "Canyon Outriders",
+          "type": "faction",
+          "role": "Ruthless toll-keepers ambushing narrow gorge traverses"
+        },
+        {
+          "name": "Katabatic Spectres",
+          "type": "creature",
+          "role": "Freezing wind elementals flaying exposed flesh"
+        }
+      ],
+      "road_hazards": [
+        "Lethal rockfalls",
+        "Altitude sickness",
+        "Radiation hotspots in shaded arroyos"
+      ]
+    },
+    "South-Facing Passage (11)": {
+      "canon_entities": [
+        {
+          "name": "Cedar Grove Hermitage",
+          "type": "location",
+          "role": "Sanctuary of silence in deep cedar valleys"
+        },
+        {
+          "name": "Lenticular Worms",
+          "type": "creature",
+          "role": "Endurance-draining parasites infesting mountain springs"
+        }
+      ],
+      "road_hazards": [
+        "Freezing katabatic night gales",
+        "Parasite infection",
+        "Disorienting mirages"
+      ]
+    },
+    "Potsherd Crater (5)": {
+      "canon_entities": [
+        {
+          "name": "The Glass House of the Dead Prince",
+          "type": "location",
+          "role": "Intact crystal pavilion containing ancestral kaolin treasures"
+        },
+        {
+          "name": "Feral Kaolin Golems",
+          "type": "creature",
+          "role": "Shattered ceramic servitors defending ceramic burial mounds"
+        },
+        {
+          "name": "Ceramic Prospectors",
+          "type": "faction",
+          "role": "Dust-bitten scavengers sifting ancestral porcelain rubble"
+        }
+      ],
+      "road_hazards": [
+        "Razor-sharp ceramic shards",
+        "Collapsing subterranean kiln vaults",
+        "Toxic kaolin dust"
+      ]
+    },
+    "Grass Colossus (7)": {
+      "canon_entities": [
+        {
+          "name": "The Sleeping Automaton",
+          "type": "location",
+          "role": "Derelict planetary maintenance colossus housing nomadic tent cities"
+        },
+        {
+          "name": "Nomad Custodians",
+          "type": "faction",
+          "role": "Keepers of the sacred engine vents and ceremonial oil wells"
+        }
+      ],
+      "road_hazards": [
+        "Vomish parasite swarms",
+        "Crushing interior piston seizures",
+        "Pilgrim disputes"
+      ]
+    },
+    "Trail of Vomish Dreams (6)": {
+      "canon_entities": [
+        {
+          "name": "The Riven Biomass",
+          "type": "creature",
+          "role": "Parasitic meat-and-circuit machine hiveminds"
+        },
+        {
+          "name": "Signal Spire Sentinels",
+          "type": "creature",
+          "role": "Autonomous biological radar nodes relaying hunter broadcasts"
+        }
+      ],
+      "road_hazards": [
+        "Biomechanical infection",
+        "Signal fever",
+        "Night predatory vechs"
+      ]
+    },
+    "Fallen Umber (12)": {
+      "canon_entities": [
+        {
+          "name": "Cerulean Five Oasis",
+          "type": "location",
+          "role": "Deep azure pool surrounded by petrified orange salt cliffs"
+        },
+        {
+          "name": "Umber Sub-Bunkers",
+          "type": "location",
+          "role": "Sealed fallout vaults from the Third Age of Rainbow"
+        }
+      ],
+      "road_hazards": [
+        "Orange salt blindness",
+        "Dehydration",
+        "Vicious dust devils"
+      ]
+    }
+  }
+}

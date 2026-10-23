@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T11:01:25+02:00",
+  "generated": "2026-10-23T11:11:11+02:00",
   "tier": 3,
   "campaign": "charged",
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
@@ -8,7 +8,7 @@
     {
       "slug": "2400_exiles",
       "title": "2400 Exiles v1.3",
-      "category": "module",
+      "category": "core_setting",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Exiles_v1.3_singles.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_exiles.md",
@@ -34,7 +34,7 @@
     {
       "slug": "2400_xot",
       "title": "2400 Xot v1.2",
-      "category": "module",
+      "category": "core_setting",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Xot_v1.2_singles.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_xot.md",
@@ -60,7 +60,7 @@
     {
       "slug": "electric_bastionland",
       "title": "Electric Bastionland",
-      "category": "module",
+      "category": "core_setting",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Electric_Bastionland_v2.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/electric_bastionland.md",
@@ -163,7 +163,7 @@
     {
       "slug": "sdm_eternal_return_key",
       "title": "Synthetic Dream Machine — Eternal Return Key (Bareghost Edition)",
-      "category": "module",
+      "category": "core_setting",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/sdm_eternal_return_key.md",
@@ -282,7 +282,7 @@
     {
       "slug": "uvg_player_guide",
       "title": "UVG Free Player Guide v2.0ii",
-      "category": "module",
+      "category": "player_guide",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG_free_player_guide_v2.0ii.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_player_guide.md",
