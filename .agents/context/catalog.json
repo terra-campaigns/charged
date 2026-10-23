@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T16:34:25+02:00",
+  "generated": "2026-10-23T16:37:14+02:00",
   "tier": 1,
-  "total_entries": 102,
+  "total_entries": 105,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -28,7 +28,7 @@
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md"
       ],
-      "lastmod": "2026-W16",
+      "lastmod": "2026-W42",
       "sha": "9eaaaad4",
       "tier": 1
     },
@@ -115,6 +115,24 @@
       ],
       "lastmod": "2026-W16",
       "sha": "4e50e89c",
+      "tier": 1
+    },
+    {
+      "path": "directory/DeathFacingPassage/index.md",
+      "title": "Death-Facing Passage (10)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1010",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "50b99fd6",
       "tier": 1
     },
     {
@@ -450,6 +468,24 @@
       ],
       "lastmod": "2026-W42",
       "sha": "7f9bd181",
+      "tier": 1
+    },
+    {
+      "path": "directory/PotsherdCrater/index.md",
+      "title": "Potsherd Crater (5)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1005",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "e8951e2a",
       "tier": 1
     },
     {
@@ -802,6 +838,24 @@
       ],
       "lastmod": "2026-W42",
       "sha": "8a164df4",
+      "tier": 1
+    },
+    {
+      "path": "directory/WayStoneGraveyard/index.md",
+      "title": "Way Stone Graveyard (9)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1009",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "8995ec21",
       "tier": 1
     },
     {
@@ -1900,6 +1954,7 @@
         "directory/Atles/Vorgo.md",
         "directory/Atles/Xulio.md",
         "directory/Atles/index.md",
+        "directory/DeathFacingPassage/index.md",
         "directory/FallenUmber/index.md",
         "directory/FoldedBelow/IridescentGlobes.md",
         "directory/FoldedBelow/ManEatingMolusc.md",
@@ -1922,9 +1977,11 @@
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
         "directory/PorcelainCitadel/index.md",
+        "directory/PotsherdCrater/index.md",
         "directory/VioletCity/LastChairSaloon.md",
         "directory/VioletCity/LeontiVites.md",
-        "directory/VioletCity/index.md"
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "lastmod": "2026-W40",
       "sha": "8fd5dad9",
