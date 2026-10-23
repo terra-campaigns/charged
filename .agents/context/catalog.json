@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T18:11:08+02:00",
+  "generated": "2026-10-23T18:20:17+02:00",
   "tier": 1,
   "total_entries": 105,
   "entries": [
@@ -2266,7 +2266,7 @@
       "links_in": [
         "campaigns/UVG24XX/ep_008.md"
       ],
-      "lastmod": "2026-W28",
+      "lastmod": "2026-W42",
       "sha": "9b48e66c",
       "tier": 1
     },
