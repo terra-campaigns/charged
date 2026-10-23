@@ -9,9 +9,10 @@ parent: The Last Serai (8)
 title: Iron Pot 6-body
 role: 6-body Porcelain Prince
 status: 
-footer_content: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Scaphandre_Carmagnolle_MnM_Paris.jpg" target="_blank">Carmagnolle Atmospheric Diving Suit (1882)</a>, Musée national de la Marine (photo by Rama, CC BY-SA 3.0 FR).
 
 images: 
+- ../../imgs/gallery/carmagnolle_vomish_hallucination.jpg
 
 ---
 

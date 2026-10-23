@@ -13,7 +13,7 @@ footer_content:
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020260530114821.png
-- 
+
 ---
 
 {% include header_directories.md %}
