@@ -1,12 +1,12 @@
 {% comment %} template: 0.4 {% endcomment %}
-
-{% if page.template >= 0.4 %}
+{% assign template_num = page.template | plus: 0 %}
+{% if page.template == nil or template_num == 0 or template_num >= 0.4 %}
 
 # {{ page.title }}
 {: .text-right}
 
 {% if page.role %}
-#### **{{ page.role }}** {% if page.status %} ({{ page.status }}) {% endif %}
+#### {{ page.role }}
 {: .text-right}
 {% endif %}
 

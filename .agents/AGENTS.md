@@ -87,6 +87,34 @@ Default technology pressure: oldtech and vomish systems are useful but invasive.
 Default social texture: trade, permits, coffee, cats, caste failure, debt contracts, strange professional skills, and merchant absurdity.
 Default metaphysics: the world is far after many old worlds and still full of machines that behave like spirits.
 
+## Campaign Specification
+
+### Style & Tone
+- Genre: Later-earth retro psychedelic science fantasy (Moebius, Miyazaki, Gene Wolfe, Jack Vance).
+- Cadence: Wolfean anchor-and-veil cadence (concrete sensory anchors paired with philosophical detachment; 80/20 clarity-to-obscurity ratio). One sentence per line when practical.
+- Vocabulary: Strange commerce, decadent bureaucracy, soft body horror, oldtech relics, absurd debt, broken futurity, beautiful ruins.
+
+### Reference Material (for Deep Reviews & Lore)
+- Root Path: `/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/`
+- Priority Sources:
+  1. `UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf` — primary setting voice.
+  2. `2400_Xot_v1.2_singles.pdf` — 24XX mechanics layer.
+  3. `Electric_Bastionland_v2.pdf` — debt framework, spark tables, ICI doctrine.
+  4. `Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf` — mechanical voice.
+
+### Calibration Examples
+- Too flat: "The village is a place where retired caravan workers live. It has shops that sell used equipment."
+- Too purple: "The village breathes with the dying exhalations of a thousand caravans, its market stalls dripping with the psychic residue of ten thousand journeys across the screaming wastes."
+- In voice: "Village-camp of retired caravanserais that were not posh enough to retire in Violet City. It is a good place to trade for used caravan equipment and animals."
+- Too flat: "The creature has many eyes and mouths and tries to eat her arm."
+- In voice: "Shaggy opens its multitude of eyes and mouths within tongues within mouths within tongues. It tries to swallow her arm."
+
+### Structural & Procedural Defaults
+- Default Campaign Subfolder: `campaigns/UVG24XX/`
+- Campaign Hub Page: `[index](../../directory/Atles/index.md)`
+- Character Archetypes / Vocations: Redland bourgeoise mendicant healer, Wildfolk cult bio-mechanic, Financier from Banco de Aventuras, Caravaner, Porcelain agent.
+- Session Prep Mode: Caravan Expedition / Overland Trail / Trade Skews
+
 ## Markdown And Obsidian Conventions
 
 - Preserve YAML front matter.

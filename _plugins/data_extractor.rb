@@ -7,7 +7,7 @@ require 'digest'
 require 'time'
 require 'fileutils'
 
-module Charged
+module OudeMechanismen
   class DataExtractor
     def self.extract(base_dir = Dir.pwd, write_catalog: true)
       lastmod = {}
@@ -164,13 +164,13 @@ module Charged
 
         # 4. Build Tier 1 Semantic Catalogue
         catalog_config_path = File.join(base_dir, ".agents/context/tier1_sources.yml")
-        include_paths = []
-        exclude_paths = []
+        include_paths = ["campaigns", "directory", "systems", "statblocks", "trading"]
+        exclude_paths = ["_inklings.md", "_TODO.md", "_notions.md"]
         if File.exist?(catalog_config_path)
           begin
             cfg = YAML.safe_load(File.read(catalog_config_path), permitted_classes: [Date, Time]) || {}
-            include_paths = (cfg['include_paths'] || []).map { |p| p.chomp('/') }
-            exclude_paths = (cfg['exclude_paths'] || []).map { |p| p.chomp('/') }
+            include_paths = (cfg['include_paths'] || include_paths).map { |p| p.chomp('/') }
+            exclude_paths = (cfg['exclude_paths'] || exclude_paths).map { |p| p.chomp('/') }
           rescue => e
             warn "Could not read tier1_sources.yml: #{e.message}"
           end
@@ -217,7 +217,7 @@ module Charged
             "parent" => fm['parent'],
             "role" => fm['role'],
             "status" => fm['status'],
-            "region" => fm['region'],
+            "region" => fm['region'] || fm['location'],
             "nav_order" => fm['nav_order'] ? fm['nav_order'].to_s : nil,
             "summary" => summary,
             "links_out" => internal_outbound[file_path].sort,
@@ -281,7 +281,7 @@ if defined?(Jekyll) && defined?(Jekyll::Generator)
       priority :lowest
 
       def generate(site)
-        result = Charged::DataExtractor.extract(site.source, write_catalog: true)
+        result = OudeMechanismen::DataExtractor.extract(site.source, write_catalog: true)
         site.data['lastmod'] = result[:lastmod]
         site.data['markdown_links'] = { 'file' => result[:markdown_links] }
         site.data['gallery_links'] = { 'file' => result[:gallery_links] }
@@ -293,7 +293,7 @@ if defined?(Jekyll) && defined?(Jekyll::Generator)
 end
 
 if __FILE__ == $0
-  puts "Running standalone Charged::DataExtractor..."
-  result = Charged::DataExtractor.extract(Dir.pwd, write_catalog: true)
+  puts "Running standalone OudeMechanismen::DataExtractor..."
+  result = OudeMechanismen::DataExtractor.extract(Dir.pwd, write_catalog: true)
   puts "Successfully extracted data and wrote #{result[:catalog]['total_entries']} Tier 1 entries to .agents/context/catalog.json."
 end

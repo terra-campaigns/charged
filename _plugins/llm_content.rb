@@ -37,11 +37,11 @@ module Jekyll
         output << ""
       end
       
-      # Skills
+      # Local skills
       skills_dir = File.join(base_dir, ".agents", "skills")
       if Dir.exist?(skills_dir)
         output << "<hr>"
-        output << "## AGENT SKILLS"
+        output << "## LOCAL AGENT SKILLS"
         Dir.glob(File.join(skills_dir, "**", "SKILL.md")).sort.each do |skill_file|
           skill_name = File.basename(File.dirname(skill_file))
           output << "### SKILL: #{skill_name}"
