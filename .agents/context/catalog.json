@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T09:24:41+02:00",
+  "generated": "2026-10-23T14:50:23+02:00",
   "tier": 1,
-  "total_entries": 101,
+  "total_entries": 102,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -1034,6 +1034,22 @@
       ],
       "lastmod": "2026-W42",
       "sha": "d08b7ad5",
+      "tier": 1
+    },
+    {
+      "path": "directory/index.md",
+      "title": "Directory",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "51",
+      "summary": null,
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2026-W16",
+      "sha": "a2c654ea",
       "tier": 1
     },
     {

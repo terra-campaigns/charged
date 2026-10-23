@@ -5,16 +5,8 @@
 drive_dir: /Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged
 
 include_paths:
-  - campaigns/UVG24XX
-  - campaigns/UVG-solo
-  - directory/Atles
-  - directory/Caravan1
-  - directory/FallenUmber
-  - directory/LastSerai
-  - directory/LimeNomads
-  - directory/LowRoadHigh
-  - directory/PorcelainCitadel
-  - directory/VioletCity
+  - campaigns
+  - directory
   - systems
   - trading
 
@@ -24,3 +16,4 @@ exclude_paths:
   - directory/FoldedBelow
   - _inklings.md
   - _TODO.md
+  - _notions.md
