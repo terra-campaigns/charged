@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T08:34:26+02:00",
+  "generated": "2026-10-24T09:10:09+02:00",
   "tier": 1,
   "total_entries": 105,
   "entries": [
@@ -2170,7 +2170,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "output I am a [who1] [who2] that has a [thing] on the road because [why].",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W24",
@@ -2186,7 +2186,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "<p align=\"left\" > <b>[name], [who1] [who2]</b> <br> -----------<br><br> <b>Why are you on the road?</b> [why]. <br> <b>What is your signature item?</b> [thing]. <br> [quirk] <br> [quirk] <br><br>",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W24",
@@ -2202,7 +2202,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "chargedrpg_eb = {import:chargedrpg-eb} chargedrpg_uvg = {import:chargedrpg-uvg} chargedrpg_metamorphica = {import:chargedrpg-metamorphica}",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W25",
@@ -2218,7 +2218,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "<p align=\"left\" > <b>[b = background.selectOne, b.name]</b> <br><br>",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W25",
@@ -2626,7 +2626,7 @@
       "status": null,
       "region": null,
       "nav_order": "3025-05-15",
-      "summary": "![](../../imgs/gallery/Pasted%20image%2020250905172811.png)",
+      "summary": "**Why are you on the road?** Paintings of a gorgeous cyan seaside. **What is your signature item?** Rainbow unicorn horn. **You have a sign of the Fast Stars:** Chosen. An override jewel in their head. **What is your biomantic omen?**: Oldtech access key in their cells.",
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
