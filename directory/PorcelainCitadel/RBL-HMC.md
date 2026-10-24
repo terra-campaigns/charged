@@ -35,7 +35,7 @@ The tint and lustre of the glazed ceramic tiles cladding each roof and lintel ad
 
 ### Social Station & Trade
 
-The community lives in precarious tolerance beneath the high balconies of the [Porcelain Princes](../../directory/LastSerai/Angel22-unity.md).
+The community lives in precarious tolerance beneath the high balconies of the [Porcelain Princes](PorcelainPrinces.md).
 While the princes remain cloistered within their kiln-white towers, the Rainbowlanders process the base matter of the trail: firing porous pots, refining alchemical lubricants, and buying dryland chitin caps from passing prospectors.
 They maintain the lower market where outland caravans resupply before pushing west across the dust.
 

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-24T10:58:13+02:00",
+  "generated": "2026-10-24T12:41:33+02:00",
   "tier": 1,
-  "total_entries": 107,
+  "total_entries": 110,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -55,6 +55,35 @@
       "tier": 1
     },
     {
+      "path": "directory/PorcelainCitadel/PorcelainPrinces.md",
+      "title": "Porcelain Princes",
+      "type": "faction",
+      "parent": "Porcelain Citadel (4)",
+      "role": "Polybody Oligarchs of the Kaolin Towers",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Not-quite-liches of the [Porcelain Citadel](index.md) who have cheated mortal rot by dividing their living sentience across distributed physical hulls.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
+        "directory/VioletCity/index.md",
+        "trading/TG01_Alchemical_lubricants.md"
+      ],
+      "links_in": [
+        "directory/PorcelainCitadel/RBL-HMC.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "3b909352",
+      "tier": 1
+    },
+    {
       "path": "directory/PorcelainCitadel/RBL-HMC.md",
       "title": "RBL-HMC",
       "type": "faction",
@@ -68,7 +97,7 @@
         "campaigns/UVG24XX/ep_008.md",
         "campaigns/UVG24XX/index.md",
         "directory/Atles/TamHR.md",
-        "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/index.md"
       ],
       "links_in": [
@@ -76,7 +105,7 @@
         "directory/PorcelainCitadel/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "b65d1728",
+      "sha": "66de1ae3",
       "tier": 1
     },
     {
@@ -98,8 +127,8 @@
         "campaigns/UVG24XX/ep_001.md",
         "directory/FallenUmber/RedDragonCult.md"
       ],
-      "lastmod": "2026-W16",
-      "sha": "a6407128",
+      "lastmod": "2026-W42",
+      "sha": "970c1c78",
       "tier": 1
     },
     {
@@ -122,6 +151,34 @@
       ],
       "lastmod": "2026-W42",
       "sha": "43d1c5cb",
+      "tier": 1
+    },
+    {
+      "path": "directory/SpectrumPalace/SpectrumSatraps.md",
+      "title": "Spectrum Satraps",
+      "type": "faction",
+      "parent": "Spectrum Palace (25)",
+      "role": "The 360 Radiant Telepaths of the Memorium",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/FallenUmber/index.md",
+        "directory/LastSerai/Harmonium.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/SpectrumPalace/index.md"
+      ],
+      "links_in": [
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/SpectrumPalace/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "63b56ef1",
       "tier": 1
     },
     {
@@ -201,9 +258,10 @@
       "links_in": [
         "campaigns/UVG24XX/ep_003.md",
         "directory/FallenUmber/RedDragonCult.md",
-        "directory/LowRoadHigh/RRR.md"
+        "directory/LowRoadHigh/RRR.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
-      "lastmod": "2026-W16",
+      "lastmod": "2026-W42",
       "sha": "fe3a2b75",
       "tier": 1
     },
@@ -224,7 +282,8 @@
         "campaigns/UVG24XX/ep_009.md",
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
-        "directory/LastSerai/Angel22-unity.md"
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "lastmod": "2026-W26",
       "sha": "30f335f3",
@@ -479,7 +538,9 @@
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
         "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/RBL-HMC.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -560,6 +621,27 @@
       ],
       "lastmod": "2026-W16",
       "sha": "eb486df6",
+      "tier": 1
+    },
+    {
+      "path": "directory/SpectrumPalace/index.md",
+      "title": "Spectrum Palace (25)",
+      "type": "location",
+      "parent": "Directory",
+      "role": "Seat of the Spectrum Satraps",
+      "status": null,
+      "region": null,
+      "nav_order": "1025",
+      "summary": "A drum-shaped redoubt of dull metal and rivets, thirty metres across and a hundred in circuit, nestled in a shallow saddle between unremarkable hills.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
+      ],
+      "links_in": [
+        "directory/SpectrumPalace/SpectrumSatraps.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "94988832",
       "tier": 1
     },
     {
@@ -745,6 +827,8 @@
         "directory/Atles/Pilixa.md",
         "directory/Atles/Settler.md",
         "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -850,6 +934,7 @@
         "campaigns/UVG24XX/ep_006.md",
         "campaigns/UVG24XX/ep_007.md",
         "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -933,6 +1018,7 @@
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/index.md",
         "directory/VioletCity/index.md",
         "trading/index.md"
@@ -2031,9 +2117,12 @@
         "directory/LowRoadHigh/RRR.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/PorcelainCitadel/index.md",
         "directory/PotsherdCrater/index.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
+        "directory/SpectrumPalace/index.md",
         "directory/VioletCity/LastChairSaloon.md",
         "directory/VioletCity/LeontiVites.md",
         "directory/VioletCity/index.md",
@@ -2300,7 +2389,7 @@
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
         "directory/LastSerai/IronPot6-body.md",
-        "directory/PorcelainCitadel/RBL-HMC.md"
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
       "lastmod": "2026-W42",
       "sha": "8cab23c6",
@@ -2321,7 +2410,8 @@
         "directory/Atles/RiseGhost.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_008.md"
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
       "lastmod": "2026-W42",
       "sha": "9b48e66c",
@@ -2442,7 +2532,8 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
-        "campaigns/UVG24XX/ep_011.md"
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
       "lastmod": "2026-W42",
       "sha": "10760351",
@@ -2968,7 +3059,8 @@
       ],
       "links_in": [
         "directory/Atles/Pilixa.md",
-        "directory/LastSerai/IronPot6-body.md"
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "lastmod": "2026-W42",
       "sha": "44030ef6",

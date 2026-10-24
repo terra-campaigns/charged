@@ -11,9 +11,10 @@ title: RRR
 role: Reckless Red Ritualists
 status: 
 hooks: What was the RRR summoning?
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun_-_Google_Art_Project.jpg" target="_blank">The Great Red Dragon and the Woman Clothed with the Sun (c. 1805–1810)</a> by William Blake, Brooklyn Museum.
 
 images: 
-- ../../imgs/gallery/Pasted%20image%2020250620111714.png
+- ../../imgs/gallery/rrr_great_red_dragon_vomish_hallucination.jpg
 ---
 
 {% include header_directories.md %}
