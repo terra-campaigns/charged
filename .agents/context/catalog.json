@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-24T09:10:09+02:00",
+  "generated": "2026-10-24T10:46:15+02:00",
   "tier": 1,
-  "total_entries": 105,
+  "total_entries": 106,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -52,6 +52,31 @@
       ],
       "lastmod": "2026-W16",
       "sha": "eb0d5e78",
+      "tier": 1
+    },
+    {
+      "path": "directory/PorcelainCitadel/RBL-HMC.md",
+      "title": "RBL-HMC",
+      "type": "faction",
+      "parent": "Porcelain Citadel (4)",
+      "role": "Rainbowlanders of the Houses of Many Colours",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Expatriate guild-settlement of artisans, glaze-cookers, and scrap-dealers dwelling in the shadow of the [Porcelain Citadel](index.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/TamHR.md",
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "b65d1728",
       "tier": 1
     },
     {
@@ -379,6 +404,7 @@
       "summary": "The unmarked white surface of the great citadel, uplifted like an imprecation against the fanciful gods serves as a reminder that not all that has fallen has died.",
       "links_out": [
         "campaigns/UVG24XX/index.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -426,6 +452,7 @@
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
         "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -467,7 +494,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "7f9bd181",
+      "sha": "b4d63140",
       "tier": 1
     },
     {
@@ -1976,6 +2003,7 @@
         "directory/LowRoadHigh/RRR.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/PorcelainCitadel/index.md",
         "directory/PotsherdCrater/index.md",
         "directory/VioletCity/LastChairSaloon.md",
@@ -2243,7 +2271,8 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
-        "directory/LastSerai/IronPot6-body.md"
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/PorcelainCitadel/RBL-HMC.md"
       ],
       "lastmod": "2026-W42",
       "sha": "8cab23c6",
@@ -2704,7 +2733,8 @@
       "links_in": [
         "campaigns/UVG24XX/ep_008.md",
         "campaigns/UVG24XX/ep_010.md",
-        "directory/Atles/Minuit.md"
+        "directory/Atles/Minuit.md",
+        "directory/PorcelainCitadel/RBL-HMC.md"
       ],
       "lastmod": "2026-W21",
       "sha": "62f6392c",
@@ -2796,13 +2826,15 @@
         "directory/Atles/TamHR.md",
         "directory/LastSerai/index.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/PorcelainCitadel/index.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_009.md"
+        "campaigns/UVG24XX/ep_009.md",
+        "directory/PorcelainCitadel/RBL-HMC.md"
       ],
       "lastmod": "2026-W26",
-      "sha": "0db8cccb",
+      "sha": "f9ff4ed9",
       "tier": 1
     },
     {

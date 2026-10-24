@@ -32,7 +32,7 @@ all that has fallen has died.
 
 ## Houses of Many Colours
 
-Half-dugout Rainbowlander homes and workshops.
+Half-dugout [Rainbowlander](RBL-HMC.md) homes and workshops.
 The colour of the porcelain used indicates the state and city
 of origin.
 
