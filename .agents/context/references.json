@@ -3,7 +3,7 @@
   "tier": 3,
   "campaign": "charged",
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
-  "total_sources": 11,
+  "total_sources": 12,
   "sources": [
     {
       "slug": "2400_exiles",
@@ -313,6 +313,32 @@
           "level": 2,
           "heading": "Contents & Vignette Index",
           "line": 6
+        }
+      ]
+    },
+    {
+      "slug": "dungeon_full_of_monsters",
+      "title": "Dungeon Full of Monsters (2E)",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/modules/NightmaresUnderneath-DungeonFullOfMonsters-2E.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/dungeon_full_of_monsters.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Structure",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Key Dungeon Sectors & Campaign Connections",
+          "line": 15
+        },
+        {
+          "level": 2,
+          "heading": "Major Factions & Creature Stat Blocks",
+          "line": 51
         }
       ]
     }
