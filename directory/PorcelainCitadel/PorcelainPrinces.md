@@ -55,4 +55,8 @@ Their true hunger is not for coin, but for novel neural implants, biomechanical 
 
 - **[Angel 22-unity](../LastSerai/Angel22-unity.md)**: 22-body Porcelain Prince stationed at [The Last Serai](../LastSerai/index.md). Rich, excessively polite, and militantly bigoted.
 - **[Iron Pot 6-body](../LastSerai/IronPot6-body.md)**: 6-body Porcelain Prince encased in atmospheric iron chassis.
-- **[Bone Kaolin](BoneKaolin.md)**: 2-body prospector Prince operating out of the [Porcelain Citadel](index.md).
+- **[Bone Kaolin](BoneKaolin.md)**: 2-body prospector Prince operating out of the [Porcelain Citadel](index.md) and decaying remnant of the [Ascendant Church of Flesh](AscendantChurchOfFlesh.md).
+
+## Sub-Orders & Cults
+
+- **[Ascendant Church of Flesh](AscendantChurchOfFlesh.md)**: A radical biomantic death cult originating from within the Princes, dedicated to consuming single-use bodies in search of ecstatic psychic ascension.

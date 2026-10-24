@@ -1,8 +1,34 @@
 {
-  "generated": "2026-10-24T12:41:33+02:00",
+  "generated": "2026-10-24T15:06:11+02:00",
   "tier": 1,
-  "total_entries": 110,
+  "total_entries": 111,
   "entries": [
+    {
+      "path": "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+      "title": "Ascendant Church of Flesh",
+      "type": "faction",
+      "parent": "Porcelain Princes",
+      "role": "Biomantic Death Cult of the Porcelain Citadel",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "An esoteric biomantic death cult originating as a radical heresy within the ranks of the [Porcelain Princes](PorcelainPrinces.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/RiseGhost.md",
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "3b5ea47d",
+      "tier": 1
+    },
     {
       "path": "directory/Atles/index.md",
       "title": "Atles' Catlord Caravan",
@@ -69,6 +95,7 @@
         "directory/LastSerai/Angel22-unity.md",
         "directory/LastSerai/IronPot6-body.md",
         "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
         "directory/PorcelainCitadel/index.md",
         "directory/SpectrumPalace/SpectrumSatraps.md",
@@ -76,11 +103,12 @@
         "trading/TG01_Alchemical_lubricants.md"
       ],
       "links_in": [
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "3b909352",
+      "sha": "e5c16704",
       "tier": 1
     },
     {
@@ -538,6 +566,7 @@
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
         "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/SpectrumPalace/SpectrumSatraps.md",
@@ -2116,6 +2145,7 @@
         "directory/LowRoadHigh/RHV.md",
         "directory/LowRoadHigh/RRR.md",
         "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/RBL-HMC.md",
@@ -2404,17 +2434,19 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "Decayed remnant of the Ascendant Church of Flesh, a death cult. Purchases single-use bodies.",
+      "summary": "Decayed remnant of the [Ascendant Church of Flesh](AscendantChurchOfFlesh.md), a death cult. Purchases single-use bodies.",
       "links_out": [
         "campaigns/UVG24XX/index.md",
-        "directory/Atles/RiseGhost.md"
+        "directory/Atles/RiseGhost.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "9b48e66c",
+      "sha": "c84b40c4",
       "tier": 1
     },
     {
@@ -2782,6 +2814,7 @@
         "campaigns/UVG24XX/ep_005.md",
         "campaigns/UVG24XX/ep_006.md",
         "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/BoneKaolin.md"
       ],
       "lastmod": "2026-W16",
@@ -2950,6 +2983,7 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_009.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/RBL-HMC.md"
       ],
       "lastmod": "2026-W42",
