@@ -25,7 +25,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 [index](../../campaigns/UVG24XX/index.md)
 
-Exiles from the Red Dragon Cult, from the Dragon Fort west of XII Fallen Umber. Notebook pg. 10A.
-
 {% endcomment %}
+
+Exiles from the [Red Dragon Cult](../FallenUmber/RedDragonCult.md), from the Dragon Fort west of [Fallen Umber](../FallenUmber/index.md).
 

@@ -15,6 +15,7 @@ status:
 hooks: Cosmic scales have been traded here.
 
 images: 
+- ../../imgs/gallery/Pasted%20image%2020261024105806.png
 
 ---
 

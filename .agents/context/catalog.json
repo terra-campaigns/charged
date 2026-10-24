@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-24T10:46:15+02:00",
+  "generated": "2026-10-24T10:58:13+02:00",
   "tier": 1,
-  "total_entries": 106,
+  "total_entries": 107,
   "entries": [
     {
       "path": "directory/Atles/index.md",
@@ -88,15 +88,40 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": null,
+      "summary": "Exiles from the [Red Dragon Cult](../FallenUmber/RedDragonCult.md), from the Dragon Fort west of [Fallen Umber](../FallenUmber/index.md).",
       "links_out": [
-        "campaigns/UVG24XX/index.md"
+        "campaigns/UVG24XX/index.md",
+        "directory/FallenUmber/RedDragonCult.md",
+        "directory/FallenUmber/index.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_001.md"
+        "campaigns/UVG24XX/ep_001.md",
+        "directory/FallenUmber/RedDragonCult.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "a209e6c1",
+      "sha": "a6407128",
+      "tier": 1
+    },
+    {
+      "path": "directory/FallenUmber/RedDragonCult.md",
+      "title": "Red Dragon Cult",
+      "type": "faction",
+      "parent": "Fallen Umber (12)",
+      "role": "Cult of the Dragon Fort",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Located near [Fallen Umber](index.md).",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/FallenUmber/index.md",
+        "directory/LowRoadHigh/RRR.md"
+      ],
+      "links_in": [
+        "directory/LowRoadHigh/RRR.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "43d1c5cb",
       "tier": 1
     },
     {
@@ -174,10 +199,12 @@
         "campaigns/UVG24XX/index.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_003.md"
+        "campaigns/UVG24XX/ep_003.md",
+        "directory/FallenUmber/RedDragonCult.md",
+        "directory/LowRoadHigh/RRR.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "d19056f1",
+      "sha": "fe3a2b75",
       "tier": 1
     },
     {
@@ -1982,6 +2009,7 @@
         "directory/Atles/Xulio.md",
         "directory/Atles/index.md",
         "directory/DeathFacingPassage/index.md",
+        "directory/FallenUmber/RedDragonCult.md",
         "directory/FallenUmber/index.md",
         "directory/FoldedBelow/IridescentGlobes.md",
         "directory/FoldedBelow/ManEatingMolusc.md",
@@ -2833,7 +2861,7 @@
         "campaigns/UVG24XX/ep_009.md",
         "directory/PorcelainCitadel/RBL-HMC.md"
       ],
-      "lastmod": "2026-W26",
+      "lastmod": "2026-W42",
       "sha": "f9ff4ed9",
       "tier": 1
     },
