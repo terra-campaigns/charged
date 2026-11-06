@@ -26,6 +26,8 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 [index](../../campaigns/UVG24XX/index.md)
 
+{% endcomment %}
+
 The 360 original flaming telepaths who dwell as creatures of coherent light within the aurorae and crystal lattices of the [Spectrum Palace](index.md).
 
 Unclad, a Satrap burns like a pocket star, blinding all who look upon them before evaporating into thin ether within minutes.
@@ -54,8 +56,6 @@ While the Princes govern the eastern approach near the [Porcelain Citadel](../Po
 
 Along the central trail, they project influence through fortified outposts and extra-territorial embassies:
 
-- **Final Embassy of the Satraps**: Maintained at [The Last Serai](../LastSerai/index.md). It was here that the Atles caravan paid tribute to consult the resident Satrap seer regarding the fate of the [Harmonium](../LastSerai/Harmonium.md) ([ep_011](../../campaigns/UVG24XX/ep_011.md)).
+- **Final Embassy of the Satraps**: Maintained at [The Last Serai](../LastSerai/index.md). It houses their resident seer (a swollen-headed oracle floating in nutrient oils whose prophecies are notoriously, unfailingly inverted) and fixers/foremen who broker wetwork contracts for standard currency ([ep_011](../../campaigns/UVG24XX/ep_011.md)).
 - **Full Spectrum Embassy**: Located further along the trail near [Fallen Umber](../FallenUmber/index.md).
 - **The Spectrum Lodge**: A rest-stop and mission compound situated near the Near Moon.
-
-{% endcomment %}

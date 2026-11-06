@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T15:06:11+02:00",
+  "generated": "2026-11-06T13:07:14+01:00",
   "tier": 1,
   "total_entries": 111,
   "entries": [
@@ -190,23 +190,24 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": null,
+      "summary": "The 360 original flaming telepaths who dwell as creatures of coherent light within the aurorae and crystal lattices of the [Spectrum Palace](index.md).",
       "links_out": [
         "campaigns/UVG24XX/ep_011.md",
         "campaigns/UVG24XX/index.md",
         "directory/FallenUmber/index.md",
-        "directory/LastSerai/Harmonium.md",
         "directory/LastSerai/index.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/index.md",
         "directory/SpectrumPalace/index.md"
       ],
       "links_in": [
+        "directory/Atles/Kur.md",
+        "directory/LastSerai/IronPot6-body.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/SpectrumPalace/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "63b56ef1",
+      "sha": "c4c39461",
       "tier": 1
     },
     {
@@ -310,8 +311,7 @@
         "campaigns/UVG24XX/ep_009.md",
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
-        "directory/LastSerai/Angel22-unity.md",
-        "directory/SpectrumPalace/SpectrumSatraps.md"
+        "directory/LastSerai/Angel22-unity.md"
       ],
       "lastmod": "2026-W26",
       "sha": "30f335f3",
@@ -2560,15 +2560,17 @@
       "links_out": [
         "campaigns/UVG24XX/ep_011.md",
         "campaigns/UVG24XX/index.md",
-        "directory/LastSerai/Angel22-unity.md"
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
+        "directory/Atles/Kur.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "10760351",
+      "sha": "2cd5314b",
       "tier": 1
     },
     {
@@ -2624,8 +2626,11 @@
       "nav_order": "3025-05-15",
       "summary": "**What do you always carry with you?** Copper star incised with naughty limericks. **You have an additional experience:** Professional citizen—high expectations (Chemistry increased to d8 when relevant). **You have another experience:** Outcast—an illegal on society’s edge (Gun Running increased to d8 when relevant). **Why are you on the road?** [Their aged clone](Barista.md) whispered prophecies (increased Oldtech).",
       "links_out": [
+        "campaigns/UVG24XX/ep_011.md",
         "campaigns/UVG24XX/index.md",
-        "directory/Atles/Barista.md"
+        "directory/Atles/Barista.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_001.md",
@@ -2637,7 +2642,7 @@
         "directory/Atles/Barista.md"
       ],
       "lastmod": "2026-W16",
-      "sha": "e85baaed",
+      "sha": "52e248df",
       "tier": 1
     },
     {
@@ -3092,12 +3097,13 @@
         "directory/PorcelainCitadel/index.md"
       ],
       "links_in": [
+        "directory/Atles/Kur.md",
         "directory/Atles/Pilixa.md",
         "directory/LastSerai/IronPot6-body.md",
         "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "44030ef6",
+      "sha": "1a293fc0",
       "tier": 1
     },
     {
