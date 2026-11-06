@@ -10,7 +10,6 @@ parent: Low Road and High (2)
 title: RRR
 role: Reckless Red Ritualists
 status: 
-hooks: What was the RRR summoning?
 footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:William_Blake_-_The_Great_Red_Dragon_and_the_Woman_Clothed_with_the_Sun_-_Google_Art_Project.jpg" target="_blank">The Great Red Dragon and the Woman Clothed with the Sun (c. 1805–1810)</a> by William Blake, Brooklyn Museum.
 
 images: 
@@ -29,4 +28,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 Exiles from the [Red Dragon Cult](../FallenUmber/RedDragonCult.md), from the Dragon Fort west of [Fallen Umber](../FallenUmber/index.md).
+
+Caravanners along the Low Road whisper of their reckless roadside rites, wondering what many-tentacled horror or dead god their ceremonies were meant to summon.
 
