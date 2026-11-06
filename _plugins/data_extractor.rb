@@ -7,7 +7,11 @@ require 'digest'
 require 'time'
 require 'fileutils'
 
-module Charged
+# Ensure UTF-8 is default external/internal encoding even in bare GUI or subshell environments
+Encoding.default_external = Encoding::UTF_8 if defined?(Encoding)
+Encoding.default_internal = Encoding::UTF_8 if defined?(Encoding)
+
+module OudeMechanismen
   class DataExtractor
     def self.extract(base_dir = Dir.pwd, write_catalog: true)
       lastmod = {}
@@ -164,13 +168,13 @@ module Charged
 
         # 4. Build Tier 1 Semantic Catalogue
         catalog_config_path = File.join(base_dir, ".agents/context/tier1_sources.yml")
-        include_paths = []
-        exclude_paths = []
+        include_paths = ["campaigns", "directory", "systems", "statblocks", "trading"]
+        exclude_paths = ["_inklings.md", "_TODO.md", "_notions.md"]
         if File.exist?(catalog_config_path)
           begin
-            cfg = YAML.safe_load(File.read(catalog_config_path), permitted_classes: [Date, Time]) || {}
-            include_paths = (cfg['include_paths'] || []).map { |p| p.chomp('/') }
-            exclude_paths = (cfg['exclude_paths'] || []).map { |p| p.chomp('/') }
+            cfg = YAML.safe_load(File.read(catalog_config_path, encoding: 'utf-8'), permitted_classes: [Date, Time]) || {}
+            include_paths = (cfg['include_paths'] || include_paths).map { |p| p.chomp('/') }
+            exclude_paths = (cfg['exclude_paths'] || exclude_paths).map { |p| p.chomp('/') }
           rescue => e
             warn "Could not read tier1_sources.yml: #{e.message}"
           end
@@ -205,10 +209,29 @@ module Charged
           clean_body = body.gsub(/{%\s*comment\s*%}.*?{%\s*endcomment\s*%}/m, '')
           clean_body = clean_body.gsub(/{%.*?%}/m, '').gsub(/\{\{.*?\}\}/m, '')
           clean_body = clean_body.gsub(/\{:\s*\..*?\s*\}/, '')
-          clean_body = clean_body.lines.reject { |l| l =~ /^\s*#/ }.join
-          paragraphs = clean_body.split(/\n\s*\n/).map(&:strip).reject(&:empty?)
-          first_p = paragraphs.find { |p| !p.start_with?("```") && !p.start_with?("---") }
-          summary = first_p ? first_p.gsub(/\s+/, ' ').strip : nil
+
+          prose_body = clean_body.gsub(/```.*?```/m, '')
+          prose_body = prose_body.gsub(/!\[.*?\]\(.*?\)/, '')
+          prose_body = prose_body.lines.reject { |l| l =~ /^\s*#/ }.join
+          paragraphs = prose_body.split(/\n\s*\n/).map(&:strip).reject(&:empty?)
+          first_p = paragraphs.find do |p|
+            next false if p.start_with?("---")
+            next false if p.downcase.include?("english version below")
+            true
+          end
+
+          summary = if first_p
+                      first_p.gsub(/\s+/, ' ').strip
+                    else
+                      # Fallback for dot-matrix / ASCII dossiers with text enclosed in code blocks
+                      dossier_fields = []
+                      body.scan(/(?:SPECIALITY|ORIGIN|PATCH|PHYSICAL NOTES|VICE|VOCAL PATTERN)\.{2,}:[ \t]*([^\r\n]+)/i) do |val|
+                        cleaned_val = val[0].strip
+                        next if cleaned_val.empty? || cleaned_val.include?('..') || cleaned_val.start_with?('---')
+                        dossier_fields << cleaned_val
+                      end
+                      dossier_fields.any? ? dossier_fields.join(' | ') : nil
+                    end
 
           catalog_entries << {
             "path" => file_path,
@@ -217,7 +240,7 @@ module Charged
             "parent" => fm['parent'],
             "role" => fm['role'],
             "status" => fm['status'],
-            "region" => fm['region'],
+            "region" => fm['region'] || fm['location'],
             "nav_order" => fm['nav_order'] ? fm['nav_order'].to_s : nil,
             "summary" => summary,
             "links_out" => internal_outbound[file_path].sort,
@@ -238,7 +261,7 @@ module Charged
         generated_time = Time.now.iso8601
         if File.exist?(catalog_file)
           begin
-            existing = JSON.parse(File.read(catalog_file))
+            existing = JSON.parse(File.read(catalog_file, encoding: 'utf-8'))
             if existing["entries"] == sorted_entries
               should_write = false
               generated_time = existing["generated"] || generated_time
@@ -259,7 +282,8 @@ module Charged
           FileUtils.mkdir_p(out_dir) unless Dir.exist?(out_dir)
           File.write(
             catalog_file,
-            JSON.pretty_generate(catalog_data)
+            JSON.pretty_generate(catalog_data),
+            encoding: 'utf-8'
           )
         end
 
@@ -281,7 +305,7 @@ if defined?(Jekyll) && defined?(Jekyll::Generator)
       priority :lowest
 
       def generate(site)
-        result = Charged::DataExtractor.extract(site.source, write_catalog: true)
+        result = OudeMechanismen::DataExtractor.extract(site.source, write_catalog: true)
         site.data['lastmod'] = result[:lastmod]
         site.data['markdown_links'] = { 'file' => result[:markdown_links] }
         site.data['gallery_links'] = { 'file' => result[:gallery_links] }
@@ -293,7 +317,7 @@ if defined?(Jekyll) && defined?(Jekyll::Generator)
 end
 
 if __FILE__ == $0
-  puts "Running standalone Charged::DataExtractor..."
-  result = Charged::DataExtractor.extract(Dir.pwd, write_catalog: true)
+  puts "Running standalone OudeMechanismen::DataExtractor..."
+  result = OudeMechanismen::DataExtractor.extract(Dir.pwd, write_catalog: true)
   puts "Successfully extracted data and wrote #{result[:catalog]['total_entries']} Tier 1 entries to .agents/context/catalog.json."
 end

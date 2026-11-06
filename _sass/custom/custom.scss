@@ -42,6 +42,17 @@ tbody tr:last-of-type td{
 font-size: 1.0rem;
 }
 
+/* Gallery presentation */
+.image-gallery a img,
+.image-gallery2 a img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.image-gallery a span {
+  display: none;
+}
+
 /* Calendar */
 .calendar-container {
   display: grid;

@@ -9,9 +9,10 @@ parent: The Last Serai (8)
 title: Angel 22-unity
 role: 22-body Porcelain Prince
 status: 
-footer_content: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Pietro_longhi%2C_colloquio_tra_baute%2C_01.jpg" target="_blank">Colloquio tra baute (c. 1760)</a> by Pietro Longhi, Ca' Rezzonico, Venice (photo via Wikimedia Commons, CC BY 3.0).
 
 images: 
+- ../../imgs/gallery/angel_22_unity_ultraviolet_resonance.jpg
 
 ---
 

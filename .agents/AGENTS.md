@@ -69,6 +69,7 @@ Later-earth retro psychedelic science fantasy.
 - For Tier 3 setting lore or procedures, consult `charged/_digests/*.md` via `.agents/context/references.json` before opening raw PDFs.
 - Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
 - Regenerate the Tier 1 catalogue manually with `ruby --disable-gems _plugins/data_extractor.rb` or automatically upon git commit.
+- For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`llama3.2:latest` or `llama3.1:latest`) over `localhost:11434`, always enforcing British English in prompt instructions.
 
 ## UVG+24XX Campaign Details
 
@@ -85,6 +86,49 @@ Default travel pressure: the road offers profit, hunger, monsters, bad informati
 Default technology pressure: oldtech and vomish systems are useful but invasive.
 Default social texture: trade, permits, coffee, cats, caste failure, debt contracts, strange professional skills, and merchant absurdity.
 Default metaphysics: the world is far after many old worlds and still full of machines that behave like spirits.
+
+## Campaign Specification
+
+### Style & Tone
+
+- Genre: Later-earth retro psychedelic science fantasy (Moebius, Miyazaki, Gene Wolfe, Jack Vance).
+- Cadence: Wolfean anchor-and-veil cadence (concrete sensory anchors paired with philosophical detachment; 80/20 clarity-to-obscurity ratio). One sentence per line when practical.
+- Vocabulary: Strange commerce, decadent bureaucracy, soft body horror, oldtech relics, absurd debt, broken futurity, beautiful ruins.
+
+### Reference Material (for Deep Reviews & Lore)
+
+- Root Path: `.agents/context/tier1_sources.yml` (`drive_dir`)
+- Priority Sources:
+  1. `UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf` — primary setting voice.
+  2. `2400_Xot_v1.2_singles.pdf` — 24XX mechanics layer.
+  3. `Electric_Bastionland_v2.pdf` — debt framework, spark tables, ICI doctrine.
+  4. `Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf` — mechanical voice.
+
+### Calibration Examples
+
+- Too flat: "The village is a place where retired caravan workers live. It has shops that sell used equipment."
+- Too purple: "The village breathes with the dying exhalations of a thousand caravans, its market stalls dripping with the psychic residue of ten thousand journeys across the screaming wastes."
+- In voice: "Village-camp of retired caravanserais that were not posh enough to retire in Violet City. It is a good place to trade for used caravan equipment and animals."
+- Too flat: "The creature has many eyes and mouths and tries to eat her arm."
+- In voice: "Shaggy opens its multitude of eyes and mouths within tongues within mouths within tongues. It tries to swallow her arm."
+
+### Structural & Procedural Defaults
+
+- Default Campaign Subfolder: `campaigns/UVG24XX/`
+- Campaign Hub Page: `[index](../../directory/Atles/index.md)`
+- Character Archetypes / Vocations: Redland bourgeoise mendicant healer, Wildfolk cult bio-mechanic, Financier from Banco de Aventuras, Caravaner, Porcelain agent.
+- Session Prep Mode: Caravan Expedition / Overland Trail / Trade Skews
+- VTT & Spatial Records: [Ultraviolet Grasslands Owlbear Rodeo map](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
+- Session Prep Sourcebook Tables:
+  - Hazards (Step 3): `uvg_2e_core.md` (*Luck of the Road* d20 table) + 24XX mechanics.
+  - Encounters (Step 4): Small Tables framework + *The Metamorphica (Revised)* (`*After The Fall*` mutants, pp. 157–180).
+  - Artefacts (Step 5): UVG relic tables + *The Metamorphica (Revised)* (`*Ficto-Technica*` generator, pp. 181–220) + Gene Wolfe four-phase naming protocol.
+- PC Background Questions (add-character):
+  1. `**Why are you on the road?**`
+  2. `**What is your signature item?**`
+  3. `**[Background Trait / Machine Interface / Star Sign / Family Connexion]:**`
+  4. `**What disaster have you survived?**`
+  5. Debt contract: `You have to repay € [Amount] to [Creditor / Patron] by the end of the caravan season.`
 
 ## Markdown And Obsidian Conventions
 
@@ -137,10 +181,12 @@ There are no longer generated data files saved to `_data/`. The data for links, 
 - Preserve the dual use of the repo: it must remain pleasant in Obsidian and buildable as a website.
 - If a request touches prose and mechanics, maintain both flavour and table usability.
 - When connecting entities (PCs, NPCs, factions, or locations), always ask the user for the specific relationship type or reason and whether the link should be bidirectional, rather than assuming or inventing the nature of the connection.
+- **Pull Request & Branch Protection:** Direct commits and pushes to `main` are strictly prohibited. All changes must arrive via dedicated feature branches (`<handle>/<feature>`) and Pull Requests.
+- **Branch Lifecycle:** Feature branches must be deleted immediately after their corresponding Pull Request is merged or closed. Never retain merged remote or local feature branches.
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
 
-When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
+When creating raw context dumps (e.g., `all-content`) for LLM ingestion in a static site:
 - **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
 - **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
 - **Do not strip HTML**: Never strip HTML tags just to make a `.txt` file human-readable. LLMs rely on those tags for structure. The `.html` extension solves both problems by rendering the tags nicely in the browser while preserving them in the source code for the LLM.

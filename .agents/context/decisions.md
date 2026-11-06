@@ -15,6 +15,8 @@ Rulings, lore rulings, and conversational decisions established with the GM. Out
   - *80/20 Clarity-to-Obscurity Ratio*: Maintain syntactic transparency and declarative economy across 80% of the sentence. Limit obscure or archaic terms to 20% (one or two precise nouns per sentence) to prevent purple parody.
   - *Clinical Detachment*: Treat grotesque body horror, executions, and strange technologies with surgical, professional nonchalance rather than melodramatic flourish. (Reference: [`_digests/gene_wolfe_solar_cycle_analysis.md`](file:///Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My%20Drive/RPG/campaigns/charged/_digests/gene_wolfe_solar_cycle_analysis.md#L24-L27))
 
+- **2026-10-28 — Iron Pot 6-body & The Foreman's Armour:** The Satrap embassy foreman contracted by the caravan attempted the hit on Iron Pot's sixth body. Iron Pot slew the foreman in the clash but sustained severe joint damage (a pronounced limp) and looted/retrofitted the foreman's gear—appearing in the subsequent session clad in scavenged Satrapy armour (steel-glass scales / mirrored combat plating). Kur still holds the €100 paper receipt linking the caravan to the assassination contract.
+
 
 ## Archived or Formalised Rulings
 

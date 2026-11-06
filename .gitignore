@@ -27,5 +27,9 @@ _data/gallery_links.json
 _data/lastmod.json
 _data/markdown_links.json
 
+# Python cache
+__pycache__/
+*.pyc
+
 # Local agent venv
 .agents/venv/

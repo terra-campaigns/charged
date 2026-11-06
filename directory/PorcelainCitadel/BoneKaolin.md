@@ -13,7 +13,7 @@ footer_content:
 
 images: 
 - ../../imgs/gallery/Pasted%20image%2020260530114821.png
-- 
+
 ---
 
 {% include header_directories.md %}
@@ -26,7 +26,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [index](../../campaigns/UVG24XX/index.md)
 {% endcomment %}
 
-Decayed remnant of the Ascendant Church of Flesh, a death cult.
+Decayed remnant of the [Ascendant Church of Flesh](AscendantChurchOfFlesh.md), a death cult.
 Purchases single-use bodies.
 
 Gave two miniature porcelain masks to [Rise Ghost](../Atles/RiseGhost.md) — and declared him their third body.

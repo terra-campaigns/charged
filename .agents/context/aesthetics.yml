@@ -1,0 +1,110 @@
+# Campaign Aesthetics Configuration for Charged (UVG + 24XX)
+# Used by the illustrate-entry skill to style archival imagery into campaign artwork.
+
+name: "Charged"
+genre: "Later-earth retro-psychedelic science fantasy"
+influences:
+  - "Moebius (Jean Giraud)"
+  - "Jack Vance"
+  - "Gene Wolfe"
+  - "Hayao Miyazaki"
+  - "Psychedelic Heavy Metal"
+
+default_output_dir: "imgs/gallery"
+
+presets:
+  ultraviolet_resonance:
+    label: "Ultraviolet Resonance"
+    description: "Signature UVG palette: deep void purple, royal ultraviolet, hot carmine pink, solar amber, and kaolin cream."
+    ramp:
+      - [0.00, "#0c001a"]
+      - [0.18, "#320654"]
+      - [0.40, "#8c0d68"]
+      - [0.62, "#db1f6e"]
+      - [0.82, "#f59220"]
+      - [0.94, "#fed854"]
+      - [1.00, "#fffdf0"]
+    bg_ramp:
+      - [0.00, "#15002b"]
+      - [0.30, "#3d0959"]
+      - [0.65, "#1b1b42"]
+      - [0.85, "#6a1882"]
+      - [1.00, "#d154b8"]
+    inking:
+      sigma1: 1.0
+      sigma2: 2.8
+      threshold: 2.2
+      span: 5.0
+    chromatic_aberration: 5
+    radial_burst:
+      num_rays: 32
+      ray_contrast: 0.4
+    flares:
+      enabled: true
+      size: 130
+      color: [255, 235, 175]
+      spikes: 8
+
+  moebius_steppe:
+    label: "Moebius Steppe"
+    description: "French sci-fi graphic novel: burnt sienna and brass armour against an acid turquoise desert sky, with risograph stipple grain."
+    ramp:
+      - [0.00, "#150906"]
+      - [0.20, "#661b18"]
+      - [0.45, "#b84422"]
+      - [0.70, "#db8c2c"]
+      - [0.88, "#f5d05f"]
+      - [1.00, "#fffef2"]
+    bg_ramp:
+      - [0.00, "#1b414d"]
+      - [0.40, "#2b7888"]
+      - [0.70, "#53bdae"]
+      - [0.90, "#a5e4d4"]
+      - [1.00, "#f9f1d8"]
+    inking:
+      sigma1: 1.0
+      sigma2: 2.8
+      threshold: 2.0
+      span: 4.5
+    grain_sigma: 6.0
+    radial_burst:
+      num_rays: 20
+      ray_contrast: 0.3
+    flares:
+      enabled: true
+      size: 95
+      color: [255, 245, 210]
+      spikes: 6
+
+  vomish_hallucination:
+    label: "Vomish Hallucination"
+    description: "Maximalist psychedelic trip: electric void amethyst, fluorescent carmine, cyber cyan, liquid mirage wave, and 360-degree ocular beams."
+    ramp:
+      - [0.00, "#060012"]
+      - [0.18, "#3d0269"]
+      - [0.38, "#05a8cc"]
+      - [0.60, "#f7057e"]
+      - [0.82, "#ffe314"]
+      - [1.00, "#ffffff"]
+    bg_ramp:
+      - [0.00, "#100024"]
+      - [0.30, "#560bad"]
+      - [0.65, "#b5179e"]
+      - [0.85, "#4895ef"]
+      - [1.00, "#4cc9f0"]
+    inking:
+      sigma1: 1.0
+      sigma2: 2.8
+      threshold: 2.2
+      span: 5.0
+    chromatic_aberration: 10
+    mirage_wave:
+      amplitude: 7.0
+      wavelength: 100.0
+    flares:
+      enabled: true
+      size: 150
+      color: [255, 255, 255]
+      spikes: 12
+      ocular_beams: true
+      beam_count: 24

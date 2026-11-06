@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+# Prevent accidental direct pushes to the main branch.
+REMOTE="$1"
+URL="$2"
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+  if [ "$remote_ref" = "refs/heads/main" ]; then
+    # Allow deletion of remote branch if ever attempted
+    if [ "$local_sha" = "0000000000000000000000000000000000000000" ] || [ -z "$local_sha" ]; then
+      continue
+    fi
+    echo "\n[ERROR] Direct pushes to 'main' on '$REMOTE' are prohibited." >&2
+    echo "All changes must arrive via Pull Requests. Please push to a feature branch instead.\n" >&2
+    exit 1
+  fi
+done
+
+exit 0

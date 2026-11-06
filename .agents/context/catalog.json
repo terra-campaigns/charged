@@ -1,8 +1,34 @@
 {
-  "generated": "2026-10-20T00:28:01+02:00",
+  "generated": "2026-11-06T13:32:41+01:00",
   "tier": 1,
-  "total_entries": 101,
+  "total_entries": 111,
   "entries": [
+    {
+      "path": "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+      "title": "Ascendant Church of Flesh",
+      "type": "faction",
+      "parent": "Porcelain Princes",
+      "role": "Biomantic Death Cult of the Porcelain Citadel",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "An esoteric biomantic death cult originating as a radical heresy within the ranks of the [Porcelain Princes](PorcelainPrinces.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/RiseGhost.md",
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "3b5ea47d",
+      "tier": 1
+    },
     {
       "path": "directory/Atles/index.md",
       "title": "Atles' Catlord Caravan",
@@ -12,7 +38,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": null,
+      "summary": "The live expedition supplies, vehicles, sacks, personnel, and debt contracts for the caravan are tracked in the [UVG Atles Caravan Ledger](https://docs.google.com/spreadsheets/d/1TEx8ZmBq90Tyms3u5eVlM2OqpUIemsj6c04rmNXxg94/edit).",
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
@@ -28,8 +54,8 @@
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md"
       ],
-      "lastmod": "2026-W16",
-      "sha": "1551d7f3",
+      "lastmod": "2026-W42",
+      "sha": "9eaaaad4",
       "tier": 1
     },
     {
@@ -55,6 +81,62 @@
       "tier": 1
     },
     {
+      "path": "directory/PorcelainCitadel/PorcelainPrinces.md",
+      "title": "Porcelain Princes",
+      "type": "faction",
+      "parent": "Porcelain Citadel (4)",
+      "role": "Polybody Oligarchs of the Kaolin Towers",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Not-quite-liches of the [Porcelain Citadel](index.md) who have cheated mortal rot by dividing their living sentience across distributed physical hulls.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+        "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
+        "directory/VioletCity/index.md",
+        "trading/TG01_Alchemical_lubricants.md"
+      ],
+      "links_in": [
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "e5c16704",
+      "tier": 1
+    },
+    {
+      "path": "directory/PorcelainCitadel/RBL-HMC.md",
+      "title": "RBL-HMC",
+      "type": "faction",
+      "parent": "Porcelain Citadel (4)",
+      "role": "Rainbowlanders of the Houses of Many Colours",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Expatriate guild-settlement of artisans, glaze-cookers, and scrap-dealers dwelling in the shadow of the [Porcelain Citadel](index.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_008.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/Atles/TamHR.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "links_in": [
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "66de1ae3",
+      "tier": 1
+    },
+    {
       "path": "directory/LowRoadHigh/RRR.md",
       "title": "RRR",
       "type": "faction",
@@ -63,15 +145,69 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": null,
+      "summary": "Exiles from the [Red Dragon Cult](../FallenUmber/RedDragonCult.md), from the Dragon Fort west of [Fallen Umber](../FallenUmber/index.md).",
       "links_out": [
-        "campaigns/UVG24XX/index.md"
+        "campaigns/UVG24XX/index.md",
+        "directory/FallenUmber/RedDragonCult.md",
+        "directory/FallenUmber/index.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_001.md"
+        "campaigns/UVG24XX/ep_001.md",
+        "directory/FallenUmber/RedDragonCult.md"
       ],
-      "lastmod": "2026-W16",
-      "sha": "a209e6c1",
+      "lastmod": "2026-W44",
+      "sha": "a3f6e0a4",
+      "tier": 1
+    },
+    {
+      "path": "directory/FallenUmber/RedDragonCult.md",
+      "title": "Red Dragon Cult",
+      "type": "faction",
+      "parent": "Fallen Umber (12)",
+      "role": "Cult of the Dragon Fort",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Located near [Fallen Umber](index.md).",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/FallenUmber/index.md",
+        "directory/LowRoadHigh/RRR.md"
+      ],
+      "links_in": [
+        "directory/LowRoadHigh/RRR.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "43d1c5cb",
+      "tier": 1
+    },
+    {
+      "path": "directory/SpectrumPalace/SpectrumSatraps.md",
+      "title": "Spectrum Satraps",
+      "type": "faction",
+      "parent": "Spectrum Palace (25)",
+      "role": "The 360 Radiant Telepaths of the Memorium",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "The 360 original flaming telepaths who dwell as creatures of coherent light within the aurorae and crystal lattices of the [Spectrum Palace](index.md).",
+      "links_out": [
+        "campaigns/UVG24XX/ep_011.md",
+        "campaigns/UVG24XX/index.md",
+        "directory/FallenUmber/index.md",
+        "directory/LastSerai/index.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/index.md",
+        "directory/SpectrumPalace/index.md"
+      ],
+      "links_in": [
+        "directory/Atles/Kur.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/SpectrumPalace/index.md"
+      ],
+      "lastmod": "2026-W44",
+      "sha": "c4c39461",
       "tier": 1
     },
     {
@@ -118,6 +254,24 @@
       "tier": 1
     },
     {
+      "path": "directory/DeathFacingPassage/index.md",
+      "title": "Death-Facing Passage (10)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1010",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "50b99fd6",
+      "tier": 1
+    },
+    {
       "path": "directory/FallenUmber/index.md",
       "title": "Fallen Umber (12)",
       "type": "location",
@@ -131,10 +285,13 @@
         "campaigns/UVG24XX/index.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_003.md"
+        "campaigns/UVG24XX/ep_003.md",
+        "directory/FallenUmber/RedDragonCult.md",
+        "directory/LowRoadHigh/RRR.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
-      "lastmod": "2026-W16",
-      "sha": "d19056f1",
+      "lastmod": "2026-W42",
+      "sha": "fe3a2b75",
       "tier": 1
     },
     {
@@ -361,6 +518,7 @@
       "summary": "The unmarked white surface of the great citadel, uplifted like an imprecation against the fanciful gods serves as a reminder that not all that has fallen has died.",
       "links_out": [
         "campaigns/UVG24XX/index.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -408,6 +566,10 @@
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
         "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -449,7 +611,25 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "7f9bd181",
+      "sha": "b4d63140",
+      "tier": 1
+    },
+    {
+      "path": "directory/PotsherdCrater/index.md",
+      "title": "Potsherd Crater (5)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1005",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "e8951e2a",
       "tier": 1
     },
     {
@@ -470,6 +650,27 @@
       ],
       "lastmod": "2026-W16",
       "sha": "eb486df6",
+      "tier": 1
+    },
+    {
+      "path": "directory/SpectrumPalace/index.md",
+      "title": "Spectrum Palace (25)",
+      "type": "location",
+      "parent": "Directory",
+      "role": "Seat of the Spectrum Satraps",
+      "status": null,
+      "region": null,
+      "nav_order": "1025",
+      "summary": "A drum-shaped redoubt of dull metal and rivets, thirty metres across and a hundred in circuit, nestled in a shallow saddle between unremarkable hills.",
+      "links_out": [
+        "campaigns/UVG24XX/index.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
+      ],
+      "links_in": [
+        "directory/SpectrumPalace/SpectrumSatraps.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "94988832",
       "tier": 1
     },
     {
@@ -655,6 +856,8 @@
         "directory/Atles/Pilixa.md",
         "directory/Atles/Settler.md",
         "directory/LastSerai/Angel22-unity.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -760,6 +963,7 @@
         "campaigns/UVG24XX/ep_006.md",
         "campaigns/UVG24XX/ep_007.md",
         "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
         "trading/TG01_Alchemical_lubricants.md",
@@ -805,6 +1009,24 @@
       "tier": 1
     },
     {
+      "path": "directory/WayStoneGraveyard/index.md",
+      "title": "Way Stone Graveyard (9)",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1009",
+      "summary": null,
+      "links_out": [
+        "campaigns/UVG24XX/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "8995ec21",
+      "tier": 1
+    },
+    {
       "path": "trading/TG01_Alchemical_lubricants.md",
       "title": "Alchemical lubricants",
       "type": "misc",
@@ -825,6 +1047,7 @@
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/PorcelainCitadel/index.md",
         "directory/VioletCity/index.md",
         "trading/index.md"
@@ -1034,6 +1257,22 @@
       ],
       "lastmod": "2026-W42",
       "sha": "d08b7ad5",
+      "tier": 1
+    },
+    {
+      "path": "directory/index.md",
+      "title": "Directory",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "51",
+      "summary": null,
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2026-W16",
+      "sha": "a2c654ea",
       "tier": 1
     },
     {
@@ -1770,7 +2009,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:20 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:23 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -1814,7 +2053,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "2ddb5da9",
+      "sha": "0773c9e1",
       "tier": 1
     },
     {
@@ -1831,7 +2070,7 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W40",
+      "lastmod": "2026-W42",
       "sha": "4d1e9c82",
       "tier": 1
     },
@@ -1849,7 +2088,7 @@
         "directory/VioletCity/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W40",
+      "lastmod": "2026-W42",
       "sha": "a1a272d7",
       "tier": 1
     },
@@ -1884,6 +2123,8 @@
         "directory/Atles/Vorgo.md",
         "directory/Atles/Xulio.md",
         "directory/Atles/index.md",
+        "directory/DeathFacingPassage/index.md",
+        "directory/FallenUmber/RedDragonCult.md",
         "directory/FallenUmber/index.md",
         "directory/FoldedBelow/IridescentGlobes.md",
         "directory/FoldedBelow/ManEatingMolusc.md",
@@ -1904,11 +2145,18 @@
         "directory/LowRoadHigh/RHV.md",
         "directory/LowRoadHigh/RRR.md",
         "directory/LowRoadHigh/index.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/PorcelainCitadel/index.md",
+        "directory/PotsherdCrater/index.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md",
+        "directory/SpectrumPalace/index.md",
         "directory/VioletCity/LastChairSaloon.md",
         "directory/VioletCity/LeontiVites.md",
-        "directory/VioletCity/index.md"
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "lastmod": "2026-W40",
       "sha": "8fd5dad9",
@@ -2097,7 +2345,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "output I am a [who1] [who2] that has a [thing] on the road because [why].",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W24",
@@ -2113,7 +2361,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "<p align=\"left\" > <b>[name], [who1] [who2]</b> <br> -----------<br><br> <b>Why are you on the road?</b> [why]. <br> <b>What is your signature item?</b> [thing]. <br> [quirk] <br> [quirk] <br><br>",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W24",
@@ -2129,7 +2377,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "chargedrpg_eb = {import:chargedrpg-eb} chargedrpg_uvg = {import:chargedrpg-uvg} chargedrpg_metamorphica = {import:chargedrpg-metamorphica}",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W25",
@@ -2145,7 +2393,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "<p align=\"left\" > <b>[b = background.selectOne, b.name]</b> <br><br>",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2025-W25",
@@ -2170,10 +2418,11 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
-        "directory/LastSerai/IronPot6-body.md"
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
-      "lastmod": "2026-W28",
-      "sha": "2e116c22",
+      "lastmod": "2026-W42",
+      "sha": "8cab23c6",
       "tier": 1
     },
     {
@@ -2185,16 +2434,19 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "Decayed remnant of the Ascendant Church of Flesh, a death cult. Purchases single-use bodies.",
+      "summary": "Decayed remnant of the [Ascendant Church of Flesh](AscendantChurchOfFlesh.md), a death cult. Purchases single-use bodies.",
       "links_out": [
         "campaigns/UVG24XX/index.md",
-        "directory/Atles/RiseGhost.md"
+        "directory/Atles/RiseGhost.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_008.md"
+        "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
-      "lastmod": "2026-W28",
-      "sha": "f98ed375",
+      "lastmod": "2026-W42",
+      "sha": "c84b40c4",
       "tier": 1
     },
     {
@@ -2308,14 +2560,17 @@
       "links_out": [
         "campaigns/UVG24XX/ep_011.md",
         "campaigns/UVG24XX/index.md",
-        "directory/LastSerai/Angel22-unity.md"
+        "directory/LastSerai/Angel22-unity.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_010.md",
-        "campaigns/UVG24XX/ep_011.md"
+        "campaigns/UVG24XX/ep_011.md",
+        "directory/Atles/Kur.md",
+        "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "70276638",
+      "lastmod": "2026-W44",
+      "sha": "2cd5314b",
       "tier": 1
     },
     {
@@ -2371,8 +2626,11 @@
       "nav_order": "3025-05-15",
       "summary": "**What do you always carry with you?** Copper star incised with naughty limericks. **You have an additional experience:** Professional citizen—high expectations (Chemistry increased to d8 when relevant). **You have another experience:** Outcast—an illegal on society’s edge (Gun Running increased to d8 when relevant). **Why are you on the road?** [Their aged clone](Barista.md) whispered prophecies (increased Oldtech).",
       "links_out": [
+        "campaigns/UVG24XX/ep_011.md",
         "campaigns/UVG24XX/index.md",
-        "directory/Atles/Barista.md"
+        "directory/Atles/Barista.md",
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_001.md",
@@ -2383,8 +2641,8 @@
         "campaigns/UVG24XX/ep_007.md",
         "directory/Atles/Barista.md"
       ],
-      "lastmod": "2026-W16",
-      "sha": "e85baaed",
+      "lastmod": "2026-W44",
+      "sha": "52e248df",
       "tier": 1
     },
     {
@@ -2553,7 +2811,7 @@
       "status": null,
       "region": null,
       "nav_order": "3025-05-15",
-      "summary": "![](../../imgs/gallery/Pasted%20image%2020250905172811.png)",
+      "summary": "**Why are you on the road?** Paintings of a gorgeous cyan seaside. **What is your signature item?** Rainbow unicorn horn. **You have a sign of the Fast Stars:** Chosen. An override jewel in their head. **What is your biomantic omen?**: Oldtech access key in their cells.",
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
@@ -2561,6 +2819,7 @@
         "campaigns/UVG24XX/ep_005.md",
         "campaigns/UVG24XX/ep_006.md",
         "campaigns/UVG24XX/ep_008.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/BoneKaolin.md"
       ],
       "lastmod": "2026-W16",
@@ -2631,7 +2890,8 @@
       "links_in": [
         "campaigns/UVG24XX/ep_008.md",
         "campaigns/UVG24XX/ep_010.md",
-        "directory/Atles/Minuit.md"
+        "directory/Atles/Minuit.md",
+        "directory/PorcelainCitadel/RBL-HMC.md"
       ],
       "lastmod": "2026-W21",
       "sha": "62f6392c",
@@ -2723,13 +2983,16 @@
         "directory/Atles/TamHR.md",
         "directory/LastSerai/index.md",
         "directory/PorcelainCitadel/BoneKaolin.md",
+        "directory/PorcelainCitadel/RBL-HMC.md",
         "directory/PorcelainCitadel/index.md"
       ],
       "links_in": [
-        "campaigns/UVG24XX/ep_009.md"
+        "campaigns/UVG24XX/ep_009.md",
+        "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
+        "directory/PorcelainCitadel/RBL-HMC.md"
       ],
-      "lastmod": "2026-W26",
-      "sha": "0db8cccb",
+      "lastmod": "2026-W42",
+      "sha": "f9ff4ed9",
       "tier": 1
     },
     {
@@ -2834,11 +3097,13 @@
         "directory/PorcelainCitadel/index.md"
       ],
       "links_in": [
+        "directory/Atles/Kur.md",
         "directory/Atles/Pilixa.md",
-        "directory/LastSerai/IronPot6-body.md"
+        "directory/LastSerai/IronPot6-body.md",
+        "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "44030ef6",
+      "lastmod": "2026-W44",
+      "sha": "1a293fc0",
       "tier": 1
     },
     {
