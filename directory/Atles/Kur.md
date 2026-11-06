@@ -39,3 +39,5 @@ Used to cook drugs and make explosives before caravaning.
 
 Salt and pepper hair.
 Wears a face cover, a hat and a cloak on top of it all.
+
+Carries an official paper receipt for €100 paid to a [Spectrum Satrap](../../directory/SpectrumPalace/SpectrumSatraps.md) embassy foreman in the Last Serai for the termination of [Iron Pot 6-body](../../directory/LastSerai/IronPot6-body.md) ([ep_011](../../campaigns/UVG24XX/ep_011.md)).

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T13:07:14+01:00",
+  "generated": "2026-11-06T13:17:39+01:00",
   "tier": 1,
   "total_entries": 111,
   "entries": [
@@ -206,7 +206,7 @@
         "directory/PorcelainCitadel/PorcelainPrinces.md",
         "directory/SpectrumPalace/index.md"
       ],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "c4c39461",
       "tier": 1
     },
@@ -2569,7 +2569,7 @@
         "directory/Atles/Kur.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "2cd5314b",
       "tier": 1
     },
@@ -2641,7 +2641,7 @@
         "campaigns/UVG24XX/ep_007.md",
         "directory/Atles/Barista.md"
       ],
-      "lastmod": "2026-W16",
+      "lastmod": "2026-W44",
       "sha": "52e248df",
       "tier": 1
     },
@@ -3102,7 +3102,7 @@
         "directory/LastSerai/IronPot6-body.md",
         "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "1a293fc0",
       "tier": 1
     },

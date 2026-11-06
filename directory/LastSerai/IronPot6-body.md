@@ -30,3 +30,4 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 Investigator, investigating the alleged revolutionary activities of [Angel 22-unity](Angel22-unity.md).
 
 Hunted through the outpost by slaves sent by an unknown party; five bodies have been ruined or slain, leaving only a single body operational ([ep_011](../../campaigns/UVG24XX/ep_011.md)).
+The Atles caravan, unable to corner the elusive final hull themselves, has paid a [Spectrum Satrap](../SpectrumPalace/SpectrumSatraps.md) embassy foreman to hunt down and eliminate it within a two-week deadline.
