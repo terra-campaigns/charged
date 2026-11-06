@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+# Prevent accidental direct commits to the main branch.
+CURRENT_BRANCH=$(git branch --show-current 2>/dev/null)
+if [ "$CURRENT_BRANCH" = "main" ]; then
+  echo "\n[ERROR] Direct commits to 'main' are prohibited." >&2
+  echo "All changes must be committed to a feature branch (<handle>/<feature>) and merged via Pull Request.\n" >&2
+  exit 1
+fi

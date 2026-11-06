@@ -181,6 +181,8 @@ There are no longer generated data files saved to `_data/`. The data for links, 
 - Preserve the dual use of the repo: it must remain pleasant in Obsidian and buildable as a website.
 - If a request touches prose and mechanics, maintain both flavour and table usability.
 - When connecting entities (PCs, NPCs, factions, or locations), always ask the user for the specific relationship type or reason and whether the link should be bidirectional, rather than assuming or inventing the nature of the connection.
+- **Pull Request & Branch Protection:** Direct commits and pushes to `main` are strictly prohibited. All changes must arrive via dedicated feature branches (`<handle>/<feature>`) and Pull Requests.
+- **Branch Lifecycle:** Feature branches must be deleted immediately after their corresponding Pull Request is merged or closed. Never retain merged remote or local feature branches.
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
 
