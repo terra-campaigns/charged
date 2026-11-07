@@ -26,7 +26,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
-Something like a giant centipede climbed out of a window of the [Ignored Tower](IgnoredTower.md), descended the outside slowly and burrowed into the ground ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+Something like a giant centipede climbed out of a window of the [Ignored Tower](IgnoredTower.md), descended the outside slowly and [burrowed into the ground](../../campaigns/UVG24XX/ep_012.md).
 
 The event became known as the Escaped Biochimera.
 Everyone in the Last Serai is used to ignoring the tower, so they ignored this too.

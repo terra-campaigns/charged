@@ -40,10 +40,9 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 You have to repay € 2000 to a Secret abmortalist by the end of the caravan season.
 
 
-Struck by lightning at a party in the Last Serai.
-His bone structure is weakened ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+Struck by lightning at a party in the Last Serai, leaving his [bone structure weakened](../../campaigns/UVG24XX/ep_012.md).
 
-The link between his one black metal vertebra and his supposed clone is severed ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+The link between his one black metal vertebra and his supposed clone was [severed through the lightning that night](../../campaigns/UVG24XX/ep_012.md).
 
 Kept every receipt for the death of [Iron Pot 6-body](../LastSerai/IronPot6-body.md).
-[Angel 22-unity](../LastSerai/Angel22-unity.md) reimbursed almost €1,500, plus €50, as agreed ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+[Angel 22-unity](../LastSerai/Angel22-unity.md) reimbursed almost €1,500, with [50% more, as agreed](../../campaigns/UVG24XX/ep_012.md).

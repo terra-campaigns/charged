@@ -36,4 +36,4 @@ Arranged to rendezvous with his friend [Kalis Decano](Kalis.md) at [The Last Ser
 You have to repay € 2000 to a D.W.A.R.F. industrialist by the end of the caravan season.
 
 
-Keeps the mask of [Iron Pot 6-body](../LastSerai/IronPot6-body.md), taken after his death ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+Keeps the mask of [Iron Pot 6-body](../LastSerai/IronPot6-body.md), [taken after the prince's death in the collapsed tent](../../campaigns/UVG24XX/ep_012.md).

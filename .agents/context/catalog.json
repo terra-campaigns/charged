@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T09:27:11+01:00",
+  "generated": "2026-11-07T09:31:00+01:00",
   "tier": 1,
   "total_entries": 115,
   "entries": [
@@ -12,7 +12,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "A violet dodo with newly implanted solar-powered wings that let it fly. Originally Vangogh, Tam's affinity-bonded pet, it was renamed Deep Purple by [Tam](TamHR.md) in a grassland-driven hallucination ([ep_010](../../campaigns/UVG24XX/ep_010.md)).",
+      "summary": "A violet dodo with newly implanted solar-powered wings that let it fly. Originally Vangogh, Tam's affinity-bonded pet, it was renamed Deep Purple by [Tam](TamHR.md) during a [grassland-driven hallucination](../../campaigns/UVG24XX/ep_010.md).",
       "links_out": [
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_012.md",
@@ -23,7 +23,7 @@
         "directory/Atles/TamHR.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "5fefc41e",
+      "sha": "207f91d3",
       "tier": 1
     },
     {
@@ -35,7 +35,7 @@
       "status": "Burrowed underground, whereabouts unknown",
       "region": null,
       "nav_order": null,
-      "summary": "Something like a giant centipede climbed out of a window of the [Ignored Tower](IgnoredTower.md), descended the outside slowly and burrowed into the ground ([ep_012](../../campaigns/UVG24XX/ep_012.md)).",
+      "summary": "Something like a giant centipede climbed out of a window of the [Ignored Tower](IgnoredTower.md), descended the outside slowly and [burrowed into the ground](../../campaigns/UVG24XX/ep_012.md).",
       "links_out": [
         "campaigns/UVG24XX/ep_012.md",
         "campaigns/UVG24XX/index.md",
@@ -45,7 +45,7 @@
         "directory/LastSerai/IgnoredTower.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "e11e7c9c",
+      "sha": "e1e13baf",
       "tier": 1
     },
     {
@@ -257,7 +257,7 @@
         "directory/SpectrumPalace/index.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "b02484f7",
+      "sha": "6e02c929",
       "tier": 1
     },
     {
@@ -377,7 +377,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "In early September 3025 something like a giant centipede climbed out of one of its windows, descended the outside slowly and burrowed into the ground. The event is known as the [Escaped Biochimera](EscapedBiochimera.md). The Serai ignores the tower, and ignored this too ([ep_012](../../campaigns/UVG24XX/ep_012.md)).",
+      "summary": "In early September 3025 something like a giant centipede climbed out of one of its windows, descended the outside slowly and [burrowed into the ground](../../campaigns/UVG24XX/ep_012.md). The event became known as the [Escaped Biochimera](EscapedBiochimera.md), though the outpost was accustomed to ignoring the tower and ignored this departure as well.",
       "links_out": [
         "campaigns/UVG24XX/ep_012.md",
         "campaigns/UVG24XX/index.md",
@@ -390,7 +390,7 @@
         "directory/LastSerai/EscapedBiochimera.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "9f3c16df",
+      "sha": "5043ba08",
       "tier": 1
     },
     {
@@ -709,7 +709,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W44",
-      "sha": "474f6d91",
+      "sha": "11d76995",
       "tier": 1
     },
     {
@@ -983,7 +983,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "a93fa3ec",
+      "sha": "1acb61dd",
       "tier": 1
     },
     {
@@ -1443,7 +1443,7 @@
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "19b564e1",
+      "sha": "378d86d0",
       "tier": 1
     },
     {
@@ -1571,7 +1571,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €1000 |",
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €200 |",
       "links_out": [
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
@@ -1588,7 +1588,7 @@
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "7d486105",
+      "sha": "0e8883a1",
       "tier": 1
     },
     {
@@ -2093,7 +2093,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:07 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:23 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -2137,7 +2137,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "79dc37e3",
+      "sha": "0773c9e1",
       "tier": 1
     },
     {
@@ -2515,7 +2515,7 @@
         "directory/PorcelainCitadel/PorcelainPrinces.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "c05ecad5",
+      "sha": "bbccf1b8",
       "tier": 1
     },
     {
@@ -2633,7 +2633,6 @@
       "links_out": [
         "campaigns/UVG24XX/ep_012.md",
         "campaigns/UVG24XX/index.md",
-        "directory/LastSerai/IronPot6-body.md",
         "directory/LastSerai/index.md"
       ],
       "links_in": [
@@ -2642,7 +2641,7 @@
         "directory/LastSerai/IronPot6-body.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "95a7157d",
+      "sha": "2315a125",
       "tier": 1
     },
     {
@@ -2669,7 +2668,6 @@
         "campaigns/UVG24XX/ep_011.md",
         "campaigns/UVG24XX/ep_012.md",
         "directory/Atles/Barista.md",
-        "directory/Atles/Iacum.md",
         "directory/Atles/Kur.md",
         "directory/Atles/Settler.md",
         "directory/LastSerai/Angel22-unity.md",
@@ -2677,7 +2675,7 @@
         "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "81220f11",
+      "sha": "8788f015",
       "tier": 1
     },
     {
@@ -2781,7 +2779,7 @@
         "directory/LastSerai/Angel22-unity.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "67e467c4",
+      "sha": "f7509d2c",
       "tier": 1
     },
     {
@@ -2964,7 +2962,7 @@
         "directory/LastSerai/IronPot6-body.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "ab3c3cef",
+      "sha": "baef664a",
       "tier": 1
     },
     {
@@ -3015,7 +3013,7 @@
         "directory/PorcelainCitadel/RBL-HMC.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "ccd4a0b0",
+      "sha": "d97a7619",
       "tier": 1
     },
     {

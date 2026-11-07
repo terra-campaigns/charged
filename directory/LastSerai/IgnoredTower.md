@@ -29,6 +29,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 
 
-In early September 3025 something like a giant centipede climbed out of one of its windows, descended the outside slowly and burrowed into the ground.
-The event is known as the [Escaped Biochimera](EscapedBiochimera.md).
-The Serai ignores the tower, and ignored this too ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+In early September 3025 something like a giant centipede climbed out of one of its windows, descended the outside slowly and [burrowed into the ground](../../campaigns/UVG24XX/ep_012.md).
+The event became known as the [Escaped Biochimera](EscapedBiochimera.md), though the outpost was accustomed to ignoring the tower and ignored this departure as well.

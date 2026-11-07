@@ -29,6 +29,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 
 
-Three days west of [The Last Serai](../LastSerai/index.md) ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
-[Angel 22-unity](../LastSerai/Angel22-unity.md) marked its location on the caravan's map ([ep_010](../../campaigns/UVG24XX/ep_010.md)).
+Located three days west of [The Last Serai](../LastSerai/index.md), as [learned by the caravan during a week of carousing](../../campaigns/UVG24XX/ep_012.md).
+[Angel 22-unity](../LastSerai/Angel22-unity.md) had previously [marked its location on the caravan's map](../../campaigns/UVG24XX/ep_010.md).
 The plan to move the [Harmonium](../LastSerai/Harmonium.md) hinges on the Near Moon and entering the Pit to activate the transport through "unfolding".

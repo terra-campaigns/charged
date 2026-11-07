@@ -47,7 +47,6 @@ They bid me goodbye the next day. Some thought me a god, hopeful of my return. O
 
 
 Arrived at [The Last Serai](../LastSerai/index.md) with the last caravan.
-The electrostatic porcelain storm smelled of fish to him.
-He wants to understand how these events connect to his past ([ep_012](../../campaigns/UVG24XX/ep_012.md)).
+The electrostatic porcelain storm smelled of fish to him, and [he seeks to understand how these events connect to his past](../../campaigns/UVG24XX/ep_012.md).
 
-His tent collapsed during the attempt on [Iron Pot 6-body](../LastSerai/IronPot6-body.md).
+His tent was destroyed when [the confused attempt on Iron Pot 6-body brought it down](../../campaigns/UVG24XX/ep_012.md).
