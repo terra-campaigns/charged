@@ -58,7 +58,7 @@ Local market rates and profitable trade routes connecting through The Last Serai
 | TG09 | **[Gold](../../trading/TG09_Gold.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TG10 | **[Indigo ivories](../../trading/TG10_Indigo_ivories.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TG11 | **[Joy worms](../../trading/TG11_Joy_worms.md)** | €1000 | Porcelain Citadel (€500) --> The Last Serai (€1000) |
-| TG12 | **[Karma dust](../../trading/TG12_Karma_dust.md)** | €100 | <em style="color: #888;">No great trade identified.</em> |
+| TG12 | **[Karma dust](../../trading/TG12_Karma_dust.md)** | €500 | <em style="color: #888;">No great trade identified.</em> |
 | TG13 | **[Last steel](../../trading/TG13_Last_steel.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TG14 | **[Livingstone bricks](../../trading/TG14_Livingstone_bricks.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TG15 | **[Marrow-beet](../../trading/TG15_Marrow_beet.md)** | — | <em style="color: #888;">No great trade identified.</em> |
@@ -84,5 +84,5 @@ Local market rates and profitable trade routes connecting through The Last Serai
 | TK12 | **[Navigators suitcase](../../trading/TK12_Navigators_suitcase.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TK15 | **[Prospector Kit](../../trading/TK15_Prospector_Kit.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TK19 | **[Veterinarian Kit](../../trading/TK19_Veterinarian_Kit.md)** | €0 | <em style="color: #888;">No great trade identified.</em> |
-| — | **[Fine tubers](../../trading/Fine_tubers.md)** | — | <em style="color: #888;">No great trade identified.</em> |
+| — | **[Fine tubers](../../trading/Fine_tubers.md)** | €100 | The Last Serai (€100) --> Porcelain Citadel (€300) |
 | — | **[Crystal shards/spheres](../../trading/Crystal_shardsspheres.md)** | €100/400 | The Last Serai (€100/400) --> Steppe of Lime Nomads (€200/800) |

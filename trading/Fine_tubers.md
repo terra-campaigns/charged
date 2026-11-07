@@ -25,4 +25,4 @@ Prices reflect actual caravan transaction rates in Cash (€) across the trade c
 | **[Porcelain Citadel](../directory/PorcelainCitadel/index.md)** | €300 | **Market Bubble:** Wild speculative surge in local purchasing price. |
 | **Potsherd Crater** | — |  |
 | **Trail of Vomish Dreams** | — |  |
-| **[The Last Serai](../directory/LastSerai/index.md)** | — |  |
+| **[The Last Serai](../directory/LastSerai/index.md)** | €100 | <em style="color: #888;">Standard open-market demand.</em> |

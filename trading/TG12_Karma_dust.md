@@ -10,7 +10,7 @@ nav_exclude: false
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **Reference Code** | **Category** | **Standard Unit** | **Base Value** |
-| TG12 | Trade Goods | Sack | €200 |
+| TG12 | Trade Goods | Sack | €1000 |
 
 ## Trail Prices & Market Conditions
 
@@ -25,4 +25,4 @@ Prices reflect actual caravan transaction rates in Cash (€) across the trade c
 | **[Porcelain Citadel](../directory/PorcelainCitadel/index.md)** | — |  |
 | **Potsherd Crater** | — |  |
 | **Trail of Vomish Dreams** | — |  |
-| **[The Last Serai](../directory/LastSerai/index.md)** | €100 | **Soft Market:** Saturated or low interest; buyers demand discounts. |
+| **[The Last Serai](../directory/LastSerai/index.md)** | €500 | **Soft Market:** Saturated or low interest; buyers demand discounts. |

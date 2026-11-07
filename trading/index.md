@@ -8,7 +8,7 @@ nav_order: 40
 
 # Ultraviolet Grasslands Commerce & Trade
 
-Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:23 of yesterday.
+Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:06 of yesterday.
 
 ## Trade Goods Summary
 
@@ -26,7 +26,7 @@ Live trade prices and market conditions along the Great Road from the **Violet C
 | TG09 | **[Gold](TG09_Gold.md)** | €1000 | <em style="color: #888;">No great trade identified.</em> |
 | TG10 | **[Indigo ivories](TG10_Indigo_ivories.md)** | €500 | <em style="color: #888;">No great trade identified.</em> |
 | TG11 | **[Joy worms](TG11_Joy_worms.md)** | €500 | Porcelain Citadel (€500) --> The Last Serai (€1000) |
-| TG12 | **[Karma dust](TG12_Karma_dust.md)** | €200 | <em style="color: #888;">No great trade identified.</em> |
+| TG12 | **[Karma dust](TG12_Karma_dust.md)** | €1000 | <em style="color: #888;">No great trade identified.</em> |
 | TG13 | **[Last steel](TG13_Last_steel.md)** | €500 | <em style="color: #888;">No great trade identified.</em> |
 | TG14 | **[Livingstone bricks](TG14_Livingstone_bricks.md)** | €100 | <em style="color: #888;">No great trade identified.</em> |
 | TG15 | **[Marrow-beet](TG15_Marrow_beet.md)** | €50 | <em style="color: #888;">No great trade identified.</em> |
