@@ -25,3 +25,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 ---
 [index](../../campaigns/UVG24XX/index.md)
 {% endcomment %}
+
+{% include trade_location.html %}

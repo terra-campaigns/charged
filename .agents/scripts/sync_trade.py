@@ -2,13 +2,10 @@
 """
 Sync UVG trade multiplier spreadsheet with the Charged campaign website.
 Pulls the live Google Sheet CSV, calculates real Cash prices (€),
-and generates:
-  - trading/index.md (Top-level master commerce hub)
-  - trading/<item>.md (Individual child notes for each active trade good, mount, or tool)
+and generates _data/trade.json consumed dynamically by Jekyll Liquid includes.
 
 Usage:
   python3 .agents/scripts/sync_trade.py
-  python3 .agents/scripts/sync_trade.py --offline  # Use cached CSV without fetching
 """
 
 import argparse
@@ -25,7 +22,8 @@ from typing import Optional
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 TRADING_DIR = REPO_ROOT / "trading"
-CACHE_FILE = REPO_ROOT / ".agents" / "context" / "trade_sheet_cache.csv"
+DATA_DIR = REPO_ROOT / "_data"
+TRADE_DATA_FILE = DATA_DIR / "trade.json"
 
 
 def write_if_changed(path: Path, new_content: str) -> bool:
@@ -41,8 +39,8 @@ def write_if_changed(path: Path, new_content: str) -> bool:
     return True
 
 SPREADSHEET_CSV_URL = (
-    "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/"
-    "export?format=csv&gid=35129677"
+    "https://docs.google.com/spreadsheets/d/1TEx8ZmBq90Tyms3u5eVlM2OqpUIemsj6c04rmNXxg94/"
+    "export?format=csv&gid=1457428661"
 )
 
 # Standard UVG 2E fallback prices for items if blank in the spreadsheet
@@ -89,45 +87,102 @@ LOCATION_COLUMNS = [
         "col_idx": 4,
         "name": "Violet City",
         "slug": "VioletCity",
+        "header_match": "violet",
         "dir_path": "directory/VioletCity/index.md",
     },
     {
         "col_idx": 5,
         "name": "Low Road / High Road",
         "slug": "LowRoadHigh",
+        "header_match": "low r",
         "dir_path": "directory/LowRoadHigh/index.md",
     },
     {
         "col_idx": 6,
         "name": "Steppe of Lime Nomads",
         "slug": "LimeNomads",
+        "header_match": "steppe lime",
         "dir_path": "directory/LimeNomads/index.md",
     },
     {
         "col_idx": 7,
         "name": "Porcelain Citadel",
         "slug": "PorcelainCitadel",
+        "header_match": "porcelain",
         "dir_path": "directory/PorcelainCitadel/index.md",
     },
     {
         "col_idx": 8,
         "name": "Potsherd Crater",
         "slug": "PotsherdCrater",
-        "dir_path": None,
+        "header_match": "potsherd",
+        "dir_path": "directory/PotsherdCrater/index.md",
     },
     {
         "col_idx": 9,
         "name": "Trail of Vomish Dreams",
         "slug": "TrailOfVomishDreams",
+        "header_match": "vomish",
         "dir_path": None,
     },
     {
         "col_idx": 11,
         "name": "The Last Serai",
         "slug": "LastSerai",
+        "header_match": "last serai",
         "dir_path": "directory/LastSerai/index.md",
     },
+    {
+        "col_idx": 12,
+        "name": "Way Stone Graveyard",
+        "slug": "WayStoneGraveyard",
+        "header_match": "way stone",
+        "dir_path": "directory/WayStoneGraveyard/index.md",
+    },
+    {
+        "col_idx": 13,
+        "name": "Death-Facing Passage",
+        "slug": "DeathFacingPassage",
+        "header_match": "death fac",
+        "dir_path": "directory/DeathFacingPassage/index.md",
+    },
+    {
+        "col_idx": 14,
+        "name": "South-Facing Passage",
+        "slug": "SouthFacingPassage",
+        "header_match": "south fac",
+        "dir_path": None,
+    },
 ]
+
+
+def validate_header_columns(header_row: list[str]) -> bool:
+    """Validate that spreadsheet header row aligns with LOCATION_COLUMNS.
+
+    Raises:
+        ValueError: If header row lacks required columns or any expected
+                    station header does not match its designated column.
+    """
+    min_required_cols = max(loc["col_idx"] for loc in LOCATION_COLUMNS) + 1 if LOCATION_COLUMNS else 4
+    if len(header_row) < min_required_cols:
+        raise ValueError(
+            f"Header row has {len(header_row)} columns; expected at least {min_required_cols} columns."
+        )
+
+    for loc in LOCATION_COLUMNS:
+        col_idx = loc["col_idx"]
+        expected_match = loc.get("header_match", "").lower()
+        if not expected_match:
+            continue
+
+        actual_header = header_row[col_idx].strip().lower()
+        if expected_match not in actual_header:
+            raise ValueError(
+                f"Header column shift detected at index {col_idx}: "
+                f"expected '{expected_match}' for station '{loc['name']}', "
+                f"but found '{header_row[col_idx]}'."
+            )
+    return True
 
 
 def clean_slug(name: str) -> str:
@@ -174,27 +229,24 @@ def parse_market_condition(note: str, mult: float) -> str:
     return f"Discounted regional market (price factor $\\times {mult:g}$)."
 
 
-def fetch_csv(use_cache: bool = False) -> list[list[str]]:
-    if not use_cache:
-        try:
-            req = urllib.request.Request(
-                SPREADSHEET_CSV_URL,
-                headers={"User-Agent": "Charged-Trade-Sync/1.0"},
-            )
-            with urllib.request.urlopen(req, timeout=10) as resp:
-                content = resp.read().decode("utf-8")
-                write_if_changed(CACHE_FILE, content)
-                reader = csv.reader(io.StringIO(content))
-                return list(reader)
-        except Exception as e:
-            print(f"[WARN] Live fetch failed ({e}). Falling back to local cache.", file=sys.stderr)
+def fetch_csv() -> Optional[list[list[str]]]:
+    """Fetch live CSV matrix directly from the Google Sheets workbook.
 
-    if CACHE_FILE.exists():
-        content = CACHE_FILE.read_text(encoding="utf-8")
-        reader = csv.reader(io.StringIO(content))
-        return list(reader)
-
-    sys.exit("Error: Could not fetch Google Sheet CSV and no local cache was found.")
+    Returns:
+        List of row strings if successful, or None if network fetch fails.
+    """
+    try:
+        req = urllib.request.Request(
+            SPREADSHEET_CSV_URL,
+            headers={"User-Agent": "Charged-Trade-Sync/1.0"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            content = resp.read().decode("utf-8")
+            reader = csv.reader(io.StringIO(content))
+            return list(reader)
+    except Exception as e:
+        print(f"[WARN] Live Google Sheets fetch failed: {e}. Preserving existing trade data.", file=sys.stderr)
+        return None
 
 
 def parse_trade_items(rows: list[list[str]]) -> list[dict]:
@@ -336,93 +388,20 @@ def parse_trade_items(rows: list[list[str]]) -> list[dict]:
     return items
 
 
-def generate_item_page(item: dict) -> str:
-    ref_display = item["ref"] or "Custom / Local"
-    base_price_display = item["base_price"]
-
-    lines = [
-        "---",
-        "layout: default",
-        f"title: \"{item['name']}\"",
-        "parent: Trading",
-        "nav_exclude: false",
-        "---",
-        "",
-        f"# {item['name']}",
-        "",
-        "| | | | |",
-        "| :--- | :--- | :--- | :--- |",
-        "| **Reference Code** | **Category** | **Standard Unit** | **Base Value** |",
-        f"| {ref_display} | {item['category']} | {item['size']} | {base_price_display} |",
-        "",
-        "## Trail Prices & Market Conditions",
-        "",
-        "Prices reflect actual caravan transaction rates in Cash (€) across the trade corridor.",
-        "",
-        "| | | |",
-        "| :--- | :--- | :--- |",
-        "| **Trail Station** | **Local Price** | **Market Situation** |",
+def build_trade_data(items: list[dict]) -> dict:
+    stations = [
+        {"name": loc["name"], "slug": loc["slug"], "dir_path": loc["dir_path"]}
+        for loc in LOCATION_COLUMNS
     ]
 
-    for loc in item["locations"]:
-        if loc["dir_path"]:
-            loc_label = f"**[{loc['location']}](../{loc['dir_path']})**"
-        else:
-            loc_label = f"**{loc['location']}**"
-
-        if not loc["has_data"]:
-            cond_str = ""
-        elif loc["multiplier"] == 1.0 and "standard open-market demand" in loc["condition"].lower():
-            cond_str = f'<em style="color: #888;">{loc["condition"]}</em>'
-        else:
-            cond_str = loc["condition"]
-
-        lines.append(f"| {loc_label} | {loc['price_str']} | {cond_str} |")
-
-    lines.append("")
-    return "\n".join(lines)
-
-
-def generate_index_page(
-    items: list[dict],
-    existing_content: Optional[str] = None,
-    force_new_timestamp: bool = False,
-) -> str:
-    time_sim_str = None
-    if existing_content and not force_new_timestamp:
-        m = re.search(r"caravan ledger at ([0-9]{2}:[0-9]{2}) of yesterday", existing_content)
-        if m:
-            time_sim_str = m.group(1)
-
-    if not time_sim_str:
-        time_sim_str = datetime.now(timezone.utc).astimezone().strftime("%m:%d")
-
-    lines = [
-        "---",
-        "layout: default",
-        "title: Trading",
-        "has_children: true",
-        "has_toc: false",
-        "nav_order: 40",
-        "---",
-        "",
-        "# Ultraviolet Grasslands Commerce & Trade",
-        "",
-        f"Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at {time_sim_str} of yesterday.",
-        "",
-        "## Trade Goods Summary",
-        "",
-        "| | | | |",
-        "| :--- | :--- | :--- | :--- |",
-        "| **Ref** | **Item** | **Base** | **Most profitable trade on the Grasslands** |",
-    ]
+    items_list = []
 
     for it in items:
-        # Determine most profitable trade route (lowest known price -> highest known price)
+        # Determine most profitable trade route across all stations
         valid_locs = [
-            loc
-            for loc in it["locations"]
-            if loc["has_data"] and loc["multiplier"] is not None and loc["multiplier"] > 0
+            l
+            for l in it["locations"]
+            if l["has_data"] and l["multiplier"] is not None and l["multiplier"] > 0
         ]
 
         if len(valid_locs) >= 2:
@@ -440,156 +419,229 @@ def generate_index_page(
                     ),
                     highs[0],
                 )
-                route_str = f"{low_loc['location']} ({low_loc['price_str']}) --> {high_loc['location']} ({high_loc['price_str']})"
+                best_trade = f"{low_loc['location']} ({low_loc['price_str']}) --> {high_loc['location']} ({high_loc['price_str']})"
             else:
-                route_str = '<em style="color: #888;">No great trade identified.</em>'
+                best_trade = '<em style="color: #888;">No great trade identified.</em>'
         else:
-            route_str = '<em style="color: #888;">No great trade identified.</em>'
+            best_trade = '<em style="color: #888;">No great trade identified.</em>'
 
-        lines.append(
-            f"| {it['ref'] or '—'} | **[{it['name']}]({it['slug']}.md)** | {it['base_price']} | {route_str} |"
-        )
+        item_locations = []
+        for loc in it["locations"]:
+            if not loc["has_data"]:
+                cond_html = ""
+            elif loc["multiplier"] == 1.0 and "standard open-market demand" in loc["condition"].lower():
+                cond_html = f'<em style="color: #888;">{loc["condition"]}</em>'
+            else:
+                cond_html = loc["condition"]
 
-    lines.append("")
-    return "\n".join(lines)
+            item_locations.append(
+                {
+                    "name": loc["location"],
+                    "dir_path": loc["dir_path"],
+                    "price_str": loc["price_str"],
+                    "condition_html": cond_html,
+                }
+            )
+
+        item_dict = {
+            "ref": it["ref"],
+            "name": it["name"],
+            "slug": it["slug"],
+            "category": it["category"],
+            "size": it["size"],
+            "base_price": it["base_price"],
+            "best_trade": best_trade,
+            "locations": item_locations,
+        }
+        items_list.append(item_dict)
+
+    # Build per-location trade summaries
+    locations_data = {}
+    for st in LOCATION_COLUMNS:
+        st_name = st["name"]
+        loc_rows = []
+        for it in items:
+            st_loc = next((l for l in it["locations"] if l["location"] == st_name), None)
+            local_price = st_loc["price_str"] if (st_loc and st_loc["has_data"]) else "—"
+
+            valid = [
+                l
+                for l in it["locations"]
+                if l["has_data"] and l["multiplier"] is not None and l["multiplier"] > 0
+            ]
+            route_str = None
+
+            if st_loc and st_loc["has_data"] and st_loc["multiplier"] and st_loc["multiplier"] > 0:
+                st_m = st_loc["multiplier"]
+                other_valid = [l for l in valid if l["location"] != st_name]
+                if other_valid:
+                    max_other = max(l["multiplier"] for l in other_valid)
+                    min_other = min(l["multiplier"] for l in other_valid)
+                    export_p = max_other - st_m
+                    import_p = st_m - min_other
+
+                    if max(export_p, import_p) > 0:
+                        if export_p >= import_p:
+                            highs = [l for l in other_valid if l["multiplier"] == max_other]
+                            high_loc = next(
+                                (
+                                    l
+                                    for l in highs
+                                    if any(k in l.get("condition", "").lower() for k in ["bubble", "demand", "crisis"])
+                                ),
+                                highs[0],
+                            )
+                            route_str = f"{st_name} ({st_loc['price_str']}) --> {high_loc['location']} ({high_loc['price_str']})"
+                        else:
+                            lows = [l for l in other_valid if l["multiplier"] == min_other]
+                            low_loc = next(
+                                (l for l in lows if "source" in l.get("condition", "").lower()),
+                                lows[0],
+                            )
+                            route_str = f"{low_loc['location']} ({low_loc['price_str']}) --> {st_name} ({st_loc['price_str']})"
+
+            display_route = route_str if route_str else '<em style="color: #888;">No great trade identified.</em>'
+            loc_rows.append(
+                {
+                    "ref": it["ref"],
+                    "name": it["name"],
+                    "slug": it["slug"],
+                    "price_str": local_price,
+                    "best_trade": display_route,
+                }
+            )
+        locations_data[st_name] = loc_rows
+
+    return {
+        "stations": stations,
+        "items": items_list,
+        "locations": locations_data,
+    }
 
 
-PUBLISHED_LOCATIONS = [
-    {"name": "Violet City", "file": REPO_ROOT / "directory/VioletCity/index.md"},
-    {"name": "Low Road / High Road", "file": REPO_ROOT / "directory/LowRoadHigh/index.md"},
-    {"name": "Steppe of Lime Nomads", "file": REPO_ROOT / "directory/LimeNomads/index.md"},
-    {"name": "Porcelain Citadel", "file": REPO_ROOT / "directory/PorcelainCitadel/index.md"},
-    {"name": "The Last Serai", "file": REPO_ROOT / "directory/LastSerai/index.md"},
-]
+def save_trade_data(trade_data: dict) -> bool:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    content = json.dumps(trade_data, indent=2, ensure_ascii=False) + "\n"
+    return write_if_changed(TRADE_DATA_FILE, content)
 
 
-def generate_location_trade_section(st_name: str, items: list[dict]) -> str:
-    lines = [
-        "## Trade & Commerce",
-        "",
-        f"Local market rates and profitable trade routes connecting through {st_name}.",
-        "",
-        "| | | | |",
-        "| :--- | :--- | :--- | :--- |",
-        "| **Ref** | **Item** | **Location Price** | **Most profitable trade** |",
-    ]
-
+def ensure_item_pages(items: list[dict]) -> int:
+    changed = 0
     for it in items:
-        st_loc = next((l for l in it["locations"] if l["location"] == st_name), None)
-        local_price = st_loc["price_str"] if (st_loc and st_loc["has_data"]) else "—"
-
-        valid = [
-            l for l in it["locations"]
-            if l["has_data"] and l["multiplier"] is not None and l["multiplier"] > 0
-        ]
-        route_str = None
-
-        if st_loc and st_loc["has_data"] and st_loc["multiplier"] and st_loc["multiplier"] > 0:
-            st_m = st_loc["multiplier"]
-            other_valid = [l for l in valid if l["location"] != st_name]
-            if other_valid:
-                max_other = max(l["multiplier"] for l in other_valid)
-                min_other = min(l["multiplier"] for l in other_valid)
-                export_p = max_other - st_m
-                import_p = st_m - min_other
-
-                if max(export_p, import_p) > 0:
-                    if export_p >= import_p:
-                        # Left side (export)
-                        highs = [l for l in other_valid if l["multiplier"] == max_other]
-                        high_loc = next(
-                            (
-                                l
-                                for l in highs
-                                if any(k in l.get("condition", "").lower() for k in ["bubble", "demand", "crisis"])
-                            ),
-                            highs[0],
-                        )
-                        route_str = f"{st_name} ({st_loc['price_str']}) --> {high_loc['location']} ({high_loc['price_str']})"
-                    else:
-                        # Right side (import)
-                        lows = [l for l in other_valid if l["multiplier"] == min_other]
-                        low_loc = next(
-                            (l for l in lows if "source" in l.get("condition", "").lower()),
-                            lows[0],
-                        )
-                        route_str = f"{low_loc['location']} ({low_loc['price_str']}) --> {st_name} ({st_loc['price_str']})"
-
-        display_route = route_str if route_str else '<em style="color: #888;">No great trade identified.</em>'
-        ref = it["ref"] or "—"
-        item_link = f"**[{it['name']}](../../trading/{it['slug']}.md)**"
-        lines.append(f"| {ref} | {item_link} | {local_price} | {display_route} |")
-
-    lines.append("")
-    return "\n".join(lines)
+        out_file = TRADING_DIR / f"{it['slug']}.md"
+        page_md = (
+            "---\n"
+            "layout: default\n"
+            f"title: \"{it['name']}\"\n"
+            "parent: Trading\n"
+            "nav_exclude: false\n"
+            "---\n"
+            "\n"
+            "# {{ page.title }}\n"
+            "\n"
+            "{% include trade_item.html %}\n"
+        )
+        if write_if_changed(out_file, page_md):
+            changed += 1
+    return changed
 
 
-def update_location_pages(items: list[dict]) -> int:
-    updated_count = 0
-    for loc_info in PUBLISHED_LOCATIONS:
-        file_path = loc_info["file"]
+def ensure_index_page() -> bool:
+    index_file = TRADING_DIR / "index.md"
+    index_md = (
+        "---\n"
+        "layout: default\n"
+        "title: Trading\n"
+        "has_children: true\n"
+        "has_toc: false\n"
+        "nav_order: 40\n"
+        "---\n"
+        "\n"
+        "# Ultraviolet Grasslands Commerce & Trade\n"
+        "\n"
+        "Live trade prices and market conditions along the Great Road across the Vastlands. Synchronised with the caravan ledger.\n"
+        "\n"
+        "## Trade Goods Summary\n"
+        "\n"
+        "{% include trade_summary.html %}\n"
+    )
+    return write_if_changed(index_file, index_md)
+
+
+def ensure_location_pages() -> int:
+    changed = 0
+    for loc_info in LOCATION_COLUMNS:
+        dir_path = loc_info.get("dir_path")
+        if not dir_path:
+            continue
+        file_path = REPO_ROOT / dir_path
         if not file_path.exists():
             continue
 
-        st_name = loc_info["name"]
         content = file_path.read_text(encoding="utf-8")
-
-        # Strip any existing Trade & Commerce section
         heading_match = re.search(r"\n## Trade & Commerce\b", content)
         if heading_match:
             base_content = content[: heading_match.start()].rstrip()
         else:
             base_content = content.rstrip()
 
-        section_md = generate_location_trade_section(st_name, items)
-        new_content = f"{base_content}\n\n{section_md}"
+        # If it already includes the dynamic template, do not rewrite
+        if "{% include trade_location.html %}" in base_content:
+            continue
+
+        new_content = f"{base_content}\n\n{{% include trade_location.html %}}\n"
         if write_if_changed(file_path, new_content):
-            print(f"[LOCATION] Updated {file_path.relative_to(REPO_ROOT)} with trade table.")
-            updated_count += 1
-    return updated_count
+            print(f"[LOCATION] Updated {file_path.relative_to(REPO_ROOT)} to dynamic Liquid include.")
+            changed += 1
+    return changed
 
 
 def main():
     parser = argparse.ArgumentParser(description="Sync UVG trade sheet with website.")
-    parser.add_argument("--offline", action="store_true", help="Use local cached CSV without web request.")
-    args = parser.parse_args()
+    parser.parse_args()
 
     TRADING_DIR.mkdir(parents=True, exist_ok=True)
-    rows = fetch_csv(use_cache=args.offline)
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    rows = fetch_csv()
+    if rows is None:
+        print("[INFO] Could not fetch live trade sheet; existing _data/trade.json was preserved.")
+        return
+
+    if not rows:
+        sys.exit("[ERROR] CSV data is empty.")
+
+    try:
+        validate_header_columns(rows[0])
+    except ValueError as err:
+        sys.exit(f"[ERROR] Spreadsheet validation failed: {err}")
+
     items = parse_trade_items(rows)
 
-    # 1. Update trading/index.md (preserve timestamp unless trade goods or prices changed)
-    index_file = TRADING_DIR / "index.md"
-    existing_index = index_file.read_text(encoding="utf-8") if index_file.exists() else None
-
-    candidate_index = generate_index_page(items, existing_content=existing_index)
-    if existing_index and candidate_index == existing_index:
-        final_index_md = existing_index
+    # 1. Build and save backend JSON data
+    trade_data = build_trade_data(items)
+    if save_trade_data(trade_data):
+        print(f"[DATA] Wrote backend trade data to {TRADE_DATA_FILE.relative_to(REPO_ROOT)}")
     else:
-        final_index_md = generate_index_page(items, force_new_timestamp=True)
+        print(f"[DATA] {TRADE_DATA_FILE.relative_to(REPO_ROOT)} is up to date.")
 
-    if write_if_changed(index_file, final_index_md):
-        print(f"[INDEX] Wrote {TRADING_DIR / 'index.md'}")
+    # 2. Ensure master trading hub index uses dynamic Liquid include
+    if ensure_index_page():
+        print(f"[INDEX] Updated {TRADING_DIR.relative_to(REPO_ROOT)}/index.md to dynamic Liquid include.")
     else:
-        print(f"[INDEX] {index_file.relative_to(REPO_ROOT)} is up to date.")
+        print(f"[INDEX] {TRADING_DIR.relative_to(REPO_ROOT)}/index.md is up to date.")
 
-    # 2. Update item notes
-    updated_items = 0
-    for it in items:
-        page_md = generate_item_page(it)
-        out_file = TRADING_DIR / f"{it['slug']}.md"
-        if write_if_changed(out_file, page_md):
-            updated_items += 1
-
+    # 3. Ensure each trade item page uses dynamic Liquid include
+    updated_items = ensure_item_pages(items)
     if updated_items > 0:
-        print(f"[ITEMS] Synchronised {updated_items} updated trade items into {TRADING_DIR.relative_to(REPO_ROOT)}/")
+        print(f"[ITEMS] Synchronised {updated_items} item pages in {TRADING_DIR.relative_to(REPO_ROOT)}/ to Liquid include.")
     else:
         print(f"[ITEMS] All {len(items)} trade items in {TRADING_DIR.relative_to(REPO_ROOT)}/ are up to date.")
 
-    # 3. Update published location pages
-    updated_locations = update_location_pages(items)
+    # 4. Ensure published location pages use dynamic Liquid include
+    updated_locations = ensure_location_pages()
     if updated_locations == 0:
-        print("[LOCATION] All published location trade tables are up to date.")
+        print("[LOCATION] All published location pages are up to date.")
 
 
 if __name__ == "__main__":
