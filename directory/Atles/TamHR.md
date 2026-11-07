@@ -30,3 +30,9 @@ What is your affinity-bonded pet?: Aggressively upgraded Dodo called Vangogh (w
 You have an odd family connexion: a relative executed for treason. Was it just?
 
 You have to repay € 2000 to a Vintner lord’s butler by the end of the caravan season.
+
+
+Left with a limp after an attack by [Deep Purple](DeepPurple.md) (Vangogh, renamed when it received its solar-powered wings), who was angry that [nobody was looking for the promised Doda mate](../../campaigns/UVG24XX/ep_012.md).
+
+Realises that much of what has happened was prophesied by their own aged clone.
+Expects the next prophecy to concern [blood raining beneath a bloody moon](../../campaigns/UVG24XX/ep_012.md), perhaps the Near Moon.
