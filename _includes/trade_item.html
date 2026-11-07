@@ -1,0 +1,22 @@
+{%- assign it = site.data.trade.items_by_name[page.title] -%}
+{%- unless it -%}
+  {%- assign page_slug = page.path | split: "/" | last | replace: ".md", "" -%}
+  {%- assign it = site.data.trade.items_by_slug[page_slug] -%}
+{%- endunless -%}
+{%- if it -%}
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **Reference Code** | **Category** | **Standard Unit** | **Base Value** |
+| {{ it.ref | default: "Custom / Local" }} | {{ it.category }} | {{ it.size }} | {{ it.base_price }} |
+
+## Trail Prices & Market Conditions
+
+Prices reflect actual caravan transaction rates in Cash (€) across the trade corridor.
+
+| | | |
+| :--- | :--- | :--- |
+| **Trail Station** | **Local Price** | **Market Situation** |
+{% for loc in it.locations -%}
+| **{% if loc.dir_path %}[{{ loc.name }}](../{{ loc.dir_path }}){% else %}{{ loc.name }}{% endif %}** | {{ loc.price_str }} | {{ loc.condition_html }} |
+{% endfor %}
+{%- endif -%}

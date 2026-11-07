@@ -1,0 +1,6 @@
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **Ref** | **Item** | **Base** | **Most profitable trade on the Grasslands** |
+{% for it in site.data.trade.items -%}
+| {{ it.ref | default: "—" }} | **[{{ it.name }}]({{ it.slug }}.md)** | {{ it.base_price }} | {{ it.best_trade }} |
+{% endfor %}
