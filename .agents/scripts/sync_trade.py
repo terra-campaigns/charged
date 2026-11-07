@@ -2,13 +2,10 @@
 """
 Sync UVG trade multiplier spreadsheet with the Charged campaign website.
 Pulls the live Google Sheet CSV, calculates real Cash prices (€),
-and generates:
-  - trading/index.md (Top-level master commerce hub)
-  - trading/<item>.md (Individual child notes for each active trade good, mount, or tool)
+and generates _data/trade.json consumed dynamically by Jekyll Liquid includes.
 
 Usage:
   python3 .agents/scripts/sync_trade.py
-  python3 .agents/scripts/sync_trade.py --offline  # Use cached CSV without fetching
 """
 
 import argparse
@@ -27,7 +24,6 @@ REPO_ROOT = Path(__file__).resolve().parents[2]
 TRADING_DIR = REPO_ROOT / "trading"
 DATA_DIR = REPO_ROOT / "_data"
 TRADE_DATA_FILE = DATA_DIR / "trade.json"
-CACHE_FILE = REPO_ROOT / ".agents" / "context" / "trade_sheet_cache.csv"
 
 
 def write_if_changed(path: Path, new_content: str) -> bool:
@@ -233,27 +229,24 @@ def parse_market_condition(note: str, mult: float) -> str:
     return f"Discounted regional market (price factor $\\times {mult:g}$)."
 
 
-def fetch_csv(use_cache: bool = False) -> list[list[str]]:
-    if not use_cache:
-        try:
-            req = urllib.request.Request(
-                SPREADSHEET_CSV_URL,
-                headers={"User-Agent": "Charged-Trade-Sync/1.0"},
-            )
-            with urllib.request.urlopen(req, timeout=10) as resp:
-                content = resp.read().decode("utf-8")
-                write_if_changed(CACHE_FILE, content)
-                reader = csv.reader(io.StringIO(content))
-                return list(reader)
-        except Exception as e:
-            print(f"[WARN] Live fetch failed ({e}). Falling back to local cache.", file=sys.stderr)
+def fetch_csv() -> Optional[list[list[str]]]:
+    """Fetch live CSV matrix directly from the Google Sheets workbook.
 
-    if CACHE_FILE.exists():
-        content = CACHE_FILE.read_text(encoding="utf-8")
-        reader = csv.reader(io.StringIO(content))
-        return list(reader)
-
-    sys.exit("Error: Could not fetch Google Sheet CSV and no local cache was found.")
+    Returns:
+        List of row strings if successful, or None if network fetch fails.
+    """
+    try:
+        req = urllib.request.Request(
+            SPREADSHEET_CSV_URL,
+            headers={"User-Agent": "Charged-Trade-Sync/1.0"},
+        )
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            content = resp.read().decode("utf-8")
+            reader = csv.reader(io.StringIO(content))
+            return list(reader)
+    except Exception as e:
+        print(f"[WARN] Live Google Sheets fetch failed: {e}. Preserving existing trade data.", file=sys.stderr)
+        return None
 
 
 def parse_trade_items(rows: list[list[str]]) -> list[dict]:
@@ -621,13 +614,16 @@ def ensure_location_pages() -> int:
 
 def main():
     parser = argparse.ArgumentParser(description="Sync UVG trade sheet with website.")
-    parser.add_argument("--offline", action="store_true", help="Use local cached CSV without web request.")
-    args = parser.parse_args()
+    parser.parse_args()
 
     TRADING_DIR.mkdir(parents=True, exist_ok=True)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    rows = fetch_csv(use_cache=args.offline)
+    rows = fetch_csv()
+    if rows is None:
+        print("[INFO] Could not fetch live trade sheet; existing _data/trade.json was preserved.")
+        return
+
     if not rows:
         sys.exit("[ERROR] CSV data is empty.")
 
