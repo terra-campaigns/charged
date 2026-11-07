@@ -31,3 +31,6 @@ Highest ranking Porcelain Prince in the [Last Serai](index.md).
 A polite, rich, militantly bigoted polibody in luxurious opal masks.
 
 Believes the Near Moon opens the way to bring the [Harmonium](Harmonium.md) to the [Porcelain Citadel](../PorcelainCitadel/index.md).
+
+
+Reimbursed [Kur Barista](../Atles/Barista.md)'s receipts for the death of [Iron Pot 6-body](IronPot6-body.md), almost €1,500, plus €50, as previously agreed ([ep_012](../../campaigns/UVG24XX/ep_012.md)).

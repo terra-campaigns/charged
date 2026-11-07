@@ -232,6 +232,28 @@
       ],
       "dir_folder": "BlackCity",
       "category": "terminal_metropolis"
+    },
+    "Pit of Mould": {
+      "aliases": [
+        "pit of mould",
+        "the pit of mould",
+        "pit of mold"
+      ],
+      "dir_folder": "FoldedBelow",
+      "category": "unclassified",
+      "source": "ep_012",
+      "note": "Page directory/FoldedBelow/PitOfMould.md. Unfolding transport tied to the Near Moon."
+    },
+    "Qasso Mine": {
+      "aliases": [
+        "qasso mine",
+        "qasso metal mine",
+        "mine of qasso metal"
+      ],
+      "dir_folder": null,
+      "category": "unclassified",
+      "source": "ep_012",
+      "note": "Page directory/PorcelainCitadel/QassoMine.md. Also described in ep_008 as west of the Porcelain Citadel, in the Locust Spires."
     }
   },
   "connections": [
@@ -479,6 +501,24 @@
       "weeks": 1,
       "direction": "North-West",
       "terrain": "decaying boulevards"
+    },
+    {
+      "origin": "The Last Serai (8)",
+      "destination": "Pit of Mould",
+      "days": 3,
+      "weeks": 0.43,
+      "direction": "West",
+      "terrain": "unknown",
+      "source": "ep_012"
+    },
+    {
+      "origin": "The Last Serai (8)",
+      "destination": "Qasso Mine",
+      "days": 5,
+      "weeks": 0.71,
+      "direction": "North",
+      "terrain": "unknown",
+      "source": "ep_012"
     }
   ],
   "station_lore": {
