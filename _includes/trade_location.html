@@ -1,0 +1,21 @@
+{%- assign st_name = include.location -%}
+{%- unless st_name -%}
+  {%- for st in site.data.trade.stations -%}
+    {%- if page.path contains st.slug or page.title contains st.name -%}
+      {%- assign st_name = st.name -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endunless -%}
+{%- if st_name and site.data.trade.locations[st_name] -%}
+## Trade & Commerce
+
+Local market rates and profitable trade routes connecting through {{ st_name }}.
+
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **Ref** | **Item** | **Location Price** | **Most profitable trade** |
+{% for row in site.data.trade.locations[st_name] -%}
+| {{ row.ref | default: "—" }} | **[{{ row.name }}](../../trading/{{ row.slug }}.md)** | {{ row.price_str }} | {{ row.best_trade }} |
+{% endfor %}
+{%- endif -%}
