@@ -91,63 +91,101 @@ LOCATION_COLUMNS = [
         "col_idx": 4,
         "name": "Violet City",
         "slug": "VioletCity",
+        "header_match": "violet",
         "dir_path": "directory/VioletCity/index.md",
     },
     {
         "col_idx": 5,
         "name": "Low Road / High Road",
         "slug": "LowRoadHigh",
+        "header_match": "low r",
         "dir_path": "directory/LowRoadHigh/index.md",
     },
     {
         "col_idx": 6,
         "name": "Steppe of Lime Nomads",
         "slug": "LimeNomads",
+        "header_match": "steppe lime",
         "dir_path": "directory/LimeNomads/index.md",
     },
     {
         "col_idx": 7,
         "name": "Porcelain Citadel",
         "slug": "PorcelainCitadel",
+        "header_match": "porcelain",
         "dir_path": "directory/PorcelainCitadel/index.md",
     },
     {
         "col_idx": 8,
         "name": "Potsherd Crater",
         "slug": "PotsherdCrater",
+        "header_match": "potsherd",
         "dir_path": "directory/PotsherdCrater/index.md",
     },
     {
         "col_idx": 9,
         "name": "Trail of Vomish Dreams",
         "slug": "TrailOfVomishDreams",
+        "header_match": "vomish",
         "dir_path": None,
     },
     {
         "col_idx": 11,
         "name": "The Last Serai",
         "slug": "LastSerai",
+        "header_match": "last serai",
         "dir_path": "directory/LastSerai/index.md",
     },
     {
         "col_idx": 12,
         "name": "Way Stone Graveyard",
         "slug": "WayStoneGraveyard",
+        "header_match": "way stone",
         "dir_path": "directory/WayStoneGraveyard/index.md",
     },
     {
         "col_idx": 13,
         "name": "Death-Facing Passage",
         "slug": "DeathFacingPassage",
+        "header_match": "death fac",
         "dir_path": "directory/DeathFacingPassage/index.md",
     },
     {
         "col_idx": 14,
         "name": "South-Facing Passage",
         "slug": "SouthFacingPassage",
+        "header_match": "south fac",
         "dir_path": None,
     },
 ]
+
+
+def validate_header_columns(header_row: list[str]) -> bool:
+    """Validate that spreadsheet header row aligns with LOCATION_COLUMNS.
+
+    Raises:
+        ValueError: If header row has fewer than 15 columns or any expected
+                    station header does not match its designated column.
+    """
+    if len(header_row) < 15:
+        raise ValueError(
+            f"Header row has {len(header_row)} columns; expected at least 15 columns."
+        )
+
+    for loc in LOCATION_COLUMNS:
+        col_idx = loc["col_idx"]
+        expected_match = loc.get("header_match", "").lower()
+        if not expected_match:
+            continue
+
+        actual_header = header_row[col_idx].strip().lower()
+        if expected_match not in actual_header:
+            raise ValueError(
+                f"Header column shift detected at index {col_idx}: "
+                f"expected '{expected_match}' for station '{loc['name']}', "
+                f"but found '{header_row[col_idx]}'."
+            )
+    return True
 
 
 def clean_slug(name: str) -> str:
@@ -589,6 +627,14 @@ def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     rows = fetch_csv(use_cache=args.offline)
+    if not rows:
+        sys.exit("[ERROR] CSV data is empty.")
+
+    try:
+        validate_header_columns(rows[0])
+    except ValueError as err:
+        sys.exit(f"[ERROR] Spreadsheet validation failed: {err}")
+
     items = parse_trade_items(rows)
 
     # 1. Build and save backend JSON data
