@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T12:03:42+01:00",
+  "generated": "2026-11-07T19:24:51+01:00",
   "tier": 1,
   "total_entries": 114,
   "entries": [
@@ -35,7 +35,7 @@
       "status": "Burrowed underground, whereabouts unknown",
       "region": null,
       "nav_order": null,
-      "summary": "Something like a giant centipede climbed out of a window of the [Ignored Tower](IgnoredTower.md), descended the outside slowly and [burrowed into the ground](../../campaigns/UVG24XX/ep_012.md).",
+      "summary": "Something like a colossal centipede climbed out of a window of the [Ignored Tower](IgnoredTower.md), descended the outside slowly and [burrowed into the ground](../../campaigns/UVG24XX/ep_012.md).",
       "links_out": [
         "campaigns/UVG24XX/ep_012.md",
         "campaigns/UVG24XX/index.md",
@@ -45,7 +45,7 @@
         "directory/LastSerai/IgnoredTower.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "e1e13baf",
+      "sha": "4ac2600c",
       "tier": 1
     },
     {
