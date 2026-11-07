@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T09:05:13+01:00",
+  "generated": "2026-11-07T09:27:11+01:00",
   "tier": 1,
   "total_entries": 115,
   "entries": [
@@ -983,7 +983,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "1acb61dd",
+      "sha": "a93fa3ec",
       "tier": 1
     },
     {
@@ -1443,7 +1443,7 @@
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "378d86d0",
+      "sha": "19b564e1",
       "tier": 1
     },
     {
@@ -1571,7 +1571,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €200 |",
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €1000 |",
       "links_out": [
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
@@ -1588,7 +1588,7 @@
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "0e8883a1",
+      "sha": "7d486105",
       "tier": 1
     },
     {
@@ -2093,7 +2093,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:23 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:07 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -2137,7 +2137,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "0773c9e1",
+      "sha": "79dc37e3",
       "tier": 1
     },
     {
@@ -3359,7 +3359,7 @@
         "directory/SpectrumPalace/SpectrumSatraps.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "8c0af6e8",
+      "sha": "7bde3a82",
       "tier": 1
     },
     {
