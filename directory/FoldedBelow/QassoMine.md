@@ -26,10 +26,10 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
-An old mine of *Qasso* metal, west of the [Porcelain Citadel](index.md), in the Locust Spires.
+An old mine of *Qasso* metal, west of the [Porcelain Citadel](../PorcelainCitadel/index.md), in the Locust Spires.
 The place is supposedly very dangerous.
 
-[Tam](../Atles/TamHR.md) first learned of it from the [Rainbowlanders](RBL-HMC.md) of the Houses of Many Colours while [visiting the Porcelain Citadel](../../campaigns/UVG24XX/ep_008.md).
+[Tam](../Atles/TamHR.md) first learned of it from the [Rainbowlanders](../PorcelainCitadel/RBL-HMC.md) of the Houses of Many Colours while [visiting the Porcelain Citadel](../../campaigns/UVG24XX/ep_008.md).
 
 It was later identified as five days north of [The Last Serai](../LastSerai/index.md), as [recalled at the table](../../campaigns/UVG24XX/ep_012.md).
 This sits alongside the earlier description placing it west of the citadel, in the Locust Spires.

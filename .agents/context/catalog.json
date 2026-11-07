@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T10:12:58+01:00",
+  "generated": "2026-11-07T10:19:56+01:00",
   "tier": 1,
   "total_entries": 114,
   "entries": [
@@ -176,6 +176,7 @@
       ],
       "links_in": [
         "campaigns/UVG24XX/ep_008.md",
+        "directory/FoldedBelow/QassoMine.md",
         "directory/PorcelainCitadel/index.md"
       ],
       "lastmod": "2026-W42",
@@ -619,6 +620,7 @@
         "campaigns/UVG24XX/ep_008.md",
         "campaigns/UVG24XX/ep_010.md",
         "campaigns/UVG24XX/ep_011.md",
+        "directory/FoldedBelow/QassoMine.md",
         "directory/LastSerai/Angel22-unity.md",
         "directory/PorcelainCitadel/AscendantChurchOfFlesh.md",
         "directory/PorcelainCitadel/PorcelainPrinces.md",
@@ -957,7 +959,7 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "a93fa3ec",
+      "sha": "1acb61dd",
       "tier": 1
     },
     {
@@ -1417,7 +1419,7 @@
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "19b564e1",
+      "sha": "378d86d0",
       "tier": 1
     },
     {
@@ -1545,7 +1547,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €1000 |",
+      "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €200 |",
       "links_out": [
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
@@ -1562,7 +1564,7 @@
         "trading/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "7d486105",
+      "sha": "0e8883a1",
       "tier": 1
     },
     {
@@ -2067,7 +2069,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:07 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 10:23 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -2111,7 +2113,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "79dc37e3",
+      "sha": "0773c9e1",
       "tier": 1
     },
     {

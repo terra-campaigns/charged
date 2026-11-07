@@ -250,10 +250,10 @@
         "qasso metal mine",
         "mine of qasso metal"
       ],
-      "dir_folder": null,
+      "dir_folder": "FoldedBelow",
       "category": "unclassified",
       "source": "ep_012",
-      "note": "Page directory/PorcelainCitadel/QassoMine.md. Also described in ep_008 as west of the Porcelain Citadel, in the Locust Spires."
+      "note": "Page directory/FoldedBelow/QassoMine.md. Also described in ep_008 as west of the Porcelain Citadel, in the Locust Spires."
     }
   },
   "connections": [
