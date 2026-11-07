@@ -1,7 +1,7 @@
-{%- assign it = site.data.trade.items_by_name[page.title] -%}
+{%- assign it = site.data.trade.items | where: "name", page.title | first -%}
 {%- unless it -%}
   {%- assign page_slug = page.path | split: "/" | last | replace: ".md", "" -%}
-  {%- assign it = site.data.trade.items_by_slug[page_slug] -%}
+  {%- assign it = site.data.trade.items | where: "slug", page_slug | first -%}
 {%- endunless -%}
 {%- if it -%}
 | | | | |

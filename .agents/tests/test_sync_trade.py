@@ -193,7 +193,7 @@ class TestTradeDataSchema(unittest.TestCase):
 
     def test_root_keys_present(self):
         """Ensure required top-level keys exist in trade_data dictionary."""
-        required_keys = {"stations", "items", "items_by_name", "items_by_slug", "locations"}
+        required_keys = {"stations", "items", "locations"}
         self.assertTrue(required_keys.issubset(self.trade_data.keys()))
 
     def test_stations_schema(self):
@@ -204,20 +204,25 @@ class TestTradeDataSchema(unittest.TestCase):
             self.assertIn("slug", st)
             self.assertIn("dir_path", st)
 
-    def test_items_indexing_parity(self):
-        """Ensure items_by_name and items_by_slug map identically to items array."""
+    def test_items_schema(self):
+        """Ensure items list contains expected schema attributes."""
         items = self.trade_data["items"]
-        by_name = self.trade_data["items_by_name"]
-        by_slug = self.trade_data["items_by_slug"]
-
-        self.assertEqual(len(by_name), len(items))
-        self.assertEqual(len(by_slug), len(items))
-
+        self.assertGreater(len(items), 0)
         for it in items:
-            self.assertIn(it["name"], by_name)
-            self.assertIn(it["slug"], by_slug)
-            self.assertEqual(by_name[it["name"]]["slug"], it["slug"])
-            self.assertEqual(by_slug[it["slug"]]["name"], it["name"])
+            self.assertIn("ref", it)
+            self.assertIn("name", it)
+            self.assertIn("slug", it)
+            self.assertIn("category", it)
+            self.assertIn("size", it)
+            self.assertIn("base_price", it)
+            self.assertIn("best_trade", it)
+            self.assertIn("locations", it)
+            self.assertEqual(len(it["locations"]), 10)
+            for loc in it["locations"]:
+                self.assertIn("name", loc)
+                self.assertIn("dir_path", loc)
+                self.assertIn("price_str", loc)
+                self.assertIn("condition_html", loc)
 
     def test_locations_map_all_stations(self):
         """Ensure every station has an item pricing table in locations dictionary."""

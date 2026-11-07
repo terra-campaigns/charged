@@ -395,8 +395,6 @@ def build_trade_data(items: list[dict]) -> dict:
     ]
 
     items_list = []
-    items_by_name = {}
-    items_by_slug = {}
 
     for it in items:
         # Determine most profitable trade route across all stations
@@ -439,12 +437,8 @@ def build_trade_data(items: list[dict]) -> dict:
             item_locations.append(
                 {
                     "name": loc["location"],
-                    "slug": loc["slug"],
                     "dir_path": loc["dir_path"],
                     "price_str": loc["price_str"],
-                    "has_data": loc["has_data"],
-                    "multiplier": loc["multiplier"],
-                    "condition": loc["condition"],
                     "condition_html": cond_html,
                 }
             )
@@ -460,8 +454,6 @@ def build_trade_data(items: list[dict]) -> dict:
             "locations": item_locations,
         }
         items_list.append(item_dict)
-        items_by_name[it["name"]] = item_dict
-        items_by_slug[it["slug"]] = item_dict
 
     # Build per-location trade summaries
     locations_data = {}
@@ -523,8 +515,6 @@ def build_trade_data(items: list[dict]) -> dict:
     return {
         "stations": stations,
         "items": items_list,
-        "items_by_name": items_by_name,
-        "items_by_slug": items_by_slug,
         "locations": locations_data,
     }
 
@@ -578,19 +568,13 @@ def ensure_index_page() -> bool:
     return write_if_changed(index_file, index_md)
 
 
-PUBLISHED_LOCATIONS = [
-    {"name": "Violet City", "file": REPO_ROOT / "directory/VioletCity/index.md"},
-    {"name": "Low Road / High Road", "file": REPO_ROOT / "directory/LowRoadHigh/index.md"},
-    {"name": "Steppe of Lime Nomads", "file": REPO_ROOT / "directory/LimeNomads/index.md"},
-    {"name": "Porcelain Citadel", "file": REPO_ROOT / "directory/PorcelainCitadel/index.md"},
-    {"name": "The Last Serai", "file": REPO_ROOT / "directory/LastSerai/index.md"},
-]
-
-
 def ensure_location_pages() -> int:
     changed = 0
-    for loc_info in PUBLISHED_LOCATIONS:
-        file_path = loc_info["file"]
+    for loc_info in LOCATION_COLUMNS:
+        dir_path = loc_info.get("dir_path")
+        if not dir_path:
+            continue
+        file_path = REPO_ROOT / dir_path
         if not file_path.exists():
             continue
 
