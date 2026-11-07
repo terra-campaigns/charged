@@ -23,6 +23,9 @@ Prices reflect actual caravan transaction rates in Cash (€) across the trade c
 | **[Low Road / High Road](../directory/LowRoadHigh/index.md)** | €100 | <em style="color: #888;">Standard open-market demand.</em> |
 | **[Steppe of Lime Nomads](../directory/LimeNomads/index.md)** | €100 | <em style="color: #888;">Standard open-market demand.</em> |
 | **[Porcelain Citadel](../directory/PorcelainCitadel/index.md)** | €300 | **Market Bubble:** Wild speculative surge in local purchasing price. |
-| **Potsherd Crater** | — |  |
+| **[Potsherd Crater](../directory/PotsherdCrater/index.md)** | — |  |
 | **Trail of Vomish Dreams** | — |  |
 | **[The Last Serai](../directory/LastSerai/index.md)** | €100 | <em style="color: #888;">Standard open-market demand.</em> |
+| **[Way Stone Graveyard](../directory/WayStoneGraveyard/index.md)** | €100 | <em style="color: #888;">Standard open-market demand.</em> |
+| **[Death-Facing Passage](../directory/DeathFacingPassage/index.md)** | €50 | **Soft Market:** Saturated or low interest; buyers demand discounts. |
+| **South-Facing Passage** | €100 | <em style="color: #888;">Standard open-market demand.</em> |

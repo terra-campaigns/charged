@@ -80,5 +80,5 @@ Local market rates and profitable trade routes connecting through Porcelain Cita
 | TK12 | **[Navigators suitcase](../../trading/TK12_Navigators_suitcase.md)** | — | <em style="color: #888;">No great trade identified.</em> |
 | TK15 | **[Prospector Kit](../../trading/TK15_Prospector_Kit.md)** | €50 | <em style="color: #888;">No great trade identified.</em> |
 | TK19 | **[Veterinarian Kit](../../trading/TK19_Veterinarian_Kit.md)** | — | <em style="color: #888;">No great trade identified.</em> |
-| — | **[Fine tubers](../../trading/Fine_tubers.md)** | €300 | Violet City (€100) --> Porcelain Citadel (€300) |
+| — | **[Fine tubers](../../trading/Fine_tubers.md)** | €300 | Death-Facing Passage (€50) --> Porcelain Citadel (€300) |
 | — | **[Crystal shards/spheres](../../trading/Crystal_shardsspheres.md)** | €10/40 | Porcelain Citadel (€10/40) --> Steppe of Lime Nomads (€200/800) |

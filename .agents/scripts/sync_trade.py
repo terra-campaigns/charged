@@ -41,8 +41,8 @@ def write_if_changed(path: Path, new_content: str) -> bool:
     return True
 
 SPREADSHEET_CSV_URL = (
-    "https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/"
-    "export?format=csv&gid=35129677"
+    "https://docs.google.com/spreadsheets/d/1TEx8ZmBq90Tyms3u5eVlM2OqpUIemsj6c04rmNXxg94/"
+    "export?format=csv&gid=1457428661"
 )
 
 # Standard UVG 2E fallback prices for items if blank in the spreadsheet
@@ -113,7 +113,7 @@ LOCATION_COLUMNS = [
         "col_idx": 8,
         "name": "Potsherd Crater",
         "slug": "PotsherdCrater",
-        "dir_path": None,
+        "dir_path": "directory/PotsherdCrater/index.md",
     },
     {
         "col_idx": 9,
@@ -126,6 +126,24 @@ LOCATION_COLUMNS = [
         "name": "The Last Serai",
         "slug": "LastSerai",
         "dir_path": "directory/LastSerai/index.md",
+    },
+    {
+        "col_idx": 12,
+        "name": "Way Stone Graveyard",
+        "slug": "WayStoneGraveyard",
+        "dir_path": "directory/WayStoneGraveyard/index.md",
+    },
+    {
+        "col_idx": 13,
+        "name": "Death-Facing Passage",
+        "slug": "DeathFacingPassage",
+        "dir_path": "directory/DeathFacingPassage/index.md",
+    },
+    {
+        "col_idx": 14,
+        "name": "South-Facing Passage",
+        "slug": "SouthFacingPassage",
+        "dir_path": None,
     },
 ]
 

@@ -23,6 +23,9 @@ Prices reflect actual caravan transaction rates in Cash (€) across the trade c
 | **[Low Road / High Road](../directory/LowRoadHigh/index.md)** | €500 | <em style="color: #888;">Standard open-market demand.</em> |
 | **[Steppe of Lime Nomads](../directory/LimeNomads/index.md)** | — |  |
 | **[Porcelain Citadel](../directory/PorcelainCitadel/index.md)** | — |  |
-| **Potsherd Crater** | — |  |
+| **[Potsherd Crater](../directory/PotsherdCrater/index.md)** | — |  |
 | **Trail of Vomish Dreams** | — |  |
 | **[The Last Serai](../directory/LastSerai/index.md)** | — |  |
+| **[Way Stone Graveyard](../directory/WayStoneGraveyard/index.md)** | — |  |
+| **[Death-Facing Passage](../directory/DeathFacingPassage/index.md)** | — |  |
+| **South-Facing Passage** | — |  |

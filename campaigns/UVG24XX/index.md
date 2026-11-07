@@ -154,7 +154,7 @@ You may add a **d6** if you have a relevant background.
 
 **Useful links**:  
 [Rules & Chargen](https://terra-campaigns.github.io/charged/campaigns/UVG24XX/)
-[Location, goods and prices](https://docs.google.com/spreadsheets/d/1jzVvpxaQsuevjKaFAHmi2KpHFvdh9q9F6tG8ZeVBTMw/edit?usp=sharing)
+[Location, goods and prices](https://docs.google.com/spreadsheets/d/1TEx8ZmBq90Tyms3u5eVlM2OqpUIemsj6c04rmNXxg94/edit?gid=1457428661#gid=1457428661)
 [Owlbear Rodeo](https://www.owlbear.rodeo/room/S4p4WuPKKULl/charged)
 [Spotify playlist](https://open.spotify.com/playlist/471z1wUAG1zxbQ2Dan3GWV?si=240d7014c79d433a)
 [UVG free player guide](https://wizardthieffighter.itch.io/uvg-free-player-guide)  

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T09:04:51+01:00",
+  "generated": "2026-11-07T10:31:15+01:00",
   "tier": 1,
   "total_entries": 111,
   "entries": [
@@ -266,7 +266,47 @@
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
+      ],
       "lastmod": "2026-W42",
       "sha": "50b99fd6",
       "tier": 1
@@ -610,8 +650,8 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "b4d63140",
+      "lastmod": "2026-W44",
+      "sha": "d6cb43ae",
       "tier": 1
     },
     {
@@ -627,7 +667,47 @@
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
+      ],
       "lastmod": "2026-W42",
       "sha": "e8951e2a",
       "tier": 1
@@ -898,7 +978,7 @@
         "trading/VM08_Combat_steed.md",
         "trading/VM18_Prismatic_Walker.md"
       ],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "a93fa3ec",
       "tier": 1
     },
@@ -1021,7 +1101,47 @@
       "links_out": [
         "campaigns/UVG24XX/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "trading/Crystal_shardsspheres.md",
+        "trading/Fine_tubers.md",
+        "trading/TG01_Alchemical_lubricants.md",
+        "trading/TG02_Beast_egg_masses.md",
+        "trading/TG03_Bone_work.md",
+        "trading/TG04_Chitin_cap.md",
+        "trading/TG05_Common_intoxicants.md",
+        "trading/TG06_Cosmic_scales.md",
+        "trading/TG07_Dryland_coral_seeds.md",
+        "trading/TG08_Gems_and_jewels.md",
+        "trading/TG09_Gold.md",
+        "trading/TG10_Indigo_ivories.md",
+        "trading/TG11_Joy_worms.md",
+        "trading/TG12_Karma_dust.md",
+        "trading/TG13_Last_steel.md",
+        "trading/TG14_Livingstone_bricks.md",
+        "trading/TG15_Marrow_beet.md",
+        "trading/TG16_Medimagicals.md",
+        "trading/TG18_Odd_fruits.md",
+        "trading/TG19_Rediothermal_fuel.md",
+        "trading/TG20_Rainbow_silks.md",
+        "trading/TG21_Rare_drugs.md",
+        "trading/TG22_Replacement_bodies.md",
+        "trading/TG23_Saffron.md",
+        "trading/TG24_Sanguine_porcelains.md",
+        "trading/TG25_Silver.md",
+        "trading/TG26_Soul_stones.md",
+        "trading/TG27_Ultra_jay_needles.md",
+        "trading/TG28_Vampire_wines.md",
+        "trading/TG29_Vidy_crystals_Irridiscent_globes.md",
+        "trading/TG30_Weapons_and_armours.md",
+        "trading/TK12_Navigators_suitcase.md",
+        "trading/TK15_Prospector_Kit.md",
+        "trading/TK19_Veterinarian_Kit.md",
+        "trading/VM01_Vehicle_Mount_VM01.md",
+        "trading/VM02_Disposable_slave.md",
+        "trading/VM07_Mules.md",
+        "trading/VM08_Combat_steed.md",
+        "trading/VM18_Prismatic_Walker.md"
+      ],
       "lastmod": "2026-W42",
       "sha": "8995ec21",
       "tier": 1
@@ -1037,11 +1157,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG01 | Trade Goods | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1052,8 +1175,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "fda28f89",
+      "lastmod": "2026-W44",
+      "sha": "b99d182b",
       "tier": 1
     },
     {
@@ -1067,11 +1190,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG02 | Trade Goods | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1081,8 +1207,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "76aa9c6f",
+      "lastmod": "2026-W44",
+      "sha": "f5930714",
       "tier": 1
     },
     {
@@ -1096,11 +1222,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG03 | Trade Goods | Sack | €50 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1110,8 +1239,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "4f4b7653",
+      "lastmod": "2026-W44",
+      "sha": "56954a79",
       "tier": 1
     },
     {
@@ -1125,11 +1254,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG04 | Trade Goods | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1139,8 +1271,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "9a3a653f",
+      "lastmod": "2026-W44",
+      "sha": "fbdaeaf1",
       "tier": 1
     },
     {
@@ -1154,11 +1286,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM08 | Vehicles & Mounts | Sack | €200 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1168,8 +1303,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "81a3ec97",
+      "lastmod": "2026-W44",
+      "sha": "90e3d20b",
       "tier": 1
     },
     {
@@ -1183,11 +1318,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG05 | Trade Goods | Sack | €2000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1197,8 +1335,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "1f59dac4",
+      "lastmod": "2026-W44",
+      "sha": "047fe0a5",
       "tier": 1
     },
     {
@@ -1212,11 +1350,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG06 | Trade Goods | Sack | €1000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1226,8 +1367,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "5398d1cd",
+      "lastmod": "2026-W44",
+      "sha": "9861003e",
       "tier": 1
     },
     {
@@ -1241,11 +1382,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | Custom / Local | Speciality Cargo | Sack | €100/400 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1255,8 +1399,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "d08b7ad5",
+      "lastmod": "2026-W44",
+      "sha": "30a4b123",
       "tier": 1
     },
     {
@@ -1286,11 +1430,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM02 | Vehicles & Mounts | Sack | €200 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1300,8 +1447,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "6b1590d6",
+      "lastmod": "2026-W44",
+      "sha": "df739292",
       "tier": 1
     },
     {
@@ -1315,11 +1462,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG07 | Trade Goods | Sack | €200 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1329,8 +1479,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "e015bf99",
+      "lastmod": "2026-W44",
+      "sha": "4c9d723a",
       "tier": 1
     },
     {
@@ -1344,11 +1494,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | Custom / Local | Speciality Cargo | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1358,8 +1511,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "19b564e1",
+      "lastmod": "2026-W44",
+      "sha": "3abffdb3",
       "tier": 1
     },
     {
@@ -1373,11 +1526,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG08 | Trade Goods | Sack | €1000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1387,8 +1543,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "a8a5ba1a",
+      "lastmod": "2026-W44",
+      "sha": "6bc594ae",
       "tier": 1
     },
     {
@@ -1402,11 +1558,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG09 | Trade Goods | Sack | €1000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1416,8 +1575,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "049f3a96",
+      "lastmod": "2026-W44",
+      "sha": "85615847",
       "tier": 1
     },
     {
@@ -1431,11 +1590,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG10 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1445,8 +1607,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "2a49e901",
+      "lastmod": "2026-W44",
+      "sha": "c8534016",
       "tier": 1
     },
     {
@@ -1460,11 +1622,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG11 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1474,8 +1639,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "63284379",
+      "lastmod": "2026-W44",
+      "sha": "8ba4d2c9",
       "tier": 1
     },
     {
@@ -1489,11 +1654,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG12 | Trade Goods | Sack | €1000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1503,8 +1671,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "7d486105",
+      "lastmod": "2026-W44",
+      "sha": "3308a2a9",
       "tier": 1
     },
     {
@@ -1518,11 +1686,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG13 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1532,8 +1703,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "19b3b132",
+      "lastmod": "2026-W44",
+      "sha": "5246ef20",
       "tier": 1
     },
     {
@@ -1547,11 +1718,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG14 | Trade Goods | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1561,8 +1735,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "8fffc93a",
+      "lastmod": "2026-W44",
+      "sha": "6235a25c",
       "tier": 1
     },
     {
@@ -1576,11 +1750,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG15 | Trade Goods | Sack | €50 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1590,8 +1767,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "d858b726",
+      "lastmod": "2026-W44",
+      "sha": "a88cbdb7",
       "tier": 1
     },
     {
@@ -1605,11 +1782,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG16 | Trade Goods | Sack | €1000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1619,8 +1799,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "0a49ccbf",
+      "lastmod": "2026-W44",
+      "sha": "9a850405",
       "tier": 1
     },
     {
@@ -1634,11 +1814,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM07 | Vehicles & Mounts | Sack | €70 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1648,8 +1831,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "d9b847ce",
+      "lastmod": "2026-W44",
+      "sha": "da941319",
       "tier": 1
     },
     {
@@ -1663,11 +1846,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TK12 | Toolkits | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1677,8 +1863,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "9733f5bb",
+      "lastmod": "2026-W44",
+      "sha": "9d0f380b",
       "tier": 1
     },
     {
@@ -1692,11 +1878,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG18 | Trade Goods | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1706,8 +1895,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "6ddd12dd",
+      "lastmod": "2026-W44",
+      "sha": "cc98c0e7",
       "tier": 1
     },
     {
@@ -1721,11 +1910,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM18 | Vehicles & Mounts | Sack | €6000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1735,8 +1927,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "45e6a3a9",
+      "lastmod": "2026-W44",
+      "sha": "01dbc53a",
       "tier": 1
     },
     {
@@ -1750,11 +1942,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TK15 | Toolkits | Sack | €50 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1764,8 +1959,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "4ce3e90e",
+      "lastmod": "2026-W44",
+      "sha": "b08420cc",
       "tier": 1
     },
     {
@@ -1779,11 +1974,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG20 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1793,8 +1991,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "9cacceb4",
+      "lastmod": "2026-W44",
+      "sha": "179a87fc",
       "tier": 1
     },
     {
@@ -1808,11 +2006,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG21 | Trade Goods | Sack | €10000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1822,8 +2023,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "46224a18",
+      "lastmod": "2026-W44",
+      "sha": "1f919fc2",
       "tier": 1
     },
     {
@@ -1837,11 +2038,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG19 | Trade Goods | Sack | €50 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1851,8 +2055,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "053e43f5",
+      "lastmod": "2026-W44",
+      "sha": "5cc5d227",
       "tier": 1
     },
     {
@@ -1866,11 +2070,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG22 | Trade Goods | Sack | €2000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1880,8 +2087,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "43735cce",
+      "lastmod": "2026-W44",
+      "sha": "a2c55ba6",
       "tier": 1
     },
     {
@@ -1895,11 +2102,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG23 | Trade Goods | Sack | €1000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1909,8 +2119,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "db705b20",
+      "lastmod": "2026-W44",
+      "sha": "c195a6d4",
       "tier": 1
     },
     {
@@ -1924,11 +2134,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG24 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1938,8 +2151,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "5a60a1ea",
+      "lastmod": "2026-W44",
+      "sha": "32bd9a48",
       "tier": 1
     },
     {
@@ -1953,11 +2166,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG25 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1967,8 +2183,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "c5aab34b",
+      "lastmod": "2026-W44",
+      "sha": "e943d6c0",
       "tier": 1
     },
     {
@@ -1982,11 +2198,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG26 | Trade Goods | Sack | €2000 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -1996,8 +2215,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "aef743e1",
+      "lastmod": "2026-W44",
+      "sha": "5cf327c9",
       "tier": 1
     },
     {
@@ -2009,7 +2228,7 @@
       "status": null,
       "region": null,
       "nav_order": "40",
-      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:06 of yesterday.",
+      "summary": "Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:07 of yesterday.",
       "links_out": [
         "trading/Crystal_shardsspheres.md",
         "trading/Fine_tubers.md",
@@ -2052,8 +2271,8 @@
         "trading/VM18_Prismatic_Walker.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W42",
-      "sha": "f7e4a837",
+      "lastmod": "2026-W44",
+      "sha": "d29edc04",
       "tier": 1
     },
     {
@@ -2158,8 +2377,8 @@
         "directory/VioletCity/index.md",
         "directory/WayStoneGraveyard/index.md"
       ],
-      "lastmod": "2026-W40",
-      "sha": "8fd5dad9",
+      "lastmod": "2026-W44",
+      "sha": "37352e48",
       "tier": 1
     },
     {
@@ -2173,11 +2392,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG27 | Trade Goods | Sack | €200 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -2187,8 +2409,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "ebc398ae",
+      "lastmod": "2026-W44",
+      "sha": "6e5fbc9c",
       "tier": 1
     },
     {
@@ -2202,11 +2424,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG28 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -2216,8 +2441,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "e7ec5ae3",
+      "lastmod": "2026-W44",
+      "sha": "2610e582",
       "tier": 1
     },
     {
@@ -2231,11 +2456,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | VM01 | Vehicles & Mounts | Sack | — |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -2245,8 +2473,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "4df74155",
+      "lastmod": "2026-W44",
+      "sha": "e8d8a3fa",
       "tier": 1
     },
     {
@@ -2260,11 +2488,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TK19 | Toolkits | Sack | €100 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -2274,8 +2505,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "e438ca5e",
+      "lastmod": "2026-W44",
+      "sha": "ae4232c7",
       "tier": 1
     },
     {
@@ -2289,11 +2520,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG29 | Trade Goods | Sack | €500 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -2303,8 +2537,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "5044d04c",
+      "lastmod": "2026-W44",
+      "sha": "fc4d3346",
       "tier": 1
     },
     {
@@ -2318,11 +2552,14 @@
       "nav_order": null,
       "summary": "| | | | | | :--- | :--- | :--- | :--- | | **Reference Code** | **Category** | **Standard Unit** | **Base Value** | | TG30 | Trade Goods | Sack | €200 |",
       "links_out": [
+        "directory/DeathFacingPassage/index.md",
         "directory/LastSerai/index.md",
         "directory/LimeNomads/index.md",
         "directory/LowRoadHigh/index.md",
         "directory/PorcelainCitadel/index.md",
-        "directory/VioletCity/index.md"
+        "directory/PotsherdCrater/index.md",
+        "directory/VioletCity/index.md",
+        "directory/WayStoneGraveyard/index.md"
       ],
       "links_in": [
         "directory/LastSerai/index.md",
@@ -2332,8 +2569,8 @@
         "directory/VioletCity/index.md",
         "trading/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "28260877",
+      "lastmod": "2026-W44",
+      "sha": "5a78fd41",
       "tier": 1
     },
     {

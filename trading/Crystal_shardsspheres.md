@@ -23,6 +23,9 @@ Prices reflect actual caravan transaction rates in Cash (€) across the trade c
 | **[Low Road / High Road](../directory/LowRoadHigh/index.md)** | €0 | Zero market demand. |
 | **[Steppe of Lime Nomads](../directory/LimeNomads/index.md)** | €200/800 | **High Demand:** Eager buyers offering premium margins. |
 | **[Porcelain Citadel](../directory/PorcelainCitadel/index.md)** | €10/40 | Discounted regional market (price factor $\times 0.1$). |
-| **Potsherd Crater** | €10/40 | Discounted regional market (price factor $\times 0.1$). |
+| **[Potsherd Crater](../directory/PotsherdCrater/index.md)** | €10/40 | Discounted regional market (price factor $\times 0.1$). |
 | **Trail of Vomish Dreams** | — |  |
 | **[The Last Serai](../directory/LastSerai/index.md)** | €100/400 | <em style="color: #888;">Standard open-market demand.</em> |
+| **[Way Stone Graveyard](../directory/WayStoneGraveyard/index.md)** | — |  |
+| **[Death-Facing Passage](../directory/DeathFacingPassage/index.md)** | — |  |
+| **South-Facing Passage** | — |  |

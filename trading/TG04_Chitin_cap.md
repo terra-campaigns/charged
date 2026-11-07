@@ -23,6 +23,9 @@ Prices reflect actual caravan transaction rates in Cash (€) across the trade c
 | **[Low Road / High Road](../directory/LowRoadHigh/index.md)** | €0 | **No Market:** Completely unwanted or useless to local buyers. |
 | **[Steppe of Lime Nomads](../directory/LimeNomads/index.md)** | — |  |
 | **[Porcelain Citadel](../directory/PorcelainCitadel/index.md)** | €50 | **Soft Market:** Saturated or low interest; buyers demand discounts. |
-| **Potsherd Crater** | — |  |
+| **[Potsherd Crater](../directory/PotsherdCrater/index.md)** | — |  |
 | **Trail of Vomish Dreams** | — |  |
 | **[The Last Serai](../directory/LastSerai/index.md)** | €300 | **Market Bubble:** Wild speculative surge in local purchasing price. |
+| **[Way Stone Graveyard](../directory/WayStoneGraveyard/index.md)** | — |  |
+| **[Death-Facing Passage](../directory/DeathFacingPassage/index.md)** | — |  |
+| **South-Facing Passage** | — |  |

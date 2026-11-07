@@ -8,7 +8,7 @@ nav_order: 40
 
 # Ultraviolet Grasslands Commerce & Trade
 
-Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:06 of yesterday.
+Live trade prices and market conditions along the Great Road from the **Violet City** to **The Last Serai**. Synchronised with the caravan ledger at 11:07 of yesterday.
 
 ## Trade Goods Summary
 
@@ -52,5 +52,5 @@ Live trade prices and market conditions along the Great Road from the **Violet C
 | TK12 | **[Navigators suitcase](TK12_Navigators_suitcase.md)** | €100 | <em style="color: #888;">No great trade identified.</em> |
 | TK15 | **[Prospector Kit](TK15_Prospector_Kit.md)** | €50 | <em style="color: #888;">No great trade identified.</em> |
 | TK19 | **[Veterinarian Kit](TK19_Veterinarian_Kit.md)** | €100 | <em style="color: #888;">No great trade identified.</em> |
-| — | **[Fine tubers](Fine_tubers.md)** | €100 | Violet City (€100) --> Porcelain Citadel (€300) |
+| — | **[Fine tubers](Fine_tubers.md)** | €100 | Death-Facing Passage (€50) --> Porcelain Citadel (€300) |
 | — | **[Crystal shards/spheres](Crystal_shardsspheres.md)** | €100/400 | Porcelain Citadel (€10/40) --> Steppe of Lime Nomads (€200/800) |
