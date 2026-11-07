@@ -44,3 +44,9 @@ And then, the strike, violent, hitting the group. All dead, except me, the bolt 
 I was revived an hour later in a landscape littered with fish scales. It had been raining scales since the strike. It was only now, as the downpour subsided that they felt safe approaching the ritual space.
 
 They bid me goodbye the next day. Some thought me a god, hopeful of my return. Others saw a demon that they were glad to see leave."
+
+
+Arrived at [The Last Serai](../LastSerai/index.md) with the last caravan.
+The electrostatic porcelain storm smelled of fish to him, and [he seeks to understand how these events connect to his past](../../campaigns/UVG24XX/ep_012.md).
+
+His tent was destroyed when [the confused attempt on Iron Pot 6-body brought it down](../../campaigns/UVG24XX/ep_012.md).

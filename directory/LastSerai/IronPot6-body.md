@@ -29,5 +29,10 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 Investigator, investigating the alleged revolutionary activities of [Angel 22-unity](Angel22-unity.md).
 
-Hunted through the outpost by slaves sent by an unknown party; five bodies have been ruined or slain, leaving only a single body operational ([ep_011](../../campaigns/UVG24XX/ep_011.md)).
-The Atles caravan, unable to corner the elusive final hull themselves, has paid a [Spectrum Satrap](../SpectrumPalace/SpectrumSatraps.md) embassy foreman to hunt down and eliminate it within a two-week deadline.
+Hunted through the outpost by slaves sent by an unknown party; five bodies were ruined or slain, leaving [only a single body operational](../../campaigns/UVG24XX/ep_011.md).
+The Atles caravan, unable to corner the elusive final hull themselves, paid a [Spectrum Satrap](../SpectrumPalace/SpectrumSatraps.md) embassy foreman to hunt down and eliminate it within a two-week deadline.
+
+**Dead.** The final body arrived bloodied and with a broken leg, wearing the foreman's Satrap suit, and said only that he had found the foreman dead.
+Persuaded into a steppe recovery ritual in [Iacum](../Atles/Iacum.md)'s tent, he was killed when [the confused attempt on his life collapsed it](../../campaigns/UVG24XX/ep_012.md).
+[Settler](../Atles/Settler.md) took his mask. The armour was left behind for the Satraps to recover.
+Who killed the foreman is unknown.

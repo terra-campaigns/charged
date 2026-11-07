@@ -56,6 +56,13 @@ While the Princes govern the eastern approach near the [Porcelain Citadel](../Po
 
 Along the central trail, they project influence through fortified outposts and extra-territorial embassies:
 
-- **Final Embassy of the Satraps**: Maintained at [The Last Serai](../LastSerai/index.md). It houses their resident seer (a swollen-headed oracle floating in nutrient oils whose prophecies are notoriously, unfailingly inverted) and fixers/foremen who broker wetwork contracts for standard currency ([ep_011](../../campaigns/UVG24XX/ep_011.md)).
+- **Final Embassy of the Satraps**: Maintained at [The Last Serai](../LastSerai/index.md). It houses their resident seer (a swollen-headed oracle floating in nutrient oils whose prophecies are notoriously, unfailingly inverted) and fixers/foremen who broker [wetwork contracts for standard currency](../../campaigns/UVG24XX/ep_011.md).
 - **Full Spectrum Embassy**: Located further along the trail near [Fallen Umber](../FallenUmber/index.md).
 - **The Spectrum Lodge**: A rest-stop and mission compound situated near the Near Moon.
+
+
+## Loose ends at the Last Serai
+
+The Final Embassy's foreman, contracted by the Atles caravan against [Iron Pot 6-body](../LastSerai/IronPot6-body.md), was found dead by Iron Pot.
+Who killed him is unknown.
+His Satrap suit was left behind when Iron Pot died, and the Satraps will recover it, as [it is valuable and can be mended](../../campaigns/UVG24XX/ep_012.md).
