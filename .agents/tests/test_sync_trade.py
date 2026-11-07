@@ -133,8 +133,8 @@ class TestPriceAndConditionParsing(unittest.TestCase):
         self.assertEqual(cond_normal, "Standard open-market demand.")
 
 
-class TestRouteOptimization(unittest.TestCase):
-    """Test trade route optimization and arbitrage calculation logic."""
+class TestRouteOptimisation(unittest.TestCase):
+    """Test trade route optimisation and arbitrage calculation logic."""
 
     def test_global_best_trade_route(self):
         """Ensure global route identifies highest margin between source/low and bubble/high."""

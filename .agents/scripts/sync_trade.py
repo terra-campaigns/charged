@@ -164,12 +164,13 @@ def validate_header_columns(header_row: list[str]) -> bool:
     """Validate that spreadsheet header row aligns with LOCATION_COLUMNS.
 
     Raises:
-        ValueError: If header row has fewer than 15 columns or any expected
+        ValueError: If header row lacks required columns or any expected
                     station header does not match its designated column.
     """
-    if len(header_row) < 15:
+    min_required_cols = max(loc["col_idx"] for loc in LOCATION_COLUMNS) + 1 if LOCATION_COLUMNS else 4
+    if len(header_row) < min_required_cols:
         raise ValueError(
-            f"Header row has {len(header_row)} columns; expected at least 15 columns."
+            f"Header row has {len(header_row)} columns; expected at least {min_required_cols} columns."
         )
 
     for loc in LOCATION_COLUMNS:
