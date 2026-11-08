@@ -8,11 +8,13 @@ parent: Atles' Catlord Caravan
 title: Iacum di Villa
 role: Wildfolk cult bio-mechanic
 status: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:100_views_edo_063.jpg" target="_blank"><em>Suidō Bridge and Surugadai</em> (1857)</a> by Utagawa Hiroshige, <em>One Hundred Famous Views of Edo</em>, Brooklyn Museum (photo via Wikimedia Commons, Public Domain).
 
 hooks:
 - Tracking a missing ledger. Who would have traded enough magitech to be able to cause that accident? Cosmic scales rained after it, and their trade might be an answer to the accident.
 
 images: 
+- ../../imgs/gallery/iacum_di_villa_vomish_hallucination.jpg
 
 
 ---

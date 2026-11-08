@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T08:48:17+01:00",
+  "generated": "2026-11-08T08:59:14+01:00",
   "tier": 1,
   "total_entries": 114,
   "entries": [
@@ -23,7 +23,7 @@
         "directory/Atles/TamHR.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "207f91d3",
+      "sha": "0a0137da",
       "tier": 1
     },
     {
@@ -45,7 +45,7 @@
         "directory/LastSerai/IgnoredTower.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "4ac2600c",
+      "sha": "0e0346c2",
       "tier": 1
     },
     {
@@ -1681,7 +1681,7 @@
         "directory/LastSerai/IronPot6-body.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "2315a125",
+      "sha": "57ee20b3",
       "tier": 1
     },
     {
@@ -1818,7 +1818,7 @@
         "directory/Atles/Settler.md",
         "directory/LastSerai/Angel22-unity.md"
       ],
-      "lastmod": "2026-W44",
+      "lastmod": "2026-W45",
       "sha": "6f8ddc4f",
       "tier": 1
     },

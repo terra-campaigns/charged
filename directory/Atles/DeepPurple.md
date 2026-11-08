@@ -10,8 +10,10 @@ parent: Tam ‘HR
 title: Deep Purple
 role: Violet dodo with solar-powered wings
 status: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Saftleven_dodo.jpg" target="_blank"><em>Study of a Dodo</em> (1638)</a> by Cornelis Saftleven, Museum Boijmans Van Beuningen, Rotterdam (photo via Wikimedia Commons, Public Domain).
 
 images: 
+- ../../imgs/gallery/deep_purple_ultraviolet_resonance.jpg
 
 ---
 

@@ -34,23 +34,5 @@ The event became known as the Escaped Biochimera.
 Everyone in the Last Serai is used to ignoring the tower, so they ignored this too.
 Where it went underground, and what it was, is not known.
 
-## Sensory Impressions
-
-The sand beneath the Last Serai remembers the sound of it: a dry, clicking percussion, like rosary beads spilled across porcelain, rising from the chalky bedrock in the hour before dawn.
-Where it passed, the dust settled in ridged fans the colour of old cocoa, and the air carried a faint metallic tang, as though lightning had struck a copper vein underground.
-Those who looked—and almost no one did—describe a sheen like oil on water, amber segmented armour catching the lantern-light of the caravan tents, each tergum articulated with the patience of a clockwork mechanism.
-It does not hurry.
-It does not need to.
-
-## Anatomical & Behavioural Dossier
-
-The Escaped Biochimera is a myriapod organism of impossible scale, its body composed of articulated dorsal terga armoured in composite chitin of amber and dark, oil-sheened plate.
-Each segment bears a pair of needle-like running legs capable of stirring porcelain dust without apparent effort.
-Curving sensory antennae sweep the air ahead of it, while the foremost pair of limbs have fused into venomous maxillipeds—the forcipules—capable of injecting a paralytic neurotoxin with clinical efficiency.
-
-It is, by all available accounts, a synthetic organism: part bio-engineered weapon, part escaped relic, its origins traceable to the sealed upper lancets of the tower.
-Behaviourally, it is hypnotically deliberate, moving with a slow, mesmeric deliberation that induces placid indifference in observers—a trait the inhabitants of the Last Serai, conditioned to avert their eyes from the tower, find almost comforting.
-
 It burrows.
 It waits.
-It is still down there, beneath the sand and the broken porcelain, listening.
