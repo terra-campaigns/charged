@@ -9,12 +9,14 @@ parent: Atles' Catlord Caravan
 title: Kur (Barista)
 role: Kur ‘Notcurrentlyineducationortraining, Dessicated slaver barista
 status: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Coffee_Vendor_MET_DP818436.jpg" target="_blank"><em>Coffee Vendor (Le Marchand de Café)</em> (1746)</a> by Anne Claude de Caylus &amp; Étienne Fessard after Edme Bouchardon, Metropolitan Museum of Art (photo via Wikimedia Commons, Public Domain).
 
 hooks:
 - May or may not have a clone.
 - May or may not be infected after cutting his finger on a rusted sword.
 
 images: 
+- ../../imgs/gallery/kur_barista_ultraviolet_resonance.jpg
 
 
 ---

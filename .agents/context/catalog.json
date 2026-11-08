@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T19:24:51+01:00",
+  "generated": "2026-11-08T08:48:17+01:00",
   "tier": 1,
   "total_entries": 114,
   "entries": [
@@ -317,7 +317,7 @@
         "campaigns/UVG24XX/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "aecd0d2e",
       "tier": 1
     },
@@ -528,7 +528,7 @@
         "campaigns/UVG24XX/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "531627e6",
       "tier": 1
     },
@@ -692,7 +692,7 @@
         "campaigns/UVG24XX/index.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W42",
+      "lastmod": "2026-W44",
       "sha": "fceee441",
       "tier": 1
     },
@@ -1819,7 +1819,7 @@
         "directory/LastSerai/Angel22-unity.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "f7509d2c",
+      "sha": "6f8ddc4f",
       "tier": 1
     },
     {
