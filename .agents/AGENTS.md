@@ -36,6 +36,16 @@ Common folders:
 - For oldtech, facilities, and resurrected relics, follow Gene Wolfe's four-phase naming protocol (see Tier 2 rulings in `.agents/context/decisions.md`).
 - For narrative prose, adopt Gene Wolfe's cadence: the "anchor-and-veil" structure (concrete sensory anchors paired with cool philosophical detachment) and an 80/20 clarity-to-obscurity ratio.
 
+## Aesthetics
+
+Later-earth retro psychedelic science fantasy.
+
+- Moebius (Jean Giraud)
+- Hayao Miyazaki
+- Gene Wolfe
+- Jack Vance
+- Psychedelic Heavy Metal
+
 ## Campaign Canon & Content Generation
 
 - Before adding or changing lore, search the repo with `rg`.
