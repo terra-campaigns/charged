@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T15:32:59+02:00",
+  "generated": "2026-11-20T16:06:46+01:00",
   "tier": 3,
   "campaign": "charged",
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
@@ -10,8 +10,8 @@
       "title": "2400 Exiles v1.3",
       "category": "core_setting",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Exiles_v1.3_singles.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_exiles.md",
+      "source_pdf": "cores/2400_Exiles_v1.3_singles.pdf",
+      "digest_path": "_gm-materials/digests/2400_exiles.md",
       "digest_exists": true,
       "sections": [
         {
@@ -36,8 +36,8 @@
       "title": "2400 Xot v1.2",
       "category": "core_setting",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/2400_Xot_v1.2_singles.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/2400_xot.md",
+      "source_pdf": "cores/2400_Xot_v1.2_singles.pdf",
+      "digest_path": "_gm-materials/digests/2400_xot.md",
       "digest_exists": true,
       "sections": [
         {
@@ -58,12 +58,73 @@
       ]
     },
     {
+      "slug": "dungeon_full_of_monsters",
+      "title": "Dungeon Full of Monsters",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "modules/NightmaresUnderneath-DungeonFullOfMonsters-2E.pdf",
+      "digest_path": "_gm-materials/digests/dungeon_full_of_monsters.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Structure",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Key Dungeon Sectors & Campaign Connections",
+          "line": 15
+        },
+        {
+          "level": 3,
+          "heading": "1. The Dragonfort & Dragon Cult Holdings [pp. 44–45, 150–155]",
+          "line": 17
+        },
+        {
+          "level": 3,
+          "heading": "2. The Old Mine & Qasso Metal [pp. 80–81]",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "3. The New Bone Monastery & Death Cult [pp. 78, 100, 142–149]",
+          "line": 34
+        },
+        {
+          "level": 3,
+          "heading": "4. The Folded Below Sectors [pp. 67, 86, 166, 170, 174]",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Major Factions & Creature Stat Blocks",
+          "line": 51
+        },
+        {
+          "level": 3,
+          "heading": "1. The Dragon Cult [pp. 152–155]",
+          "line": 53
+        },
+        {
+          "level": 3,
+          "heading": "2. The Chaos Cult [pp. 136–141]",
+          "line": 63
+        },
+        {
+          "level": 3,
+          "heading": "3. Subterranean Monsters & Hazards [pp. 125–193]",
+          "line": 68
+        }
+      ]
+    },
+    {
       "slug": "electric_bastionland",
       "title": "Electric Bastionland",
       "category": "core_setting",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Electric_Bastionland_v2.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/electric_bastionland.md",
+      "source_pdf": "cores/Electric_Bastionland_v2.pdf",
+      "digest_path": "_gm-materials/digests/electric_bastionland.md",
       "digest_exists": true,
       "sections": [
         {
@@ -103,8 +164,8 @@
       "title": "Gene Wolfe Solar Cycle Analysis",
       "category": "research_aesthetic",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/research/Gene Wolfe Solar Cycle Analysis.gdoc",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/gene_wolfe_solar_cycle_analysis.md",
+      "source_pdf": "research/Gene Wolfe Solar Cycle Analysis.gdoc",
+      "digest_path": "_gm-materials/digests/gene_wolfe_solar_cycle_analysis.md",
       "digest_exists": true,
       "sections": [
         {
@@ -139,8 +200,8 @@
       "title": "The Metamorphica (Revised)",
       "category": "supplement",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/suplements/Metamorphica-Revised.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/metamorphica_revised.md",
+      "source_pdf": "suplements/Metamorphica-Revised.pdf",
+      "digest_path": "_gm-materials/digests/metamorphica_revised.md",
       "digest_exists": true,
       "sections": [
         {
@@ -165,8 +226,8 @@
       "title": "Synthetic Dream Machine — Eternal Return Key (Bareghost Edition)",
       "category": "core_setting",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/sdm_eternal_return_key.md",
+      "source_pdf": "cores/Synthetic_Dream_Machine_Eternal_Return_Key_BAREGHOST_EDITION.pdf",
+      "digest_path": "_gm-materials/digests/sdm_eternal_return_key.md",
       "digest_exists": true,
       "sections": [
         {
@@ -196,8 +257,8 @@
       "title": "The Alluring — A Trophy Gold Incursion",
       "category": "module",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/modules/The_Alluring_A_Trophy_Gold_Incursion.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/the_alluring_trophy_gold.md",
+      "source_pdf": "modules/The_Alluring_A_Trophy_Gold_Incursion.pdf",
+      "digest_path": "_gm-materials/digests/the_alluring_trophy_gold.md",
       "digest_exists": true,
       "sections": [
         {
@@ -212,8 +273,8 @@
       "title": "Ultraviolet Grasslands and the Black City (UVG 2E Core)",
       "category": "core_setting",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_2e_core.md",
+      "source_pdf": "cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core.md",
       "digest_exists": true,
       "sections": [
         {
@@ -268,8 +329,8 @@
       "title": "UVG 2E Maps",
       "category": "maps",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0 maps.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_maps.md",
+      "source_pdf": "cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0 maps.pdf",
+      "digest_path": "_gm-materials/digests/uvg_maps.md",
       "digest_exists": true,
       "sections": [
         {
@@ -284,8 +345,8 @@
       "title": "UVG Free Player Guide v2.0ii",
       "category": "player_guide",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG_free_player_guide_v2.0ii.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_player_guide.md",
+      "source_pdf": "cores/UVG_free_player_guide_v2.0ii.pdf",
+      "digest_path": "_gm-materials/digests/uvg_player_guide.md",
       "digest_exists": true,
       "sections": [
         {
@@ -305,40 +366,14 @@
       "title": "UVG Postcards",
       "category": "postcards",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/cores/UVG Postcards - Flattened.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/uvg_postcards.md",
+      "source_pdf": "cores/UVG Postcards - Flattened.pdf",
+      "digest_path": "_gm-materials/digests/uvg_postcards.md",
       "digest_exists": true,
       "sections": [
         {
           "level": 2,
           "heading": "Contents & Vignette Index",
           "line": 6
-        }
-      ]
-    },
-    {
-      "slug": "dungeon_full_of_monsters",
-      "title": "Dungeon Full of Monsters (2E)",
-      "category": "module",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/modules/NightmaresUnderneath-DungeonFullOfMonsters-2E.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/charged/_digests/dungeon_full_of_monsters.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Structure",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Key Dungeon Sectors & Campaign Connections",
-          "line": 15
-        },
-        {
-          "level": 2,
-          "heading": "Major Factions & Creature Stat Blocks",
-          "line": 51
         }
       ]
     }

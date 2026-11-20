@@ -6,3 +6,7 @@ updates:
       interval: daily
     allow:
       - dependency-type: direct
+    ignore:
+      # Engine bumps are managed explicitly via release tags + `oude doctor`;
+      # git-tag pinning makes Dependabot's git-ref updater emit inverted downgrade PRs.
+      - dependency-name: "oude-mechanismen"
