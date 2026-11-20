@@ -68,26 +68,20 @@ Later-earth retro psychedelic science fantasy.
 - The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
 - For Tier 3 setting lore or procedures, consult `_gm-materials/digests/` via `.agents/context/references.json` before opening raw PDFs.
 - Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
-- Regenerate the Tier 1 catalogue manually with `bundle exec jekyll build` (or `oude doctor --fix`) or automatically upon git commit (note `.agents/context/catalog.json` is an untracked, gitignored local cache).
+- Regenerate the local Tier 1 catalogue cache with `bundle exec jekyll build` or `oude doctor --fix` (note `.agents/context/catalog.json` is an untracked, gitignored local cache).
 - For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`qwen2.5:14b`) over `localhost:11434`, always enforcing British English in prompt instructions.
 
-## UVG+24XX Campaign Details
-
-- UVG-inspired later-earth caravan science-fantasy game
-- PCs leave civilisation to become rich, become useful, become infected, become owned, or become stranger.
-- The strongest repeated pressures are debt, permits, financiers, trade goods, cats, cat-lords, vome corruption, Long-Long-Ago ruins, ritualists, strange machinery, and impossible relics.
-
-### Tone
-
-Caravan survival, decadent bureaucracy, strange commerce, absurd debt, soft body horror, broken futurity, and beautiful ruins.
-
-Default social pressure: financiers and patrons make help expensive.
-Default travel pressure: the road offers profit, hunger, monsters, bad information, and radioactive wonder.
-Default technology pressure: oldtech and vomish systems are useful but invasive.
-Default social texture: trade, permits, coffee, cats, caste failure, debt contracts, strange professional skills, and merchant absurdity.
-Default metaphysics: the world is far after many old worlds and still full of machines that behave like spirits.
-
 ## Campaign Specification
+
+### Campaign Pressures
+
+- UVG-inspired later-earth caravan science-fantasy game: PCs leave civilisation to become rich, become useful, become infected, become owned, or become stranger.
+- Recurring motifs: debt, permits, financiers, trade goods, cats, cat-lords, vome corruption, Long-Long-Ago ruins, ritualists, strange machinery, and impossible relics.
+- Default social pressure: financiers and patrons make help expensive.
+- Default travel pressure: the road offers profit, hunger, monsters, bad information, and radioactive wonder.
+- Default technology pressure: oldtech and vomish systems are useful but invasive.
+- Default social texture: trade, permits, coffee, cats, caste failure, debt contracts, strange professional skills, and merchant absurdity.
+- Default metaphysics: the world is far after many old worlds and still full of machines that behave like spirits.
 
 ### Style & Tone
 
@@ -161,10 +155,6 @@ Serve locally (this automatically extracts data using the `oude-mechanismen` Rub
 ```sh
 bundle exec jekyll serve --trace
 ```
-
-## Generated Data
-
-Link, gallery, and last-modified data is extracted automatically into Jekyll's memory by the `oude-mechanismen` RubyGem (`data_extractor.rb`) during build. The only tracked file in `_data/` is `_data/trade.json`, synced by `.agents/scripts/sync_trade.py`.
 
 ## Development Notes
 

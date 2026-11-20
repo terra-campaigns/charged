@@ -109,7 +109,6 @@ DEPENDENCIES
   jekyll-relative-links
   just-the-docs (= 0.12.0)
   oude-mechanismen!
-  webrick
 
 BUNDLED WITH
   4.0.16

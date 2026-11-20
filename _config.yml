@@ -48,7 +48,7 @@ exclude:
   - .agents
   - .githooks
   - bin
-  - state
+  - TASKS.md
   - vendor
   - Gemfile
   - Gemfile.lock

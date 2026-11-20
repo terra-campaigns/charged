@@ -25,7 +25,6 @@ But this will cost £3,500.
 
 {% include connected_to.html %}
 
-{% include hooks.md %}
 # System
 
 ***Failed Exports*** is a <a href="https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html" target="_blank">Mark of the Odd</a> campaign.
