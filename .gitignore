@@ -33,3 +33,5 @@ __pycache__/
 
 # Local agent venv
 .agents/venv/
+_gm-materials/
+.agents/context/catalog.json

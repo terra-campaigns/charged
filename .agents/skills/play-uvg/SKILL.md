@@ -20,7 +20,7 @@ You are the Storyteller GM for a solo roleplaying campaign set in the Ultraviole
 When this skill is invoked, ensure the following context is loaded:
 - The target state file: `campaigns/UVG-solo/state.md` (to understand the caravan's current situation).
 - The narrative log: `campaigns/UVG-solo/log.md` (to understand recent events).
-- The core UVG PDF or digest (`_digests/uvg_2e_core.md`) for lore and tables.
+- The core UVG PDF or digest (`_gm-materials/digests/uvg_2e_core.md`) for lore and tables.
 
 ## Procedure
 

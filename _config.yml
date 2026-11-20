@@ -6,6 +6,7 @@ url: https://terra-campaigns.github.io/charged
 
 permalink: pretty
 plugins:
+  - oude-mechanismen
   - jekyll-relative-links
   - jekyll-redirect-from
 
@@ -43,6 +44,7 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 
 # Exclude non-site and agent directories from Jekyll watching and processing
 exclude:
+  - "_gm-materials"
   - .agents
   - .githooks
   - bin

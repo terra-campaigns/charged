@@ -21,7 +21,7 @@ Common folders:
 - `imgs/`: images used by markdown pages and galleries.
 - `_includes/`: reusable Jekyll snippets.
 - `_sass/`: Just the Docs theme customisation.
-- `_data/`: generated JSON used by includes, backlinks, galleries, and metadata.
+- `_data/`: tracked `_data/trade.json` holds live trade data synced by `.agents/scripts/sync_trade.py` (link, gallery, and last-modified metadata is extracted in-memory by the `oude-mechanismen` RubyGem).
 - `.obsidian/`: Obsidian vault settings. Avoid changing unless explicitly asked.
 
 ## Writing Style
@@ -58,18 +58,18 @@ Later-earth retro psychedelic science fantasy.
 ### Canon hierarchy
 
 - **Tier 1 canon** is the published campaign notes (listed in `.agents/context/tier1_sources.yml` and indexed in `.agents/context/catalog.json`). These notes are strong canon.
-- **Tier 2 canon** is Project Memory, visible conversation, and confirmed GM rulings recorded in `.agents/context/decisions.md`.
-- **Tier 3 canon** is reference material in the Google Drive campaign folder (`cores/`, `modules/`, `suplements/`) and structured digests in `charged/_digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Charged canon.
+- **Tier 2 canon** is Project Memory, visible conversation, confirmed GM rulings recorded in `.agents/context/decisions.md`, and archival session notes/prep in `_gm-materials/session-summaries/` and `_gm-materials/session-preps/`.
+- **Tier 3 canon** is reference material (Pillar 3 commercial PDFs kept outside Git and Obsidian Sync) and structured digests in `_gm-materials/digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Charged canon.
 
 ### Context & Token Optimisation Policy
 
 - Never read all markdown notes or large reference PDFs in bulk.
 - Use the `lookup-context` skill or consult `.agents/context/catalog.json` first to locate relevant entities, locations, and factions before reading files.
 - The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
-- For Tier 3 setting lore or procedures, consult `charged/_digests/*.md` via `.agents/context/references.json` before opening raw PDFs.
+- For Tier 3 setting lore or procedures, consult `_gm-materials/digests/` via `.agents/context/references.json` before opening raw PDFs.
 - Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
-- Regenerate the Tier 1 catalogue manually with `ruby --disable-gems _plugins/data_extractor.rb` or automatically upon git commit.
-- For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`llama3.2:latest` or `llama3.1:latest`) over `localhost:11434`, always enforcing British English in prompt instructions.
+- Regenerate the Tier 1 catalogue manually with `bundle exec jekyll build` (or `oude doctor --fix`) or automatically upon git commit (note `.agents/context/catalog.json` is an untracked, gitignored local cache).
+- For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`qwen2.5:14b`) over `localhost:11434`, always enforcing British English in prompt instructions.
 
 ## UVG+24XX Campaign Details
 
@@ -97,7 +97,7 @@ Default metaphysics: the world is far after many old worlds and still full of ma
 
 ### Reference Material (for Deep Reviews & Lore)
 
-- Root Path: `.agents/context/tier1_sources.yml` (`drive_dir`)
+- Root Path: Pillar 3 local PDF storage outside Git and Obsidian Sync; structured digests live under `_gm-materials/digests/` (anchored via `drive_dir: .` in `.agents/context/tier1_sources.yml`)
 - Priority Sources:
   1. `UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf` — primary setting voice.
   2. `2400_Xot_v1.2_singles.pdf` — 24XX mechanics layer.
@@ -156,7 +156,7 @@ Build the site:
 bundle exec jekyll build
 ```
 
-Serve locally (this automatically extracts data using the native Jekyll Generator plugin in `_plugins/data_extractor.rb`):
+Serve locally (this automatically extracts data using the `oude-mechanismen` RubyGem `data_extractor.rb`):
 
 ```sh
 bundle exec jekyll serve --trace
@@ -164,7 +164,7 @@ bundle exec jekyll serve --trace
 
 ## Generated Data
 
-There are no longer generated data files saved to `_data/`. The data for links, galleries, and last-modified dates is extracted automatically into Jekyll's memory by the `_plugins/data_extractor.rb` plugin during build.
+Link, gallery, and last-modified data is extracted automatically into Jekyll's memory by the `oude-mechanismen` RubyGem (`data_extractor.rb`) during build. The only tracked file in `_data/` is `_data/trade.json`, synced by `.agents/scripts/sync_trade.py`.
 
 ## Development Notes
 
@@ -183,10 +183,3 @@ There are no longer generated data files saved to `_data/`. The data for links, 
 - When connecting entities (PCs, NPCs, factions, or locations), always ask the user for the specific relationship type or reason and whether the link should be bidirectional, rather than assuming or inventing the nature of the connection.
 - **Pull Request & Branch Protection:** Direct commits and pushes to `main` are strictly prohibited. All changes must arrive via dedicated feature branches (`<handle>/<feature>`) and Pull Requests.
 - **Branch Lifecycle:** Feature branches must be deleted immediately after their corresponding Pull Request is merged or closed. Never retain merged remote or local feature branches.
-
-## Generating LLM Context Dumps in Static Sites (Jekyll)
-
-When creating raw context dumps (e.g., `all-content`) for LLM ingestion in a static site:
-- **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
-- **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
-- **Do not strip HTML**: Never strip HTML tags just to make a `.txt` file human-readable. LLMs rely on those tags for structure. The `.html` extension solves both problems by rendering the tags nicely in the browser while preserving them in the source code for the LLM.
