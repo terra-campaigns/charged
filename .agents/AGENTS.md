@@ -7,7 +7,7 @@ The site is published with Jekyll, the Just the Docs theme, and GitHub Pages.
 
 - Search existing notes before inventing new lore, NPCs, factions, places, mechanics, or names.
 - Prefer local campaign files over memory.
-- Treat `campaigns/`, `directory/`, `systems/`, and similar content folders as campaign source material.
+- Treat `campaigns/`, `directory/`, `systems/`, `creatures/`, `misc/`, and similar content folders as campaign source material.
 - Treat `_site/` and `.jekyll-cache/` as generated output. Do not edit them directly.
 - Preserve Obsidian-friendly markdown and Jekyll/Liquid syntax.
 
