@@ -29,3 +29,4 @@ __pycache__/
 # Local engine artefacts
 _gm-materials/
 .agents/context/catalog.json
+.agents/context/rolling_glossary.md

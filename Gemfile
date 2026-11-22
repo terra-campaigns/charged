@@ -8,4 +8,4 @@ gem "jekyll-relative-links"
 
 gem "jekyll-redirect-from"
 
-gem "oude-mechanismen", git: "https://github.com/terra-campaigns/oude-mechanismen.git", tag: "v0.7.3"
+gem "oude-mechanismen", git: "https://github.com/terra-campaigns/oude-mechanismen.git", tag: "v0.9.1"
