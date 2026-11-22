@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-20T16:06:46+01:00",
+  "generated": "2026-11-22T18:25:15+01:00",
   "tier": 3,
   "campaign": "charged",
   "note": "Tier 3 reference routing index — influence only, never automatic Charged canon.",
-  "total_sources": 12,
+  "total_sources": 100,
   "sources": [
     {
       "slug": "2400_exiles",
@@ -269,60 +269,6998 @@
       ]
     },
     {
-      "slug": "uvg_2e_core",
-      "title": "Ultraviolet Grasslands and the Black City (UVG 2E Core)",
+      "slug": "uvg_2e_core/_index",
+      "title": "Ultraviolet Grasslands and the Black City (2E) — Reference Wiki",
       "category": "core_setting",
       "tier": 3,
-      "source_pdf": "cores/UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
-      "digest_path": "_gm-materials/digests/uvg_2e_core.md",
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/_index.md",
       "digest_exists": true,
       "sections": [
         {
           "level": 2,
-          "heading": "Contents & Page Map",
-          "line": 6
+          "heading": "Pagination Convention and Extraction Note",
+          "line": 31
         },
         {
           "level": 2,
-          "heading": "Locations & Trail Stations",
-          "line": 15
+          "heading": "Quick Navigation by Domain",
+          "line": 35
         },
         {
           "level": 2,
-          "heading": "Factions & Notable Powers",
+          "heading": "Mechanics and System Procedures",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Master Tables, Routes, and Generators",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Locations Along the Ultraviolet Trail",
+          "line": 70
+        },
+        {
+          "level": 3,
+          "heading": "Eastern Grasslands (Stations I–VIII)",
+          "line": 72
+        },
+        {
+          "level": 3,
+          "heading": "Central Steppes (Stations IX–XVI)",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "Moon and Spectrum (Stations XVII–XXV)",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "Western Reaches (Stations XXVI–XXXII)",
+          "line": 106
+        },
+        {
+          "level": 2,
+          "heading": "Factions, Polities, and Orders",
+          "line": 116
+        },
+        {
+          "level": 2,
+          "heading": "People and Notable Figures",
+          "line": 129
+        },
+        {
+          "level": 2,
+          "heading": "Bestiary and Creatures",
+          "line": 136
+        },
+        {
+          "level": 2,
+          "heading": "Equipment, Artefacts, and Magics",
+          "line": 157
+        },
+        {
+          "level": 2,
+          "heading": "Front Matter, Histories, Languages, and Glossary",
+          "line": 167
+        }
+      ],
+      "entity_type": "index",
+      "pages": "1-260",
+      "tags": [
+        "uvg",
+        "2e",
+        "core-setting",
+        "seacat",
+        "index",
+        "reference-wiki"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/arms_and_armours",
+      "title": "Arms and Armours",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/arms_and_armours.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Armours",
+          "line": 34
+        },
+        {
+          "level": 3,
+          "heading": "Armour Bonus and Standard Sizes",
           "line": 38
         },
         {
-          "level": 2,
-          "heading": "Procedures & Rules Reference",
-          "line": 46
+          "level": 3,
+          "heading": "Armour Features",
+          "line": 43
         },
         {
-          "level": 2,
-          "heading": "Bestiary & Grassland Lifeforms",
+          "level": 3,
+          "heading": "Armour and Shield Catalogue (`1-20`)",
           "line": 52
         },
         {
           "level": 2,
-          "heading": "100 Strange Relics & Oldtech Artefacts",
+          "heading": "Weapons",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "Ranges and Areas",
+          "line": 81
+        },
+        {
+          "level": 3,
+          "heading": "Weapon Features",
+          "line": 92
+        },
+        {
+          "level": 3,
+          "heading": "Ranged Weapons: Bows and Gun Wands (`d15`)",
+          "line": 108
+        },
+        {
+          "level": 3,
+          "heading": "Simple Melee Weapons (`d8`)",
+          "line": 128
+        },
+        {
+          "level": 3,
+          "heading": "Military Melee Weapons (`d14`)",
+          "line": 141
+        },
+        {
+          "level": 3,
+          "heading": "Weird Melee Weapons (`d10`)",
+          "line": 160
+        },
+        {
+          "level": 2,
+          "heading": "Related Heavy, Implanted, and Strange Armaments",
+          "line": 177
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 183
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "199-201",
+      "tags": [
+        "artefacts",
+        "arms",
+        "armours",
+        "shields",
+        "weapons",
+        "firearms",
+        "oldtech"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/general_goods_and_toolkits",
+      "title": "General Goods and Toolkits",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/general_goods_and_toolkits.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Grassland General Goods",
+          "line": 36
+        },
+        {
+          "level": 2,
+          "heading": "Expedition Toolkits",
           "line": 71
         },
         {
           "level": 2,
-          "heading": "Travel Hazards & Misfortune Tables",
+          "heading": "Related Specialist Consumables in *The Stuff*",
+          "line": 98
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 106
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "197-198",
+      "tags": [
+        "artefacts",
+        "gear",
+        "toolkits",
+        "supplies",
+        "remedies",
+        "violet-citadel"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/hundred_strange_items",
+      "title": "100 Strange Items",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/hundred_strange_items.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Items 1–54",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Items 55–100",
+          "line": 94
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 145
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "204-205",
+      "tags": [
+        "artefacts",
+        "loot",
+        "d100",
+        "oddities",
+        "relics",
+        "currencies"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/implants_and_prosthetics",
+      "title": "Implants and Prosthetics",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/implants_and_prosthetics.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Integration Rules and Installation",
+          "line": 33
+        },
+        {
+          "level": 2,
+          "heading": "Implant Varieties",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Implants and Prosthetics Catalogue (`1-20`)",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Related Surgical, Animal, and Strange Modifications",
+          "line": 75
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 82
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "202",
+      "tags": [
+        "artefacts",
+        "implants",
+        "prosthetics",
+        "biomancy",
+        "vomes",
+        "oldtech",
+        "golem"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/spells_and_magics",
+      "title": "Spells and Magics",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/spells_and_magics.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Casting and Overcharging Rules",
+          "line": 32
+        },
+        {
+          "level": 2,
+          "heading": "Spell Reference Summary (`21 Spells`)",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "Complete Spell Catalogue (`A–Z`)",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "Alter Self",
+          "line": 66
+        },
+        {
+          "level": 3,
+          "heading": "Animate Corpse",
+          "line": 74
+        },
+        {
+          "level": 3,
+          "heading": "Burdenbeast Modification",
+          "line": 82
+        },
+        {
+          "level": 3,
+          "heading": "Cerebral Purge",
+          "line": 89
+        },
+        {
+          "level": 3,
+          "heading": "Dissolution and Resolution of the Spirit",
+          "line": 97
+        },
+        {
+          "level": 3,
+          "heading": "Dryland Sculpture",
+          "line": 105
+        },
+        {
+          "level": 3,
+          "heading": "Entropic Reversal",
+          "line": 112
+        },
+        {
+          "level": 3,
+          "heading": "Floating Disc",
+          "line": 120
+        },
+        {
+          "level": 3,
+          "heading": "Gem Bomb",
+          "line": 128
+        },
+        {
+          "level": 3,
+          "heading": "Imbue Edge",
+          "line": 136
+        },
+        {
+          "level": 3,
+          "heading": "Knock / Lock",
+          "line": 144
+        },
+        {
+          "level": 3,
+          "heading": "Linked Portals",
+          "line": 152
+        },
+        {
+          "level": 3,
+          "heading": "Magic Jar",
+          "line": 160
+        },
+        {
+          "level": 3,
+          "heading": "Process Food",
+          "line": 168
+        },
+        {
+          "level": 3,
+          "heading": "Raise Dead",
+          "line": 176
+        },
+        {
+          "level": 3,
+          "heading": "Recall Soul",
+          "line": 184
+        },
+        {
+          "level": 3,
+          "heading": "Speak With Husk",
+          "line": 192
+        },
+        {
+          "level": 3,
+          "heading": "Supplicate the Rotting God",
+          "line": 200
+        },
+        {
+          "level": 3,
+          "heading": "Three-Point Immobility",
+          "line": 207
+        },
+        {
+          "level": 3,
+          "heading": "Toxin Render",
+          "line": 215
+        },
+        {
+          "level": 3,
+          "heading": "Yellow Foresight",
+          "line": 223
+        },
+        {
+          "level": 2,
+          "heading": "Related Magic Sources Elsewhere in *The Stuff*",
+          "line": 231
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 237
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "206-207",
+      "tags": [
+        "artefacts",
+        "spells",
+        "magic",
+        "overcharge",
+        "rituals",
+        "necromancy"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/traveler_services",
+      "title": "Traveller Services",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/traveler_services.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Medico-Veterinary Services",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Mechanitechnical Services",
+          "line": 55
+        },
+        {
+          "level": 2,
+          "heading": "Rest and Relaxation: Carousing Spots with Special Features",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Related Hirelings, Psychefactors, and Upkeep Elsewhere in *The Stuff*",
           "line": 95
         },
         {
           "level": 2,
-          "heading": "Financiers, Debts & Loan Contracts",
+          "heading": "Related",
+          "line": 105
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "203",
+      "tags": [
+        "artefacts",
+        "services",
+        "healing",
+        "repair",
+        "carousing",
+        "hirelings",
+        "biomancy"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/artefacts/vehicles_and_mounts",
+      "title": "Vehicles and Mounts",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/artefacts/vehicles_and_mounts.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Core Transport Rules",
+          "line": 35
+        },
+        {
+          "level": 3,
+          "heading": "Energy and Synthetic Fuels",
+          "line": 37
+        },
+        {
+          "level": 3,
+          "heading": "Carting, Dragging, Flying, Golems, and Grazing",
+          "line": 47
+        },
+        {
+          "level": 3,
+          "heading": "Overloading",
+          "line": 55
+        },
+        {
+          "level": 3,
+          "heading": "Upgrading Vehicles and Mounts",
+          "line": 68
+        },
+        {
+          "level": 2,
+          "heading": "Master Transport Reference Table",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Humanoids and Add-Ons",
+          "line": 102
+        },
+        {
+          "level": 3,
+          "heading": "Humanoid Add-Ons",
           "line": 113
         },
         {
           "level": 2,
-          "heading": "Biomagical Corruption & Radiation Effects",
-          "line": 124
+          "heading": "Undead Transports and Maintenance",
+          "line": 121
+        },
+        {
+          "level": 2,
+          "heading": "Beasts of Burden, Variants, and Add-Ons",
+          "line": 142
+        },
+        {
+          "level": 3,
+          "heading": "Local Variants (`d10`)",
+          "line": 155
+        },
+        {
+          "level": 3,
+          "heading": "Animal Add-Ons",
+          "line": 172
+        },
+        {
+          "level": 2,
+          "heading": "Wagons, Carts, and Coaches",
+          "line": 181
+        },
+        {
+          "level": 3,
+          "heading": "Cart and Wagon Add-Ons",
+          "line": 192
+        },
+        {
+          "level": 2,
+          "heading": "Motorised, Biomantic, and Golem Vehicles",
+          "line": 203
+        },
+        {
+          "level": 3,
+          "heading": "Metal Steeds",
+          "line": 205
+        },
+        {
+          "level": 3,
+          "heading": "Wicker Autowagon",
+          "line": 214
+        },
+        {
+          "level": 3,
+          "heading": "Road Yacht",
+          "line": 225
+        },
+        {
+          "level": 3,
+          "heading": "Generic Vech, Porcelain or Prismatic Walker",
+          "line": 242
+        },
+        {
+          "level": 3,
+          "heading": "Autogolem",
+          "line": 256
+        },
+        {
+          "level": 3,
+          "heading": "War Engine",
+          "line": 271
+        },
+        {
+          "level": 2,
+          "heading": "Transport Fixes and Features (`d20` Tables)",
+          "line": 284
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 357
         }
-      ]
+      ],
+      "entity_type": "artefact",
+      "pages": "187-196",
+      "tags": [
+        "artefacts",
+        "vehicles",
+        "mounts",
+        "beasts-of-burden",
+        "undead",
+        "upgrades",
+        "caravan"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/autofac",
+      "title": "Autofac",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/autofac.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Ability",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure and Output",
+          "line": 53
+        },
+        {
+          "level": 3,
+          "heading": "Products (`d6`)",
+          "line": 58
+        },
+        {
+          "level": 3,
+          "heading": "Garbage (`d6`)",
+          "line": 69
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This One Is Special Because It ... (`d10`)",
+          "line": 80
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 95
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "211",
+      "tags": [
+        "bestiary",
+        "creature",
+        "autofac",
+        "construct",
+        "biomechanical",
+        "machine"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/cat_lord",
+      "title": "Cat Lord of the Violet City",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/cat_lord.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 30
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Special Powers",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 57
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Cat ... (`d10`)",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Rumours (`d8`)",
+          "line": 77
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 92
+        },
+        {
+          "level": 2,
+          "heading": "Cat Lords as PCs",
+          "line": 96
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 104
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "212",
+      "tags": [
+        "bestiary",
+        "creature",
+        "cat-lord",
+        "violet-city",
+        "pc-option",
+        "magic"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/fetish",
+      "title": "Fetish",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/fetish.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Special Traits",
+          "line": 47
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Fetish ... (`d10`)",
+          "line": 56
+        },
+        {
+          "level": 2,
+          "heading": "Making a Fetish",
+          "line": 71
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 85
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "212-213",
+      "tags": [
+        "bestiary",
+        "creature",
+        "fetish",
+        "construct",
+        "magic",
+        "ritual"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/golem",
+      "title": "Golem",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/golem.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Traits",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure and Salvage",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Golem ... (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Golems as PCs",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 79
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "213",
+      "tags": [
+        "bestiary",
+        "creature",
+        "golem",
+        "construct",
+        "pc-option",
+        "oldtech"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/great_folk",
+      "title": "Great Folk",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/great_folk.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Great Folker ... (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Rumours: So It Is Spoken of the Great Folk (`d8`)",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Ranks and Names",
+          "line": 86
+        },
+        {
+          "level": 2,
+          "heading": "Great Folk as PCs",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 97
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "214",
+      "tags": [
+        "bestiary",
+        "creature",
+        "great-folk",
+        "human",
+        "pc-option",
+        "bone-shaper"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/human_rainbowlander",
+      "title": "Human (Rainbowlander)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/human_rainbowlander.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 30
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Human ... (`d10`)",
+          "line": 59
+        },
+        {
+          "level": 2,
+          "heading": "Rumours of Humanity (`d12`)",
+          "line": 74
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Humans as PCs",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 99
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "214-215",
+      "tags": [
+        "bestiary",
+        "creature",
+        "human",
+        "rainbowlander",
+        "pc-option",
+        "pan-human"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/marmotfolk",
+      "title": "Marmotfolk",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/marmotfolk.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Rumours (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Phenotypes and Names",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Marmotfolk as PCs",
+          "line": 78
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 86
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "215",
+      "tags": [
+        "bestiary",
+        "creature",
+        "marmotfolk",
+        "human",
+        "pc-option",
+        "bone-shaper",
+        "ribs"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/pets",
+      "title": "Pets",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/pets.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Pet Statistics and Advancement",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Pet Generator (`d50`)",
+          "line": 33
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 90
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "225",
+      "tags": [
+        "bestiary",
+        "creature",
+        "pets",
+        "companions",
+        "generator",
+        "d50"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/porcelain_prince",
+      "title": "Porcelain Prince",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/porcelain_prince.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Special Traits",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Body ... (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Masked Rumours (`d10`)",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 88
+        },
+        {
+          "level": 2,
+          "heading": "Porcelain Princes as PCs and Polybody Rules",
+          "line": 92
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 100
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "216",
+      "tags": [
+        "bestiary",
+        "creature",
+        "porcelain-prince",
+        "para-human",
+        "pc-option",
+        "polybody"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/post_mortal",
+      "title": "Post-Mortal",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/post_mortal.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 47
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Post-Mortal Subtypes (`d10`)",
+          "line": 55
+        },
+        {
+          "level": 2,
+          "heading": "Post-Mortals as PCs",
+          "line": 70
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 78
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "217",
+      "tags": [
+        "bestiary",
+        "creature",
+        "post-mortal",
+        "undead",
+        "pc-option"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/quarterling",
+      "title": "Quarterling",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/quarterling.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Quarterling ... (`d10`)",
+          "line": 57
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Quarterlings as PCs",
+          "line": 76
+        },
+        {
+          "level": 2,
+          "heading": "Quarterling Clannotype Generator (`d8`)",
+          "line": 83
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 98
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "218",
+      "tags": [
+        "bestiary",
+        "creature",
+        "quarterling",
+        "human",
+        "ling",
+        "pc-option"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/radiation_ghost",
+      "title": "Radiation Ghost",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/radiation_ghost.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 47
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Radiation Ghost ... (`d10`)",
+          "line": 55
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 70
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "217",
+      "tags": [
+        "bestiary",
+        "creature",
+        "radiation-ghost",
+        "ghost",
+        "blue-god"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/spectrum_satrap",
+      "title": "Spectrum Satrap",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/spectrum_satrap.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Traits",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Variations: These Satraps ... (`d10`)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Fiery Rumours (`d10`)",
+          "line": 75
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Spectrum Satraps as PCs",
+          "line": 94
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 102
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "219",
+      "tags": [
+        "bestiary",
+        "creature",
+        "spectrum-satrap",
+        "para-human",
+        "pc-option",
+        "magic"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/steppe_nomad",
+      "title": "Steppe Nomad (Steppelander)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/steppe_nomad.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 30
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Steppelander ... (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Rumours: It Is Said (`d12`)",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Clan and Personal Names",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Steppelanders as PCs",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 102
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "220",
+      "tags": [
+        "bestiary",
+        "creature",
+        "steppe-nomad",
+        "steppelander",
+        "human",
+        "pc-option"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/ultra",
+      "title": "Ultra",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/ultra.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Traits",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Ultra ... (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Rumours: Truths Beyond Truths (`d12`)",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Ultras as PCs and Body Borrowing Rules",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "Body Borrowing Procedure",
+          "line": 103
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 111
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "221",
+      "tags": [
+        "bestiary",
+        "creature",
+        "ultra",
+        "after-human",
+        "spirit",
+        "pc-option"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/vech_sentient",
+      "title": "Sentient Vech",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/vech_sentient.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Magnificent Vech ... (`d12`)",
+          "line": 57
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 74
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "222",
+      "tags": [
+        "bestiary",
+        "creature",
+        "vech",
+        "biomechanical",
+        "vehicle"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/vomes",
+      "title": "Vomes (Violent Mechanisms)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/vomes.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 30
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Special Traits",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 55
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Vome ... (`d10`)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Rumours: It Is Known (`d10`)",
+          "line": 75
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Vomes as PCs and Vome Upgrades",
+          "line": 94
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 106
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "223",
+      "tags": [
+        "bestiary",
+        "creature",
+        "vome",
+        "biomechanical",
+        "pc-option"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/creatures/water_people",
+      "title": "Water People (Cold Vomes)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/creatures/water_people.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Statblock",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Traits and Demeanour",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Special Trait",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Treasure",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Variations: This Water Person ... (`d10`)",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Rumours About the Water People (`d8`)",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Sample Names",
+          "line": 86
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 90
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "224",
+      "tags": [
+        "bestiary",
+        "creature",
+        "water-people",
+        "cold-vomes",
+        "amphibious",
+        "three-sticks-lake"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/cat_lords_and_violet_citadel",
+      "title": "Cat Lords and the Violet Citadel",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/cat_lords_and_violet_citadel.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Cat Castes and Feline Hierarchy",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Cat Lord Baseline Profile & Powers",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Violet Citadel Bureaucracy, Law & Academia",
+          "line": 60
+        },
+        {
+          "level": 3,
+          "heading": "Civic Organs & Enforcement",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "Township Economy, Drugs & Establishments",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Languages of the Purple Land",
+          "line": 87
+        },
+        {
+          "level": 2,
+          "heading": "Doghead Insurrectionists & Purple Hazer Body-Snatchers",
+          "line": 92
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 100
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "10, 14-15, 21-25, 38, 54, 56, 58, 184, 197, 204, 212, 235-237, 241, 252-253, 258",
+      "tags": [
+        "faction",
+        "violet-city",
+        "cat-lords",
+        "purple-land",
+        "bureaucracy",
+        "franchises",
+        "dogheads"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/financiers_and_mercantile_cartels",
+      "title": "Financiers and Mercantile Cartels",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/financiers_and_mercantile_cartels.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Butcher Banks, Green God Coinage & Debt Contracts",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "Banking Powers & Currency Infrastructure",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Starting Loans, Incorporation & Caravan Finance",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Patrons & Secret Backers (`p. 184`)",
+          "line": 51
+        },
+        {
+          "level": 3,
+          "heading": "This Patron (`d20`)",
+          "line": 55
+        },
+        {
+          "level": 3,
+          "heading": "Who Really Stands Behind the Patron? (`d20`)",
+          "line": 80
+        },
+        {
+          "level": 2,
+          "heading": "Milk Runs & Automated Trade Routes (`p. 185`)",
+          "line": 105
+        },
+        {
+          "level": 2,
+          "heading": "Major Mercantile Cartels, Franchises & Guild Networks",
+          "line": 113
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 130
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "10, 22, 24-25, 35-36, 39, 43-45, 54-59, 76-77, 89-90, 100, 158-160, 163, 168, 174-175, 182, 184-185, 189, 197, 216, 241-242, 244-247, 252",
+      "tags": [
+        "faction",
+        "financiers",
+        "patrons",
+        "butcher-banks",
+        "grand-companies",
+        "milk-runs",
+        "debt",
+        "cartels"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/lake_folk_and_water_people",
+      "title": "Lake Folk, Quarterlings, Water People, and Moonlings",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/lake_folk_and_water_people.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Part I: The Lake Folk (\"The Villagers\" / Stick Folk)",
+          "line": 48
+        },
+        {
+          "level": 3,
+          "heading": "Culture, Professional Clans, and Villager Traits",
+          "line": 50
+        },
+        {
+          "level": 3,
+          "heading": "The Three Living Villages, Cold People, and Urban Druids",
+          "line": 61
+        },
+        {
+          "level": 2,
+          "heading": "Part II: Quarterling Clans Across the Grasslands",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Baseline Biology, Lingish Claims, and Clannotypes",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "Named and Regional Quarterling Clans",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Part III: Water People (Cold Vomes) and Waterlogged Vomes",
+          "line": 108
+        },
+        {
+          "level": 2,
+          "heading": "Part IV: Moonlings and Nuclearlithics (`pp. 92–103`)",
+          "line": 126
+        },
+        {
+          "level": 2,
+          "heading": "Part V: Underwater, Lakeside, and Shoreline Ruins (`Stations XVIII–XX`)",
+          "line": 139
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 154
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "40, 51, 79, 88-121, 126, 129, 133, 140-142, 144-146, 148-149, 155, 157, 165, 181, 204, 210, 214, 218, 220, 224, 237, 242, 244",
+      "tags": [
+        "faction",
+        "lake-folk",
+        "stick-folk",
+        "quarterlings",
+        "water-people",
+        "cold-vomes",
+        "moonlings",
+        "nuclearlithics",
+        "three-sticks-lake"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/last_serai_and_rainbow_powers",
+      "title": "The Last Serai and Rainbow Powers",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/last_serai_and_rainbow_powers.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Circle Sea Polities & Four Skies Consolidation",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Major Polities, Peoples & Factions",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Guilds, Construction Cartels & Heterodox Sects",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "Station VIII: The Last Serai (Tri-Faction Bulwark)",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Languages Across the Rainbowlands",
+          "line": 82
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 86
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "10-11, 14-16, 21-25, 27, 30, 38-39, 43-45, 51-52, 54-56, 58-59, 61, 73, 76-77, 87, 89-90, 114, 125, 165-166, 181, 184-185, 189, 197, 200, 204-205, 207, 213-216, 223, 229, 231, 235-237, 241-245, 252-253",
+      "tags": [
+        "faction",
+        "rainbowlands",
+        "circle-sea",
+        "emerald-city",
+        "redland-district",
+        "decapolis",
+        "safranj",
+        "oranje",
+        "last-serai",
+        "dwarf",
+        "wine-vampires"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/lime_nomads_and_steppelanders",
+      "title": "Lime Nomads and Steppelanders",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/lime_nomads_and_steppelanders.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Origins, Seasonal Migration & Culture",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Steppe Nomad Confederations & Named Clans",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Religious Institutions, Ultra Compacts & Enclaves",
+          "line": 70
+        },
+        {
+          "level": 3,
+          "heading": "The Citrus Ecclesia (`p. 33`)",
+          "line": 72
+        },
+        {
+          "level": 3,
+          "heading": "Colossus Shamans & The Circle of Grass (`pp. 50–53`)",
+          "line": 80
+        },
+        {
+          "level": 3,
+          "heading": "House of the Unbowed Cardinal (`pp. 38–39`)",
+          "line": 96
+        },
+        {
+          "level": 3,
+          "heading": "Exiled Greenland Revolutionaries & Frontier Exiles (`p. 73`)",
+          "line": 100
+        },
+        {
+          "level": 2,
+          "heading": "Languages of the Steppe",
+          "line": 104
+        },
+        {
+          "level": 2,
+          "heading": "Relations with Rainbowlands, Princes & Satraps",
+          "line": 114
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 120
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "10-11, 21, 23, 27, 30-33, 35, 38-39, 41, 46, 50-53, 69, 73, 77, 85, 87, 105-106, 108-109, 111, 113-114, 117, 123, 181, 184-185, 192, 200, 204, 210, 215, 220, 236-237, 243, 245",
+      "tags": [
+        "faction",
+        "lime-nomads",
+        "steppelanders",
+        "citrus-ecclesia",
+        "grass-colossus",
+        "clans",
+        "shamans"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/marmotfolk_and_great_folk",
+      "title": "Marmotfolk and Great Folk",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/marmotfolk_and_great_folk.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Part I: The Marmotfolk",
+          "line": 44
+        },
+        {
+          "level": 3,
+          "heading": "Society, Physiology, and Statblock",
+          "line": 46
+        },
+        {
+          "level": 3,
+          "heading": "Strongholds, Blind Clans, and Sub-Factions in the Ribs",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "Historical Legacy: The Matrons of Mirror and Satrap Enmity",
+          "line": 78
+        },
+        {
+          "level": 2,
+          "heading": "Part II: The Great Folk",
+          "line": 85
+        },
+        {
+          "level": 3,
+          "heading": "Origins, Physiology, and Statblock",
+          "line": 87
+        },
+        {
+          "level": 3,
+          "heading": "Shadow Councils, Ranks, Names, and Great Language",
+          "line": 100
+        },
+        {
+          "level": 3,
+          "heading": "Moy Sollo and Presences Across the Central Steppes",
+          "line": 106
+        },
+        {
+          "level": 3,
+          "heading": "Quarterling, Biomancer, and Rainbowlander Interactions",
+          "line": 119
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 127
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "69-71, 73, 79, 82-84, 129-132, 136, 140-142, 181, 204, 214-215, 218, 237, 241, 244",
+      "tags": [
+        "faction",
+        "marmotfolk",
+        "great-folk",
+        "bone-shapers",
+        "skulltown",
+        "behemoth-shell",
+        "ribs-of-the-father",
+        "languages"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/porcelain_princes",
+      "title": "The Porcelain Princes",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/porcelain_princes.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Polybody Structure, Politics & Technology",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Named Porcelain Princes & Polybodies",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Ideological, Institutional & Heterodox Sub-Factions",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Language: White Line",
+          "line": 79
+        },
+        {
+          "level": 2,
+          "heading": "Outposts & Holdings East-to-West",
+          "line": 83
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 97
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "21, 23, 25, 27, 34-41, 46, 52, 54-58, 61, 70, 76-77, 87, 112, 125, 184, 194, 199-201, 210, 216, 222, 236, 244, 252-253, 258",
+      "tags": [
+        "faction",
+        "porcelain-princes",
+        "polybody",
+        "porcelain-citadel",
+        "last-serai",
+        "golems",
+        "white-line"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/spectrum_satraps",
+      "title": "Spectrum Satraps",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/spectrum_satraps.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Nature, Biology, Language, and Armament",
+          "line": 52
+        },
+        {
+          "level": 3,
+          "heading": "The 360 Telepaths and Crystal Bodies",
+          "line": 54
+        },
+        {
+          "level": 3,
+          "heading": "Statblock and Sample Satraps",
+          "line": 61
+        },
+        {
+          "level": 3,
+          "heading": "Signature Gear, Vehicles, and Trade Goods",
+          "line": 71
+        },
+        {
+          "level": 2,
+          "heading": "Spectrum Palace, Governance, and The Secret Empress",
+          "line": 85
+        },
+        {
+          "level": 3,
+          "heading": "The Five (`d5`)",
+          "line": 89
+        },
+        {
+          "level": 3,
+          "heading": "The Memorium and The Gaze / Secret Empress (`d8`)",
+          "line": 101
+        },
+        {
+          "level": 3,
+          "heading": "The Twelve Places of Spectrum Palace (`d12`, `[p. 137]`)",
+          "line": 106
+        },
+        {
+          "level": 2,
+          "heading": "Embassy Network, Outposts, Tollmasters, and Walkers",
+          "line": 123
+        },
+        {
+          "level": 2,
+          "heading": "Ecstatics, Heretic Orders, Blue Paper Abbey, and Hopeless Immortals",
+          "line": 136
+        },
+        {
+          "level": 2,
+          "heading": "Historical Myths: The First and Last Satraps",
+          "line": 148
+        },
+        {
+          "level": 2,
+          "heading": "Rivalries and Regional Diplomacy",
+          "line": 156
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 164
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "21-22, 25, 27, 35-36, 39, 52, 55-56, 58-59, 61, 70, 79, 82-83, 85, 88-90, 93, 102, 105, 112, 122-124, 126, 129, 132, 134-138, 140, 142, 160, 165, 181, 184, 188, 194, 197, 199-200, 205, 210, 212, 219, 222, 236, 244, 258",
+      "tags": [
+        "faction",
+        "spectrum-satraps",
+        "spectrum-palace",
+        "ecstatics",
+        "memorium",
+        "walkers",
+        "tollmasters",
+        "para-human"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/ultras_and_voidwalkers",
+      "title": "Ultras, Voidwalkers, and Cosmic Orders",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/ultras_and_voidwalkers.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Part I: Ultras and High Ultra Substrate",
+          "line": 53
+        },
+        {
+          "level": 3,
+          "heading": "Nature, Body Borrowing, and Universal Hostility",
+          "line": 55
+        },
+        {
+          "level": 3,
+          "heading": "Named Ultras and Ultra Collectives Along the Trail",
+          "line": 69
+        },
+        {
+          "level": 2,
+          "heading": "Part II: Voidwalkers, Other Gates, Fast Stars, Crystal Ships, Vile Ones, and Lings",
+          "line": 90
+        },
+        {
+          "level": 3,
+          "heading": "Voidwalkers and Other Gates (`pp. 165-167, 230-231`)",
+          "line": 92
+        },
+        {
+          "level": 3,
+          "heading": "The Five Grand Portals of the Black City (`pp. 165-167`)",
+          "line": 97
+        },
+        {
+          "level": 3,
+          "heading": "Fast Stars, Crystal Ships, and The Zu Complex",
+          "line": 107
+        },
+        {
+          "level": 3,
+          "heading": "Vile Ones (Chosen Ones) and Lings",
+          "line": 112
+        },
+        {
+          "level": 2,
+          "heading": "Part III: Cosmic and Black City Metaphysical Factions",
+          "line": 119
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 133
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "11, 21, 23, 28-29, 32-33, 38, 52, 57, 67, 69, 77, 80, 83, 90-91, 93, 96-103, 111-112, 125, 129, 132-133, 135-136, 138, 140-141, 143, 146, 151, 153, 158-171, 184-186, 200, 205, 210, 218, 220-221, 224, 229-231, 234, 237-238, 240-245, 258",
+      "tags": [
+        "faction",
+        "ultras",
+        "voidwalkers",
+        "fast-stars",
+        "crystal-ships",
+        "vile-ones",
+        "lings",
+        "black-city",
+        "metaphysical-orders"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/factions/vomes_and_autofacs",
+      "title": "Vomes and Autofacs",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/factions/vomes_and_autofacs.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Origins, Language, and Baseline Threats",
+          "line": 55
+        },
+        {
+          "level": 3,
+          "heading": "Origins and Ideology",
+          "line": 57
+        },
+        {
+          "level": 3,
+          "heading": "Language and Communication",
+          "line": 65
+        },
+        {
+          "level": 3,
+          "heading": "Baseline Creature Profiles and Level Scaling",
+          "line": 70
+        },
+        {
+          "level": 2,
+          "heading": "Vome Nests, Nest Mothers, and Sentient Collective Nodes",
+          "line": 80
+        },
+        {
+          "level": 3,
+          "heading": "Standard Vome Nest Composition (`d10`)",
+          "line": 84
+        },
+        {
+          "level": 3,
+          "heading": "Nest Objectives, Sentiences (*Patrocles*, *Enter Name*), and Errors",
+          "line": 99
+        },
+        {
+          "level": 2,
+          "heading": "Major Autofac Complexes and Industrial Nodes",
+          "line": 133
+        },
+        {
+          "level": 2,
+          "heading": "Domesticated Autofacs, Commercial Extraction, and Service Nodes",
+          "line": 154
+        },
+        {
+          "level": 2,
+          "heading": "Savage Biomech Tribe, Machine Cults, and Swarm Threats",
+          "line": 168
+        },
+        {
+          "level": 3,
+          "heading": "Savage Biomech Tribe (`Station VI`)",
+          "line": 170
+        },
+        {
+          "level": 3,
+          "heading": "Machine-Worshipping Cults and Neo-Organics",
+          "line": 174
+        },
+        {
+          "level": 3,
+          "heading": "Swarm Threats Across the Grasslands",
+          "line": 182
+        },
+        {
+          "level": 2,
+          "heading": "Black City Machine Ecology and Voidfacs",
+          "line": 199
+        },
+        {
+          "level": 2,
+          "heading": "Vomish Corruption, Implants, and Suppression Protocols",
+          "line": 210
+        },
+        {
+          "level": 3,
+          "heading": "Vomish Implants and Mandatory Suppression",
+          "line": 212
+        },
+        {
+          "level": 3,
+          "heading": "Vome PCs: Machine Expansion vs Biological Decay",
+          "line": 231
+        },
+        {
+          "level": 3,
+          "heading": "Severance, Damping, and Countermeasures",
+          "line": 241
+        },
+        {
+          "level": 2,
+          "heading": "Regional Ecology and Factional Rivalries",
+          "line": 249
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 258
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "10-11, 22-23, 27-31, 33, 35, 37, 39-41, 43, 46-49, 52-53, 55, 57, 61, 63, 65, 70, 75-77, 79-81, 83, 90-91, 96-97, 105, 108-115, 117-118, 120-121, 125, 129-130, 133, 135-136, 138, 140, 155-157, 159, 161, 165, 167, 179-180, 184-185, 188, 191, 200-205, 208, 210-211, 217, 219-220, 222-224, 229-230, 234, 237, 240-241, 243, 245, 258-259",
+      "tags": [
+        "faction",
+        "vomes",
+        "autofacs",
+        "biomechanical",
+        "swarms",
+        "machines",
+        "corruption",
+        "black-city"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/09_way_stone_graveyard",
+      "title": "IX. Way Stone Graveyard",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/09_way_stone_graveyard.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 37
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the Stone",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Encounters near the Way Stone (d6)",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries by the Way Stone",
+          "line": 73
+        },
+        {
+          "level": 3,
+          "heading": "Oasis of Mirrors (1 day, 100 xp)",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Column of Dead Beetles (d4 days, 200 xp)",
+          "line": 79
+        },
+        {
+          "level": 3,
+          "heading": "The Tomb of The Dragon Also Rises (4 days, 1d6 x 100 xp)",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "The Crystal Flower (2 days, 120 xp)",
+          "line": 87
+        },
+        {
+          "level": 3,
+          "heading": "The Abbey of the Caretakers (d8 days, 100 xp)",
+          "line": 91
+        },
+        {
+          "level": 3,
+          "heading": "The Cauldron of the Revitalized Divinity (d10 days, 300 xp)",
+          "line": 95
+        },
+        {
+          "level": 3,
+          "heading": "The Mausoleum of the Wire (3 days, 80 xp)",
+          "line": 99
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 103
+        }
+      ],
+      "entity_type": "location",
+      "pages": "60-63",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_ix",
+        "machine_graveyard",
+        "ruins"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/10_death_facing_passage",
+      "title": "X. The Death-Facing Passage",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/10_death_facing_passage.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 37
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options Under a Grim Glare",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Encounters in the Lethal Passage (d8)",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries Under the Face of Death",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Exposed Pueblo (1 day, 300 xp)",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "The Disaster of the Ivory Army (2 days, 200 xp)",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "Vault of the Lost Ultras (?) (1d8 days, 450 xp)",
+          "line": 98
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 117
+        }
+      ],
+      "entity_type": "location",
+      "pages": "64-67",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_x",
+        "hazard_zone",
+        "canyon",
+        "ruins"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/11_south_facing_passage",
+      "title": "XI. The South-Facing Passage",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/11_south_facing_passage.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the World's Roof",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Encounters on the High Grassland (d8)",
+          "line": 66
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in the Alpine Meadows",
+          "line": 79
+        },
+        {
+          "level": 3,
+          "heading": "The Gentle Mile (1 day, 100 xp)",
+          "line": 81
+        },
+        {
+          "level": 3,
+          "heading": "Puce House (3 days, 100 xp)",
+          "line": 85
+        },
+        {
+          "level": 3,
+          "heading": "Wandering Behemoth (+1d6 days, 200 xp)",
+          "line": 93
+        },
+        {
+          "level": 3,
+          "heading": "The Bone Mines of Moy Sollo (2 days, 80 xp)",
+          "line": 97
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 104
+        }
+      ],
+      "entity_type": "location",
+      "pages": "68-71",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_xi",
+        "high_steppe",
+        "great_folk",
+        "porcelain_princes",
+        "spectrum_satraps"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/12_fallen_umber",
+      "title": "XII. Fallen Umber",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/12_fallen_umber.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options in Umber",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Encounters in Brown (d8)",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in the Umber Lands",
+          "line": 76
+        },
+        {
+          "level": 3,
+          "heading": "The Azure Garden (2 days, 150 xp)",
+          "line": 78
+        },
+        {
+          "level": 3,
+          "heading": "Hall of the Umber King (1 day, 100 xp)",
+          "line": 82
+        },
+        {
+          "level": 3,
+          "heading": "Erosion of War (4 days, 260 xp)",
+          "line": 86
+        },
+        {
+          "level": 3,
+          "heading": "The Stele of the Pierced Blossom (5 days, 300 xp)",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Cerulean Five Oasis (1d6+1 days, 100 xp)",
+          "line": 96
+        },
+        {
+          "level": 3,
+          "heading": "Locations in the Oasis",
+          "line": 102
+        },
+        {
+          "level": 3,
+          "heading": "Remote Oasis Characters (d8)",
+          "line": 112
+        },
+        {
+          "level": 3,
+          "heading": "Three Stories for the Oasis",
+          "line": 125
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 133
+        }
+      ],
+      "entity_type": "location",
+      "pages": "72-77",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_xii",
+        "cerulean_five_oasis",
+        "ruins",
+        "fungi",
+        "oasis"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/13_long_ridge",
+      "title": "XIII. Long Ridge",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/13_long_ridge.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 36
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options on the Long Ridge",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Encounters on the Exposed Ridge (d8)",
+          "line": 61
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries on the Long Ridge",
+          "line": 74
+        },
+        {
+          "level": 3,
+          "heading": "Grass Circles (1d3 days, 80 xp)",
+          "line": 76
+        },
+        {
+          "level": 3,
+          "heading": "Fallen Feast Hall (2 days, 2d6 x 10 xp)",
+          "line": 80
+        },
+        {
+          "level": 3,
+          "heading": "The Sky Tower (3 days, 100 xp)",
+          "line": 84
+        },
+        {
+          "level": 3,
+          "heading": "The Schkarp (1d4 days, 70 xp)",
+          "line": 88
+        },
+        {
+          "level": 3,
+          "heading": "Copper Cairn (2 days, 70 xp)",
+          "line": 92
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 96
+        }
+      ],
+      "entity_type": "location",
+      "pages": "78-81",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_xiii",
+        "white_grass",
+        "ruins",
+        "autofac"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/14_behemoth_shell",
+      "title": "XIV. Behemoth Shell",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/14_behemoth_shell.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the Shell",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Encounters Around the Behemoth Shell (d8)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Calcite Discoveries",
+          "line": 73
+        },
+        {
+          "level": 3,
+          "heading": "Lurid Pines (2 days, 95 xp)",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Crushed Shell (1 day, 66 xp)",
+          "line": 88
+        },
+        {
+          "level": 3,
+          "heading": "Ideal Island (4 days, 300 xp)",
+          "line": 92
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 96
+        }
+      ],
+      "entity_type": "location",
+      "pages": "82-84",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_xiv",
+        "great_folk",
+        "behemoth",
+        "rodents",
+        "vomes"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/15_serpent_stone_marker",
+      "title": "XV. Serpent Stone Marker",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/15_serpent_stone_marker.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the Marker",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Encounters of the White Grass Ocean (d8)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in the White Grass Ocean",
+          "line": 73
+        },
+        {
+          "level": 3,
+          "heading": "Common Marker Stone (1 day, 50 xp)",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Blood Marker (2 days, 100 xp)",
+          "line": 90
+        },
+        {
+          "level": 3,
+          "heading": "Pine-Crusted Lophotroche (4 days, 300 xp)",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "The Eternal Snaking Marker (3 days, 200 xp)",
+          "line": 100
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 113
+        }
+      ],
+      "entity_type": "location",
+      "pages": "85-87",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_xv",
+        "white_grass_ocean",
+        "marker_stones",
+        "shamans",
+        "spectrum_satraps"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/central_steppes/16_moon_facing_ford",
+      "title": "XVI. Moon-Facing Ford",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/central_steppes/16_moon_facing_ford.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the Moon-Facing Ford",
+          "line": 57
+        },
+        {
+          "level": 2,
+          "heading": "Encounters near Moon River (d8)",
+          "line": 67
+        },
+        {
+          "level": 2,
+          "heading": "The Pylon Kraal Above Moon River",
+          "line": 80
+        },
+        {
+          "level": 2,
+          "heading": "Fordite Kraals and Old Songs",
+          "line": 91
+        },
+        {
+          "level": 3,
+          "heading": "Bardstone",
+          "line": 93
+        },
+        {
+          "level": 3,
+          "heading": "Other Fordite Coral Kraals",
+          "line": 107
+        },
+        {
+          "level": 2,
+          "heading": "Other Crossings (Each: 1d6 days, 1d6 x 40 xp)",
+          "line": 120
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 131
+        }
+      ],
+      "entity_type": "location",
+      "pages": "88-91",
+      "tags": [
+        "location",
+        "central_steppes",
+        "station_xvi",
+        "moon_river",
+        "kraals",
+        "bardstones",
+        "river_crossings",
+        "spectrum_satraps"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/01_violet_city",
+      "title": "Station I: Violet City",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/01_violet_city.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Cats, Cats, Cats",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 68
+        },
+        {
+          "level": 2,
+          "heading": "Encounters in the Violet Lands (d6)",
+          "line": 84
+        },
+        {
+          "level": 2,
+          "heading": "Meet in the Street (d6)",
+          "line": 95
+        },
+        {
+          "level": 3,
+          "heading": "Investigation Seed: Who Would Hurt Vorgo?",
+          "line": 106
+        },
+        {
+          "level": 2,
+          "heading": "Highwaymen or Potential Henchmen (d12)",
+          "line": 123
+        },
+        {
+          "level": 2,
+          "heading": "Last Chair Salon (`1 day, 30 xp`)",
+          "line": 142
+        },
+        {
+          "level": 2,
+          "heading": "Carousing in the Violet City",
+          "line": 150
+        },
+        {
+          "level": 2,
+          "heading": "Drugs in a Purple Haze",
+          "line": 171
+        },
+        {
+          "level": 2,
+          "heading": "Township Dining Establishments (d6)",
+          "line": 186
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 199
+        }
+      ],
+      "entity_type": "location",
+      "pages": "20-25",
+      "tags": [
+        "eastern-grasslands",
+        "station-i",
+        "violet-city",
+        "cat-lords",
+        "carousing",
+        "drugs",
+        "henchmen"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/02_low_road_and_high",
+      "title": "Station II: The Low Road and the High",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/02_low_road_and_high.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Encounters on the Two Roads (d8)",
+          "line": 69
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries High and Low",
+          "line": 82
+        },
+        {
+          "level": 3,
+          "heading": "Crystal Pylon of Memories Given Away (`2 days, 150 xp`)",
+          "line": 84
+        },
+        {
+          "level": 3,
+          "heading": "Potsherd Crown (`2 days, 100 xp`)",
+          "line": 88
+        },
+        {
+          "level": 3,
+          "heading": "Rusted Hand of Victory (`1 day, 80 xp`)",
+          "line": 99
+        },
+        {
+          "level": 3,
+          "heading": "Motor Agate Outcrop (`2 days, 2d8 x 10 xp`)",
+          "line": 103
+        },
+        {
+          "level": 3,
+          "heading": "Sealed Gate (`3 days, 250 xp`)",
+          "line": 107
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 111
+        }
+      ],
+      "entity_type": "location",
+      "pages": "26-29",
+      "tags": [
+        "eastern-grasslands",
+        "station-ii",
+        "low-road-and-high",
+        "ruins",
+        "viaduct"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/03_steppe_of_the_lime_nomads",
+      "title": "Station III: Steppe of the Lime Nomads",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/03_steppe_of_the_lime_nomads.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Encounters on the Steppe (d8)",
+          "line": 68
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries Among the Nomads",
+          "line": 81
+        },
+        {
+          "level": 3,
+          "heading": "Great Biomechanical Baobab (`1 day, 120 xp`)",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "Spring of the Yellow Water (`2 days, 170 xp`)",
+          "line": 87
+        },
+        {
+          "level": 3,
+          "heading": "Verdigris Ribs (`3 days, 200 xp`)",
+          "line": 96
+        },
+        {
+          "level": 3,
+          "heading": "Cryptich of the Craquelure Queen (`4 days, 250 xp`)",
+          "line": 100
+        },
+        {
+          "level": 3,
+          "heading": "The City Mountain (`3 more days, 500 xp`)",
+          "line": 107
+        },
+        {
+          "level": 3,
+          "heading": "Cave Octopus' Garden (`5 days, 300 xp`)",
+          "line": 114
+        },
+        {
+          "level": 3,
+          "heading": "The Cliff Villages of Ghost and Clan (`6 days, 300 xp`)",
+          "line": 123
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 129
+        }
+      ],
+      "entity_type": "location",
+      "pages": "30-33",
+      "tags": [
+        "eastern-grasslands",
+        "station-iii",
+        "lime-nomads",
+        "blue-ridge",
+        "citrus-ecclesia",
+        "ultras"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/04_porcelain_citadel",
+      "title": "Station IV: Porcelain Citadel",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/04_porcelain_citadel.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Porcelain Princes & The Eight Distributed Princes",
+          "line": 49
+        },
+        {
+          "level": 3,
+          "heading": "Polybody Wizardry",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "Column Defense Golems",
+          "line": 68
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options from the Citadel",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 83
+        },
+        {
+          "level": 2,
+          "heading": "Encounters Near the Citadel (d8)",
+          "line": 100
+        },
+        {
+          "level": 2,
+          "heading": "Carousing with the Princes",
+          "line": 113
+        },
+        {
+          "level": 2,
+          "heading": "Keyed Places of Polished Porcelain (Map & Gazetteer 1–14)",
+          "line": 130
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 151
+        }
+      ],
+      "entity_type": "location",
+      "pages": "34-39",
+      "tags": [
+        "eastern-grasslands",
+        "station-iv",
+        "porcelain-citadel",
+        "porcelain-princes",
+        "polybodies",
+        "golems"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/05_potsherd_crater",
+      "title": "Station V: Potsherd Crater",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/05_potsherd_crater.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Travel Out of the Crater",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Encounters Among Shattered Porcelain (d8)",
+          "line": 64
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in the Potsherds",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "Waterlogged Quarry (`1 day, 76 xp`)",
+          "line": 79
+        },
+        {
+          "level": 3,
+          "heading": "Chromium Dome (`3 days, 100 xp`)",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "Mad Autofarm (`2 days, 2d10 x 10 xp`)",
+          "line": 87
+        },
+        {
+          "level": 2,
+          "heading": "Glass House of a Dead Merchant Prince (`2 days, 160 xp`)",
+          "line": 95
+        },
+        {
+          "level": 3,
+          "heading": "Information to Dig Up (d8)",
+          "line": 99
+        },
+        {
+          "level": 3,
+          "heading": "The Approach, Twist & Solution",
+          "line": 112
+        },
+        {
+          "level": 3,
+          "heading": "Clues (d12)",
+          "line": 118
+        },
+        {
+          "level": 3,
+          "heading": "The Trick: Hairy Devil Tracker",
+          "line": 135
+        },
+        {
+          "level": 3,
+          "heading": "Locations and Treasures (d30)",
+          "line": 151
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 188
+        }
+      ],
+      "entity_type": "location",
+      "pages": "40-45",
+      "tags": [
+        "eastern-grasslands",
+        "station-v",
+        "potsherd-crater",
+        "glass-house",
+        "autofarm",
+        "sanguine-porcelain"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/06_trail_of_vomish_dreams",
+      "title": "Station VI: Trail of Vomish Dreams",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/06_trail_of_vomish_dreams.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Traveling the Trail",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 47
+        },
+        {
+          "level": 2,
+          "heading": "Encounters on the Open Trail (d8)",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries on the Trail",
+          "line": 76
+        },
+        {
+          "level": 3,
+          "heading": "Source Fac Johnny-7 (`2+1d6 days, 600 xp`)",
+          "line": 78
+        },
+        {
+          "level": 3,
+          "heading": "Savage Biomech Tribe (`1 day, 144 xp`)",
+          "line": 85
+        },
+        {
+          "level": 3,
+          "heading": "Fallen Iron Obelisk (`3 days, 3d10 x 100 xp`)",
+          "line": 89
+        },
+        {
+          "level": 3,
+          "heading": "Eerie Pearl (`2 days, 2d100 xp`)",
+          "line": 93
+        },
+        {
+          "level": 2,
+          "heading": "Vome Nests & Vome Hive 4c",
+          "line": 97
+        },
+        {
+          "level": 3,
+          "heading": "Vomes in a Typical Nest (d10)",
+          "line": 101
+        },
+        {
+          "level": 3,
+          "heading": "Vome Nest Objectives (d6)",
+          "line": 116
+        },
+        {
+          "level": 3,
+          "heading": "Vome Errors, Quirks, and Strategies (6 x d6)",
+          "line": 127
+        },
+        {
+          "level": 3,
+          "heading": "Diagram: Vome Hive 4c (*Poncho esq.r Cultiste Report*)",
+          "line": 138
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 147
+        }
+      ],
+      "entity_type": "location",
+      "pages": "46-49",
+      "tags": [
+        "eastern-grasslands",
+        "station-vi",
+        "trail-of-vomish-dreams",
+        "vomes",
+        "vome-nests",
+        "source-fac"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/07_grass_colossus",
+      "title": "Station VII: Grass Colossus",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/07_grass_colossus.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Survey Map: The Grass Colossus",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the Colossus",
+          "line": 55
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 65
+        },
+        {
+          "level": 2,
+          "heading": "Encounters Near the Colossus (d8)",
+          "line": 80
+        },
+        {
+          "level": 2,
+          "heading": "Clansfolk, Madsfolk (d8)",
+          "line": 93
+        },
+        {
+          "level": 2,
+          "heading": "Celebrations and Events at the Colossus (d6)",
+          "line": 106
+        },
+        {
+          "level": 3,
+          "heading": "Aftermath of the Sky Chariot Battle (d10)",
+          "line": 117
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 125
+        }
+      ],
+      "entity_type": "location",
+      "pages": "50-53",
+      "tags": [
+        "eastern-grasslands",
+        "station-vii",
+        "grass-colossus",
+        "lime-nomads",
+        "festival",
+        "shamans"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/eastern_grasslands/08_the_last_serai",
+      "title": "Station VIII: The Last Serai",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/eastern_grasslands/08_the_last_serai.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 44
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options at the Last Serai",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 58
+        },
+        {
+          "level": 2,
+          "heading": "Encounters by the Last Serai (d8)",
+          "line": 73
+        },
+        {
+          "level": 2,
+          "heading": "Complex Architecture & Cutaway Diagram",
+          "line": 86
+        },
+        {
+          "level": 2,
+          "heading": "Sectors of the Serai",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "Among the Huddled Old Buildings (d12)",
+          "line": 96
+        },
+        {
+          "level": 3,
+          "heading": "The Harmonium (`3 hours of ritual waiting, 25 xp`)",
+          "line": 113
+        },
+        {
+          "level": 3,
+          "heading": "The Last Trading House (`1 hour, 25 xp`)",
+          "line": 121
+        },
+        {
+          "level": 3,
+          "heading": "The Final Embassy (`2 hours and an invasive security protocol, 25 xp`)",
+          "line": 130
+        },
+        {
+          "level": 3,
+          "heading": "The Ignored Tower (`3 hours, 50 xp`)",
+          "line": 137
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 143
+        }
+      ],
+      "entity_type": "location",
+      "pages": "54-59",
+      "tags": [
+        "eastern-grasslands",
+        "station-viii",
+        "last-serai",
+        "harmonium",
+        "final-embassy",
+        "ignored-tower",
+        "last-trading-house"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/17_the_near_moon",
+      "title": "XVII. The Near Moon",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/17_the_near_moon.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Surface Physics & Environment",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Weather, Odd Tides & Misfortune",
+          "line": 47
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Near the Lovely Moon (d20)",
+          "line": 51
+        },
+        {
+          "level": 3,
+          "heading": "Odd Tide Effects (d6)",
+          "line": 66
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options & Encounters Beneath the Moon",
+          "line": 81
+        },
+        {
+          "level": 3,
+          "heading": "Routes & Resting",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "Encounters Beneath the Moon (d6)",
+          "line": 94
+        },
+        {
+          "level": 2,
+          "heading": "Spectrum Lodge & Ground Discoveries",
+          "line": 107
+        },
+        {
+          "level": 3,
+          "heading": "Spectrum Lodge",
+          "line": 109
+        },
+        {
+          "level": 3,
+          "heading": "Ground Discoveries",
+          "line": 117
+        },
+        {
+          "level": 2,
+          "heading": "The Surface of the Near Moon",
+          "line": 125
+        },
+        {
+          "level": 3,
+          "heading": "Megadungeon Rules",
+          "line": 129
+        },
+        {
+          "level": 3,
+          "heading": "Outlandish Creatures of the Near Moon (d10)",
+          "line": 134
+        },
+        {
+          "level": 3,
+          "heading": "Surface Locations",
+          "line": 151
+        },
+        {
+          "level": 2,
+          "heading": "Layer 1: Cold Crust",
+          "line": 160
+        },
+        {
+          "level": 3,
+          "heading": "Strange Fossils Encountered in the Crust (d8)",
+          "line": 164
+        },
+        {
+          "level": 3,
+          "heading": "Alien Crust Passages (d20, 1 hour)",
+          "line": 179
+        },
+        {
+          "level": 3,
+          "heading": "Common Chambers: A Smell of Ages (d20, 1 hour)",
+          "line": 194
+        },
+        {
+          "level": 3,
+          "heading": "Discoveries in the Crust (d4)",
+          "line": 209
+        },
+        {
+          "level": 2,
+          "heading": "Layer 2: Warm Mantle",
+          "line": 218
+        },
+        {
+          "level": 3,
+          "heading": "Encounters in the Warm Mantle (d8)",
+          "line": 222
+        },
+        {
+          "level": 3,
+          "heading": "Passages in the Warm Mantle (d20, 1 hour)",
+          "line": 237
+        },
+        {
+          "level": 3,
+          "heading": "Common Chambers in the Warm Mantle (d20, 1 hour)",
+          "line": 252
+        },
+        {
+          "level": 3,
+          "heading": "Discoveries in the Warm Mantle (d6)",
+          "line": 267
+        },
+        {
+          "level": 2,
+          "heading": "Layer 3: Heart's Center — The Crystal Core",
+          "line": 278
+        },
+        {
+          "level": 3,
+          "heading": "Crystallised Artefacts in the Core (d8)",
+          "line": 284
+        },
+        {
+          "level": 3,
+          "heading": "Passages in the Crystal Core (d20, 1 hour)",
+          "line": 299
+        },
+        {
+          "level": 3,
+          "heading": "Common Chambers in the Crystal Core (d20, 1 hour)",
+          "line": 314
+        },
+        {
+          "level": 3,
+          "heading": "Discoveries in the Crystal Core (d6)",
+          "line": 329
+        },
+        {
+          "level": 2,
+          "heading": "Playing with the Crystal Ship & Fast Stars",
+          "line": 340
+        },
+        {
+          "level": 3,
+          "heading": "Unmooring the Near Moon (d6)",
+          "line": 342
+        },
+        {
+          "level": 3,
+          "heading": "Detonating the Null-Space Engines (d6)",
+          "line": 355
+        },
+        {
+          "level": 3,
+          "heading": "Flying the Near Moon (d4)",
+          "line": 368
+        },
+        {
+          "level": 3,
+          "heading": "Discoveries Among the Stars Fast & Slow",
+          "line": 381
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 388
+        }
+      ],
+      "entity_type": "location",
+      "pages": "92-103",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "near_moon",
+        "dungeon",
+        "stuckforce",
+        "nuclearlithics",
+        "moonlings",
+        "crystal_core",
+        "fast_stars"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/18_glass_bridge",
+      "title": "XVIII. Glass Bridge",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/18_glass_bridge.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 43
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Is an Old River (d20)",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options & Encounters",
+          "line": 63
+        },
+        {
+          "level": 3,
+          "heading": "Routes, Ferries & Resting",
+          "line": 65
+        },
+        {
+          "level": 3,
+          "heading": "Encounters Near Glass Bridge (d10)",
+          "line": 79
+        },
+        {
+          "level": 2,
+          "heading": "Village, Bridge & River",
+          "line": 96
+        },
+        {
+          "level": 2,
+          "heading": "Lake Folk: Carousing & Traits",
+          "line": 104
+        },
+        {
+          "level": 3,
+          "heading": "The Villagers (Lake Folk)",
+          "line": 106
+        },
+        {
+          "level": 3,
+          "heading": "Carousing in Three Sticks Lake Villages (d20)",
+          "line": 116
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries Near the Glass & Surrounding Lands",
+          "line": 135
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 149
+        }
+      ],
+      "entity_type": "location",
+      "pages": "104-109",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "glass_bridge",
+        "red_bear_village",
+        "lake_folk",
+        "three_sticks_detour",
+        "deepest_glass",
+        "old_river"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/19_three_sticks_lake",
+      "title": "XIX. Three Sticks Lake",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/19_three_sticks_lake.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune at the Cold, Deep Lake (d20)",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Travel Options & Encounters",
+          "line": 61
+        },
+        {
+          "level": 3,
+          "heading": "Routes, Ferries & Resting",
+          "line": 63
+        },
+        {
+          "level": 3,
+          "heading": "Encounters Near Three Sticks (d10)",
+          "line": 76
+        },
+        {
+          "level": 2,
+          "heading": "Lakeside Settlements",
+          "line": 93
+        },
+        {
+          "level": 3,
+          "heading": "Iron Pike Village",
+          "line": 95
+        },
+        {
+          "level": 3,
+          "heading": "Jade Baobab Village",
+          "line": 101
+        },
+        {
+          "level": 2,
+          "heading": "Eastern & North-Eastern Discoveries",
+          "line": 107
+        },
+        {
+          "level": 3,
+          "heading": "Passing Through the Half-Human Great Screen (Grey Glow, d20)",
+          "line": 122
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 137
+        }
+      ],
+      "entity_type": "location",
+      "pages": "110-114",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "three_sticks_lake",
+        "lake_folk",
+        "water_people",
+        "iron_pike",
+        "jade_baobab",
+        "grey_glow",
+        "obsidian_knives"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/20_the_gall_grass",
+      "title": "XX. The Gall Grass",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/20_the_gall_grass.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune of Gall and Temerity (d20)",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Travel & Western-Shore Encounters",
+          "line": 61
+        },
+        {
+          "level": 3,
+          "heading": "Travel in the Gall Grass",
+          "line": 63
+        },
+        {
+          "level": 3,
+          "heading": "Encounters on the Western Shore (d8)",
+          "line": 76
+        },
+        {
+          "level": 2,
+          "heading": "Galling Discoveries & Sky River",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Rose Towers on the Wine River",
+          "line": 101
+        },
+        {
+          "level": 2,
+          "heading": "The North-Most End & Copper Hulls",
+          "line": 109
+        },
+        {
+          "level": 3,
+          "heading": "Resisting the Copper Hull Time Distortion (d20, Aura Test)",
+          "line": 118
+        },
+        {
+          "level": 3,
+          "heading": "Treasures of the Blue and Iron Wizard's Ka-Ba Fortress",
+          "line": 132
+        },
+        {
+          "level": 2,
+          "heading": "Three Sticks Ruins & Western Shoreline",
+          "line": 138
+        },
+        {
+          "level": 3,
+          "heading": "Three Sticks Weather Effects (d6, Sunrise & Sunset)",
+          "line": 147
+        },
+        {
+          "level": 3,
+          "heading": "Vicar & Machine Humans",
+          "line": 160
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 165
+        }
+      ],
+      "entity_type": "location",
+      "pages": "115-121",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "gall_grass",
+        "three_sticks_ruins",
+        "copper_hulls",
+        "rose_towers",
+        "skybridge",
+        "vicars_beach",
+        "machine_humans"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/21_spectrum_run",
+      "title": "XXI. Spectrum Run",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/21_spectrum_run.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 42
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune in the Full-Spectrum Light (d20)",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Travel & Encounters",
+          "line": 62
+        },
+        {
+          "level": 3,
+          "heading": "Travel Across the Spectrum",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "Encounters Under a Harsh Rainbow (d8)",
+          "line": 78
+        },
+        {
+          "level": 2,
+          "heading": "Spectrum Cross Discoveries",
+          "line": 93
+        },
+        {
+          "level": 3,
+          "heading": "Satrap Outposts",
+          "line": 95
+        },
+        {
+          "level": 3,
+          "heading": "Maze of Light",
+          "line": 109
+        },
+        {
+          "level": 3,
+          "heading": "Gemstone Tomb in the Lake of Oil",
+          "line": 151
+        },
+        {
+          "level": 3,
+          "heading": "Crystal Tree and the Decayed City",
+          "line": 165
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 177
+        }
+      ],
+      "entity_type": "location",
+      "pages": "122-125",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "spectrum_run",
+        "spectrum_crossing",
+        "spectrum_satraps",
+        "maze_of_light",
+        "gemstone_tomb",
+        "crystal_tree"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/22_refracting_trees",
+      "title": "XXII. Refracting Trees",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/22_refracting_trees.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 34
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune and the Eye-Breaking Trees (d20)",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "Travel & Encounters",
+          "line": 54
+        },
+        {
+          "level": 3,
+          "heading": "Travel in the Ditch Lands",
+          "line": 56
+        },
+        {
+          "level": 3,
+          "heading": "Encounters with Ditches (d8)",
+          "line": 67
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries Refracted",
+          "line": 82
+        },
+        {
+          "level": 3,
+          "heading": "Corrupted Magitech of the Screaming Visages (d8)",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 105
+        }
+      ],
+      "entity_type": "location",
+      "pages": "126-127",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "refracting_trees",
+        "tree_silicon_symbionts",
+        "slow_lords",
+        "screaming_visages",
+        "mushroom_hall"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/23_ribs_of_the_father",
+      "title": "XXIII. Ribs of the Father",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/23_ribs_of_the_father.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 37
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Is a Broken Rib (d20)",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Travel & Encounters",
+          "line": 56
+        },
+        {
+          "level": 3,
+          "heading": "Travel on the Forehead of the World",
+          "line": 58
+        },
+        {
+          "level": 3,
+          "heading": "Encounters on a Hill of Bones (d8)",
+          "line": 69
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries Among the Ribs & Marmotfolk Halls",
+          "line": 84
+        },
+        {
+          "level": 3,
+          "heading": "Foothill & Underground Discoveries",
+          "line": 86
+        },
+        {
+          "level": 3,
+          "heading": "Investigations of the Melted Shrine (d20)",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "Marmotfolk Citadels & Sacred Sites",
+          "line": 108
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 117
+        }
+      ],
+      "entity_type": "location",
+      "pages": "128-131",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "ribs_of_the_father",
+        "marmotfolk",
+        "skulltown",
+        "boney_roads",
+        "cave_of_the_iron_worm",
+        "memorial_of_pain"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/24_the_cage_run",
+      "title": "XXIV. The Cage Run",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/24_the_cage_run.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Is a Rusted Iron Tree (d20)",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Travel & Encounters",
+          "line": 60
+        },
+        {
+          "level": 3,
+          "heading": "Travel Under the Gaze of Rotting Warnings",
+          "line": 62
+        },
+        {
+          "level": 3,
+          "heading": "Encounters on the Run (d10)",
+          "line": 74
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in Terranova",
+          "line": 91
+        },
+        {
+          "level": 3,
+          "heading": "Another Day Spent on the Dragon Roads (d20)",
+          "line": 99
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 115
+        }
+      ],
+      "entity_type": "location",
+      "pages": "132-133",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "cage_run",
+        "terranova",
+        "memory_bone",
+        "last_cableway",
+        "solar_dragon_roads",
+        "fast_stars"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/moon_and_spectrum/25_spectrum_palace",
+      "title": "XXV. Spectrum Palace",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/moon_and_spectrum/25_spectrum_palace.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather, Haze & Misfortune",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Trips the Light Eclectic (d20)",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Travel & Encounters",
+          "line": 59
+        },
+        {
+          "level": 3,
+          "heading": "Travelling Light",
+          "line": 61
+        },
+        {
+          "level": 3,
+          "heading": "Encounters Bright and Light (d10)",
+          "line": 74
+        },
+        {
+          "level": 2,
+          "heading": "The Spectrum Myth-Symbol Complex",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Place and Power in the Palace",
+          "line": 100
+        },
+        {
+          "level": 3,
+          "heading": "The Five (d5)",
+          "line": 102
+        },
+        {
+          "level": 3,
+          "heading": "The Secret Empress / Gaze of the Memorium (d8)",
+          "line": 116
+        },
+        {
+          "level": 3,
+          "heading": "Rule Over Many Places (d12)",
+          "line": 133
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries Beyond the Satraps",
+          "line": 150
+        },
+        {
+          "level": 3,
+          "heading": "Secrets of the Hopeless Immortals (d8)",
+          "line": 158
+        },
+        {
+          "level": 2,
+          "heading": "Cross-References",
+          "line": 173
+        }
+      ],
+      "entity_type": "location",
+      "pages": "134-139",
+      "tags": [
+        "location",
+        "moon_and_spectrum",
+        "spectrum_palace",
+        "spectrum_satraps",
+        "ecstatics",
+        "memorium",
+        "hopeless_immortals",
+        "neon_ziggurat"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/26_the_iron_road",
+      "title": "The Iron Road (Station XXVI)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/26_the_iron_road.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 35
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune and Memories of Iron Times (`d20`)",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Travel on Narrative Iron Rails",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Encounters with the Hardly Human (`d8`)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries",
+          "line": 73
+        },
+        {
+          "level": 3,
+          "heading": "The Elephantine Graveyard (`5 days, 300 xp`)",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "The Face in the Air (`2 days, 100 xp`)",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "The Last Arcology (`3 days, 200 xp`)",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 105
+        }
+      ],
+      "entity_type": "location",
+      "pages": "140-141",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "iron-road",
+        "arcology"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/27_the_ivory_plain",
+      "title": "The Ivory Plain (Station XXVII)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/27_the_ivory_plain.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 33
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Is a Wildfire (`d20`)",
+          "line": 37
+        },
+        {
+          "level": 2,
+          "heading": "Travel from the Ivory Plain",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Encounters on the White Grass (`d10`)",
+          "line": 61
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries on a Plain",
+          "line": 76
+        },
+        {
+          "level": 3,
+          "heading": "A Lonely Lodge (`2 days, 50 xp`)",
+          "line": 78
+        },
+        {
+          "level": 3,
+          "heading": "The Organ Lake (`3 days, 250 xp`)",
+          "line": 84
+        },
+        {
+          "level": 3,
+          "heading": "The Leering Abyss (`7 days, 600 xp`)",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 98
+        }
+      ],
+      "entity_type": "location",
+      "pages": "142-143",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "ivory-plain"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/28_dead_bridge",
+      "title": "Dead Bridge (Station XXVIII)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/28_dead_bridge.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 37
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune on the Last of Bridges (`d20`)",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Travel from Dead Bridge",
+          "line": 54
+        },
+        {
+          "level": 2,
+          "heading": "Encounters over the Chasm (`d8`)",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries at the Bridge",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "The Totem of the Skies (`2 days, 200 xp`)",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "The Last Projector (`6 days, 250 xp`)",
+          "line": 92
+        },
+        {
+          "level": 3,
+          "heading": "The Cell of Peace (`2 days, 150 xp`)",
+          "line": 109
+        },
+        {
+          "level": 2,
+          "heading": "Down in the Chasm (`750 xp` for crossing)",
+          "line": 113
+        },
+        {
+          "level": 3,
+          "heading": "Climbing Down (`d8`)",
+          "line": 117
+        },
+        {
+          "level": 3,
+          "heading": "In the Noxic Layers (`d8`)",
+          "line": 132
+        },
+        {
+          "level": 3,
+          "heading": "Crossing the River Wo (`d8`)",
+          "line": 147
+        },
+        {
+          "level": 3,
+          "heading": "Climbing Up the Other Side (`d8`)",
+          "line": 162
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 177
+        }
+      ],
+      "entity_type": "location",
+      "pages": "144-147",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "dead-bridge",
+        "the-chasm"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/29_dark_light_passage",
+      "title": "Dark Light Passage (Station XXIX)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/29_dark_light_passage.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune in the Blinding Dark (`d20`)",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Travel in the Glowing Dark",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Encounters in a Sudden Spark of Light (`d10`)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in Darkest Light",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Nexus of Cables (`4 days, 300 xp`)",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "The Pink Crystal (`2 days, 100 xp`)",
+          "line": 85
+        },
+        {
+          "level": 3,
+          "heading": "Pool of Renewed Ambition (`1 day, 60 xp`)",
+          "line": 91
+        },
+        {
+          "level": 3,
+          "heading": "The House of Steam (`3 days, 150 xp`)",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 99
+        }
+      ],
+      "entity_type": "location",
+      "pages": "148-149",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "dark-light-passage",
+        "the-chasm"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/30_the_endless_houses",
+      "title": "The Endless Houses (Station XXX)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/30_the_endless_houses.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 33
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Is Endless (`d20`)",
+          "line": 37
+        },
+        {
+          "level": 2,
+          "heading": "Travel Among Endless Houses",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Encounters Among the Houses (`d10`)",
+          "line": 56
+        },
+        {
+          "level": 2,
+          "heading": "Endless Houses Generator (`[p. 152]`)",
+          "line": 71
+        },
+        {
+          "level": 3,
+          "heading": "Places, and What They Hide (`d10` and `d10`)",
+          "line": 73
+        },
+        {
+          "level": 3,
+          "heading": "This Strange Location Catches Your Eye (Five-Fold `d6`)",
+          "line": 90
+        },
+        {
+          "level": 3,
+          "heading": "Exploring This Quarter or Building Reveals (`d12`)",
+          "line": 101
+        },
+        {
+          "level": 3,
+          "heading": "More Urban Features (`d30`)",
+          "line": 112
+        },
+        {
+          "level": 2,
+          "heading": "Ruinland Discoveries (`[p. 153]`)",
+          "line": 127
+        },
+        {
+          "level": 3,
+          "heading": "The Shadow Houses (`3 days, 200 xp`)",
+          "line": 129
+        },
+        {
+          "level": 3,
+          "heading": "The Revolving Palace (`2 days, 150 xp`)",
+          "line": 144
+        },
+        {
+          "level": 3,
+          "heading": "The Perfect House (`5 days, 300 xp`)",
+          "line": 150
+        },
+        {
+          "level": 3,
+          "heading": "One Ageless Spire of the Only Onager (`2 days, 150 xp`)",
+          "line": 154
+        },
+        {
+          "level": 3,
+          "heading": "The Ghoul Pile (`1 day, 100 xp`)",
+          "line": 160
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 164
+        }
+      ],
+      "entity_type": "location",
+      "pages": "150-153",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "endless-houses",
+        "ruinland"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/31_the_forest_of_meat",
+      "title": "The Forest of Meat (Station XXXI)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/31_the_forest_of_meat.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune and Meat (`d20`)",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Travel the Meat Forest",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Encounters in the Carnibotanic Disaster (`d10`)",
+          "line": 59
+        },
+        {
+          "level": 2,
+          "heading": "Carnibotanic Generator (`[p. 156]`)",
+          "line": 74
+        },
+        {
+          "level": 3,
+          "heading": "Odd Abilities (`d10`) and Hooks (`d12`)",
+          "line": 89
+        },
+        {
+          "level": 2,
+          "heading": "Discoveries in the Forest (`[p. 157]`)",
+          "line": 119
+        },
+        {
+          "level": 3,
+          "heading": "The Knowing Tree (`5 days, 450 xp`)",
+          "line": 121
+        },
+        {
+          "level": 3,
+          "heading": "The Astral Turf (`2 days, 150 xp`)",
+          "line": 127
+        },
+        {
+          "level": 3,
+          "heading": "Biomancer's Cradle (`3 days, 200 xp`)",
+          "line": 131
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 137
+        }
+      ],
+      "entity_type": "location",
+      "pages": "154-157",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "forest-of-meat",
+        "carnibotanic"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/locations/western_reaches/32_the_black_city",
+      "title": "The Black City (Station XXXII)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/locations/western_reaches/32_the_black_city.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Weather and Misfortune at the End",
+          "line": 56
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune at the Last (`d20`)",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "Travel Back Whence You Came",
+          "line": 74
+        },
+        {
+          "level": 2,
+          "heading": "Encounters at the Edge of Omega (`d12`)",
+          "line": 80
+        },
+        {
+          "level": 2,
+          "heading": "The Last Camp, Fool's Wall, and the End of Space",
+          "line": 97
+        },
+        {
+          "level": 3,
+          "heading": "Fool's Wall and the Q.O.C. (`[p. 160]`)",
+          "line": 99
+        },
+        {
+          "level": 3,
+          "heading": "The End of Space (`d6`) (`[p. 160]`)",
+          "line": 105
+        },
+        {
+          "level": 2,
+          "heading": "The Full Spectrum Embassy and Fading Light Diner",
+          "line": 118
+        },
+        {
+          "level": 3,
+          "heading": "Carousing in the Fading Light (`d20 — Embracing the End of Reality`) (`[p. 161]`)",
+          "line": 124
+        },
+        {
+          "level": 2,
+          "heading": "The Dark Hospital (`[p. 161]`)",
+          "line": 141
+        },
+        {
+          "level": 2,
+          "heading": "Black City Hermits and the Cube of the Last Period (`[p. 162]`)",
+          "line": 149
+        },
+        {
+          "level": 3,
+          "heading": "Six Hermits (`d6`)",
+          "line": 153
+        },
+        {
+          "level": 3,
+          "heading": "The Cube of the Last Period & Trade (`[p. 162]`)",
+          "line": 164
+        },
+        {
+          "level": 2,
+          "heading": "The Grand Observer and the Three Stones of Donation (`[p. 163]`)",
+          "line": 182
+        },
+        {
+          "level": 3,
+          "heading": "Three Stones of Donation",
+          "line": 188
+        },
+        {
+          "level": 3,
+          "heading": "The Odds of Receiving a Gift This Manifestation (`d8`)",
+          "line": 196
+        },
+        {
+          "level": 3,
+          "heading": "Null Objects of Desire (`d12`)",
+          "line": 207
+        },
+        {
+          "level": 2,
+          "heading": "Prophecies Out of Time (`[p. 164]`)",
+          "line": 226
+        },
+        {
+          "level": 3,
+          "heading": "Confounding Prophecies (`d30`)",
+          "line": 230
+        },
+        {
+          "level": 2,
+          "heading": "The Five Grand Portals (`[pp. 165–167]`)",
+          "line": 265
+        },
+        {
+          "level": 3,
+          "heading": "1. The Sky Portal (`1d10 days`) (`[p. 165]`)",
+          "line": 269
+        },
+        {
+          "level": 3,
+          "heading": "2. The Earth Portal (`5 weeks, 250 xp`) (`[p. 166]`)",
+          "line": 288
+        },
+        {
+          "level": 3,
+          "heading": "3. The Third Portal (`1d20 days, 500 xp`) (`[p. 166]`)",
+          "line": 294
+        },
+        {
+          "level": 3,
+          "heading": "4. The Wind Portal (`1 day, 600 xp`) (`[p. 167]`)",
+          "line": 311
+        },
+        {
+          "level": 3,
+          "heading": "5. The Green Portal (`? days, 1d20 x 20 xp`) (`[p. 167]`)",
+          "line": 317
+        },
+        {
+          "level": 2,
+          "heading": "The Pre-City and the Magnificent Dead (`[p. 168]`)",
+          "line": 332
+        },
+        {
+          "level": 3,
+          "heading": "The Toxic Dust (`d10`) (`[p. 168]`)",
+          "line": 336
+        },
+        {
+          "level": 3,
+          "heading": "The Magnificent Dead (`d10 — Magnificent Memories`) (`[p. 168]`)",
+          "line": 353
+        },
+        {
+          "level": 2,
+          "heading": "The City Itself (`[p. 169]`)",
+          "line": 368
+        },
+        {
+          "level": 3,
+          "heading": "Portraying the Black City: Questions to Build a False Reality (`d8`) (`[p. 169]`)",
+          "line": 372
+        },
+        {
+          "level": 3,
+          "heading": "The Ideal Fractal City (`[p. 169]`)",
+          "line": 387
+        },
+        {
+          "level": 2,
+          "heading": "The Lacquered Chaos of Possibility (`[p. 170]`)",
+          "line": 391
+        },
+        {
+          "level": 2,
+          "heading": "The Black Obelisk Who Gazes Upon the Hearts of Mortals (`[p. 170]`)",
+          "line": 404
+        },
+        {
+          "level": 2,
+          "heading": "The House on the Edge of Time (`[p. 171]`)",
+          "line": 412
+        },
+        {
+          "level": 2,
+          "heading": "Chapter Closing Illustration Plate (`[p. 172]`)",
+          "line": 429
+        },
+        {
+          "level": 2,
+          "heading": "Related Notes",
+          "line": 433
+        }
+      ],
+      "entity_type": "location",
+      "pages": "158-172",
+      "tags": [
+        "uvg-2e",
+        "tier-3",
+        "location",
+        "western-reaches",
+        "black-city",
+        "omega",
+        "grand-observer",
+        "five-portals"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/biomagical_corruption",
+      "title": "Biomagical Corruption",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/biomagical_corruption.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "General Rules",
+          "line": 33
+        },
+        {
+          "level": 2,
+          "heading": "Exposure Severity (`d20`: \"What kind of exposure was it?\")",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Biomagical Corruption Effects (`d20`)",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Related Corruption Sources and Treatments in *The Stuff*",
+          "line": 79
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 89
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "208",
+      "tags": [
+        "mechanics",
+        "corruption",
+        "mutations",
+        "biomancy",
+        "vomes",
+        "radiation"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/character_creation_and_rosetta",
+      "title": "Character Creation and the Six-Fold System Rosetta",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/character_creation_and_rosetta.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Who Is This Hero? (d50)",
+          "line": 34
+        },
+        {
+          "level": 2,
+          "heading": "Do They Need a Name?",
+          "line": 91
+        },
+        {
+          "level": 2,
+          "heading": "Do They Need Another Quirk?",
+          "line": 110
+        },
+        {
+          "level": 3,
+          "heading": "1. Biomantic Omen",
+          "line": 114
+        },
+        {
+          "level": 3,
+          "heading": "2. Affinity-bonded Pet",
+          "line": 125
+        },
+        {
+          "level": 3,
+          "heading": "3. Odd Family Connexion",
+          "line": 136
+        },
+        {
+          "level": 3,
+          "heading": "4. Sign of the Fast Stars",
+          "line": 147
+        },
+        {
+          "level": 3,
+          "heading": "5. Loyal Old Friend",
+          "line": 158
+        },
+        {
+          "level": 3,
+          "heading": "6. A Nemesis Since Childhood",
+          "line": 169
+        },
+        {
+          "level": 3,
+          "heading": "7. Additional Class Experience",
+          "line": 180
+        },
+        {
+          "level": 3,
+          "heading": "8. Machine Interface",
+          "line": 191
+        },
+        {
+          "level": 3,
+          "heading": "9. Fateful Disaster",
+          "line": 202
+        },
+        {
+          "level": 2,
+          "heading": "The Six-Fold System Rosetta (SEACAT Core Rules)",
+          "line": 213
+        },
+        {
+          "level": 3,
+          "heading": "Task Resolution and Target Numbers",
+          "line": 217
+        },
+        {
+          "level": 3,
+          "heading": "Advantage & Disadvantage",
+          "line": 229
+        },
+        {
+          "level": 3,
+          "heading": "Level and Life",
+          "line": 238
+        },
+        {
+          "level": 3,
+          "heading": "Six Abilities (SEACAT)",
+          "line": 243
+        },
+        {
+          "level": 3,
+          "heading": "Skills",
+          "line": 256
+        },
+        {
+          "level": 3,
+          "heading": "Saves and Defense",
+          "line": 266
+        },
+        {
+          "level": 3,
+          "heading": "Combat: Rounds, Initiative, Action, Attack, and Damage",
+          "line": 271
+        },
+        {
+          "level": 3,
+          "heading": "Inventory and Encumbrance",
+          "line": 282
+        },
+        {
+          "level": 3,
+          "heading": "Magitech and Fantascience",
+          "line": 289
+        },
+        {
+          "level": 3,
+          "heading": "Hero Dice",
+          "line": 293
+        },
+        {
+          "level": 3,
+          "heading": "Experience and Levelling Up",
+          "line": 297
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 321
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "9-12",
+      "tags": [
+        "character-creation",
+        "rosetta",
+        "seacat",
+        "traveller",
+        "rules",
+        "skills",
+        "magic",
+        "experience"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/death_and_ghosthood",
+      "title": "Death and Ghosthood",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/death_and_ghosthood.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "The Ha–Ka–Ba Matrix",
+          "line": 38
+        },
+        {
+          "level": 2,
+          "heading": "Bringing Back Your Dead and Resurrection",
+          "line": 54
+        },
+        {
+          "level": 3,
+          "heading": "This Returned Is Changed",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "The Seven Marks of the Rotting God",
+          "line": 77
+        },
+        {
+          "level": 2,
+          "heading": "Oracle of the Death Dice",
+          "line": 89
+        },
+        {
+          "level": 2,
+          "heading": "Ghosthood, Ka-Elementals, and Soul Mills",
+          "line": 118
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 130
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "231, 238-245",
+      "tags": [
+        "mechanics",
+        "death",
+        "resurrection",
+        "undead",
+        "soul",
+        "ghosts",
+        "oracle"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/on_creatures",
+      "title": "On Creatures",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/on_creatures.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Six Core Attributes",
+          "line": 34
+        },
+        {
+          "level": 2,
+          "heading": "Bestiary Statblock Conventions",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Encounters and Reactions (`3d6`)",
+          "line": 56
+        },
+        {
+          "level": 3,
+          "heading": "How Far Away Are They?",
+          "line": 60
+        },
+        {
+          "level": 3,
+          "heading": "How Many Are They?",
+          "line": 71
+        },
+        {
+          "level": 3,
+          "heading": "Are They Hostile?",
+          "line": 82
+        },
+        {
+          "level": 2,
+          "heading": "Level to Generic Creature Translator",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 120
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "209-210",
+      "tags": [
+        "bestiary",
+        "mechanics",
+        "creatures",
+        "encounters",
+        "morale",
+        "scaling"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/player_sheets_reference",
+      "title": "Player and GM Reference Sheets",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/player_sheets_reference.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Caravan Sheet (pp. 246-247)",
+          "line": 33
+        },
+        {
+          "level": 3,
+          "heading": "Caravan Sheet Front (p. 246)",
+          "line": 37
+        },
+        {
+          "level": 3,
+          "heading": "Caravan Sheet Back: Cargo & Routes (p. 247)",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Hero of the UVG Sheet (p. 248)",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Travel Procedures Flowchart (p. 256)",
+          "line": 62
+        },
+        {
+          "level": 3,
+          "heading": "Core Travel Boxes (p. 256)",
+          "line": 78
+        },
+        {
+          "level": 2,
+          "heading": "Action and Encounter Reference Sheet (p. 257)",
+          "line": 102
+        },
+        {
+          "level": 3,
+          "heading": "3: Encounter (P202)",
+          "line": 108
+        },
+        {
+          "level": 3,
+          "heading": "Look for Discoveries (P170) & Market Research (P172)",
+          "line": 121
+        },
+        {
+          "level": 3,
+          "heading": "Buy and Sell / Haggling (P172) & Carousing (P16)",
+          "line": 138
+        },
+        {
+          "level": 3,
+          "heading": "Forage (P171) & Study (P4)",
+          "line": 153
+        },
+        {
+          "level": 3,
+          "heading": "Combat and Camp Micro-Rules (p. 257)",
+          "line": 171
+        },
+        {
+          "level": 2,
+          "heading": "Critters, NPC Benchmarks, and Vehicles (p. 258)",
+          "line": 181
+        },
+        {
+          "level": 3,
+          "heading": "This Well Critter (`P202`)",
+          "line": 183
+        },
+        {
+          "level": 3,
+          "heading": "NPC / Creature Benchmark Table (`P202`)",
+          "line": 198
+        },
+        {
+          "level": 3,
+          "heading": "Vehicles & Mounts (`P180`)",
+          "line": 223
+        },
+        {
+          "level": 3,
+          "heading": "The Where & Novel Discoveries Sheet (`pp. 258-259`)",
+          "line": 254
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 259
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "246-248, 256-259",
+      "tags": [
+        "mechanics",
+        "character-sheet",
+        "caravan-sheet",
+        "quick-reference",
+        "travel-procedures",
+        "vehicles",
+        "critters"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/running_a_caravan",
+      "title": "Running a Caravan",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/running_a_caravan.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Caravan Administration and Staffing",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "Cash, Loans, and Expenses",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Financier (Patron), Logo, and Assets",
+          "line": 47
+        },
+        {
+          "level": 3,
+          "heading": "PCs and Helpers",
+          "line": 53
+        },
+        {
+          "level": 2,
+          "heading": "Time, Speed, and Consumption",
+          "line": 58
+        },
+        {
+          "level": 3,
+          "heading": "Seasons and Distance",
+          "line": 60
+        },
+        {
+          "level": 3,
+          "heading": "Speed and Tallies",
+          "line": 77
+        },
+        {
+          "level": 3,
+          "heading": "Traveling the Back Roads",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "Weekly Consumption",
+          "line": 87
+        },
+        {
+          "level": 2,
+          "heading": "Weekly Travel Loop and Actions",
+          "line": 96
+        },
+        {
+          "level": 3,
+          "heading": "The Weekly Travel Sequence",
+          "line": 98
+        },
+        {
+          "level": 3,
+          "heading": "The Use of Days and Extra Tallies",
+          "line": 111
+        },
+        {
+          "level": 3,
+          "heading": "Stopping for a Full Week",
+          "line": 122
+        },
+        {
+          "level": 3,
+          "heading": "Rest and Recovery",
+          "line": 140
+        },
+        {
+          "level": 2,
+          "heading": "Inventory, Encumbrance, and Treasure",
+          "line": 150
+        },
+        {
+          "level": 3,
+          "heading": "Sacks, Stones, and Soaps",
+          "line": 152
+        },
+        {
+          "level": 3,
+          "heading": "Encumbrance and Packaging",
+          "line": 173
+        },
+        {
+          "level": 3,
+          "heading": "Treasure Valuation and Dismantling",
+          "line": 179
+        },
+        {
+          "level": 2,
+          "heading": "Destinations and Discoveries",
+          "line": 194
+        },
+        {
+          "level": 2,
+          "heading": "Breakdowns: Starvation, Supply Failure, and Corruption",
+          "line": 212
+        },
+        {
+          "level": 3,
+          "heading": "How Not to Starve",
+          "line": 216
+        },
+        {
+          "level": 3,
+          "heading": "Out of Supplies (Rule of 3 and 7)",
+          "line": 222
+        },
+        {
+          "level": 3,
+          "heading": "Equipment Breakdown and Source Code Corruption",
+          "line": 230
+        },
+        {
+          "level": 2,
+          "heading": "A First Caravan (Starter Bundle)",
+          "line": 235
+        },
+        {
+          "level": 3,
+          "heading": "Starter Caravan d6 Quirk and Gear Subtables",
+          "line": 253
+        },
+        {
+          "level": 2,
+          "heading": "Sample Caravans",
+          "line": 266
+        },
+        {
+          "level": 2,
+          "heading": "Caravan Quests",
+          "line": 280
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 295
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "173-179, 182-183, 186",
+      "tags": [
+        "caravan",
+        "travel",
+        "encumbrance",
+        "supplies",
+        "time",
+        "discoveries",
+        "starting-caravan",
+        "quests"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/trade_and_goods",
+      "title": "Trade, Goods, Financiers, and Milk Runs",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/trade_and_goods.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Trade Goods and Inventory Scale",
+          "line": 33
+        },
+        {
+          "level": 2,
+          "heading": "Market Research and Regional Price Skews",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Buying, Selling, and Haggling",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Local Special Needs (Commissioned Runs)",
+          "line": 80
+        },
+        {
+          "level": 3,
+          "heading": "What the Client Wants (d10)",
+          "line": 84
+        },
+        {
+          "level": 3,
+          "heading": "The Catch and Destination (d10)",
+          "line": 99
+        },
+        {
+          "level": 2,
+          "heading": "Financiers and Patrons",
+          "line": 114
+        },
+        {
+          "level": 3,
+          "heading": "This Patron (d20)",
+          "line": 118
+        },
+        {
+          "level": 3,
+          "heading": "Who Really Stands Behind the Patron? (d20)",
+          "line": 143
+        },
+        {
+          "level": 2,
+          "heading": "Trade Routes (Milk Runs)",
+          "line": 168
+        },
+        {
+          "level": 3,
+          "heading": "Capital and Risk Tiers",
+          "line": 172
+        },
+        {
+          "level": 3,
+          "heading": "Running and Collecting from a Milk Run",
+          "line": 180
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 187
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "174, 180-185",
+      "tags": [
+        "trade",
+        "economy",
+        "haggling",
+        "market-research",
+        "financiers",
+        "patrons",
+        "milk-runs",
+        "debt"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/mechanics/weather_and_geography",
+      "title": "Weather and Geography",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/mechanics/weather_and_geography.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Travel Calendar and Seasons",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Weather and Climate Matrix (d12)",
+          "line": 47
+        },
+        {
+          "level": 3,
+          "heading": "Quick Reference Weather Variant (p. 258)",
+          "line": 66
+        },
+        {
+          "level": 2,
+          "heading": "Geography and Natural Scenery (d12)",
+          "line": 85
+        },
+        {
+          "level": 2,
+          "heading": "The Fleeting Things (d12)",
+          "line": 106
+        },
+        {
+          "level": 2,
+          "heading": "This Week's Camp (d8)",
+          "line": 125
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 140
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "232, 246, 256, 258-259",
+      "tags": [
+        "mechanics",
+        "weather",
+        "climate",
+        "geography",
+        "calendar",
+        "camp"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/other/front_matter_and_index",
+      "title": "Front Matter, Table of Contents, Postcards, and Index Terminus",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/other/front_matter_and_index.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Page Numbering Offset Rule",
+          "line": 31
+        },
+        {
+          "level": 2,
+          "heading": "Cover, Endpaper, Title Page, Colophon, and Dedication",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Complete Table of Contents",
+          "line": 61
+        },
+        {
+          "level": 3,
+          "heading": "Part I & II: The Traveler and The Grasslands (`[p. 6]`)",
+          "line": 65
+        },
+        {
+          "level": 3,
+          "heading": "Parts III–VI: The Caravan, The Stuff, The Bestiary, and The Setting (`[p. 7]`)",
+          "line": 156
+        },
+        {
+          "level": 2,
+          "heading": "Campfire Intro Vignette & Design Philosophy",
+          "line": 206
+        },
+        {
+          "level": 2,
+          "heading": "Index Terminus",
+          "line": 214
+        },
+        {
+          "level": 2,
+          "heading": "Postcards, *Synthetic Dream Machine* Ad, and Back Matter",
+          "line": 222
+        },
+        {
+          "level": 3,
+          "heading": "Spread I: *Wish You Were Here* (`[p. 252]`, printed `244`)",
+          "line": 226
+        },
+        {
+          "level": 3,
+          "heading": "Spread II: *At The Edge of Time and Space* (`[p. 253]`, printed `245`)",
+          "line": 236
+        },
+        {
+          "level": 3,
+          "heading": "Endpaper, *Synthetic Dream Machine*, and Back Cover (`[pp. 254-255, 260]`)",
+          "line": 246
+        },
+        {
+          "level": 2,
+          "heading": "Related Digests",
+          "line": 253
+        }
+      ],
+      "entity_type": "other",
+      "pages": "1-8, 249-255, 260",
+      "tags": [
+        "front-matter",
+        "table-of-contents",
+        "index",
+        "credits",
+        "postcards",
+        "endmatter"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/other/histories_and_ages",
+      "title": "Histories and Ages",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/other/histories_and_ages.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "1. Forgotten Times (d12)",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "2. Dimly Remembered Strife (d12)",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "3. Fabled Stories (d12)",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "4. Oral Histories of the Revolution (d12)",
+          "line": 94
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 116
+        }
+      ],
+      "entity_type": "other",
+      "pages": "234-235",
+      "tags": [
+        "history",
+        "cosmology",
+        "ages",
+        "anti-canon",
+        "rainbowlands",
+        "revolution"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/other/languages",
+      "title": "Languages",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/other/languages.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "The Common Languages (pp. 236)",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "The Dead and Weird Languages (p. 237)",
+          "line": 56
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 77
+        }
+      ],
+      "entity_type": "other",
+      "pages": "236-237",
+      "tags": [
+        "languages",
+        "rainbowlands",
+        "steppe",
+        "dead-languages",
+        "linguistics"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/other/setting_glossary",
+      "title": "Setting Glossary (A-Z)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/other/setting_glossary.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "A",
+          "line": 32
+        },
+        {
+          "level": 2,
+          "heading": "B",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "C",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "D",
+          "line": 60
+        },
+        {
+          "level": 2,
+          "heading": "E",
+          "line": 67
+        },
+        {
+          "level": 2,
+          "heading": "F",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "G",
+          "line": 78
+        },
+        {
+          "level": 2,
+          "heading": "H",
+          "line": 85
+        },
+        {
+          "level": 2,
+          "heading": "I",
+          "line": 93
+        },
+        {
+          "level": 2,
+          "heading": "K",
+          "line": 97
+        },
+        {
+          "level": 2,
+          "heading": "L",
+          "line": 104
+        },
+        {
+          "level": 2,
+          "heading": "M",
+          "line": 112
+        },
+        {
+          "level": 2,
+          "heading": "N",
+          "line": 119
+        },
+        {
+          "level": 2,
+          "heading": "O",
+          "line": 124
+        },
+        {
+          "level": 2,
+          "heading": "P",
+          "line": 130
+        },
+        {
+          "level": 2,
+          "heading": "Q",
+          "line": 135
+        },
+        {
+          "level": 2,
+          "heading": "R",
+          "line": 139
+        },
+        {
+          "level": 2,
+          "heading": "S",
+          "line": 146
+        },
+        {
+          "level": 2,
+          "heading": "T",
+          "line": 153
+        },
+        {
+          "level": 2,
+          "heading": "U",
+          "line": 157
+        },
+        {
+          "level": 2,
+          "heading": "V",
+          "line": 161
+        },
+        {
+          "level": 2,
+          "heading": "W",
+          "line": 167
+        },
+        {
+          "level": 2,
+          "heading": "Y",
+          "line": 173
+        },
+        {
+          "level": 2,
+          "heading": "Z",
+          "line": 177
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 181
+        }
+      ],
+      "entity_type": "other",
+      "pages": "240-245",
+      "tags": [
+        "glossary",
+        "lore",
+        "terminology",
+        "mechanics",
+        "rainbowlands",
+        "oldtech"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/people/named_travelers_and_patrons",
+      "title": "Named Travellers, Caravan Patrons, Artisans, and Other Voyagers",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/people/named_travelers_and_patrons.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Frame Narrative Travellers",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Caravan Pioneers, Trade Route Figures, and Quest Principals",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Financiers and Patrons (`d20`)",
+          "line": 66
+        },
+        {
+          "level": 3,
+          "heading": "This Patron (`d20`) `[p. 184]`",
+          "line": 70
+        },
+        {
+          "level": 3,
+          "heading": "Who Really Stands Behind the Patron? (`d20`) `[p. 184]`",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Named Artisans, Spell Inventors, Scholars, and Setting Figures",
+          "line": 120
+        },
+        {
+          "level": 3,
+          "heading": "Merchants, Inventors, and Spell Creators",
+          "line": 124
+        },
+        {
+          "level": 3,
+          "heading": "Scholars, Monsters, and Historical Nameswords",
+          "line": 142
+        },
+        {
+          "level": 2,
+          "heading": "Other Voyagers (`d100`) and Cultural Naming Traditions",
+          "line": 160
+        },
+        {
+          "level": 2,
+          "heading": "Related Digests",
+          "line": 175
+        }
+      ],
+      "entity_type": "person",
+      "pages": "4, 8, 11, 23-26, 29, 37, 49, 51, 54, 72, 78, 85, 91-92, 107, 114, 119-120, 136, 144, 165-166, 174-175, 182, 184-186, 195-198, 205-207, 210, 212, 214-216, 218-223, 228-230, 236, 238, 242-243, 245, 252-253, 260",
+      "tags": [
+        "people",
+        "travelers",
+        "patrons",
+        "financiers",
+        "frame-narrative",
+        "inventors",
+        "other-voyagers"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/people/steppes_and_spectrum_figures",
+      "title": "Steppes and Spectrum Figures (Stations IX–XXV)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/people/steppes_and_spectrum_figures.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Central Steppes Figures (Stations IX–XVI)",
+          "line": 48
+        },
+        {
+          "level": 3,
+          "heading": "IX. Way Stone Graveyard (`[pp. 61, 63]`)",
+          "line": 50
+        },
+        {
+          "level": 3,
+          "heading": "X–XI. Death-Facing & South-Facing Passages (`[pp. 67, 70-71]`)",
+          "line": 61
+        },
+        {
+          "level": 3,
+          "heading": "XII. Fallen Umber & Cerulean Five Oasis (`[pp. 76-77]`)",
+          "line": 67
+        },
+        {
+          "level": 3,
+          "heading": "XIII–XV. Long Ridge, Behemoth Shell, and Serpent Stone Marker (`[pp. 81-84, 86-87]`)",
+          "line": 86
+        },
+        {
+          "level": 3,
+          "heading": "XVI. Moon-Facing Ford (`[pp. 88-89, 91]`)",
+          "line": 94
+        },
+        {
+          "level": 2,
+          "heading": "Moon and Spectrum Figures (Stations XVII–XXV)",
+          "line": 108
+        },
+        {
+          "level": 3,
+          "heading": "XVII. The Near Moon (`[pp. 93, 98-103]`)",
+          "line": 110
+        },
+        {
+          "level": 3,
+          "heading": "XVIII–XIX. Glass Bridge & Three Sticks Lake (`[pp. 106-108, 111-112, 114]`)",
+          "line": 125
+        },
+        {
+          "level": 3,
+          "heading": "XX. The Gall Grass (`[pp. 115, 117-121]`)",
+          "line": 135
+        },
+        {
+          "level": 3,
+          "heading": "XXI–XXIV. Spectrum Run, Refracting Trees, Ribs, and Cage Run (`[pp. 123-125, 127, 130, 132-133]`)",
+          "line": 145
+        },
+        {
+          "level": 3,
+          "heading": "XXV. Spectrum Palace (`[pp. 135-138]`)",
+          "line": 158
+        },
+        {
+          "level": 2,
+          "heading": "Related Digests",
+          "line": 187
+        }
+      ],
+      "entity_type": "person",
+      "pages": "38, 61, 63, 67, 70-71, 76-77, 81-89, 91, 93, 98-103, 105-108, 111-115, 117-121, 123-125, 127, 130, 132-133, 135-138",
+      "tags": [
+        "people",
+        "npcs",
+        "central-steppes",
+        "moon-and-spectrum",
+        "cerulean-five",
+        "near-moon",
+        "spectrum-palace",
+        "hopeless-immortals"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/people/violet_city_and_eastern_figures",
+      "title": "Violet City and Eastern Grasslands Figures (Stations I–VIII)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/people/violet_city_and_eastern_figures.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Station I: Violet City (`[pp. 21-26]`)",
+          "line": 38
+        },
+        {
+          "level": 3,
+          "heading": "Gatekeeper, Townships, and Street Encounters (`d6`)",
+          "line": 40
+        },
+        {
+          "level": 3,
+          "heading": "Highwaymen or Potential Henchmen (`d12`, `[p. 23]`)",
+          "line": 53
+        },
+        {
+          "level": 3,
+          "heading": "Last Chair Salon, Carousing, and Dining Masters (`[pp. 23-25]`)",
+          "line": 72
+        },
+        {
+          "level": 2,
+          "heading": "Station II: The Low Road and the High (`[pp. 26-29]`)",
+          "line": 80
+        },
+        {
+          "level": 2,
+          "heading": "Station III: Steppe of the Lime Nomads (`[pp. 30-33]`)",
+          "line": 86
+        },
+        {
+          "level": 2,
+          "heading": "Station IV: Porcelain Citadel (`[pp. 34-39]`)",
+          "line": 94
+        },
+        {
+          "level": 3,
+          "heading": "The Eight Distributed Princes (`[p. 36]`)",
+          "line": 96
+        },
+        {
+          "level": 3,
+          "heading": "Citadel Artisans, Rebels, and Fugitives (`[pp. 37-39]`)",
+          "line": 111
+        },
+        {
+          "level": 2,
+          "heading": "Station V: Potsherd Crater (`[pp. 40-45]`)",
+          "line": 120
+        },
+        {
+          "level": 2,
+          "heading": "Station VI: Trail of Vomish Dreams (`[pp. 46-49]`)",
+          "line": 127
+        },
+        {
+          "level": 2,
+          "heading": "Station VII: Grass Colossus (`[pp. 50-53]`)",
+          "line": 134
+        },
+        {
+          "level": 3,
+          "heading": "Clansfolk, Madsfolk (`d8`, `[p. 52]`)",
+          "line": 140
+        },
+        {
+          "level": 2,
+          "heading": "Station VIII: The Last Serai (`[pp. 54-59]`)",
+          "line": 153
+        },
+        {
+          "level": 3,
+          "heading": "Street, Embassy, and Cutaway Figures (`[pp. 55-59]`)",
+          "line": 155
+        },
+        {
+          "level": 2,
+          "heading": "Related Digests",
+          "line": 173
+        }
+      ],
+      "entity_type": "person",
+      "pages": "20-59",
+      "tags": [
+        "people",
+        "npcs",
+        "eastern-grasslands",
+        "violet-city",
+        "porcelain-citadel",
+        "last-serai",
+        "grass-colossus"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/people/western_and_black_city_figures",
+      "title": "Western Reaches and Black City Figures (Stations XXVI–XXXII)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/people/western_and_black_city_figures.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Western Reaches Figures (Stations XXVI–XXXI)",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "XXVI. The Iron Road (`[p. 141]`)",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "XXVII. The Ivory Plain (`[pp. 142-143]`)",
+          "line": 47
+        },
+        {
+          "level": 3,
+          "heading": "XXVIII. Dead Bridge (`[p. 146]`)",
+          "line": 52
+        },
+        {
+          "level": 3,
+          "heading": "XXIX. Dark Light Passage (`[p. 149]`)",
+          "line": 58
+        },
+        {
+          "level": 3,
+          "heading": "XXX–XXXI. The Endless Houses & Forest of Meat (`[pp. 153, 156]`)",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "Black City Figures (Station XXXII, `[pp. 158-171]`)",
+          "line": 70
+        },
+        {
+          "level": 3,
+          "heading": "The Last Camp, Fading Light Diner, and Dark Hospital (`[pp. 158-161]`)",
+          "line": 72
+        },
+        {
+          "level": 3,
+          "heading": "The Cube of the Last Period and Six Hermits (`[pp. 158, 161-162]`)",
+          "line": 83
+        },
+        {
+          "level": 3,
+          "heading": "The Grand Observer (`[pp. 158, 163-164]`)",
+          "line": 98
+        },
+        {
+          "level": 3,
+          "heading": "Scholars and Guardians of the Five Grand Portals (`[pp. 165-167]`)",
+          "line": 102
+        },
+        {
+          "level": 3,
+          "heading": "The Pre-City, Black City Guardians, and Mada (`[pp. 168-170]`)",
+          "line": 113
+        },
+        {
+          "level": 3,
+          "heading": "The House on the Edge of Time (`[p. 171]`)",
+          "line": 121
+        },
+        {
+          "level": 2,
+          "heading": "Related Digests",
+          "line": 139
+        }
+      ],
+      "entity_type": "person",
+      "pages": "141-143, 146, 149, 153, 156, 158-171",
+      "tags": [
+        "people",
+        "npcs",
+        "western-reaches",
+        "black-city",
+        "six-hermits",
+        "five-portals",
+        "grand-observer",
+        "house-on-the-edge-of-time"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/tables/grand_map_and_routes",
+      "title": "The Grand Map and Grassland Routes (Stations I–XXXII)",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/tables/grand_map_and_routes.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Setting Frame, Orientation, and Morning Haze Clock",
+          "line": 62
+        },
+        {
+          "level": 2,
+          "heading": "Map Legend and Route Symbols",
+          "line": 78
+        },
+        {
+          "level": 2,
+          "heading": "Unnumbered Rainbowlands & Circle Sea Sites (Map 1/5)",
+          "line": 90
+        },
+        {
+          "level": 2,
+          "heading": "Complete Station Directory (I–XXXII)",
+          "line": 104
+        },
+        {
+          "level": 2,
+          "heading": "Complete Route Edge List and Terrain Features",
+          "line": 143
+        },
+        {
+          "level": 3,
+          "heading": "Sheet 1/5 Routes and Eastern Grasslands Seam (`[pp. 15–16]`)",
+          "line": 147
+        },
+        {
+          "level": 3,
+          "heading": "Sheet 2/5 Routes and Central Steppes Seam (`[pp. 16–17]`)",
+          "line": 163
+        },
+        {
+          "level": 3,
+          "heading": "Sheet 3/5 Routes and Moon-and-Spectrum Seam (`[pp. 17–18]`)",
+          "line": 182
+        },
+        {
+          "level": 3,
+          "heading": "Sheet 4/5 and Sheet 5/5 Routes (`[pp. 18–19]`)",
+          "line": 201
+        },
+        {
+          "level": 2,
+          "heading": "Named Geographical Regions, Rivers, and Terrain Dots",
+          "line": 227
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 238
+        },
+        {
+          "level": 3,
+          "heading": "Overview & Mechanics",
+          "line": 240
+        },
+        {
+          "level": 3,
+          "heading": "Eastern Grasslands (Stations I–VIII)",
+          "line": 250
+        },
+        {
+          "level": 3,
+          "heading": "Central Steppes (Stations IX–XVI)",
+          "line": 261
+        },
+        {
+          "level": 3,
+          "heading": "Moon and Spectrum (Stations XVII–XXV)",
+          "line": 272
+        },
+        {
+          "level": 3,
+          "heading": "Western Reaches (Stations XXVI–XXXII)",
+          "line": 284
+        }
+      ],
+      "entity_type": "table",
+      "pages": "13-19",
+      "tags": [
+        "grand-map",
+        "routes",
+        "travel-times",
+        "geography",
+        "stations",
+        "circle-sea",
+        "grasslands"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/tables/misfortune_and_hazards",
+      "title": "Misfortune, Road Hazards, and Source Code Corruption",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/tables/misfortune_and_hazards.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "General Travel Misfortune and Misery (d20)",
+          "line": 31
+        },
+        {
+          "level": 3,
+          "heading": "Misfortune Modifiers",
+          "line": 52
+        },
+        {
+          "level": 3,
+          "heading": "Charisma and Fortuna",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "Discovery Hazards, Distance, and Bearing",
+          "line": 67
+        },
+        {
+          "level": 3,
+          "heading": "Discoveries Near Your Destination (d20)",
+          "line": 71
+        },
+        {
+          "level": 3,
+          "heading": "Where Is the Discovery? (d20 & d8)",
+          "line": 83
+        },
+        {
+          "level": 2,
+          "heading": "Supply Exhaustion and Starvation Hazards",
+          "line": 96
+        },
+        {
+          "level": 2,
+          "heading": "Source Code Corruption (d20)",
+          "line": 108
+        },
+        {
+          "level": 2,
+          "heading": "Trade Contract Catches and Road Risks (d10)",
+          "line": 121
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 138
+        }
+      ],
+      "entity_type": "table",
+      "pages": "177-180",
+      "tags": [
+        "tables",
+        "misfortune",
+        "hazards",
+        "travel",
+        "starvation",
+        "corruption",
+        "discoveries"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/tables/new_discoveries_generator",
+      "title": "New Discoveries Generator",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/tables/new_discoveries_generator.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "New Discoveries (d20)",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Historic Periods and Styles (d20)",
+          "line": 55
+        },
+        {
+          "level": 2,
+          "heading": "Quick Reference Sheet: This Novel Discovery (p. 259)",
+          "line": 82
+        },
+        {
+          "level": 3,
+          "heading": "Sheet Layout and Wording Differences",
+          "line": 86
+        },
+        {
+          "level": 3,
+          "heading": "More Terrible Ideas (d20)",
+          "line": 93
+        },
+        {
+          "level": 3,
+          "heading": "The Fleeting Things (`P224`, p. 259)",
+          "line": 118
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 122
+        }
+      ],
+      "entity_type": "table",
+      "pages": "233, 259",
+      "tags": [
+        "tables",
+        "discoveries",
+        "ruins",
+        "generators",
+        "historic-styles",
+        "noosphere"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/tables/other_gates_and_voyagers",
+      "title": "Other Gates and Voyagers",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/tables/other_gates_and_voyagers.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Other Voyagers (d100)",
+          "line": 32
+        },
+        {
+          "level": 2,
+          "heading": "Other Gates (pp. 230-231)",
+          "line": 139
+        },
+        {
+          "level": 3,
+          "heading": "What Is the Gate Called? (d10)",
+          "line": 143
+        },
+        {
+          "level": 3,
+          "heading": "Rumors of This Random Gate (d6)",
+          "line": 158
+        },
+        {
+          "level": 3,
+          "heading": "What Condition Is It In? (d6)",
+          "line": 169
+        },
+        {
+          "level": 3,
+          "heading": "What Does It Actually Do? (d10)",
+          "line": 178
+        },
+        {
+          "level": 2,
+          "heading": "Gater Sickness! (p. 231)",
+          "line": 191
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 205
+        }
+      ],
+      "entity_type": "table",
+      "pages": "227-231",
+      "tags": [
+        "tables",
+        "voyagers",
+        "npcs",
+        "gates",
+        "portals",
+        "gater-sickness",
+        "soul-mill"
+      ],
+      "source": "uvg_2e_core"
+    },
+    {
+      "slug": "uvg_2e_core/tables/trade_goods_prices",
+      "title": "Trade Goods, Market Multipliers, and Milk Run Profits",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "UVG 2E - Ultraviolet Grasslands and the Black City - Digital Small 1.0.pdf",
+      "digest_path": "_gm-materials/digests/uvg_2e_core/tables/trade_goods_prices.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Thirty Ultraviolet Trade Goods (d30)",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Starting Caravan Basic Trade Goods (d6)",
+          "line": 82
+        },
+        {
+          "level": 2,
+          "heading": "Regional Market Modifiers and Haggling Multipliers",
+          "line": 95
+        },
+        {
+          "level": 2,
+          "heading": "Trade Route Events and Returns (Milk Runs)",
+          "line": 121
+        },
+        {
+          "level": 2,
+          "heading": "Related",
+          "line": 149
+        }
+      ],
+      "entity_type": "table",
+      "pages": "180-182, 185",
+      "tags": [
+        "tables",
+        "trade-goods",
+        "prices",
+        "markets",
+        "milk-runs",
+        "economy"
+      ],
+      "source": "uvg_2e_core"
     },
     {
       "slug": "uvg_maps",
