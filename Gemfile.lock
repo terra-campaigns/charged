@@ -1,15 +1,15 @@
 GIT
   remote: https://github.com/terra-campaigns/oude-mechanismen.git
-  revision: 83930f4e9e386766006c2e92b0f792f0c4497803
-  tag: v0.9.1
+  revision: da03730c9b1f726eef2001acdfd32ec12fdebf4f
+  tag: v0.10.0
   specs:
-    oude-mechanismen (0.9.1)
+    oude-mechanismen (0.10.0)
       jekyll (>= 4.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.9.2)
+    addressable (2.10.0)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
     bigdecimal (4.1.3)
