@@ -36,3 +36,6 @@ Where it went underground, and what it was, is not known.
 
 It burrows.
 It waits.
+It hoards what falls into its dark.
+It watches from below, sneaking and unseen.
+It is measured and veiled, priestly in its patience — it does not rush, it waits for what is already coming.
